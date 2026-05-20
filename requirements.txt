@@ -1,0 +1,18 @@
+# Core dependencies
+httpx>=0.27.0
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+tenacity>=8.3.0
+structlog>=24.1.0
+click>=8.1.0
+arxiv>=2.1.0
+habanero>=1.2.0
+unpywall>=0.2.2
+python-dotenv>=1.0.0
+rich>=13.7.0
+
+# Dev / QA
+pytest>=8.2.0
+pytest-asyncio>=0.23.0
+ruff>=0.4.0
+mypy>=1.10.0
