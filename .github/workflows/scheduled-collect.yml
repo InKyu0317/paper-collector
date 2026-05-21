@@ -1,5 +1,8 @@
 name: Scheduled Paper Collection
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run daily at 02:00 UTC
