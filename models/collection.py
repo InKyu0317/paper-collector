@@ -34,7 +34,7 @@ class CollectionConfig(BaseModel):
     enabled_connectors: Annotated[list[str], Field(default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"])]
     max_total_papers: Annotated[int, Field(default=10_000, ge=0)]
 
-    # Quality filters
+    # Quality filters (disabled by default; set >0 to enable)
     min_journal_cites_per_year: Annotated[float, Field(default=0.0, ge=0.0, description="Minimum journal cites/year (Q1 approx 50+)")]
     min_paper_citation_count: Annotated[int, Field(default=0, ge=0, description="Minimum paper citation count")]
     journal_whitelist: Annotated[list[str], Field(default_factory=list, description="Only accept papers from these journals")]
@@ -73,9 +73,9 @@ ALUMINOSILICATE_CONFIG = CollectionConfig(
         ),
     ],
     enabled_connectors=["arxiv", "openalex", "crossref", "unpaywall"],
-    # Q1 journal filter: minimum 50 cites/year (approximate Q1 threshold)
-    min_journal_cites_per_year=50.0,
-    min_paper_citation_count=10,
+    # Quality filters (disabled by default; set >0 to enable Q1 filtering)
+    # min_journal_cites_per_year=50.0,
+    # min_paper_citation_count=10,
 )
 
 HALIDE_BATTERY_CONFIG = CollectionConfig(
@@ -107,9 +107,9 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
         ),
     ],
     enabled_connectors=["arxiv", "openalex", "crossref", "unpaywall"],
-    # Q1 journal filter: minimum 50 cites/year (approximate Q1 threshold)
-    min_journal_cites_per_year=50.0,
-    min_paper_citation_count=10,
+    # Quality filters (disabled by default; set >0 to enable Q1 filtering)
+    # min_journal_cites_per_year=50.0,
+    # min_paper_citation_count=10,
 )
 
 DEFAULT_COLLECTIONS: dict[str, CollectionConfig] = {

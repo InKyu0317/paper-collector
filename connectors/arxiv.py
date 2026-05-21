@@ -47,7 +47,10 @@ class ArxivConnector(BaseConnector):
                 pdf_url = result.pdf_url or ""
 
                 authors = [
-                    Author(name=a.name, affiliation=a.affiliation or "")
+                    Author(
+                        name=a.name,
+                        affiliation=", ".join(a.affiliation) if isinstance(a.affiliation, list) else (a.affiliation or ""),
+                    )
                     for a in (result.authors or [])
                 ]
                 keywords = [cat if isinstance(cat, str) else cat.term for cat in (result.categories or [])]

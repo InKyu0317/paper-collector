@@ -91,16 +91,20 @@ Built for downstream integration with:
 
 ## Quality Filtering
 
-The system supports automatic quality filtering to collect only high-impact papers:
+The system supports automatic quality filtering to collect only high-impact papers.
+**Disabled by default** to ensure collection works immediately. Enable by editing `models/collection.py`:
+
+```python
+# In ALUMINOSILICATE_CONFIG or HALIDE_BATTERY_CONFIG:
+min_journal_cites_per_year=50.0,  # Q1 approximation
+min_paper_citation_count=10,
+```
 
 | Filter | Description | Default |
 |--------|-------------|---------|
-| `min_journal_cites_per_year` | Minimum journal cites/year (Q1 ≈ 50+) | 50 |
-| `min_paper_citation_count` | Minimum paper citation count | 10 |
+| `min_journal_cites_per_year` | Minimum journal cites/year (Q1 ≈ 50+) | 0 (disabled) |
+| `min_paper_citation_count` | Minimum paper citation count | 0 (disabled) |
 | `journal_whitelist` | Only accept papers from specific journals | — |
-
-**Q1 Approximation**: Journals with 50+ cites/year are typically Q1 in materials science.
-Adjust thresholds in `models/collection.py` per your domain.
 
 ## Configuration
 
