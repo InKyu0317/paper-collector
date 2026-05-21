@@ -1,12 +1,9 @@
 {
-  "venvPath": "/Users/inq/Desktop/WS/paper-collector-app",
+  "venvPath": ".",
   "venv": ".venv",
-  "pythonVersion": "3.13",
-  "extraPaths": [
-    "/Users/inq/Desktop/WS/paper-collector-app/.venv/lib/python3.13/site-packages"
-  ],
+  "pythonVersion": "3.11",
   "typeCheckingMode": "basic",
   "reportMissingImports": true,
   "reportUnusedImport": false,
-  "exclude": ["**/node_modules", "**/__pycache__", ".venv"]
+  "exclude": ["**/node_modules", "**/__pycache__", ".venv", "collections"]
 }

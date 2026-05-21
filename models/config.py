@@ -57,6 +57,7 @@ class AppConfig(BaseSettings):
     http_max_retries: int = 3
     http_retry_backoff: float = 1.0
     user_agent: str = "PaperCollector/0.1 (mailto:dev@example.com)"
+    rate_limit_rpm: int = 30
 
     # ── PDF ─────────────────────────────────────────────────────────
     pdf_max_size_mb: float = 100.0
@@ -77,13 +78,6 @@ class AppConfig(BaseSettings):
     download_pdfs: bool = True
     default_max_results_per_query: int = 50
     default_max_total_papers: int = 10_000
-
-    # Http
-    http_timeout_seconds: float = 30.0
-    user_agent: str = "PaperCollector/0.1"
-
-    # Rate limit
-    rate_limit_rpm: int = 30
 
     # ── Logging ─────────────────────────────────────────────────────
     log_level: str = "INFO"

@@ -108,6 +108,9 @@ class CollectionEngine:
 
             time.sleep(1.0)
 
+        # ── Enrich: resolve OA PDF availability via Unpaywall ────────
+        all_records = self._enrich_with_unpaywall(all_records)
+
         all_records = self._deduplicate(all_records)
 
         logger.info("deduplicated_total", count=len(all_records))
@@ -125,6 +128,37 @@ class CollectionEngine:
 
         logger.info("collection_done", **stats)
         return stats
+
+    # ── Enrichment ───────────────────────────────────────────────────
+
+    def _enrich_with_unpaywall(self, records: list[PaperMetadata]) -> list[PaperMetadata]:
+        """Enrich records with OA PDF URLs via Unpaywall DOI lookup.
+
+        Only papers without an existing pdf_url are enriched.
+        """
+        if self._unpaywall is None:
+            logger.debug("unpaywall_not_configured", hint="set UNPAYWALL_EMAIL to enable")
+            return records
+
+        to_enrich = [r for r in records if not r.pdf_url and r.doi]
+        if not to_enrich:
+            logger.info("enrich_skip", reason="all_records_have_pdf_urls")
+            return records
+
+        logger.info("enrich_start", count=len(to_enrich))
+        enriched = self._unpaywall.enrich_batch(to_enrich)
+        found = sum(1 for r in enriched if r.pdf_url)
+        logger.info("enrich_done", total=len(to_enrich), oa_found=found)
+
+        # Merge enriched records back
+        enriched_map = {r.paper_id: r for r in enriched}
+        result = []
+        for r in records:
+            if r.paper_id in enriched_map:
+                result.append(enriched_map[r.paper_id])
+            else:
+                result.append(r)
+        return result
 
     # ── Deduplication ───────────────────────────────────────────────
 
