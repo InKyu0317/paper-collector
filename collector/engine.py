@@ -92,7 +92,8 @@ class CollectionEngine:
                     connector=sq.connector,
                     query=sq.query[:80],
                 )
-                records = connector.search(sq.query, max_results=sq.max_results)
+                year_from = self.config.year_from or collection_cfg.year_from
+                records = connector.search(sq.query, max_results=sq.max_results, year_from=year_from)
                 for r in records:
                     r.collection = collection_cfg.name
                 all_records.extend(records)

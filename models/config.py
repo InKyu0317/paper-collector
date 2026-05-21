@@ -85,7 +85,19 @@ class AppConfig(BaseSettings):
     default_max_results_per_query: int = 50
     default_max_total_papers: int = 10_000
 
-    # ── Logging ─────────────────────────────────────────────────────
+    # ── Time range ─────────────────────────────────────────────────
+    years_back: int = 5
+    """Collect papers from the last N years. 0 means all years."""
+
+    @property
+    def year_from(self) -> int:
+        """Calculate the starting year based on years_back."""
+        if self.years_back <= 0:
+            return 0
+        import datetime
+        return datetime.datetime.now().year - self.years_back
+
+    # ─ Logging ─────────────────────────────────────────────────────
     log_level: str = "INFO"
     log_format: str = "json"
 

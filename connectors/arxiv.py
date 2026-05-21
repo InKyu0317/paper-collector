@@ -32,7 +32,12 @@ class ArxivConnector(BaseConnector):
             num_retries=3,
         )
 
-    def search(self, query: str, max_results: int = 50, **kwargs) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0, **kwargs) -> list[PaperMetadata]:
+        # Add year filter to query if specified
+        if year_from > 0:
+            date_filter = f" AND submittedDate:[{year_from}01010000 TO 299912312359]"
+            query = f"({query}){date_filter}"
+
         search = arxiv.Search(
             query=query,
             max_results=min(max_results, 500),

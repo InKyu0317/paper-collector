@@ -139,7 +139,7 @@ Go to **Actions → Scheduled Paper Collection → Run workflow**.
 | `collection` | *(empty)* | Run all collections (default) |
 | | `aluminosilicate` | Run only aluminosilicate |
 | | `halide-solid-state-battery` | Run only halide solid-state battery |
-| | `aluminosilicate,halide-solid-state-battery` | Run both (comma-separated) |
+| `years` | `5` | Collect papers from the last N years (default: 5) |
 
 On success, collected papers are automatically committed and pushed to `main`.
 

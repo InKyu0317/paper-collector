@@ -13,6 +13,10 @@ on:
         description: "Collection name (aluminosilicate, halide-solid-state-battery, or comma-separated). Leave empty for all."
         required: false
         default: ""
+      years:
+        description: "Collect papers from the last N years (e.g., 5). Leave empty for default (5 years)."
+        required: false
+        default: ""
 
 jobs:
   collect:
@@ -44,6 +48,7 @@ jobs:
           PAPER_COLLECTOR_LOG_LEVEL: INFO
           PAPER_COLLECTOR_LOG_FORMAT: json
           PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate,halide-solid-state-battery' }}
+          PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
         run: python workflows/scheduled.py
 
       - name: Commit collected papers

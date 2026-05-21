@@ -25,12 +25,14 @@ class OpenAlexConnector(BaseConnector):
         self._api_key = api_key
         self._email = email
 
-    def search(self, query: str, max_results: int = 50) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0) -> list[PaperMetadata]:
         params: dict[str, Any] = {
             "search": query,
             "per_page": min(max_results, 200),
             "filter": "has_abstract:true",
         }
+        if year_from > 0:
+            params["filter"] += f",publication_year:>={year_from}"
         if self._api_key:
             params["api_key"] = self._api_key
         if self._email:

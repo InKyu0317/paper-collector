@@ -22,10 +22,14 @@ class CrossrefConnector(BaseConnector):
         super().__init__(**kwargs)
         self._cr = Crossref(mailto=email) if email else Crossref()
 
-    def search(self, query: str, max_results: int = 50) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0) -> list[PaperMetadata]:
+        filters = {"type": "journal-article"}
+        if year_from > 0:
+            filters["from-pub-date"] = f"{year_from}-01-01"
+
         result = self._cr.works(
             query=query,
-            filter={"type": "journal-article"},
+            filter=filters,
             limit=min(max_results, 100),
         )
 

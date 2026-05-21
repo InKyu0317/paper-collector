@@ -25,7 +25,7 @@ class UnpaywallConnector(BaseConnector):
         if email:
             UnpywallCredentials(email)
 
-    def search(self, query: str, max_results: int = 50) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0) -> list[PaperMetadata]:
         """Unpaywall is a DOI lookup service, not a search engine.
 
         Use `enrich()` instead for individual paper enrichment.

@@ -6,6 +6,7 @@ and output-specific metadata for the materials science domain.
 
 from __future__ import annotations
 
+import datetime
 from typing import Annotated, Optional
 
 from pydantic import BaseModel, ConfigDict, Field
@@ -33,6 +34,9 @@ class CollectionConfig(BaseModel):
     queries: Annotated[list[SearchQuery], Field(default_factory=list)]
     enabled_connectors: Annotated[list[str], Field(default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"])]
     max_total_papers: Annotated[int, Field(default=10_000, ge=0)]
+
+    # Time range filter
+    year_from: Annotated[int, Field(default_factory=lambda: datetime.datetime.now().year - 5, ge=1900, description="Collect papers from this year onwards")]
 
     # Quality filters (disabled by default; set >0 to enable)
     min_journal_cites_per_year: Annotated[float, Field(default=0.0, ge=0.0, description="Minimum journal cites/year (Q1 approx 50+)")]
