@@ -8,7 +8,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Optional
 
-from pydantic import Field
+from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -88,7 +88,15 @@ class AppConfig(BaseSettings):
     """Optional path to a YAML/JSON file with collection definitions.
     When not set, collections are configured inline via the CLI."""
 
-    # ── Derived helpers ─────────────────────────────────────────────
+    # ─ Derived helpers ─────────────────────────────────────────────
+
+    @field_validator("collections", mode="before")
+    @classmethod
+    def _parse_collections(cls, v):
+        """Allow comma-separated string for PAPER_COLLECTOR_COLLECTIONS env var."""
+        if isinstance(v, str):
+            return [c.strip() for c in v.split(",") if c.strip()]
+        return v
 
     @property
     def collections_root(self) -> Path:
