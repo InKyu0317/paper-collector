@@ -205,7 +205,7 @@ class CollectionEngine:
                     path = self.storage.save_pdf(
                         record.collection, record.paper_id, content
                     )
-                    record.pdf_path = str(path.relative_to(self.config.data_dir))
+                    record.pdf_path = str(path.relative_to(self.config.data_dir.resolve()))
                     logger.info("pdf_downloaded", paper_id=record.paper_id, size=len(content))
         except Exception:
             logger.exception("pdf_failed", paper_id=record.paper_id)
