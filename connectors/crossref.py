@@ -27,15 +27,34 @@ class CrossrefConnector(BaseConnector):
         if year_from > 0:
             filters["from-pub-date"] = f"{year_from}-01-01"
 
-        result = self._cr.works(
-            query=query,
-            filter=filters,
-            limit=min(max_results, 100),
-        )
+        all_items = []
+        offset = 0
+        page_size = min(max_results, 1000)
 
-        items = result.get("message", {}).get("items", [])
+        while len(all_items) < max_results:
+            remaining = max_results - len(all_items)
+            limit = min(page_size, remaining)
+
+            result = self._cr.works(
+                query=query,
+                filter=filters,
+                limit=limit,
+                offset=offset,
+            )
+
+            items = result.get("message", {}).get("items", [])
+            if not items:
+                break
+
+            all_items.extend(items)
+            offset += limit
+
+            # Crossref caps total results at 10000; stop if we got fewer than requested
+            if len(items) < limit:
+                break
+
         records: list[PaperMetadata] = []
-        for item in items:
+        for item in all_items[:max_results]:
             doi = item.get("DOI", "")
             title = (item.get("title") or [""])[0]
 

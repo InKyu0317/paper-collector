@@ -27,9 +27,9 @@ class ArxivConnector(BaseConnector):
         super().__init__(**kwargs)
         self._delay = delay_seconds
         self._client = arxiv.Client(
-            page_size=100,
+            page_size=200,
             delay_seconds=delay_seconds,
-            num_retries=3,
+            num_retries=10,
         )
 
     def search(self, query: str, max_results: int = 50, year_from: int = 0, **kwargs) -> list[PaperMetadata]:
@@ -40,7 +40,7 @@ class ArxivConnector(BaseConnector):
 
         search = arxiv.Search(
             query=query,
-            max_results=min(max_results, 500),
+            max_results=max_results,
             sort_by=arxiv.SortCriterion.Relevance,
         )
 
