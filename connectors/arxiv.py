@@ -64,6 +64,7 @@ class ArxivConnector(BaseConnector):
                     source="arxiv",
                     source_id=arxiv_id,
                     pdf_url=pdf_url if pdf_url else None,
+                    url=result.entry_id or "",
                 )
                 results.append(metadata)
 

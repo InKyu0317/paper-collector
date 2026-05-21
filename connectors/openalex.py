@@ -89,6 +89,7 @@ class OpenAlexConnector(BaseConnector):
                     pdf_url=pdf_url if pdf_url else None,
                     journal=journal,
                     citation_count=citation_count,
+                    url=doi_raw or w.get("id", ""),
                     extra={"journal_cites_per_year": journal_cites_per_year},
                 )
             )

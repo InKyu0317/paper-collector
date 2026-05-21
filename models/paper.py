@@ -116,11 +116,18 @@ class PaperMetadata(BaseModel):
         """
         if doi:
             # Normalise DOI: lowercase, strip whitespace, drop resolver prefix
-            clean = doi.strip().lower().removeprefix("https://doi.org/").removeprefix("doi:").removeprefix("doi.org/")
-            return f"doi_{clean.replace('/', '_')}"
+            clean = doi.strip().lower()
+            for prefix in ("https://doi.org/", "doi:", "doi.org/", "http://doi.org/"):
+                clean = clean.removeprefix(prefix)
+            # Sanitize for filesystem: replace invalid chars
+            clean = clean.replace("/", "_").replace(":", "_").replace("\\", "_")
+            clean = "".join(c for c in clean if c.isalnum() or c in "._-")
+            return f"doi_{clean}"
 
         if source and source_id:
-            return f"{source}_{source_id}"
+            sid = source_id.replace("/", "_").replace(":", "_").replace("\\", "_")
+            sid = "".join(c for c in sid if c.isalnum() or c in "._-")
+            return f"{source}_{sid}"
 
         # Last-resort fallback — sha1 of combined inputs
         digest = hashlib.sha1(

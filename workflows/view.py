@@ -40,11 +40,12 @@ def format_table(papers: list[PaperMetadata], sort_by: str = "citations") -> Tab
     )
 
     table.add_column("#", style="dim", width=4)
-    table.add_column("Title", width=50)
-    table.add_column("Journal", width=30)
+    table.add_column("Title", width=40)
+    table.add_column("Journal", width=25)
     table.add_column("Citations", justify="right", width=10)
     table.add_column("Source", width=10)
     table.add_column("PDF", justify="center", width=5)
+    table.add_column("URL", width=30)
 
     # Sort papers
     if sort_by == "citations":
@@ -60,13 +61,16 @@ def format_table(papers: list[PaperMetadata], sort_by: str = "citations") -> Tab
         if journal_cpy > 0:
             journal_display = f"{p.journal} ({journal_cpy:.0f}/yr)"
 
+        url_display = p.url[:35] + "..." if len(p.url) > 35 else p.url
+
         table.add_row(
             str(i),
-            p.title[:60] + ("…" if len(p.title) > 60 else ""),
-            journal_display[:35] + ("…" if len(journal_display) > 35 else ""),
+            p.title[:50] + ("…" if len(p.title) > 50 else ""),
+            journal_display[:30] + ("…" if len(journal_display) > 30 else ""),
             str(p.citation_count),
             p.source,
             "✓" if p.pdf_path else "—",
+            url_display,
         )
 
     return table
@@ -82,8 +86,8 @@ def format_markdown(papers: list[PaperMetadata], sort_by: str = "citations") -> 
         papers = sorted(papers, key=lambda p: p.journal.lower())
 
     lines = [
-        "| # | Title | Journal | Citations | Source | PDF |",
-        "|---|-------|---------|-----------|--------|-----|",
+        "| # | Title | Journal | Citations | Source | PDF | URL |",
+        "|---|-------|---------|-----------|--------|-----|-----|",
     ]
 
     for i, p in enumerate(papers, 1):
@@ -92,11 +96,12 @@ def format_markdown(papers: list[PaperMetadata], sort_by: str = "citations") -> 
         if journal_cpy > 0:
             journal_display = f"{p.journal} ({journal_cpy:.0f}/yr)"
 
-        title = p.title[:50].replace("|", "\\|") + ("…" if len(p.title) > 50 else "")
-        journal = journal_display[:30].replace("|", "\\|")
+        title = p.title[:40].replace("|", "\\|") + ("…" if len(p.title) > 40 else "")
+        journal = journal_display[:25].replace("|", "\\|")
+        url = p.url[:30].replace("|", "\\|")
 
         lines.append(
-            f"| {i} | {title} | {journal} | {p.citation_count} | {p.source} | {'✓' if p.pdf_path else '—'} |"
+            f"| {i} | {title} | {journal} | {p.citation_count} | {p.source} | {'✓' if p.pdf_path else '—'} | {url} |"
         )
 
     return "\n".join(lines)

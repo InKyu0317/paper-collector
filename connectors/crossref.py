@@ -72,6 +72,7 @@ class CrossrefConnector(BaseConnector):
                     pdf_url=pdf_url if pdf_url else None,
                     journal=journal,
                     citation_count=citation_count,
+                    url=item.get("URL", ""),
                 )
             )
 
