@@ -17,7 +17,7 @@ class SearchQuery(BaseModel):
 
     query: Annotated[str, Field(description="Search string in the source API's native syntax")]
     connector: Annotated[str, Field(default="arxiv", description="Connector name: arxiv, openalex, crossref")]
-    max_results: Annotated[int, Field(default=50, ge=1, le=500)]
+    max_results: Annotated[int, Field(default=500, ge=1, le=2000)]
     extra_filters: Annotated[dict[str, str], Field(default_factory=dict)]
     description: Annotated[str, Field(default="")]
 
@@ -33,7 +33,7 @@ class CollectionConfig(BaseModel):
     description: Annotated[str, Field(default="")]
     queries: Annotated[list[SearchQuery], Field(default_factory=list)]
     enabled_connectors: Annotated[list[str], Field(default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"])]
-    max_total_papers: Annotated[int, Field(default=10_000, ge=0)]
+    max_total_papers: Annotated[int, Field(default=100_000, ge=0, description="Max papers per collection. 0 = unlimited.")]
 
     # Time range filter
     year_from: Annotated[int, Field(default_factory=lambda: datetime.datetime.now().year - 5, ge=1900, description="Collect papers from this year onwards")]
@@ -57,26 +57,27 @@ ALUMINOSILICATE_CONFIG = CollectionConfig(
         SearchQuery(
             query="aluminosilicate OR aluminosilicate materials synthesis",
             connector="arxiv",
-            max_results=100,
+            max_results=500,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
             description="arXiv: aluminosilicate in cond-mat materials science",
         ),
         SearchQuery(
             query="aluminosilicate materials synthesis characterization",
             connector="openalex",
-            max_results=100,
+            max_results=500,
             extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent OA aluminosilicate research",
         ),
         SearchQuery(
             query="aluminosilicate zeolite geopolymer materials",
             connector="crossref",
-            max_results=50,
+            max_results=500,
             extra_filters={"type": "journal-article"},
             description="Crossref: aluminosilicate journal articles",
         ),
     ],
     enabled_connectors=["arxiv", "openalex", "crossref", "unpaywall"],
+    max_total_papers=0,  # Unlimited
     # Quality filters (disabled by default; set >0 to enable Q1 filtering)
     # min_journal_cites_per_year=50.0,
     # min_paper_citation_count=10,
@@ -91,26 +92,27 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
         SearchQuery(
             query="halide solid state battery OR halide electrolyte all solid state battery",
             connector="arxiv",
-            max_results=100,
+            max_results=500,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
             description="arXiv: halide solid-state battery in cond-mat",
         ),
         SearchQuery(
             query="halide solid electrolyte all-solid-state battery lithium",
             connector="openalex",
-            max_results=100,
+            max_results=500,
             extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent halide battery OA papers",
         ),
         SearchQuery(
             query="halide solid state electrolyte battery lithium",
             connector="crossref",
-            max_results=50,
+            max_results=500,
             extra_filters={"type": "journal-article"},
             description="Crossref: halide battery journal articles",
         ),
     ],
     enabled_connectors=["arxiv", "openalex", "crossref", "unpaywall"],
+    max_total_papers=0,  # Unlimited
     # Quality filters (disabled by default; set >0 to enable Q1 filtering)
     # min_journal_cites_per_year=50.0,
     # min_paper_citation_count=10,
