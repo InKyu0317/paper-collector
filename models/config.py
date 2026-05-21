@@ -12,6 +12,13 @@ from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
+def _parse_collections(v: str) -> list[str]:
+    """Parse comma-separated collection names into a list."""
+    if not v:
+        return []
+    return [c.strip() for c in v.split(",") if c.strip()]
+
+
 class AppConfig(BaseSettings):
     """Top-level configuration for the Paper Collector application.
 
@@ -69,9 +76,8 @@ class AppConfig(BaseSettings):
     max_pdf_size_mb: int = 50
 
     # ── Collection defaults ─────────────────────────────────────────
-    collections: list[str] = Field(
-        default_factory=lambda: ["aluminosilicate", "halide-solid-state-battery"]
-    )
+    collections: str = "aluminosilicate,halide-solid-state-battery"
+    """Comma-separated collection names (e.g. 'aluminosilicate,halide-solid-state-battery')."""
     enabled_connectors: list[str] = Field(
         default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"]
     )
@@ -90,13 +96,10 @@ class AppConfig(BaseSettings):
 
     # ─ Derived helpers ─────────────────────────────────────────────
 
-    @field_validator("collections", mode="before")
-    @classmethod
-    def _parse_collections(cls, v):
-        """Allow comma-separated string for PAPER_COLLECTOR_COLLECTIONS env var."""
-        if isinstance(v, str):
-            return [c.strip() for c in v.split(",") if c.strip()]
-        return v
+    @property
+    def collections_list(self) -> list[str]:
+        """Return collections as a parsed list from the comma-separated string."""
+        return _parse_collections(self.collections)
 
     @property
     def collections_root(self) -> Path:

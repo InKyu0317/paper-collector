@@ -16,7 +16,7 @@ def run_scheduled() -> None:
     engine = CollectionEngine(config)
 
     try:
-        results = engine.run_all(config.collections)
+        results = engine.run_all(config.collections_list)
         total_new = sum(r["new"] for r in results)
         total_errors = sum(r["errors"] for r in results)
         logger.info("scheduled_run_complete", collections=len(results), new=total_new, errors=total_errors)
