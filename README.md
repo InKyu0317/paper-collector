@@ -45,6 +45,12 @@ python workflows/collect.py --no-pdf
 
 # Scheduled mode (GitHub Actions)
 python workflows/scheduled.py
+
+# View collected papers
+python workflows/view.py
+python workflows/view.py -c aluminosilicate --sort citations
+python workflows/view.py --format markdown
+python workflows/view.py --min-citations 50
 ```
 
 ## Data Sources
@@ -82,6 +88,19 @@ Built for downstream integration with:
 - **ChromaDB** — vector store
 - **LlamaIndex** — RAG pipelines
 - **Graph RAG** — knowledge graph + retrieval
+
+## Quality Filtering
+
+The system supports automatic quality filtering to collect only high-impact papers:
+
+| Filter | Description | Default |
+|--------|-------------|---------|
+| `min_journal_cites_per_year` | Minimum journal cites/year (Q1 ≈ 50+) | 50 |
+| `min_paper_citation_count` | Minimum paper citation count | 10 |
+| `journal_whitelist` | Only accept papers from specific journals | — |
+
+**Q1 Approximation**: Journals with 50+ cites/year are typically Q1 in materials science.
+Adjust thresholds in `models/collection.py` per your domain.
 
 ## Configuration
 

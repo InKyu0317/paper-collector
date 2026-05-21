@@ -54,6 +54,8 @@ class CrossrefConnector(BaseConnector):
                     break
 
             keywords = item.get("subject", [])
+            journal = (item.get("container-title") or [""])[0]
+            citation_count = item.get("is-referenced-by-count", 0)
 
             records.append(
                 PaperMetadata(
@@ -68,6 +70,8 @@ class CrossrefConnector(BaseConnector):
                     source="crossref",
                     source_id=doi,
                     pdf_url=pdf_url if pdf_url else None,
+                    journal=journal,
+                    citation_count=citation_count,
                 )
             )
 

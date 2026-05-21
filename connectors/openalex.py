@@ -65,6 +65,15 @@ class OpenAlexConnector(BaseConnector):
             if w.get("abstract_inverted_index"):
                 abstract_text = _decode_inverted_index(w["abstract_inverted_index"])
 
+            # Journal info
+            primary_loc = w.get("primary_location") or {}
+            source = primary_loc.get("source") or {}
+            journal = source.get("display_name", "")
+            journal_cites_per_year = source.get("cites_per_year", 0.0)
+
+            # Citation count
+            citation_count = w.get("cited_by_count", 0)
+
             records.append(
                 PaperMetadata(
                     collection="",
@@ -78,6 +87,9 @@ class OpenAlexConnector(BaseConnector):
                     source="openalex",
                     source_id=openalex_id,
                     pdf_url=pdf_url if pdf_url else None,
+                    journal=journal,
+                    citation_count=citation_count,
+                    extra={"journal_cites_per_year": journal_cites_per_year},
                 )
             )
 

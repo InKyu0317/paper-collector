@@ -111,6 +111,9 @@ class CollectionEngine:
         # ── Enrich: resolve OA PDF availability via Unpaywall ────────
         all_records = self._enrich_with_unpaywall(all_records)
 
+        # ── Filter: quality threshold (Q1 journals, citation count) ──
+        all_records = self._filter_by_quality(all_records, collection_cfg)
+
         all_records = self._deduplicate(all_records)
 
         logger.info("deduplicated_total", count=len(all_records))
@@ -159,6 +162,56 @@ class CollectionEngine:
             else:
                 result.append(r)
         return result
+
+    # ── Quality Filtering ────────────────────────────────────────────
+
+    def _filter_by_quality(
+        self, records: list[PaperMetadata], cfg: CollectionConfig
+    ) -> list[PaperMetadata]:
+        """Filter papers by journal quality (Q1 approximation) and citation count."""
+        if cfg.min_journal_cites_per_year <= 0 and cfg.min_paper_citation_count <= 0 and not cfg.journal_whitelist:
+            return records
+
+        filtered: list[PaperMetadata] = []
+        for r in records:
+            # Journal whitelist check
+            if cfg.journal_whitelist and r.journal not in cfg.journal_whitelist:
+                continue
+
+            # Journal cites/year check (Q1 approximation: typically 50+)
+            journal_cpy = r.extra.get("journal_cites_per_year", 0.0)
+            if cfg.min_journal_cites_per_year > 0 and journal_cpy < cfg.min_journal_cites_per_year:
+                logger.debug(
+                    "filter_journal_cites",
+                    paper_id=r.paper_id,
+                    journal=r.journal,
+                    cites_per_year=journal_cpy,
+                    threshold=cfg.min_journal_cites_per_year,
+                )
+                continue
+
+            # Paper citation count check
+            if cfg.min_paper_citation_count > 0 and r.citation_count < cfg.min_paper_citation_count:
+                logger.debug(
+                    "filter_citation_count",
+                    paper_id=r.paper_id,
+                    citation_count=r.citation_count,
+                    threshold=cfg.min_paper_citation_count,
+                )
+                continue
+
+            filtered.append(r)
+
+        removed = len(records) - len(filtered)
+        logger.info(
+            "quality_filter_done",
+            input=len(records),
+            kept=len(filtered),
+            removed=removed,
+            min_journal_cpy=cfg.min_journal_cites_per_year,
+            min_citations=cfg.min_paper_citation_count,
+        )
+        return filtered
 
     # ── Deduplication ───────────────────────────────────────────────
 
