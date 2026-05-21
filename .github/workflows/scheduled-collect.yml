@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       collection:
-        description: "Collection name to run (leave empty for all)"
+        description: "Collection name (aluminosilicate, halide-solid-state-battery, or comma-separated). Leave empty for all."
         required: false
         default: ""
 
@@ -39,12 +39,8 @@ jobs:
           UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
           PAPER_COLLECTOR_LOG_LEVEL: INFO
           PAPER_COLLECTOR_LOG_FORMAT: json
-        run: |
-          if [ -n "${{ github.event.inputs.collection }}" ]; then
-            python workflows/scheduled.py
-          else
-            python workflows/scheduled.py
-          fi
+          PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate,halide-solid-state-battery' }}
+        run: python workflows/scheduled.py
 
       - name: Commit collected papers
         if: success()
