@@ -97,6 +97,29 @@ All settings via environment variables (or `.env`):
 | `PAPER_COLLECTOR_LOG_LEVEL` | Log level | INFO |
 | `PAPER_COLLECTOR_COLLECTIONS` | Collections to process | all |
 
+## CI/CD
+
+GitHub Actions runs paper collection automatically and supports manual triggers.
+
+### Schedule
+
+| Trigger | Frequency | Time (UTC) | Time (KST) |
+|---------|-----------|------------|------------|
+| `cron` | Daily | 02:00 | 11:00 |
+
+### Manual Run
+
+Go to **Actions → Scheduled Paper Collection → Run workflow**.
+
+| Input | Value | Description |
+|-------|-------|-------------|
+| `collection` | *(empty)* | Run all collections (default) |
+| | `aluminosilicate` | Run only aluminosilicate |
+| | `halide-solid-state-battery` | Run only halide solid-state battery |
+| | `aluminosilicate,halide-solid-state-battery` | Run both (comma-separated) |
+
+On success, collected papers are automatically committed and pushed to `main`.
+
 ## License
 
 MIT
