@@ -29,7 +29,8 @@ class OpenAlexConnector(BaseConnector):
     def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1) -> list[PaperMetadata]:
         filters = []
         if year_from > 0:
-            filters.append(f"publication_year:>={year_from}")
+            # OpenAlex uses from_publication_date for range filters
+            filters.append(f"from_publication_date:{year_from}-01-01")
 
         # OpenAlex does not support page-based pagination with search.
         # Fetch top results; engine deduplication skips already-collected papers.

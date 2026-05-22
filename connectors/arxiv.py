@@ -27,7 +27,7 @@ class ArxivConnector(BaseConnector):
         super().__init__(**kwargs)
         self._delay = delay_seconds
         self._client = arxiv.Client(
-            page_size=100,
+            page_size=5,
             delay_seconds=delay_seconds,
             num_retries=10,
         )
