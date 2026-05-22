@@ -66,6 +66,7 @@ jobs:
           PAPER_COLLECTOR_KEYWORDS: ${{ github.event.inputs.keywords || '' }}
           PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
           PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'all' }}
+          PAPER_COLLECTOR_ALLOW_PREPRINTS_IN_QUARTILE_FILTER: "true"
         run: python workflows/scheduled.py
 
       - name: Commit collected papers
