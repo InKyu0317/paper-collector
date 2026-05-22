@@ -1,0 +1,90 @@
+{
+  "paper_id": "doi_10.1186_s12933-023-01886-5",
+  "collection": "custom-plasma-resistance",
+  "title": "Non-linear association of atherogenic index of plasma with insulin resistance and type 2 diabetes: a cross-sectional study",
+  "authors": [
+    {
+      "name": "Bei Yin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5803-9395",
+      "affiliation": "Jinan University"
+    },
+    {
+      "name": "Zihong Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4879-8897",
+      "affiliation": "Chengdu University of Traditional Chinese Medicine"
+    },
+    {
+      "name": "Yaqing Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Guangzhou University of Chinese Medicine"
+    },
+    {
+      "name": "Shunqiang Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Jinan University"
+    },
+    {
+      "name": "Ling‐Ling Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3005-526X",
+      "affiliation": "Jinan University"
+    },
+    {
+      "name": "Yousheng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3714-7685",
+      "affiliation": "Jinan University"
+    }
+  ],
+  "doi": "10.1186/s12933-023-01886-5",
+  "url": "https://doi.org/10.1186/s12933-023-01886-5",
+  "published": "2023-06-29",
+  "abstract": "BACKGROUND: Although there is numerous evidence on the epidemiological risk factors for insulin resistance (IR)-related metabolic diseases, there is still insufficient evidence to explore the non-linear association of Atherogenic Index of Plasma (AIP) with IR. Therefore, we aimed to elucidate the non-linear relationship between AIP and IR and type 2 diabetes (T2D). METHODS: This cross-sectional study was conducted in the National Health and Nutrition Survey (NHANES) from 2009 to 2018. A total of 9,245 participants were included in the study. The AIP was calculated as log10 (triglycerides/high-density lipoprotein cholesterol). The outcome variables included IR and T2D defined by the 2013 American Diabetes Association guidelines. The weighted multivariate linear regression, weighted multivariate logistic regression, subgroup analysis, generalized additive model, smooth fitting curve and two-part logistic regression were adopted to reveal the relationship of AIP with IR and T2D. RESULTS: After adjustment for age, gender, race, education level, smoking status, alcohol consumption, vigorous/moderate physical activity, body mass index, waist circumference and hypertension, we found that AIP was positively associated with fasting blood glucose (β = 0.08, 95% CI: 0.06, 0.10), glycosylated hemoglobin (β = 0.04, 95% CI: 0.39, 0.58), fasting serum insulin (β = 4.26, 95% CI: 3.73, 4.79), and homeostasis model assessment of insulin resistance (β = 0.22, 95% CI: 0.18, 0.25). Further studies found that AIP was associated with increased risk of IR (OR = 1.29, 95% CI: 1.26-1.32) and T2D (OR = 1.18, 95% CI: 1.15-1.22). However, the positive association between AIP and IR or T2D was more significant in female than in male (IR: P for interaction = 0.0135; T2D: P for interaction = 0.0024). A non-linear and inverse L-shaped association was found between AIP and IR, while a J-shaped association was found between AIP and T2D. In patients with - 0.47 < AIP < 0.45, increased AIP was significantly associated with increased risk of IR and T2D. CONCLUSIONS: AIP showed an inverse L-shaped association with IR and a J-shaped association with T2D, indicating that AIP should be reduced to a certain level to prevent IR and T2D.",
+  "keywords": [
+    "Medicine",
+    "Body mass index",
+    "Insulin resistance",
+    "Internal medicine",
+    "Type 2 diabetes",
+    "Cross-sectional study",
+    "Diabetes mellitus",
+    "Logistic regression",
+    "Waist",
+    "Endocrinology"
+  ],
+  "source": "openalex",
+  "source_id": "W4382602675",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1186_s12933-023-01886-5/paper.pdf",
+  "pdf_url": "https://cardiab.biomedcentral.com/counter/pdf/10.1186/s12933-023-01886-5",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 237,
+  "journal": "Cardiovascular Diabetology",
+  "publisher": "",
+  "issn": "1475-2840",
+  "quartile": "",
+  "added_at": "2026-05-22T04:34:01.550018+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "paper_id": "doi_10.1038_s41598-021-89664-9",
+  "collection": "custom-plasma-resistance",
+  "title": "Remarkable plasma-resistance performance by nanocrystalline Y2O3·MgO composite ceramics for semiconductor industry applications",
+  "authors": [
+    {
+      "name": "Hyeon‐Myeong Oh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3497-9670",
+      "affiliation": "Kumoh National Institute of Technology"
+    },
+    {
+      "name": "Young‐Jo Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8234-2140",
+      "affiliation": "Korea Institute of Materials Science"
+    },
+    {
+      "name": "Ha‐Neul Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1430-1117",
+      "affiliation": "Korea Institute of Materials Science"
+    },
+    {
+      "name": "Kundan Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9691-0660",
+      "affiliation": "Korea Institute of Materials Science"
+    },
+    {
+      "name": "Jae‐Woong Ko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8633-6813",
+      "affiliation": "Korea Institute of Materials Science"
+    },
+    {
+      "name": "Chae-Eon Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Korea Institute of Materials Science"
+    },
+    {
+      "name": "Hyun-Kwuon Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9817-8151",
+      "affiliation": "Kumoh National Institute of Technology"
+    }
+  ],
+  "doi": "10.1038/s41598-021-89664-9",
+  "url": "https://doi.org/10.1038/s41598-021-89664-9",
+  "published": "2021-05-13",
+  "abstract": "Abstract Motivated by recent finding of crystallographic-orientation-dependent etching behavior of sintered ceramics, the plasma resistance of nanocrystalline Y 2 O 3 -MgO composite ceramics (YM) was evaluated for the first time. We report a remarkably high plasma etching resistance of nanostructure YM surpassing the plasma resistance of commercially used transparent Y 2 O 3 and MgAl 2 O 4 ceramics. The pore-free YM ceramic with grain sizes of several hundred nm was fabricated by hot press sintering, enabling theoretical maximum densification at low temperature. The insoluble two components effectively suppressed the grain growth by mutual pinning. The engineering implication of the developed YM nanocomposite imparts enhanced mechanical reliability, better cost effectiveness with excellent plasma resistance property over their counterparts in plasma using semiconductor applications.",
+  "keywords": [
+    "Materials science",
+    "Ceramic",
+    "Nanocrystalline material",
+    "Plasma etching",
+    "Grain growth",
+    "Composite number",
+    "Sintering",
+    "Nanocomposite",
+    "Plasma",
+    "Grain size"
+  ],
+  "source": "openalex",
+  "source_id": "W3163738310",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1038_s41598-021-89664-9/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-89664-9.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 31,
+  "journal": "Scientific Reports",
+  "publisher": "",
+  "issn": "2045-2322",
+  "quartile": "",
+  "added_at": "2026-05-22T04:33:57.243932+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1017_s0022377825101062",
+  "collection": "custom-plasma-resistance",
+  "title": "Plasma rotation driven by lasers with zero angular momentum",
+  "authors": [
+    {
+      "name": "Camilla Willim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thales Silva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luís Oliveira Silva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Vieira",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1017/S0022377825101062",
+  "url": "http://arxiv.org/abs/2502.12880v2",
+  "published": "2025-02-18T14:09:08+00:00",
+  "abstract": "We present a novel mechanism in which plasma electrons and ions optically acquire angular momentum during local pump depletion of an azimuthally polarized laser, despite the laser carrying none. Using theoretical considerations and multi-dimensional particle-in-cell simulations, we find that this process is enabled by a strong frequency downshift at the gradually eroding laser pulse front. We further show that the angular momentum gained by the plasma electrons is compensated by the ions and by the combined electromagnetic fields of the laser and nonlinear plasma wave. By varying key laser parameters such as phase, frequency, and polarization, we demonstrate that the transverse momentum of high-energy electrons can be effectively controlled.",
+  "keywords": [
+    "physics.plasm-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2502.12880v2",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1017_s0022377825101062/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2502.12880v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T04:33:40.769939+00:00",
+  "updated_at": "",
+  "extra": {}
+}

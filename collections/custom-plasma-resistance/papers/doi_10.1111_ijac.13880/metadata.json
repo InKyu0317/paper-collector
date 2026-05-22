@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi_10.1111_ijac.13880",
+  "collection": "custom-plasma-resistance",
+  "title": "Plasma‐resistance evaluation of yttrium oxyfluoride coating prepared by aerosol deposition method",
+  "authors": [
+    {
+      "name": "Hiroaki Ashizawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1025-9441",
+      "affiliation": "Tokyo Institute of Technology"
+    },
+    {
+      "name": "Katsumi Yoshida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2735-2263",
+      "affiliation": "Tokyo Institute of Technology"
+    }
+  ],
+  "doi": "10.1111/ijac.13880",
+  "url": "https://doi.org/10.1111/ijac.13880",
+  "published": "2021-09-02",
+  "abstract": "Abstract To suppress particle contamination and process drift, there is a strong demand for plasma‐resistant coatings that prevent corrosion of the inner ceramic components in plasma etching equipment. Yttrium oxyfluoride (YOF) is garnering attention as a new plasma‐resistant material that has the potential to replace yttria (Y 2 O 3 ). To create an ideal plasma‐resistant coating, YOF coatings were prepared using the aerosol deposition (AD) method, and the plasma resistance to plasma corrosion rate, surface roughness, and chemical composition following plasma exposure was evaluated. AD‐YOF, which has a highly dense microstructure without any pores, was observed to have a low plasma corrosion rate equivalent to that of Y 2 O 3 and it retained its initial smooth surface following plasma exposure. It was also observed that AD‐YOF could suppress chemical composition changes caused by surface fluorination or oxidation when exposed to plasma formed under the gas conditions of CHF 3 /O 2 = 100/10 or 10/100 sccm, in contrast to AD‐Y 2 O 3 and AD‐yttrium fluoride. We concluded that AD‐YOF can be considered as a superior plasma‐resistant coating that can significantly suppress particle contamination caused by corrosion particles falling through microcracks or large surface roughness and it can also suppress process drift due to chemical composition changes on the surface.",
+  "keywords": [
+    "Materials science",
+    "Coating",
+    "Yttrium",
+    "Corrosion",
+    "Surface roughness",
+    "Plasma",
+    "Metallurgy",
+    "Microstructure",
+    "Deposition (geology)",
+    "Particle (ecology)"
+  ],
+  "source": "openalex",
+  "source_id": "W3196386409",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1111_ijac.13880/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 27,
+  "journal": "International Journal of Applied Ceramic Technology",
+  "publisher": "",
+  "issn": "1546-542X",
+  "quartile": "",
+  "added_at": "2026-05-22T04:33:57.244298+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

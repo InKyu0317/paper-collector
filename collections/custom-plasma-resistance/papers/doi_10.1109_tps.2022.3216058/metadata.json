@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1109_tps.2022.3216058",
+  "collection": "custom-plasma-resistance",
+  "title": "Ion-acoustic solitary waves in a partially degenerate plasma",
+  "authors": [
+    {
+      "name": "Rupak Dey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gadadhar Banerjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Amar P. Misra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1109/TPS.2022.3216058",
+  "url": "http://arxiv.org/abs/2201.08972v2",
+  "published": "2022-01-22T06:05:36+00:00",
+  "abstract": "The propagation of arbitrary amplitude ion-acoustic (IA) solitary waves (SWs) is studied in unmagnetized, collisionless, homogeneous electron-positron-ion (e-p-i) plasmas with finite temperature degeneracy of both electrons and positrons. Starting from a set of fluid equations for classical ions and Fermi-Dirac distribution for degenerate electrons and positrons, a linear dispersion relation for IA waves is derived. It is seen that the wave dispersion is significantly modified due to the presence of positron species and the effects of finite temperature degeneracy of electrons and positrons. In the nonlinear regime, the Sagdeev's pseudopotential approach is employed to study the existence domain and the evolution of nonlinear IA-SWs in terms of the parameters that are associated with the finite temperature degeneracy, the background number densities, and the thermal energies of electrons and positrons. It is found that in contrast to classical electron-ion plasmas both the subsonic and supersonic IA-SWs can exist in a partially degenerate e-p-i plasma.",
+  "keywords": [
+    "physics.plasm-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2201.08972v2",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1109_tps.2022.3216058/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2201.08972v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T04:33:46.837057+00:00",
+  "updated_at": "",
+  "extra": {}
+}

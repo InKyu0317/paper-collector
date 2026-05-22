@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi_10.1017_s0022377821000593",
+  "collection": "custom-plasma-resistance",
+  "title": "General dispersion properties of magnetized plasmas with drifting bi-Kappa distributions. DIS-K: DIspersion Solver for Kappa plasmas",
+  "authors": [
+    {
+      "name": "R. A. López",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. M. Shaaban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Lazar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1017/S0022377821000593",
+  "url": "http://arxiv.org/abs/2102.12513v2",
+  "published": "2021-02-24T19:07:55+00:00",
+  "abstract": "Space plasmas are known to be out of (local) thermodynamic equilibrium, as observations show direct or indirect evidences of non-thermal velocity distributions of plasma particles. Prominent are the anisotropies relative to the magnetic field, anisotropic temperatures, field-aligned beams or drifting populations, but also, the suprathermal populations enhancing the high-energy tails of the observed distributions. Drifting bi-Kappa distribution functions can provide a good representation of these features and enable for a kinetic fundamental description of the dispersion and stability of these collision-poor plasmas, where particle-particle collisions are rare but wave-particle interactions appears to play a dominant role in the dynamic. In the present paper we derive the full set of components of the dispersion tensor for magnetized plasma populations modeled by drifting bi-Kappa distributions. A new solver called DIS-K (DIspersion Solver for Kappa plasmas) is proposed to solve numerically the dispersion relations of high complexity. The solver is validated by comparing to the damped and unstable wave solutions obtained with other codes, operating in the limits of drifting Maxwellian and non-drifting Kappa models. These new theoretical tools enable more realistic characterizations, both analytical and numerical, of wave fluctuations and instabilities in complex kinetic configurations measured in-situ in space plasmas.",
+  "keywords": [
+    "physics.plasm-ph",
+    "physics.space-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2102.12513v2",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1017_s0022377821000593/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2102.12513v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T04:33:43.787079+00:00",
+  "updated_at": "",
+  "extra": {}
+}

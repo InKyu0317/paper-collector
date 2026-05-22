@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1016_j.mtla.2024.102148",
+  "collection": "aluminosilicate",
+  "title": "The origin of phase separation in binary aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "Houssam Kharouji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abdellatif Hasnaoui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Achraf Atila",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.mtla.2024.102148",
+  "url": "http://arxiv.org/abs/2402.15314v1",
+  "published": "2024-02-23T13:33:43+00:00",
+  "abstract": "The quest for hard and tough transparent oxide glasses is at the core of glass science and technology. Aluminosilicate glasses exhibiting nanoscale phase separation emerge as promising candidates for such materials. Nevertheless, proper control of the phase separation represents a daunting challenge due to its elusive origins. Here we employ large-scale molecular dynamics simulations and structural analysis to unravel the underlying mechanisms of the phase separation in aluminosilicate. The observed phase separation originates from an arrangement of SiO$_4$ and AlO$_n$ polyhedra, which manifests from the second coordination shell and extends to higher shells. This specific arrangement is driven by repulsion between the polyhedra, reaching its maximum at around 50 mol% of Al$_2$O$_3$. This behavior becomes pronounced around and below the glass transition temperature. This work sheds light on the origin of phase separation and provides a route for further exploration across other compositions to develop glasses with adapted mechanical performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.15314v1",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.mtla.2024.102148/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.15314v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T04:32:35.983761+00:00",
+  "updated_at": "",
+  "extra": {}
+}

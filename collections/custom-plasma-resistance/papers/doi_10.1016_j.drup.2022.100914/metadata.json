@@ -1,0 +1,138 @@
+{
+  "paper_id": "doi_10.1016_j.drup.2022.100914",
+  "collection": "custom-plasma-resistance",
+  "title": "Acquired non-thermal plasma resistance mediates a shift towards aerobic glycolysis and ferroptotic cell death in melanoma",
+  "authors": [
+    {
+      "name": "Abraham Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0097-3323",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Maxime Sahun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Eline Biscop",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2123-8910",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Hanne Verswyvel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4807-0409",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Jorrit De Waele",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9999-6156",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Joey De Backer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5640-8388",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Claudia Theys",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8863-7708",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Bart Cuypers",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7198-1470",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Kris Laukens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8217-2564",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Wim Vanden Berghe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0161-7355",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Evelien Smits",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9255-3435",
+      "affiliation": "University of Antwerp"
+    },
+    {
+      "name": "Annemie Bogaerts",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9875-6460",
+      "affiliation": "University of Antwerp"
+    }
+  ],
+  "doi": "10.1016/j.drup.2022.100914",
+  "url": "https://doi.org/10.1016/j.drup.2022.100914",
+  "published": "2022-12-28",
+  "abstract": "",
+  "keywords": [
+    "Programmed cell death",
+    "Anaerobic glycolysis",
+    "Glycolysis",
+    "Apoptosis",
+    "Lipid peroxidation",
+    "Biology",
+    "Cell biology",
+    "Cancer cell",
+    "Cell culture",
+    "Annexin"
+  ],
+  "source": "openalex",
+  "source_id": "W4313220202",
+  "pdf_path": "custom-plasma-resistance/papers/doi_10.1016_j.drup.2022.100914/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 25,
+  "journal": "Drug Resistance Updates",
+  "publisher": "",
+  "issn": "1368-7646",
+  "quartile": "",
+  "added_at": "2026-05-22T04:34:01.550417+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
