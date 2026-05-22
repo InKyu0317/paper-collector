@@ -1,0 +1,50 @@
+{
+  "paper_id": "doi_10.3390_polym14050868",
+  "collection": "aluminosilicate",
+  "title": "Durability Performance of Geopolymer Concrete: A Review",
+  "authors": [
+    {
+      "name": "Leong Sing Wong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1271-2112",
+      "affiliation": "Universiti Tenaga Nasional"
+    }
+  ],
+  "doi": "10.3390/polym14050868",
+  "url": "https://doi.org/10.3390/polym14050868",
+  "published": "2022-02-23",
+  "abstract": "Geopolymer concrete is produced from the geopolymerization process, in which molecules known as oligomers integrate to form geopolymer networks with covalent bonding. Its production expends less thermal energy and results in a smaller carbon footprint compared to Ordinary Portland Cement (OPC) concrete. It requires only an alkaline activator to catalyze its aluminosilicate sources such as metakaolin and fly ash, to yield geopolymer binder for the geopolymerization to take place. Because of its eco-friendly technology and practical application, current research interest is mainly concentrated on the endurance of geopolymer concrete to resist heat and chemical aggressions. As such, it is pertinent for this review article to provide critical insight into the recent progress in research on the durability of geopolymer concrete. One significant outcome of the review is that the admixture of geopolymer concrete could be blended with additives such as micro-silica and fibers such as polypropylene fibers, to enhance its durability. The review on the durability aspects of geopolymer concrete showed that it had high compressive strength at an optimal elevated temperature, low to medium chloride ion penetrability, and high resistance to acid attack and abrasion. This makes geopolymer concrete a viable candidate to replace OPC concrete in the construction industry.",
+  "keywords": [
+    "Geopolymer",
+    "Metakaolin",
+    "Durability",
+    "Materials science",
+    "Compressive strength",
+    "Fly ash",
+    "Portland cement",
+    "Composite material",
+    "Geopolymer cement",
+    "Cement"
+  ],
+  "source": "openalex",
+  "source_id": "W4213426031",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_polym14050868/paper.pdf",
+  "pdf_url": "https://www.mdpi.com/2073-4360/14/5/868/pdf?version=1645602901",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 346,
+  "journal": "Polymers",
+  "publisher": "",
+  "issn": "2073-4360",
+  "quartile": "",
+  "added_at": "2026-05-22T05:56:09.185233+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
