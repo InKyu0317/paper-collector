@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2511.08449v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Synergetic Enhancement on Bulk and Grain Boundary Ionic Conduction of Mg Doped High-Entropy NASICON-Type Solid Electrolyte for Solid-State Na+ Batteries by Spray Flame Synthesis",
+  "authors": [
+    {
+      "name": "Tianyi Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yiyang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhu Fang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuting Lei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xing Jin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuiqing Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.08449v1",
+  "published": "2025-11-11T16:49:37+00:00",
+  "abstract": "All-solid-state sodium batteries represent a promising next-generation energy storage technology, owing to cost-effectiveness and enhanced safety. Among solid electrolytes for solid-state sodium batteries, NASICON-structured Na3Zr2Si2PO12 has emerged as a predominant candidate. However, its widespread implementation remains limited by suboptimal ionic conductivity in both bulk and grain boundary regions. In this study, we demonstrate a novel approach utilizing swirling spray flame synthesis to produce Mg-doped NASICON solid electrolyte nanoparticles. This method facilitates efficient doping and homogeneous mixing for scalable production, resulting in core-shell non-NASICON structures with nano-scale high-entropy mixing. Notably, the atomic migration distances achieved by flame synthesis are significantly reduced compared to conventional solid-state reactions, thereby enabling reactive sintering to preserve high sinterability of nanoparticles during post-treatment processes. High-temperature sintering yields dense NASICON-structured solid electrolytes. Among those, Mg0.25NZSP exhibits an optimal ionic conductivity of 1.91 mS/cm at room temperature and an activation energy of 0.200 eV. The enhancement mechanism can be attributed to incorporation into the NASICON phase and formation of a secondary phase. The low-melting-point secondary phase significantly improves grain boundary contact to enhance grain boundary conductivity. The process achieves simultaneous enhancement of both bulk and grain boundary conduction through a single-step procedure. Comparative analysis of sintering temperatures and ionic conductivities among NASICON solid electrolytes synthesized via different methods demonstrates flame-synthesized nanoparticles offer superior performance and reduced post-treatment costs, owing to their exceptional nano-scale sinterability and uniform elemental distribution.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.08449v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.08449v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.08449v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:55:04.582548+00:00",
+  "updated_at": "",
+  "extra": {}
+}

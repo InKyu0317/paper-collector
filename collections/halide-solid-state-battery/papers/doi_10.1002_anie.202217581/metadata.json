@@ -1,0 +1,90 @@
+{
+  "paper_id": "doi_10.1002_anie.202217581",
+  "collection": "halide-solid-state-battery",
+  "title": "New Oxyhalide Solid Electrolytes with High Lithium Ionic Conductivity &gt;10 mS cm<sup>−1</sup>for All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Yoshiaki Tanaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3126-0561",
+      "affiliation": "Panasonic (Japan)"
+    },
+    {
+      "name": "Koki Ueno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Panasonic (Japan)"
+    },
+    {
+      "name": "Keita Mizuno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2049-731X",
+      "affiliation": "Panasonic (Japan)"
+    },
+    {
+      "name": "Kaori Takeuchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Panasonic (Japan)"
+    },
+    {
+      "name": "Tetsuya Asano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4988-6928",
+      "affiliation": "Panasonic (Japan)"
+    },
+    {
+      "name": "Akihiro Sakai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1068-5061",
+      "affiliation": "Panasonic (Japan)"
+    }
+  ],
+  "doi": "10.1002/anie.202217581",
+  "url": "https://doi.org/10.1002/anie.202217581",
+  "published": "2023-02-07",
+  "abstract": "Abstract All‐solid‐state batteries (ASSBs) with inorganic solid electrolytes (SEs) have attracted significant interest as next‐generation energy storage. Halides such as Li 3 YCl 6 are promising candidates for SE because they combine high oxidation stability and deformability. However, the ionic conductivities of halide SEs are not as high as those of other SEs, especially sulfides. Here, we discover new lithium‐metal‐oxy‐halide materials, Li M OCl 4 ( M =Nb, Ta). They exhibit extremely high ionic conductivities of 10.4 mS cm −1 for M =Nb and 12.4 mS cm −1 for M =Ta, respectively, even in cold‐pressed powder forms at room temperature, which are comparable to or surpass those of organic liquid electrolytes used in lithium‐ion batteries. Bulk‐type ASSB cells using the oxyhalides as the cathode SE demonstrate an outstanding rate capability with a capacity retention of 80 % at 5 C/0.1 C. We believe that the proposed oxyhalides are promising SE candidates for the practical applications of ASSBs.",
+  "keywords": [
+    "Electrolyte",
+    "Halide",
+    "Ionic conductivity",
+    "Lithium (medication)",
+    "Fast ion conductor",
+    "Inorganic chemistry",
+    "Ionic bonding",
+    "Cathode",
+    "Ionic liquid",
+    "Materials science"
+  ],
+  "source": "openalex",
+  "source_id": "W4319334174",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_anie.202217581/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202217581",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 246,
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "",
+  "issn": "1433-7851",
+  "quartile": "",
+  "added_at": "2026-05-22T07:55:09.722184+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

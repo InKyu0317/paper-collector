@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2505.04391v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Advancements in Solid-State Sodium-Based Batteries: A Comprehensive Review",
+  "authors": [
+    {
+      "name": "Arianna Massaro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lorenzo Squillantini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Francesca De Giorgio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Francesca A. Scaramuzzo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mauro Pasquali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergio Brutti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.04391v1",
+  "published": "2025-05-07T13:14:24+00:00",
+  "abstract": "This manuscript explores recent advancements in solid-state sodium-based battery technology, particularly focusing on electrochemical performance and the challenges associated with developing efficient solid electrolytes. The replacement of conventional liquid electrolytes with solid-state alternatives offers numerous benefits, including enhanced safety and environmental sustainability, as solid-state systems reduce flammability and harsh chemical handling. The work emphasizes the importance of structure and interface characteristics in solid electrolytes, which play a critical role in ionic conductivity and overall battery performance. Various classes of solid electrolytes, such as sodium-based anti-perovskites and sulphide electrolytes, are examined, highlighting their unique ionic transport mechanisms and mechanical properties that facilitate stable cycling. The manuscript also discusses strategies to enhance interfacial stability between the anode and the solid electrolyte to mitigate performance degradation during battery operation. Furthermore, advancements in electrode formulations and the integration of novel materials are considered pivotal in optimizing the charging and discharging processes, thus improving the energy and power densities of sodium batteries. The outlook on the future of sodium-based solid-state batteries underscores their potential to meet emerging energy storage demands while leveraging the abundant availability of sodium compared to lithium. This comprehensive review aims to provide insights into ongoing research and prospective directions for the commercialization of solid-state sodium-based batteries, positioning them as viable alternatives in the renewable energy landscape.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.04391v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.04391v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.04391v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:54:57.017367+00:00",
+  "updated_at": "",
+  "extra": {}
+}
