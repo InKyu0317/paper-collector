@@ -3,8 +3,10 @@ name: Scheduled Paper Collection
 permissions:
   contents: write
 
-# Manual-only. No automatic cron schedule.
 on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       collection:
