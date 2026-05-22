@@ -34,7 +34,7 @@ class CollectionConfig(BaseModel):
     # Topic phrase used to intersect the preset with user-provided keywords
     # (combined per-API via `(topic) AND (keyword)` etc.). Should be a concise
     # noun phrase, NOT a full boolean query.
-    search_topic: Annotated[str, Field(default="", description="Topic phrase for AND-combining with user keywords")]
+    search_topic: Annotated[str, Field(default="", description="Plain natural-language topic phrase for AND-combining with user keywords in intersection mode (e.g. 'halide solid-state battery'). MUST NOT contain boolean operators or parentheses - those belong in queries[*].query.")]
     queries: Annotated[list[SearchQuery], Field(default_factory=list)]
     enabled_connectors: Annotated[list[str], Field(default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"])]
     max_total_papers: Annotated[int, Field(default=100_000, ge=0, description="Max papers per collection. 0 = unlimited.")]
@@ -92,7 +92,7 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
     display_name="Halide Solid-State Battery",
     domain="materials-science",
     description="Research on halide-based solid electrolytes and all-solid-state batteries",
-    search_topic="halide AND (solid-state battery OR solid electrolyte)",
+    search_topic="halide solid-state battery",
     queries=[
         SearchQuery(
             query="halide AND (solid-state battery OR solid electrolyte)",

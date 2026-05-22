@@ -103,9 +103,17 @@ The actual queries sent to each API (visible via `--dry-run`):
 
 | Connector | Combined query | Why this syntax |
 |-----------|----------------|-----------------|
-| arXiv | `(aluminosilicate) AND (plasma resistance)` | arXiv requires uppercase boolean operators |
-| OpenAlex | `aluminosilicate AND plasma resistance` | OpenAlex `search` field supports explicit `AND` |
-| Crossref | `aluminosilicate plasma resistance` | Crossref `query` is relevance-ranked; boolean operators are NOT supported and would be treated as literal tokens |
+| arXiv | `(aluminosilicate) AND (plasma resistance)` | arXiv requires uppercase boolean operators, parens group multi-word phrases |
+| OpenAlex | `(aluminosilicate) AND (plasma resistance)` | OpenAlex `search` field supports `AND` / `OR` / parens / phrase quotes |
+| Crossref | `aluminosilicate plasma resistance` | Crossref `query` does NOT support boolean operators; space-separated terms are ANDed implicitly |
+
+> **Note on `search_topic`**: each preset's `search_topic` must be a plain
+> natural-language phrase (e.g. `halide solid-state battery`), **not** a
+> boolean expression. Boolean expressions like
+> `halide AND (solid-state battery OR solid electrolyte)` are only valid in
+> the preset's per-connector queries (preset-only mode) — Crossref would
+> otherwise treat `AND` / `OR` / `(` / `)` as literal search tokens and
+> pollute the ranking.
 
 Papers are stored under `collections/aluminosilicate/papers/` — no separate
 `custom-*` folder is created in this mode.
@@ -277,7 +285,7 @@ queries below are what runs in **preset-only** mode.
 
 ### halide-solid-state-battery
 
-**search_topic**: `halide AND (solid-state battery OR solid electrolyte)`
+**search_topic**: `halide solid-state battery`
 
 | Connector | Preset-only query | Extra filters | Daily |
 |-----------|-------------------|---------------|-------|

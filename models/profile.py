@@ -34,11 +34,24 @@ QUALITY_THRESHOLDS: dict[str, float] = {
 def _combine_query(topic: str, keyword: str, connector: str) -> str:
     """Combine a collection topic with a user keyword using each API's AND syntax.
 
-    - arXiv: `(topic) AND (keyword)` — boolean operator must be UPPERCASE.
-    - OpenAlex: `topic AND keyword` — `search` field supports explicit AND.
-    - Crossref: `topic keyword` — `query` is relevance-ranked; boolean operators
-      are NOT supported and are treated as literal tokens. Space-joining is the
-      documented way to bias the ranking toward documents containing both terms.
+    `topic` MUST be a plain natural-language phrase (e.g. "halide solid-state
+    battery"), NOT a boolean expression. Boolean expressions like
+    `halide AND (solid-state battery OR solid electrolyte)` belong in the
+    preset's per-connector `queries[*].query` (used in preset-only mode), not
+    in `search_topic` (used in intersection mode), because:
+
+    - Crossref does not support boolean operators in its `query` parameter -
+      AND/OR/parentheses would be sent as literal search tokens, polluting
+      the ranking.
+    - arXiv and OpenAlex DO support booleans, but mixing a boolean topic with
+      a plain keyword via outer AND creates fragile precedence that is hard
+      to keep correct across the three APIs simultaneously.
+
+    Per-connector handling:
+    - arXiv: `(topic) AND (keyword)` - uppercase boolean, parens force grouping.
+    - OpenAlex: `(topic) AND (keyword)` - same; OpenAlex supports parens too.
+    - Crossref: `topic keyword` - space-joined; Crossref ANDs space-separated
+      terms implicitly (https://github.com/CrossRef/rest-api-doc).
     """
     topic = topic.strip()
     keyword = keyword.strip()
@@ -49,8 +62,8 @@ def _combine_query(topic: str, keyword: str, connector: str) -> str:
     if connector == "arxiv":
         return f"({topic}) AND ({keyword})"
     if connector == "openalex":
-        return f"{topic} AND {keyword}"
-    # crossref and any unknown connector: plain concatenation
+        return f"({topic}) AND ({keyword})"
+    # crossref and any unknown connector: plain concatenation (implicit AND)
     return f"{topic} {keyword}"
 
 
