@@ -10,7 +10,11 @@ on:
   workflow_dispatch:
     inputs:
       collection:
-        description: "Collection name (aluminosilicate, halide-solid-state-battery, or comma-separated). Leave empty for all."
+        description: "Preset collection name (aluminosilicate, halide-solid-state-battery, or comma-separated). Leave empty for all presets."
+        required: false
+        default: ""
+      keywords:
+        description: "Custom search keywords (comma-separated). Creates dynamic collections. e.g. 'plasma resistance, solid electrolyte'"
         required: false
         default: ""
       years:
@@ -59,6 +63,7 @@ jobs:
           PAPER_COLLECTOR_LOG_LEVEL: INFO
           PAPER_COLLECTOR_LOG_FORMAT: json
           PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate,halide-solid-state-battery' }}
+          PAPER_COLLECTOR_KEYWORDS: ${{ github.event.inputs.keywords || '' }}
           PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
           PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'all' }}
         run: python workflows/scheduled.py

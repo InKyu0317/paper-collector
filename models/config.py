@@ -78,6 +78,10 @@ class AppConfig(BaseSettings):
     # ── Collection defaults ─────────────────────────────────────────
     collections: str = "aluminosilicate,halide-solid-state-battery"
     """Comma-separated collection names (e.g. 'aluminosilicate,halide-solid-state-battery')."""
+    keywords: str = ""
+    """Comma-separated search keywords for dynamic collection generation.
+    e.g. 'plasma resistance, solid electrolyte'. When set, creates
+    collections on the fly — no code changes needed."""
     enabled_connectors: list[str] = Field(
         default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"]
     )
