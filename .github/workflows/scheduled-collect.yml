@@ -1,12 +1,12 @@
-name: Manual Paper Collection (ad-hoc)
+name: Scheduled Paper Collection
 
 permissions:
   contents: write
 
-# Manual-only. Scheduled runs are handled by:
-#   - scheduled-aluminosilicate.yml  (aluminosilicate x plasma resistance, Q1)
-#   - scheduled-halide.yml           (halide-solid-state-battery x ionic conductivity, Q1)
 on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       collection:
