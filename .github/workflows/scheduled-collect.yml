@@ -34,8 +34,12 @@ on:
           - Q4
 
 jobs:
-  collect:
+  aluminosilicate:
+    if: ${{ github.event_name == 'schedule' || github.event.inputs.collection == '' || contains(github.event.inputs.collection, 'aluminosilicate') }}
     runs-on: ubuntu-latest
+    concurrency:
+      group: scheduled-collect-aluminosilicate-${{ github.ref }}
+      cancel-in-progress: false
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
@@ -62,10 +66,10 @@ jobs:
           UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
           PAPER_COLLECTOR_LOG_LEVEL: INFO
           PAPER_COLLECTOR_LOG_FORMAT: json
-          PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate,halide-solid-state-battery' }}
-          PAPER_COLLECTOR_KEYWORDS: ${{ github.event.inputs.keywords || '' }}
+          PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate' }}
+          PAPER_COLLECTOR_KEYWORDS: ${{ github.event.inputs.keywords || 'plasma, resistance' }}
           PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
-          PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'all' }}
+          PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'Q1' }}
           PAPER_COLLECTOR_ALLOW_PREPRINTS_IN_QUARTILE_FILTER: "true"
         run: python workflows/scheduled.py
 
@@ -76,7 +80,63 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f collections/
           git diff --staged --quiet && exit 0
-          git commit -m "chore: collect papers ($(date -u +%Y-%m-%d))"
+          git commit -m "chore: collect aluminosilicate ($(date -u +%Y-%m-%d))"
+          # Retry push up to 5 times with rebase to survive concurrent dispatches
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "::error::push failed after 5 retries"
+          exit 1
+
+  halide:
+    if: ${{ github.event_name == 'schedule' || github.event.inputs.collection == '' || contains(github.event.inputs.collection, 'halide-solid-state-battery') }}
+    runs-on: ubuntu-latest
+    concurrency:
+      group: scheduled-collect-halide-${{ github.ref }}
+      cancel-in-progress: false
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Run collection
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          CROSSREF_EMAIL: ${{ secrets.CROSSREF_EMAIL }}
+          UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
+          PAPER_COLLECTOR_LOG_LEVEL: INFO
+          PAPER_COLLECTOR_LOG_FORMAT: json
+          PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'halide-solid-state-battery' }}
+          PAPER_COLLECTOR_KEYWORDS: ${{ github.event.inputs.keywords || 'ionic, conductivity' }}
+          PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
+          PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'Q1' }}
+          PAPER_COLLECTOR_ALLOW_PREPRINTS_IN_QUARTILE_FILTER: "true"
+        run: python workflows/scheduled.py
+
+      - name: Commit collected papers
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f collections/
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: collect halide ($(date -u +%Y-%m-%d))"
           # Retry push up to 5 times with rebase to survive concurrent dispatches
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && exit 0
