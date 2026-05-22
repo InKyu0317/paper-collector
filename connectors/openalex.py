@@ -81,6 +81,10 @@ class OpenAlexConnector(BaseConnector):
             journal = source.get("display_name", "")
             journal_cites_per_year = source.get("cites_per_year", 0.0)
 
+            # ISSN extraction
+            issn_list = source.get("issn_l", []) or source.get("issn", [])
+            issn = issn_list[0] if isinstance(issn_list, list) and issn_list else (issn_list if isinstance(issn_list, str) else "")
+
             # Citation count
             citation_count = w.get("cited_by_count", 0)
 
@@ -98,6 +102,7 @@ class OpenAlexConnector(BaseConnector):
                     source_id=openalex_id,
                     pdf_url=pdf_url if pdf_url else None,
                     journal=journal,
+                    issn=issn,
                     citation_count=citation_count,
                     url=doi_raw or w.get("id", ""),
                     extra={"journal_cites_per_year": journal_cites_per_year},

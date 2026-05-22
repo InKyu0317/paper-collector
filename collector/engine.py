@@ -16,6 +16,7 @@ from connectors.base import BaseConnector, ConnectorRegistry
 from connectors.crossref import CrossrefConnector
 from connectors.openalex import OpenAlexConnector
 from connectors.unpaywall import UnpaywallConnector
+from data.sjr import SJRLookup
 from models.collection import CollectionConfig, SearchQuery
 from models.config import AppConfig
 from models.paper import PaperMetadata
@@ -35,6 +36,7 @@ class CollectionEngine:
         self.config = config
         self.storage = StorageManager(config.data_dir)
         self.query_state = QueryState(config.data_dir / ".state")
+        self.sjr = SJRLookup(cache_dir=config.data_dir / ".sjr")
 
         http = HttpClient(
             timeout=30.0,
@@ -181,35 +183,76 @@ class CollectionEngine:
     def _filter_by_quality(
         self, records: list[PaperMetadata], cfg: CollectionConfig
     ) -> list[PaperMetadata]:
-        """Filter papers by journal quality (Q1 approximation) and citation count."""
-        if cfg.min_journal_cites_per_year <= 0 and cfg.min_paper_citation_count <= 0 and not cfg.journal_whitelist:
+        """Filter papers by journal quality using SJR quartile data.
+
+        Priority:
+        1. SJR quartile (Q1/Q2/Q3/Q4) — authoritative from scimagojr.com
+        2. Fallback: journal_cites_per_year (Q1 ≈ 50+)
+        3. Fallback: citation_count threshold
+        4. Fallback: journal_whitelist
+        """
+        quality_tier = self.config.quality_tier
+        min_journal_cites_per_year = cfg.min_journal_cites_per_year
+        min_paper_citation_count = cfg.min_paper_citation_count
+        journal_whitelist = cfg.journal_whitelist
+
+        # If nothing is configured, return all records
+        if (quality_tier in ("all", "")
+                and min_journal_cites_per_year <= 0
+                and min_paper_citation_count <= 0
+                and not journal_whitelist):
             return records
 
         filtered: list[PaperMetadata] = []
+        sjr_used = 0
+        cites_fallback_used = 0
+
         for r in records:
-            # Journal whitelist check
-            if cfg.journal_whitelist and r.journal not in cfg.journal_whitelist:
+            # ── Primary: SJR Quartile filter ──
+            if quality_tier and quality_tier not in ("all", ""):
+                if r.issn and self.sjr.is_quartile(r.issn, quality_tier):
+                    r.quartile = self.sjr.get_quartile(r.issn) or ""
+                    sjr_used += 1
+                elif r.issn:
+                    # ISSN found but doesn't match tier — skip
+                    logger.debug(
+                        "filter_sjr_quartile",
+                        paper_id=r.paper_id,
+                        journal=r.journal,
+                        issn=r.issn,
+                        quartile=self.sjr.get_quartile(r.issn),
+                        required=quality_tier,
+                    )
+                    continue
+                else:
+                    # No ISSN — fall through to other filters
+                    pass
+
+            # ── Fallback: Journal whitelist check ──
+            if journal_whitelist and r.journal not in journal_whitelist:
                 continue
 
-            # Journal cites/year check (Q1 approximation: typically 50+)
-            journal_cpy = r.extra.get("journal_cites_per_year", 0.0)
-            if cfg.min_journal_cites_per_year > 0 and journal_cpy < cfg.min_journal_cites_per_year:
-                logger.debug(
-                    "filter_journal_cites",
-                    paper_id=r.paper_id,
-                    journal=r.journal,
-                    cites_per_year=journal_cpy,
-                    threshold=cfg.min_journal_cites_per_year,
-                )
-                continue
+            # ── Fallback: Journal cites/year check (Q1 approximation) ──
+            if min_journal_cites_per_year > 0 and not r.issn:
+                journal_cpy = r.extra.get("journal_cites_per_year", 0.0)
+                if journal_cpy < min_journal_cites_per_year:
+                    logger.debug(
+                        "filter_journal_cites",
+                        paper_id=r.paper_id,
+                        journal=r.journal,
+                        cites_per_year=journal_cpy,
+                        threshold=min_journal_cites_per_year,
+                    )
+                    continue
+                cites_fallback_used += 1
 
-            # Paper citation count check
-            if cfg.min_paper_citation_count > 0 and r.citation_count < cfg.min_paper_citation_count:
+            # ── Fallback: Paper citation count check ──
+            if min_paper_citation_count > 0 and r.citation_count < min_paper_citation_count:
                 logger.debug(
                     "filter_citation_count",
                     paper_id=r.paper_id,
                     citation_count=r.citation_count,
-                    threshold=cfg.min_paper_citation_count,
+                    threshold=min_paper_citation_count,
                 )
                 continue
 
@@ -221,8 +264,9 @@ class CollectionEngine:
             input=len(records),
             kept=len(filtered),
             removed=removed,
-            min_journal_cpy=cfg.min_journal_cites_per_year,
-            min_citations=cfg.min_paper_citation_count,
+            quality_tier=quality_tier,
+            sjr_matched=sjr_used,
+            cites_fallback=cites_fallback_used,
         )
         return filtered
 

@@ -66,6 +66,10 @@ class CrossrefConnector(BaseConnector):
             journal = (item.get("container-title") or [""])[0]
             citation_count = item.get("is-referenced-by-count", 0)
 
+            # ISSN extraction
+            issn_obj = item.get("ISSN", [])
+            issn = issn_obj[0] if isinstance(issn_obj, list) and issn_obj else ""
+
             records.append(
                 PaperMetadata(
                     collection="",
@@ -80,6 +84,7 @@ class CrossrefConnector(BaseConnector):
                     source_id=doi,
                     pdf_url=pdf_url if pdf_url else None,
                     journal=journal,
+                    issn=issn,
                     citation_count=citation_count,
                     url=item.get("URL", ""),
                 )

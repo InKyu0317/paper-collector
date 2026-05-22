@@ -116,7 +116,7 @@ https://api.openalex.org/works?
   &filter=publication_year:>=2021
 ```
 
-**Fields extracted:** title, authors (name, institution, ORCID), doi, publication_date, abstract (inverted index decoded), concepts/keywords, journal name, cites_per_year, cited_by_count, best_oa_location.pdf_url, OpenAlex W-ID
+**Fields extracted:** title, authors (name, institution, ORCID), doi, publication_date, abstract (inverted index decoded), concepts/keywords, journal name, ISSN, cites_per_year, cited_by_count, best_oa_location.pdf_url, OpenAlex W-ID
 
 ### Crossref (DOI Metadata + Citations)
 
@@ -127,7 +127,7 @@ https://api.openalex.org/works?
 | **Request** | `works(query, filter, limit=50, offset=...)` |
 | **Pagination** | ✅ offset-based (page 1 → offset=0, page 2 → offset=50) |
 
-**Fields extracted:** title, authors (given+family, affiliation, ORCID), DOI, published-print date, abstract, subject/keywords, container-title (journal), is-referenced-by-count (citations), PDF link, URL
+**Fields extracted:** title, authors (given+family, affiliation, ORCID), DOI, ISSN, published-print date, abstract, subject/keywords, container-title (journal), is-referenced-by-count (citations), PDF link, URL
 
 ### Unpaywall (OA PDF Enrichment)
 
@@ -184,6 +184,8 @@ collections/
   "pdf_accessible": true,
   "citation_count": 5,
   "journal": "Nature Materials",
+  "issn": "1476-4687",
+  "quartile": "Q1",
   "is_open_access": true,
   "oa_status": "green",
   "license_info": "CC-BY-4.0",
@@ -216,22 +218,77 @@ collections/
 | OpenAlex | `halide solid electrolyte all-solid-state battery lithium` | 50 |
 | Crossref | `halide solid state electrolyte battery lithium` | 50 |
 
-## Quality Filtering
+## Quality Filtering (SJR-Based Q1/Q2/Q3/Q4)
 
-The system supports automatic quality filtering to collect only high-impact papers.
-**Disabled by default** to ensure collection works immediately. Enable by editing `models/collection.py`:
+The system uses **SCImago Journal Rank (SJR)** data for accurate journal quality filtering.
+SJR data is downloaded automatically from scimagojr.com on first run and cached locally.
 
-```python
-# In ALUMINOSILICATE_CONFIG or HALIDE_BATTERY_CONFIG:
-min_journal_cites_per_year=50.0,  # Q1 approximation
-min_paper_citation_count=10,
+### How It Works
+
 ```
+1. Download SJR XLS from scimagojr.com (annual update)
+   → Parse "SJR Best Quartile" column (Q1/Q2/Q3/Q4)
+   → Cache as JSON at collections/.sjr/sjr_quartiles.json
+
+2. Extract ISSN from each paper (OpenAlex/Crossref)
+
+3. Match ISSN → Quartile
+   → Q1: keep only Q1 journals
+   → Q2: keep Q1 + Q2 journals
+   → Q3: keep Q1 + Q2 + Q3 journals
+   → all: no filtering
+```
+
+### Fallback Chain
+
+If SJR data is unavailable:
+1. **GitHub CSV** (Michael-E-Rose/SCImagoJournalRankIndicators) — SJR score → heuristic quartile
+2. **Built-in list** — ~30 well-known Q1 journals (Nature, Science, Advanced Materials, etc.)
+
+### Setting Quality Tier
+
+**GitHub Actions** (recommended):
+```
+Actions → Scheduled Paper Collection → Run workflow
+  quality_tier: Q1   ← select from dropdown
+```
+
+**Environment variable**:
+```bash
+PAPER_COLLECTOR_QUALITY_TIER=Q1
+```
+
+**CLI**:
+```bash
+python workflows/collect.py --quality-tier Q1
+```
+
+### Quartile Definitions
+
+| Tier | Meaning | SJR Source |
+|------|---------|------------|
+| **Q1** | Top 25% journals in category | `SJR Best Quartile` from scimagojr.com |
+| **Q2** | Top 50% journals | Same |
+| **Q3** | Top 75% journals | Same |
+| **Q4** | All journals (no filter) | Same |
+| **all** | No filtering (default) | — |
+
+### Legacy Filters (Still Available)
+
+For papers without ISSN (e.g., arXiv preprints), legacy filters still apply:
 
 | Filter | Description | Default |
 |--------|-------------|---------|
 | `min_journal_cites_per_year` | Minimum journal cites/year (Q1 ≈ 50+) | 0 (disabled) |
 | `min_paper_citation_count` | Minimum paper citation count | 0 (disabled) |
 | `journal_whitelist` | Only accept papers from specific journals | — |
+
+Enable in `models/collection.py`:
+```python
+# In ALUMINOSILICATE_CONFIG or HALIDE_BATTERY_CONFIG:
+min_journal_cites_per_year=50.0,
+min_paper_citation_count=10,
+```
 
 ## Configuration
 
@@ -244,6 +301,7 @@ All settings via environment variables (or `.env`):
 | `PAPER_COLLECTOR_OPENALEX_API_KEY` | OpenAlex API key | — |
 | `PAPER_COLLECTOR_CROSSREF_EMAIL` | Crossref email | — |
 | `PAPER_COLLECTOR_UNPAYWALL_EMAIL` | Unpaywall email | — |
+| `PAPER_COLLECTOR_QUALITY_TIER` | Journal quality tier (all/Q1/Q2/Q3/Q4) | `all` |
 | `PAPER_COLLECTOR_LOG_LEVEL` | Log level | INFO |
 | `PAPER_COLLECTOR_COLLECTIONS` | Collections to process | all |
 
@@ -267,6 +325,7 @@ Go to **Actions → Scheduled Paper Collection → Run workflow**.
 | | `aluminosilicate` | Run only aluminosilicate |
 | | `halide-solid-state-battery` | Run only halide solid-state battery |
 | `years` | `5` | Collect papers from the last N years (default: 5) |
+| `quality_tier` | `all` | Journal quality tier: all, Q1, Q2, Q3, Q4 |
 
 On success, collected papers are automatically committed and pushed to `main`.
 

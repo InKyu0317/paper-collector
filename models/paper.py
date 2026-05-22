@@ -78,6 +78,8 @@ class PaperMetadata(BaseModel):
     citation_count: int = Field(default=0)
     journal: str = Field(default="")
     publisher: str = Field(default="")
+    issn: str = Field(default="", description="Journal ISSN (used for SJR quartile lookup)")
+    quartile: str = Field(default="", description="SJR quartile: Q1, Q2, Q3, Q4")
     added_at: str = Field(
         default_factory=lambda: datetime.now(timezone.utc).isoformat(),
         description="ISO 8601 UTC timestamp when the paper was first collected",

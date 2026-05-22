@@ -97,6 +97,14 @@ class AppConfig(BaseSettings):
         import datetime
         return datetime.datetime.now().year - self.years_back
 
+    # ── Quality tier (SJR-based Q1/Q2/Q3/Q4 filtering) ────────────
+    quality_tier: str = "all"
+    """Journal quality tier filter based on SCImago Journal Rank.
+    Options: 'all', 'Q1', 'Q2', 'Q3', 'Q4'.
+    Q1 = top 25% journals, Q2 = top 50%, etc.
+    Data sourced from https://www.scimagojr.com/journalrank.php
+    """
+
     # ─ Logging ─────────────────────────────────────────────────────
     log_level: str = "INFO"
     log_format: str = "json"

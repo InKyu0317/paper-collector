@@ -17,6 +17,17 @@ on:
         description: "Collect papers from the last N years (e.g., 5). Leave empty for default (5 years)."
         required: false
         default: ""
+      quality_tier:
+        description: "Journal quality tier (SJR-based). Q1 = top 25%, Q2 = top 50%, etc."
+        required: false
+        default: "all"
+        type: choice
+        options:
+          - all
+          - Q1
+          - Q2
+          - Q3
+          - Q4
 
 jobs:
   collect:
@@ -49,6 +60,7 @@ jobs:
           PAPER_COLLECTOR_LOG_FORMAT: json
           PAPER_COLLECTOR_COLLECTIONS: ${{ github.event.inputs.collection || 'aluminosilicate,halide-solid-state-battery' }}
           PAPER_COLLECTOR_YEARS_BACK: ${{ github.event.inputs.years || '5' }}
+          PAPER_COLLECTOR_QUALITY_TIER: ${{ github.event.inputs.quality_tier || 'all' }}
         run: python workflows/scheduled.py
 
       - name: Commit collected papers
