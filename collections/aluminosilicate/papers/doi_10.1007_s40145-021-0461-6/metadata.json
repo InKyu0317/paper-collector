@@ -1,0 +1,98 @@
+{
+  "paper_id": "doi_10.1007_s40145-021-0461-6",
+  "collection": "aluminosilicate",
+  "title": "Preparation and properties of CMAS resistant bixbyite structured high-entropy oxides RE2O3 (RE = Sm, Eu, Er, Lu, Y, and Yb): Promising environmental barrier coating materials for Al2O3f/Al2O3 composites",
+  "authors": [
+    {
+      "name": "Yanan Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5826-2298",
+      "affiliation": "Central South University"
+    },
+    {
+      "name": "Huimin Xiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2617-911X",
+      "affiliation": "Aerospace Research Institute of Materials and Processing Technology"
+    },
+    {
+      "name": "Fu‐Zhi Dai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3115-4363",
+      "affiliation": "Aerospace Research Institute of Materials and Processing Technology"
+    },
+    {
+      "name": "Xiaohui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3415-5612",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yan Xing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7210-2458",
+      "affiliation": "Nanjing University of Posts and Telecommunications"
+    },
+    {
+      "name": "Xiaojun Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6440-5950",
+      "affiliation": "Central South University"
+    },
+    {
+      "name": "Yanchun Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4830-4287",
+      "affiliation": "Aerospace Research Institute of Materials and Processing Technology"
+    }
+  ],
+  "doi": "10.1007/s40145-021-0461-6",
+  "url": "https://doi.org/10.1007/s40145-021-0461-6",
+  "published": "2021-03-01",
+  "abstract": "Abstract Y 2 O 3 is regarded as one of the potential environmental barrier coating (EBC) materials for Al 2 O 3f /Al 2 O 3 ceramic matrix composites owing to its high melting point and close thermal expansion coefficient to Al 2 O 3 . However, the relatively high thermal conductivity and unsatisfactory calcium-magnesium-aluminosilicate (CMAS) resistance are the main obstacles for the practical application of Y 2 O 3 . In order to reduce the thermal conductivity and increase the CMAS resistance, four cubic bixbyite structured high-entropy oxides RE 2 O 3 , including (Eu 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 , (Sm 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 , (Sm 0.2 Eu 0.2 Er 0.2 Y 0.2 Yb 0.2 ) 2 O 3 , and (Sm 0.2 Eu 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 were designed and synthesized, among which (Eu 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 and (Sm 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 bulks were prepared by spark plasma sintering (SPS) to investigate their mechanical and thermal properties as well as CMAS resistance. The mechanical properties of (Eu 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 and (Sm 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 are close to those of Y 2 O 3 but become more brittle than Y 2 O 3 . The thermal conductivities of (Eu 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 and (Sm 0.2 Er 0.2 Lu 0.2 Y 0.2 Yb 0.2 ) 2 O 3 (5.1 and 4.6 W·m −1 ·K −1 ) are only 23.8% and 21.5% respectively of that of Y 2 O 3 (21.4 W·m −1 ·K −1 ), while their thermal expansion coefficients are close to those of Y 2 O 3 and Al 2 O 3 . Most importantly, HE RE 2 O 3 ceramics exhibit good CMAS resistance. After being attacked by CMAS at 1350 °C for 4 h, the HE RE 2 O 3 ceramics maintain their original morphologies without forming pores or cracks, making them promising as EBC materials for Al 2 O 3f /Al 2 O 3 composites.",
+  "keywords": [
+    "Materials science",
+    "Bixbyite",
+    "Spark plasma sintering",
+    "Melting point",
+    "Thermal conductivity",
+    "Ceramic",
+    "Thermal barrier coating",
+    "Analytical Chemistry (journal)",
+    "Sintering",
+    "Nuclear chemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W3134584793",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s40145-021-0461-6/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40145-021-0461-6.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 118,
+  "journal": "Journal of Advanced Ceramics",
+  "publisher": "",
+  "issn": "2226-4108",
+  "quartile": "",
+  "added_at": "2026-05-22T05:25:57.252053+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

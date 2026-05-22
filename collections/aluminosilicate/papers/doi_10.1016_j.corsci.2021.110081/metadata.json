@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1016_j.corsci.2021.110081",
+  "collection": "aluminosilicate",
+  "title": "High-temperature corrosion of HfSiO4 environmental barrier coatings exposed to water vapor/oxygen atmosphere and molten calcium magnesium aluminosilicate",
+  "authors": [
+    {
+      "name": "Shujuan Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Kaiyue Lü",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Yihui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5665-5557",
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Jinyan Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Jieyan Yuan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Jianing Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Longhui Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0002-5881-5598",
+      "affiliation": "Wuhan University of Technology"
+    },
+    {
+      "name": "Xueqiang Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Wuhan University of Technology"
+    }
+  ],
+  "doi": "10.1016/j.corsci.2021.110081",
+  "url": "https://doi.org/10.1016/j.corsci.2021.110081",
+  "published": "2022-01-03",
+  "abstract": "",
+  "keywords": [
+    "Corrosion",
+    "Materials science",
+    "Coating",
+    "Metallurgy",
+    "Thermal barrier coating",
+    "Chemical engineering",
+    "Composite material",
+    "Engineering"
+  ],
+  "source": "openalex",
+  "source_id": "W4206560410",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.corsci.2021.110081/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 41,
+  "journal": "Corrosion Science",
+  "publisher": "",
+  "issn": "0010-938X",
+  "quartile": "",
+  "added_at": "2026-05-22T05:25:57.252473+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

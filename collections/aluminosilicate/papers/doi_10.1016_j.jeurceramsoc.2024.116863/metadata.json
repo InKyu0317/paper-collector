@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi_10.1016_j.jeurceramsoc.2024.116863",
+  "collection": "aluminosilicate",
+  "title": "Degradation of LaPO4-8YSZ composite thick thermal barrier coatings by molten calcium-magnesium-aluminosilicate",
+  "authors": [
+    {
+      "name": "Wenzhi Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "National University of Defense Technology"
+    },
+    {
+      "name": "Ruiqi Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3153-4027",
+      "affiliation": "National University of Defense Technology"
+    },
+    {
+      "name": "Xin Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6148-3347",
+      "affiliation": "Yantai University"
+    },
+    {
+      "name": "Panhao Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "National University of Defense Technology"
+    }
+  ],
+  "doi": "10.1016/j.jeurceramsoc.2024.116863",
+  "url": "https://doi.org/10.1016/j.jeurceramsoc.2024.116863",
+  "published": "2024-08-23",
+  "abstract": "",
+  "keywords": [
+    "Aluminosilicate",
+    "Materials science",
+    "Thermal barrier coating",
+    "Magnesium",
+    "Degradation (telecommunications)",
+    "Composite number",
+    "Calcium aluminosilicate",
+    "Calcium",
+    "Metallurgy",
+    "Thermal"
+  ],
+  "source": "openalex",
+  "source_id": "W4401817024",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.jeurceramsoc.2024.116863/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 37,
+  "journal": "Journal of the European Ceramic Society",
+  "publisher": "",
+  "issn": "0955-2219",
+  "quartile": "",
+  "added_at": "2026-05-22T05:25:57.253069+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

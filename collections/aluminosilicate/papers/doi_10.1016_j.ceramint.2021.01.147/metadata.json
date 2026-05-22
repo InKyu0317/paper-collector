@@ -1,0 +1,98 @@
+{
+  "paper_id": "doi_10.1016_j.ceramint.2021.01.147",
+  "collection": "aluminosilicate",
+  "title": "Crystalline and amorphous PEO based ceramic coatings on AA6061: Nanoindentation and corrosion studies",
+  "authors": [
+    {
+      "name": "Anju M. Pillai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0307-1376",
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "Rahul Ghosh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8333-369X",
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "Arjun Dey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3727-3056",
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "K. Prajwal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "A. Rajendra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "Anand Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2517-8775",
+      "affiliation": "Indian Space Research Organisation"
+    },
+    {
+      "name": "S. Sampath",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0777-2161",
+      "affiliation": "Indian Institute of Science Bangalore"
+    }
+  ],
+  "doi": "10.1016/j.ceramint.2021.01.147",
+  "url": "https://doi.org/10.1016/j.ceramint.2021.01.147",
+  "published": "2021-01-18",
+  "abstract": "",
+  "keywords": [
+    "Materials science",
+    "Nanoindentation",
+    "Amorphous solid",
+    "Plasma electrolytic oxidation",
+    "Corrosion",
+    "Coating",
+    "Dielectric spectroscopy",
+    "Scanning electron microscope",
+    "Ceramic",
+    "Electrolyte"
+  ],
+  "source": "openalex",
+  "source_id": "W3121357597",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.ceramint.2021.01.147/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 42,
+  "journal": "Ceramics International",
+  "publisher": "",
+  "issn": "0272-8842",
+  "quartile": "",
+  "added_at": "2026-05-22T05:25:57.252758+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
