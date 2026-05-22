@@ -106,8 +106,8 @@ class CollectionEngine:
                 all_records.extend(records)
                 stats["searched"] += len(records)
 
-                # Advance state only if we got results
-                if records:
+                # Advance state only if we got results AND connector supports pagination
+                if records and connector.supports_pagination:
                     self.query_state.advance_page(collection_cfg.name, sq.connector, sq.query, page + 1)
 
                 logger.info(

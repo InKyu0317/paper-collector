@@ -19,6 +19,7 @@ class OpenAlexConnector(BaseConnector):
     """Search OpenAlex for scholarly works with OA PDF links."""
 
     name = "openalex"
+    supports_pagination = False  # OpenAlex search doesn't support page-based pagination
 
     def __init__(self, api_key: Optional[str] = None, email: Optional[str] = None, **kwargs):
         super().__init__(**kwargs)
@@ -30,11 +31,13 @@ class OpenAlexConnector(BaseConnector):
         if year_from > 0:
             filters.append(f"publication_year:>={year_from}")
 
-        per_page = min(max_results, 200)
+        # OpenAlex does not support page-based pagination with search.
+        # Fetch top results; engine deduplication skips already-collected papers.
+        # New papers naturally bubble up into top results over time.
+        per_page = min(max_results, 50)
         params: dict[str, Any] = {
             "search": query,
             "per_page": per_page,
-            "page": page,
         }
         if filters:
             params["filter"] = ",".join(filters)

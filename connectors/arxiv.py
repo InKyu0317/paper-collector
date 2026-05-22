@@ -38,17 +38,18 @@ class ArxivConnector(BaseConnector):
             date_filter = f" AND submittedDate:[{year_from}01010000 TO 299912312359]"
             query = f"({query}){date_filter}"
 
+        # arXiv API is rate-limited; fetch only one page per run (max 50)
+        safe_limit = min(max_results, 50)
         search = arxiv.Search(
             query=query,
-            max_results=max_results,
+            max_results=safe_limit,
             sort_by=arxiv.SortCriterion.Relevance,
         )
 
         results: list[PaperMetadata] = []
         try:
-            # arxiv library handles pagination internally via page_size
-            # We skip (page-1) * max_results results manually
-            skip = (page - 1) * max_results
+            # Skip results from previous pages
+            skip = (page - 1) * safe_limit
             count = 0
             for result in self._client.results(search):
                 count += 1

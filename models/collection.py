@@ -17,7 +17,7 @@ class SearchQuery(BaseModel):
 
     query: Annotated[str, Field(description="Search string in the source API's native syntax")]
     connector: Annotated[str, Field(default="arxiv", description="Connector name: arxiv, openalex, crossref")]
-    max_results: Annotated[int, Field(default=50, ge=1, le=500)]
+    max_results: Annotated[int, Field(default=50, ge=1, le=200)]
     extra_filters: Annotated[dict[str, str], Field(default_factory=dict)]
     description: Annotated[str, Field(default="")]
 
@@ -57,21 +57,21 @@ ALUMINOSILICATE_CONFIG = CollectionConfig(
         SearchQuery(
             query="aluminosilicate OR aluminosilicate materials synthesis",
             connector="arxiv",
-            max_results=500,
+            max_results=50,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
             description="arXiv: aluminosilicate in cond-mat materials science",
         ),
         SearchQuery(
             query="aluminosilicate materials synthesis characterization",
             connector="openalex",
-            max_results=500,
+            max_results=50,
             extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent OA aluminosilicate research",
         ),
         SearchQuery(
             query="aluminosilicate zeolite geopolymer materials",
             connector="crossref",
-            max_results=500,
+            max_results=50,
             extra_filters={"type": "journal-article"},
             description="Crossref: aluminosilicate journal articles",
         ),
@@ -92,21 +92,21 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
         SearchQuery(
             query="halide solid state battery OR halide electrolyte all solid state battery",
             connector="arxiv",
-            max_results=500,
+            max_results=50,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
             description="arXiv: halide solid-state battery in cond-mat",
         ),
         SearchQuery(
             query="halide solid electrolyte all-solid-state battery lithium",
             connector="openalex",
-            max_results=500,
+            max_results=50,
             extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent halide battery OA papers",
         ),
         SearchQuery(
             query="halide solid state electrolyte battery lithium",
             connector="crossref",
-            max_results=500,
+            max_results=50,
             extra_filters={"type": "journal-article"},
             description="Crossref: halide battery journal articles",
         ),

@@ -18,6 +18,7 @@ class BaseConnector(ABC):
     """Abstract connector for a scientific paper data source."""
 
     name: str = "base"
+    supports_pagination: bool = True  # Override to False for APIs without true pagination
 
     def __init__(self, http: HttpClient | None = None):
         self.http = http or HttpClient()
