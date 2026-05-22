@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2307.00998v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Unleashing the Potential of Li-Metal Batteries A Breakthrough Ultra-High Room-Temperature Ionic Conductivity Composite Solid-State Electrolyte",
+  "authors": [
+    {
+      "name": "Xiong Xiong Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shengfa Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pengcheng Yuan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yaping Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Long Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "ZhengMing Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.00998v1",
+  "published": "2023-07-03T13:24:19+00:00",
+  "abstract": "The solid-state electrolyte is critical for achieving next-generation high energy density and high-safety batteries. Solid polymer electrolytes (SPEs) possess great potential for commercial application owing to their compatibility with the existing manufacturing systems. However, unsatisfactory room-temperature ionic conductivity severely limits its application. Herein, an ultra-high room-temperature ionic conductivity composite solid-state electrolyte (CSE) is prepared by introducing an appropriate amount of SiO2 nanosphere to the PVDF-HFP matrix. By doing this, the polymer particles are divided and surrounded by SiO2. And the interface amount is maximized resulting in the high ionic conductivity of 1.35 mS cm-1 under room temperature. In addition, the CSE shows a wide electrochemical window of 4.95 V and a moderate Li+ transference number of 0.44. The CSE demonstrates good stability with Li anode, with Li symmetric cells that could cycle 1000 h at a current density of 0.2 mA cm-2. The full cell assembled with LiFePO4 (LFP) and Li metal displays a high reversible specific capacity of 157.8 mAh g-1 at 0.1C, and it could maintain 92.9% of initial capacity after 300 cycles at 3C. Moreover, the strategy is applied in solid-state sodium/potassium batteries and displays excellent performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.00998v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.00998v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.00998v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:35:06.615462+00:00",
+  "updated_at": "",
+  "extra": {}
+}

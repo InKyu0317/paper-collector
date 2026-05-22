@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1039_d2ta02321k",
+  "collection": "halide-solid-state-battery",
+  "title": "Progress, challenges and perspectives of computational studies on glassy superionic conductors for solid-state batteries",
+  "authors": [
+    {
+      "name": "Zhenming Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongyao Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D2TA02321K",
+  "url": "http://arxiv.org/abs/2204.05118v2",
+  "published": "2022-04-08T00:31:26+00:00",
+  "abstract": "Sulfide-based glasses and glass-ceramics showing high ionic conductivities and excellent mechanical properties are considered as promising solid-state electrolytes. Nowadays, the computational material techniques with the advantage of low research cost are being widely utilized for understanding, effectively screening and discovering of battery materials. In consideration of the rising importance and contributions of computational studying on the glassy SSE materials, here, this work summarizes the common computational methods utilized for studying the amorphous inorganic materials, review the recent progress in computational investigations of the lithium and sodium sulfide-type glasses for solid-state batteries, and outlines our understandings of the challenges and future perspective on them. This review would facilitate and accelerate the future computational screening and discovering more glassy-state SSE materials for the solid-state batteries.",
+  "keywords": [
+    "physics.comp-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2204.05118v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d2ta02321k/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2204.05118v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:35:47.340796+00:00",
+  "updated_at": "",
+  "extra": {}
+}
