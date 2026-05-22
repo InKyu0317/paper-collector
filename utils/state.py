@@ -2,6 +2,9 @@
 
 Tracks the last page/offset for each (collection, connector, query) tuple
 so that daily runs resume where they left off instead of re-fetching page 1.
+
+Each collection gets its own state file (query_state_<name>.json) so that
+concurrent GitHub Actions runs for different collections never conflict.
 """
 
 from __future__ import annotations
@@ -21,37 +24,53 @@ def _query_hash(connector: str, query: str) -> str:
 
 
 class QueryState:
-    """Per-query pagination state persisted to disk."""
+    """Per-collection, per-query pagination state persisted to disk.
+
+    Each collection name maps to a separate JSON file so that concurrent
+    workflow runs (e.g. aluminosilicate vs halide) never touch the same file.
+    """
 
     def __init__(self, state_dir: Path):
-        self._state_file = state_dir / "query_state.json"
-        self._state_file.parent.mkdir(parents=True, exist_ok=True)
-        self._data: dict = self._load()
+        self._state_dir = state_dir
+        self._state_dir.mkdir(parents=True, exist_ok=True)
+        # Lazy-loaded per-collection state dicts
+        self._stores: dict[str, dict] = {}
 
-    def _load(self) -> dict:
-        if self._state_file.exists():
-            try:
-                return json.loads(self._state_file.read_text())
-            except (json.JSONDecodeError, OSError):
-                return {}
-        return {}
+    def _state_file(self, collection: str) -> Path:
+        return self._state_dir / f"query_state_{collection}.json"
 
-    def _save(self) -> None:
+    def _get_store(self, collection: str) -> dict:
+        if collection not in self._stores:
+            path = self._state_file(collection)
+            if path.exists():
+                try:
+                    self._stores[collection] = json.loads(path.read_text())
+                except (json.JSONDecodeError, OSError):
+                    self._stores[collection] = {}
+            else:
+                self._stores[collection] = {}
+        return self._stores[collection]
+
+    def _save(self, collection: str) -> None:
+        path = self._state_file(collection)
         try:
-            self._state_file.write_text(json.dumps(self._data, indent=2))
+            path.write_text(json.dumps(self._stores[collection], indent=2))
         except OSError as e:
-            logger.warning("state_save_failed", error=str(e))
+            logger.warning("state_save_failed", collection=collection, error=str(e))
 
     def get_page(self, collection: str, connector: str, query: str) -> int:
+        store = self._get_store(collection)
         key = f"{collection}:{_query_hash(connector, query)}"
-        return self._data.get(key, {}).get("page", 1)
+        return store.get(key, {}).get("page", 1)
 
     def advance_page(self, collection: str, connector: str, query: str, new_page: int) -> None:
+        store = self._get_store(collection)
         key = f"{collection}:{_query_hash(connector, query)}"
-        self._data[key] = {"page": new_page}
-        self._save()
+        store[key] = {"page": new_page}
+        self._save(collection)
 
     def reset(self, collection: str, connector: str, query: str) -> None:
+        store = self._get_store(collection)
         key = f"{collection}:{_query_hash(connector, query)}"
-        self._data.pop(key, None)
-        self._save()
+        store.pop(key, None)
+        self._save(collection)
