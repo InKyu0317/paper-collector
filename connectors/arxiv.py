@@ -19,6 +19,9 @@ class ArxivConnector(BaseConnector):
 
     name = "arxiv"
 
+    # arXiv API politeness: cap per-run page size to a small batch.
+    PAGE_SIZE = 5
+
     def __init__(
         self,
         delay_seconds: float = 3.0,
@@ -27,29 +30,53 @@ class ArxivConnector(BaseConnector):
         super().__init__(**kwargs)
         self._delay = delay_seconds
         self._client = arxiv.Client(
-            page_size=5,
+            page_size=self.PAGE_SIZE,
             delay_seconds=delay_seconds,
             num_retries=10,
         )
 
-    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1, **kwargs) -> list[PaperMetadata]:
-        # Add year filter to query if specified
+    def search(
+        self,
+        query: str,
+        max_results: int = 50,
+        year_from: int = 0,
+        page: int = 1,
+        extra_filters: Optional[dict[str, str]] = None,
+        **kwargs,
+    ) -> list[PaperMetadata]:
+        # arXiv supports field-scoped filters inline via the query string.
+        # See https://info.arxiv.org/help/api/user-manual.html#query_details
+        #
+        # IMPORTANT: do NOT re-wrap `query` in extra parentheses when appending
+        # AND clauses. arXiv's query parser has been observed to reject nested
+        # groups (HTTP 429 / empty results) for combined queries like
+        # `(((a) AND (b)) AND cat:x)`. Since `cat:` and `submittedDate:` are
+        # joined with AND, operator precedence is preserved without grouping.
+        # If the caller passes a top-level OR query, they MUST parenthesise it
+        # themselves (which the profile/preset builders already do).
+        if extra_filters:
+            cat = extra_filters.get("cat")
+            if cat:
+                query = f"{query} AND cat:{cat}"
+
         if year_from > 0:
             date_filter = f" AND submittedDate:[{year_from}01010000 TO 299912312359]"
-            query = f"({query}){date_filter}"
+            query = f"{query}{date_filter}"
 
-        # arXiv API is rate-limited; fetch only a small batch per run
-        safe_limit = min(max_results, 5)
+        # Fetch up to (page * PAGE_SIZE) results so we can skip prior pages.
+        # The arxiv library streams results; we still cap the *returned* size to
+        # `max_results` (per-page batch) below.
+        per_page = min(max_results, self.PAGE_SIZE)
+        fetch_total = per_page * max(page, 1)
         search = arxiv.Search(
             query=query,
-            max_results=safe_limit,
+            max_results=fetch_total,
             sort_by=arxiv.SortCriterion.Relevance,
         )
 
         results: list[PaperMetadata] = []
         try:
-            # Skip results from previous pages
-            skip = (page - 1) * safe_limit
+            skip = (page - 1) * per_page
             count = 0
             for result in self._client.results(search):
                 count += 1
@@ -84,7 +111,7 @@ class ArxivConnector(BaseConnector):
                 )
                 results.append(metadata)
 
-                if len(results) >= max_results:
+                if len(results) >= per_page:
                     break
         except arxiv.HTTPError as e:
             from utils.logging import get_logger

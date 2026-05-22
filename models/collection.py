@@ -7,7 +7,7 @@ and output-specific metadata for the materials science domain.
 from __future__ import annotations
 
 import datetime
-from typing import Annotated, Optional
+from typing import Annotated
 
 from pydantic import BaseModel, ConfigDict, Field
 
@@ -31,6 +31,10 @@ class CollectionConfig(BaseModel):
     display_name: Annotated[str, Field(default="")]
     domain: Annotated[str, Field(default="materials-science")]
     description: Annotated[str, Field(default="")]
+    # Topic phrase used to intersect the preset with user-provided keywords
+    # (combined per-API via `(topic) AND (keyword)` etc.). Should be a concise
+    # noun phrase, NOT a full boolean query.
+    search_topic: Annotated[str, Field(default="", description="Topic phrase for AND-combining with user keywords")]
     queries: Annotated[list[SearchQuery], Field(default_factory=list)]
     enabled_connectors: Annotated[list[str], Field(default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"])]
     max_total_papers: Annotated[int, Field(default=100_000, ge=0, description="Max papers per collection. 0 = unlimited.")]
@@ -53,9 +57,10 @@ ALUMINOSILICATE_CONFIG = CollectionConfig(
     display_name="Aluminosilicate Materials",
     domain="materials-science",
     description="Research on aluminosilicate synthesis, characterization, and applications",
+    search_topic="aluminosilicate",
     queries=[
         SearchQuery(
-            query="aluminosilicate OR aluminosilicate materials synthesis",
+            query="aluminosilicate",
             connector="arxiv",
             max_results=5,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
@@ -65,7 +70,6 @@ ALUMINOSILICATE_CONFIG = CollectionConfig(
             query="aluminosilicate materials synthesis characterization",
             connector="openalex",
             max_results=5,
-            extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent OA aluminosilicate research",
         ),
         SearchQuery(
@@ -88,9 +92,10 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
     display_name="Halide Solid-State Battery",
     domain="materials-science",
     description="Research on halide-based solid electrolytes and all-solid-state batteries",
+    search_topic="halide AND (solid-state battery OR solid electrolyte)",
     queries=[
         SearchQuery(
-            query="halide solid state battery OR halide electrolyte all solid state battery",
+            query="halide AND (solid-state battery OR solid electrolyte)",
             connector="arxiv",
             max_results=5,
             extra_filters={"cat": "cond-mat.mtrl-sci"},
@@ -100,7 +105,6 @@ HALIDE_BATTERY_CONFIG = CollectionConfig(
             query="halide solid electrolyte all-solid-state battery lithium",
             connector="openalex",
             max_results=5,
-            extra_filters={"publication_year": "2020"},
             description="OpenAlex: recent halide battery OA papers",
         ),
         SearchQuery(

@@ -31,14 +31,24 @@ cp .env.example .env
 ## Usage
 
 ```bash
-# Run all collections
+# Run all preset collections
 python workflows/collect.py
 
-# Single collection
+# Single preset collection
 python workflows/collect.py -c aluminosilicate
 
-# Dry run (preview queries)
-python workflows/collect.py --dry-run
+# Keyword-only search (creates a custom-* collection)
+python workflows/collect.py --keywords "topological insulator, spintronics"
+
+# Preset x keyword INTERSECTION — papers about the preset's topic AND the keyword.
+# Results are stored INTO the preset's existing folder (e.g. collections/aluminosilicate/).
+python workflows/collect.py -c aluminosilicate --keywords "plasma resistance"
+
+# Dry run (preview the actual queries that will be sent to each API)
+python workflows/collect.py -c aluminosilicate --keywords "plasma resistance" --dry-run
+
+# Quality tier + year range
+python workflows/collect.py -c aluminosilicate --quality-tier Q1 --years-back 10
 
 # Metadata only, skip PDFs
 python workflows/collect.py --no-pdf
@@ -52,6 +62,53 @@ python workflows/view.py -c aluminosilicate --sort citations
 python workflows/view.py --format markdown
 python workflows/view.py --min-citations 50
 ```
+
+## Search Modes
+
+The collector supports three modes, chosen automatically based on which inputs
+are set (`PAPER_COLLECTOR_COLLECTIONS` and `PAPER_COLLECTOR_KEYWORDS`, or the
+`-c` / `--keywords` CLI flags):
+
+### 1. Preset only — `collection` set, no `keywords`
+
+Runs each preset's hand-crafted queries verbatim. Stored under
+`collections/<preset_name>/`.
+
+```bash
+python workflows/collect.py -c aluminosilicate
+```
+
+### 2. Keyword only — `keywords` set, no `collection`
+
+Creates a standalone dynamic collection. Each keyword is searched in isolation
+across all three connectors. Stored under `collections/custom-<keywords>/`.
+
+```bash
+python workflows/collect.py --keywords "topological insulator, spintronics"
+```
+
+### 3. Preset × Keyword **intersection** — both set
+
+For each preset, the preset's `search_topic` is combined with every keyword
+using each API's native AND syntax, and the results are stored **into the
+preset's existing collection folder**. This is the mode that answers:
+
+> "Give me papers about *<preset topic>* that *also* mention *<keyword>*."
+
+```bash
+python workflows/collect.py -c aluminosilicate --keywords "plasma resistance"
+```
+
+The actual queries sent to each API (visible via `--dry-run`):
+
+| Connector | Combined query | Why this syntax |
+|-----------|----------------|-----------------|
+| arXiv | `(aluminosilicate) AND (plasma resistance)` | arXiv requires uppercase boolean operators |
+| OpenAlex | `aluminosilicate AND plasma resistance` | OpenAlex `search` field supports explicit `AND` |
+| Crossref | `aluminosilicate plasma resistance` | Crossref `query` is relevance-ranked; boolean operators are NOT supported and would be treated as literal tokens |
+
+Papers are stored under `collections/aluminosilicate/papers/` — no separate
+`custom-*` folder is created in this mode.
 
 ## Collection Pipeline
 
@@ -69,7 +126,7 @@ Search (3 connectors × 5 papers)
 
 | Connector | Pagination | Daily | Strategy |
 |-----------|-----------|-------|----------|
-| **arXiv** | ✅ skip-based | 5 | Previous pages skipped, next page fetched |
+| **arXiv** | ✅ skip-based | 5 | Fetches `page × 5` results, skips prior pages, returns next 5 |
 | **OpenAlex** | ❌ not supported | 5 | Always top 5; dedup skips existing, new papers bubble up |
 | **Crossref** | ✅ offset-based | 5 | Offset advances by 5 each run |
 
@@ -85,16 +142,18 @@ State is persisted in `collections/.state/query_state.json` and survives across 
 |------|--------|
 | **API** | `https://export.arxiv.org/api/query` |
 | **Library** | `arxiv` (official wrapper) |
-| **Request** | `arxiv.Search(query, max_results=5, sort_by=relevance)` |
-| **Year Filter** | `submittedDate:[202101010000 TO 299912312359]` appended to query |
+| **Request** | `arxiv.Search(query, max_results=page*5, sort_by=relevance)` then skip prior pages |
+| **Category Filter** | `cat:<category>` appended to query (from `extra_filters["cat"]`) |
+| **Year Filter** | `submittedDate:[YYYY01010000 TO 299912312359]` appended to query |
 | **Rate Limit** | 3s delay, 10 retries |
 
 **Example URL:**
 ```
 https://export.arxiv.org/api/query?
-  search_query=(aluminosilicate OR aluminosilicate materials synthesis)
+  search_query=((aluminosilicate) AND (plasma resistance))
+  AND cat:cond-mat.mtrl-sci
   AND submittedDate:[202101010000 TO 299912312359]
-  &sortBy=relevance&sortOrder=descending&start=0&max_results=100
+  &sortBy=relevance&sortOrder=descending&start=0&max_results=5
 ```
 
 **Fields extracted:** title, authors (name, affiliation), doi, published, abstract, categories, pdf_url, arXiv ID
@@ -105,7 +164,7 @@ https://export.arxiv.org/api/query?
 |------|--------|
 | **API** | `https://api.openalex.org/works` |
 | **Library** | `httpx` (direct HTTP) |
-| **Request** | `GET ?search=...&per_page=5&filter=publication_year:>=2021` |
+| **Request** | `GET ?search=...&per_page=5&filter=from_publication_date:YYYY-01-01` |
 | **Pagination** | ❌ Not supported — always top 5 results |
 
 **Example URL:**
@@ -113,7 +172,7 @@ https://export.arxiv.org/api/query?
 https://api.openalex.org/works?
   search=aluminosilicate materials synthesis characterization
   &per_page=5
-  &filter=publication_year:>=2021
+  &filter=from_publication_date:2021-01-01
 ```
 
 **Fields extracted:** title, authors (name, institution, ORCID), doi, publication_date, abstract (inverted index decoded), concepts/keywords, journal name, ISSN, cites_per_year, cited_by_count, best_oa_location.pdf_url, OpenAlex W-ID
@@ -202,21 +261,29 @@ collections/
 
 ## Configured Collections
 
+Each preset declares a `search_topic` — the canonical noun phrase used when the
+preset is combined with user-supplied keywords (intersection mode). The per-API
+queries below are what runs in **preset-only** mode.
+
 ### aluminosilicate
 
-| Connector | Query | Daily |
-|-----------|-------|-------|
-| arXiv | `aluminosilicate OR aluminosilicate materials synthesis` | 5 |
-| OpenAlex | `aluminosilicate materials synthesis characterization` | 5 |
-| Crossref | `aluminosilicate zeolite geopolymer materials` | 5 |
+**search_topic**: `aluminosilicate`
+
+| Connector | Preset-only query | Extra filters | Daily |
+|-----------|-------------------|---------------|-------|
+| arXiv | `aluminosilicate` | `cat:cond-mat.mtrl-sci` | 5 |
+| OpenAlex | `aluminosilicate materials synthesis characterization` | — | 5 |
+| Crossref | `aluminosilicate zeolite geopolymer materials` | `type:journal-article` | 5 |
 
 ### halide-solid-state-battery
 
-| Connector | Query | Daily |
-|-----------|-------|-------|
-| arXiv | `halide solid state battery OR halide electrolyte all solid state battery` | 5 |
-| OpenAlex | `halide solid electrolyte all-solid-state battery lithium` | 5 |
-| Crossref | `halide solid state electrolyte battery lithium` | 5 |
+**search_topic**: `halide AND (solid-state battery OR solid electrolyte)`
+
+| Connector | Preset-only query | Extra filters | Daily |
+|-----------|-------------------|---------------|-------|
+| arXiv | `halide AND (solid-state battery OR solid electrolyte)` | `cat:cond-mat.mtrl-sci` | 5 |
+| OpenAlex | `halide solid electrolyte all-solid-state battery lithium` | — | 5 |
+| Crossref | `halide solid state electrolyte battery lithium` | `type:journal-article` | 5 |
 
 ## Quality Filtering (SJR-Based Q1/Q2/Q3/Q4)
 
@@ -302,8 +369,11 @@ All settings via environment variables (or `.env`):
 | `PAPER_COLLECTOR_CROSSREF_EMAIL` | Crossref email | — |
 | `PAPER_COLLECTOR_UNPAYWALL_EMAIL` | Unpaywall email | — |
 | `PAPER_COLLECTOR_QUALITY_TIER` | Journal quality tier (all/Q1/Q2/Q3/Q4) | `all` |
+| `PAPER_COLLECTOR_ALLOW_PREPRINTS_IN_QUARTILE_FILTER` | When `quality_tier` is Q1-Q4, let papers without ISSN (e.g. arXiv preprints) bypass the SJR filter | `false` |
 | `PAPER_COLLECTOR_LOG_LEVEL` | Log level | INFO |
-| `PAPER_COLLECTOR_COLLECTIONS` | Collections to process | all |
+| `PAPER_COLLECTOR_COLLECTIONS` | Preset collection name(s), comma-separated | `aluminosilicate,halide-solid-state-battery` |
+| `PAPER_COLLECTOR_KEYWORDS` | Custom keywords, comma-separated. Combined with each preset's `search_topic` when `COLLECTIONS` is also set (intersection mode) | empty |
+| `PAPER_COLLECTOR_YEARS_BACK` | Collect papers from the last N years (0 = all) | `5` |
 
 ## CI/CD
 
@@ -321,10 +391,13 @@ Go to **Actions → Scheduled Paper Collection → Run workflow**.
 
 | Input | Value | Description |
 |-------|-------|-------------|
-| `collection` | *(empty)* | Run all collections (default) |
+| `collection` | *(empty)* | Run all presets (default) |
 | | `aluminosilicate` | Run only aluminosilicate |
 | | `halide-solid-state-battery` | Run only halide solid-state battery |
-| `years` | `5` | Collect papers from the last N years (default: 5) |
+| `keywords` | *(empty)* | Preset-only mode |
+| | `plasma resistance` | Combined with each selected preset's `search_topic` (intersection mode); results stored in the preset's folder |
+| | `topological insulator, spintronics` | If `collection` is empty, creates standalone `custom-*` collections per keyword |
+| `years` | `5` | Collect papers from the last N years (default: 5; 0 = no year filter) |
 | `quality_tier` | `all` | Journal quality tier: all, Q1, Q2, Q3, Q4 |
 
 On success, collected papers are automatically committed and pushed to `main`.

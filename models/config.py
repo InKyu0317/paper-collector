@@ -109,6 +109,11 @@ class AppConfig(BaseSettings):
     Data sourced from https://www.scimagojr.com/journalrank.php
     """
 
+    allow_preprints_in_quartile_filter: bool = False
+    """When quality_tier is Q1/Q2/Q3/Q4, papers without an ISSN (e.g. arXiv
+    preprints) are dropped by default — a Q1 filter is meaningless for them.
+    Set True to let preprints through (they bypass the SJR filter)."""
+
     # ─ Logging ─────────────────────────────────────────────────────
     log_level: str = "INFO"
     log_format: str = "json"

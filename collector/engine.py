@@ -102,7 +102,13 @@ class CollectionEngine:
                 page = self.query_state.get_page(collection_cfg.name, sq.connector, sq.query)
                 logger.info("search_page", connector=sq.connector, page=page)
 
-                records = connector.search(sq.query, max_results=sq.max_results, year_from=year_from, page=page)
+                records = connector.search(
+                    sq.query,
+                    max_results=sq.max_results,
+                    year_from=year_from,
+                    page=page,
+                    extra_filters=sq.extra_filters,
+                )
                 for r in records:
                     r.collection = collection_cfg.name
                 all_records.extend(records)
@@ -225,8 +231,17 @@ class CollectionEngine:
                     )
                     continue
                 else:
-                    # No ISSN — fall through to other filters
-                    pass
+                    # No ISSN — typically arXiv preprints. By default drop them
+                    # because a "Q1 only" filter is meaningless without journal info.
+                    # Users can opt in via PAPER_COLLECTOR_ALLOW_PREPRINTS_IN_QUARTILE_FILTER=true.
+                    if not self.config.allow_preprints_in_quartile_filter:
+                        logger.debug(
+                            "filter_no_issn_under_quartile",
+                            paper_id=r.paper_id,
+                            source=r.source,
+                            required=quality_tier,
+                        )
+                        continue
 
             # ── Fallback: Journal whitelist check ──
             if journal_whitelist and r.journal not in journal_whitelist:

@@ -22,10 +22,23 @@ class CrossrefConnector(BaseConnector):
         super().__init__(**kwargs)
         self._cr = Crossref(mailto=email) if email else Crossref()
 
-    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1) -> list[PaperMetadata]:
-        filters = {"type": "journal-article"}
+    def search(
+        self,
+        query: str,
+        max_results: int = 50,
+        year_from: int = 0,
+        page: int = 1,
+        extra_filters: Optional[dict[str, str]] = None,
+        **kwargs,
+    ) -> list[PaperMetadata]:
+        # Default to journal-article; caller can override via extra_filters["type"].
+        filters: dict[str, str] = {"type": "journal-article"}
         if year_from > 0:
             filters["from-pub-date"] = f"{year_from}-01-01"
+        if extra_filters:
+            # Crossref habanero accepts hyphenated filter keys (e.g. from-pub-date).
+            # The user passes e.g. {"type": "journal-article"} — apply directly.
+            filters.update(extra_filters)
 
         # Safe batch size per run
         limit = min(max_results, 5)

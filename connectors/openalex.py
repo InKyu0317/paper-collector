@@ -26,11 +26,30 @@ class OpenAlexConnector(BaseConnector):
         self._api_key = api_key
         self._email = email
 
-    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1) -> list[PaperMetadata]:
+    def search(
+        self,
+        query: str,
+        max_results: int = 50,
+        year_from: int = 0,
+        page: int = 1,
+        extra_filters: Optional[dict[str, str]] = None,
+        **kwargs,
+    ) -> list[PaperMetadata]:
         filters = []
         if year_from > 0:
             # OpenAlex uses from_publication_date for range filters
             filters.append(f"from_publication_date:{year_from}-01-01")
+
+        # Pass through caller-supplied filters. OpenAlex filter syntax is
+        # `key:value`; multiple filters are comma-joined.
+        # Reject the legacy invalid `publication_year` key (silently translated
+        # to from_publication_date) to avoid duplicating the year filter.
+        if extra_filters:
+            for k, v in extra_filters.items():
+                if k == "publication_year":
+                    # Legacy preset key — already covered by year_from; skip.
+                    continue
+                filters.append(f"{k}:{v}")
 
         # OpenAlex does not support page-based pagination with search.
         # Fetch top results; engine deduplication skips already-collected papers.
