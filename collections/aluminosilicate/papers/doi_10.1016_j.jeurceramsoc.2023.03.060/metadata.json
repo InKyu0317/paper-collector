@@ -1,0 +1,98 @@
+{
+  "paper_id": "doi_10.1016_j.jeurceramsoc.2023.03.060",
+  "collection": "aluminosilicate",
+  "title": "Reactive spark plasma sintering of the hexacelcian barium aluminosilicate phase.",
+  "authors": [
+    {
+      "name": "Christian Guérin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Centre National de la Recherche Scientifique"
+    },
+    {
+      "name": "A. Bassoulet-Saintonge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Centre National de la Recherche Scientifique"
+    },
+    {
+      "name": "Alexandre Allemand",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7259-9129",
+      "affiliation": "Centre National de la Recherche Scientifique"
+    },
+    {
+      "name": "A. Maitre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Centre National de la Recherche Scientifique"
+    },
+    {
+      "name": "R. Boulesteix",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Centre National de la Recherche Scientifique"
+    },
+    {
+      "name": "T. Piquero",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Commissariat à l'Énergie Atomique et aux Énergies Alternatives"
+    },
+    {
+      "name": "Y. Le Petitcorps",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Centre National de la Recherche Scientifique"
+    }
+  ],
+  "doi": "10.1016/j.jeurceramsoc.2023.03.060",
+  "url": "https://doi.org/10.1016/j.jeurceramsoc.2023.03.060",
+  "published": "2023-03-29",
+  "abstract": "",
+  "keywords": [
+    "Spark plasma sintering",
+    "Aluminosilicate",
+    "Materials science",
+    "Barium",
+    "Sintering",
+    "Barium carbonate",
+    "Chemical engineering",
+    "Phase (matter)",
+    "Plasma",
+    "Mineralogy"
+  ],
+  "source": "openalex",
+  "source_id": "W4361228639",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.jeurceramsoc.2023.03.060/paper.pdf",
+  "pdf_url": "https://unilim.hal.science/hal-04403093/document",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Journal of the European Ceramic Society",
+  "publisher": "",
+  "issn": "0955-2219",
+  "quartile": "",
+  "added_at": "2026-05-22T07:54:48.313029+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

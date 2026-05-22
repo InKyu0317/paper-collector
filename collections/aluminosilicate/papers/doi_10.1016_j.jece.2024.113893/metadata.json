@@ -1,0 +1,90 @@
+{
+  "paper_id": "doi_10.1016_j.jece.2024.113893",
+  "collection": "aluminosilicate",
+  "title": "Spark plasma sintering of cenosphere-derived Cs/Sr-aluminosilicates for 137Cs and 90Sr immobilization in mineral-like ceramics",
+  "authors": [
+    {
+      "name": "О. О. Шичалин",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2441-6209",
+      "affiliation": "Sakhalin State University"
+    },
+    {
+      "name": "Tatiana A. Vereshchagina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4538-8902",
+      "affiliation": "Krasnoyarsk Scientific Center"
+    },
+    {
+      "name": "I. Yu. Buravlev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3944-3629",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "Ekaterina А. Kutikhina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8730-129X",
+      "affiliation": "Krasnoyarsk Scientific Center"
+    },
+    {
+      "name": "А. Г. Аншиц",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5259-0319",
+      "affiliation": "Krasnoyarsk Scientific Center"
+    },
+    {
+      "name": "A.A. Belov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3120-819X",
+      "affiliation": "Far Eastern Federal University"
+    }
+  ],
+  "doi": "10.1016/j.jece.2024.113893",
+  "url": "https://doi.org/10.1016/j.jece.2024.113893",
+  "published": "2024-08-23",
+  "abstract": "",
+  "keywords": [
+    "Spark plasma sintering",
+    "Aluminosilicate",
+    "Cenosphere",
+    "Ceramic",
+    "Materials science",
+    "Mineral",
+    "Sintering",
+    "Plasma",
+    "Metallurgy",
+    "Radiochemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W4401825209",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.jece.2024.113893/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 16,
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "",
+  "issn": "2213-2929",
+  "quartile": "",
+  "added_at": "2026-05-22T07:54:45.606764+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

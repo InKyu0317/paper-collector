@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2306.15965v1",
+  "collection": "aluminosilicate",
+  "title": "Effects of deposition temperature on the mechanical and structural properties of amorphous Al-Si-O thin films prepared by RF magnetron sputtering",
+  "authors": [
+    {
+      "name": "Stefan Karlsson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Per Eklund",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lars Österlund",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jens Birch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sharafat Ali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2306.15965v1",
+  "published": "2023-06-28T07:01:25+00:00",
+  "abstract": "Aluminosilicate (Al-Si-O) thin films containing up to 31 at. % Al and 23 at. % Si were prepared by reactive RF magnetron co-sputtering. Mechanical and structural properties were measured by indentation and specular reflectance infrared spectroscopy at varying Si sputtering target power and substrate temperature in the range 100 to 500 °C. It was found that an increased substrate temperature and Al/Si ratio give denser structure and consequently higher hardness (7.4 to 9.5 GPa) and reduced elastic modulus (85 to 93 GPa) while at the same time lower crack resistance (2.6 to 0.9 N). The intensity of the infrared Si-O-Si/Al asymmetric stretching vibrations shows a linear dependence with respect to Al concentration. The Al-O-Al vibrational band (at 1050 cm-1) shifts towards higher wavenumbers with increasing Al concentration which indicates a decrease of the bond length, evidencing denser structure and higher residual stress, which is supported by the increased hardness. The same Al-O-Al vibrational band (at 1050 cm-1) shifts towards lower wavenumber with increasing substrate temperature indicating an increase in the of the average coordination number of Al.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2306.15965v1",
+  "pdf_path": "aluminosilicate/papers/arxiv_2306.15965v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2306.15965v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:54:59.965164+00:00",
+  "updated_at": "",
+  "extra": {}
+}
