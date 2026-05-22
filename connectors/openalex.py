@@ -34,7 +34,7 @@ class OpenAlexConnector(BaseConnector):
         # OpenAlex does not support page-based pagination with search.
         # Fetch top results; engine deduplication skips already-collected papers.
         # New papers naturally bubble up into top results over time.
-        per_page = min(max_results, 50)
+        per_page = min(max_results, 5)
         params: dict[str, Any] = {
             "search": query,
             "per_page": per_page,

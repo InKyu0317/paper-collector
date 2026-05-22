@@ -28,7 +28,7 @@ class CrossrefConnector(BaseConnector):
             filters["from-pub-date"] = f"{year_from}-01-01"
 
         # Safe batch size per run
-        limit = min(max_results, 50)
+        limit = min(max_results, 5)
         offset = (page - 1) * limit
 
         result = self._cr.works(

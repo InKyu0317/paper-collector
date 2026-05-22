@@ -82,7 +82,7 @@ class AppConfig(BaseSettings):
         default_factory=lambda: ["arxiv", "openalex", "crossref", "unpaywall"]
     )
     download_pdfs: bool = True
-    default_max_results_per_query: int = 50
+    default_max_results_per_query: int = 5
     default_max_total_papers: int = 10_000
 
     # ── Time range ─────────────────────────────────────────────────

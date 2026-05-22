@@ -56,7 +56,7 @@ python workflows/view.py --min-citations 50
 ## Collection Pipeline
 
 ```
-Search (3 connectors × 50 papers)
+Search (3 connectors × 5 papers)
   → Unpaywall Enrichment (OA PDF resolution)
   → Quality Filtering (optional)
   → Deduplication (skip existing)
@@ -65,15 +65,15 @@ Search (3 connectors × 50 papers)
 
 ### Incremental Collection
 
-매일 50개씩 안전하게 수집하여 점진적으로 데이터베이스를 쌓습니다:
+매일 5개씩 안전하게 수집하여 점진적으로 데이터베이스를 쌓습니다:
 
 | Connector | Pagination | Daily | Strategy |
 |-----------|-----------|-------|----------|
-| **arXiv** | ✅ skip-based | 50 | Previous pages skipped, next page fetched |
-| **OpenAlex** | ❌ not supported | 50 | Always top 50; dedup skips existing, new papers bubble up |
-| **Crossref** | ✅ offset-based | 50 | Offset advances by 50 each run |
+| **arXiv** | ✅ skip-based | 5 | Previous pages skipped, next page fetched |
+| **OpenAlex** | ❌ not supported | 5 | Always top 5; dedup skips existing, new papers bubble up |
+| **Crossref** | ✅ offset-based | 5 | Offset advances by 5 each run |
 
-**Daily total**: 6 queries × 50 = **max 300 papers** (actual less after dedup)
+**Daily total**: 6 queries × 5 = **max 30 papers** (actual less after dedup)
 
 State is persisted in `collections/.state/query_state.json` and survives across GitHub Actions runs.
 
@@ -85,7 +85,7 @@ State is persisted in `collections/.state/query_state.json` and survives across 
 |------|--------|
 | **API** | `https://export.arxiv.org/api/query` |
 | **Library** | `arxiv` (official wrapper) |
-| **Request** | `arxiv.Search(query, max_results=50, sort_by=relevance)` |
+| **Request** | `arxiv.Search(query, max_results=5, sort_by=relevance)` |
 | **Year Filter** | `submittedDate:[202101010000 TO 299912312359]` appended to query |
 | **Rate Limit** | 3s delay, 10 retries |
 
@@ -105,14 +105,14 @@ https://export.arxiv.org/api/query?
 |------|--------|
 | **API** | `https://api.openalex.org/works` |
 | **Library** | `httpx` (direct HTTP) |
-| **Request** | `GET ?search=...&per_page=50&filter=publication_year:>=2021` |
-| **Pagination** | ❌ Not supported — always top 50 results |
+| **Request** | `GET ?search=...&per_page=5&filter=publication_year:>=2021` |
+| **Pagination** | ❌ Not supported — always top 5 results |
 
 **Example URL:**
 ```
 https://api.openalex.org/works?
   search=aluminosilicate materials synthesis characterization
-  &per_page=50
+  &per_page=5
   &filter=publication_year:>=2021
 ```
 
@@ -124,8 +124,8 @@ https://api.openalex.org/works?
 |------|--------|
 | **API** | Crossref REST API |
 | **Library** | `habanero` |
-| **Request** | `works(query, filter, limit=50, offset=...)` |
-| **Pagination** | ✅ offset-based (page 1 → offset=0, page 2 → offset=50) |
+| **Request** | `works(query, filter, limit=5, offset=...)` |
+| **Pagination** | ✅ offset-based (page 1 → offset=0, page 2 → offset=5) |
 
 **Fields extracted:** title, authors (given+family, affiliation, ORCID), DOI, ISSN, published-print date, abstract, subject/keywords, container-title (journal), is-referenced-by-count (citations), PDF link, URL
 
@@ -206,17 +206,17 @@ collections/
 
 | Connector | Query | Daily |
 |-----------|-------|-------|
-| arXiv | `aluminosilicate OR aluminosilicate materials synthesis` | 50 |
-| OpenAlex | `aluminosilicate materials synthesis characterization` | 50 |
-| Crossref | `aluminosilicate zeolite geopolymer materials` | 50 |
+| arXiv | `aluminosilicate OR aluminosilicate materials synthesis` | 5 |
+| OpenAlex | `aluminosilicate materials synthesis characterization` | 5 |
+| Crossref | `aluminosilicate zeolite geopolymer materials` | 5 |
 
 ### halide-solid-state-battery
 
 | Connector | Query | Daily |
 |-----------|-------|-------|
-| arXiv | `halide solid state battery OR halide electrolyte all solid state battery` | 50 |
-| OpenAlex | `halide solid electrolyte all-solid-state battery lithium` | 50 |
-| Crossref | `halide solid state electrolyte battery lithium` | 50 |
+| arXiv | `halide solid state battery OR halide electrolyte all solid state battery` | 5 |
+| OpenAlex | `halide solid electrolyte all-solid-state battery lithium` | 5 |
+| Crossref | `halide solid state electrolyte battery lithium` | 5 |
 
 ## Quality Filtering (SJR-Based Q1/Q2/Q3/Q4)
 

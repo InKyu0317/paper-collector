@@ -38,8 +38,8 @@ class ArxivConnector(BaseConnector):
             date_filter = f" AND submittedDate:[{year_from}01010000 TO 299912312359]"
             query = f"({query}){date_filter}"
 
-        # arXiv API is rate-limited; fetch only one page per run (max 50)
-        safe_limit = min(max_results, 50)
+        # arXiv API is rate-limited; fetch only a small batch per run
+        safe_limit = min(max_results, 5)
         search = arxiv.Search(
             query=query,
             max_results=safe_limit,
