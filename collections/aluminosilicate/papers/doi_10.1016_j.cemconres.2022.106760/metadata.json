@@ -1,0 +1,98 @@
+{
+  "paper_id": "doi_10.1016_j.cemconres.2022.106760",
+  "collection": "aluminosilicate",
+  "title": "Accelerated carbonation and structural transformation of blast furnace slag by mechanochemical alkali-activation",
+  "authors": [
+    {
+      "name": "Maxwell A. T. Marple",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5251-8301",
+      "affiliation": "Lawrence Livermore National Laboratory"
+    },
+    {
+      "name": "Batikan Köroğlu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8857-3150",
+      "affiliation": "Lawrence Livermore National Laboratory"
+    },
+    {
+      "name": "Keith D. Morrison",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9927-2636",
+      "affiliation": "Lawrence Livermore National Laboratory"
+    },
+    {
+      "name": "Jonathan C. Crowhurst",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3183-2056",
+      "affiliation": "Lawrence Livermore National Laboratory"
+    },
+    {
+      "name": "Anagi M. Balachandra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5645-566X",
+      "affiliation": "Metna (United States)"
+    },
+    {
+      "name": "Parviz Soroushian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9177-9416",
+      "affiliation": "Metna (United States)"
+    },
+    {
+      "name": "Harris E. Mason",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1840-0550",
+      "affiliation": "Lawrence Livermore National Laboratory"
+    }
+  ],
+  "doi": "10.1016/j.cemconres.2022.106760",
+  "url": "https://doi.org/10.1016/j.cemconres.2022.106760",
+  "published": "2022-03-05",
+  "abstract": "",
+  "keywords": [
+    "Carbonation",
+    "Materials science",
+    "Cementitious",
+    "Gehlenite",
+    "Portland cement",
+    "Belite",
+    "Alkali metal",
+    "Chemical engineering",
+    "Aragonite",
+    "Clinker (cement)"
+  ],
+  "source": "openalex",
+  "source_id": "W4220955647",
+  "pdf_path": "aluminosilicate\\papers\\doi_10.1016_j.cemconres.2022.106760\\paper.pdf",
+  "pdf_url": "https://www.osti.gov/servlets/purl/1864118",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 46,
+  "journal": "Cement and Concrete Research",
+  "publisher": "",
+  "issn": "0008-8846",
+  "quartile": "",
+  "added_at": "2026-05-22T05:33:49.217796+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

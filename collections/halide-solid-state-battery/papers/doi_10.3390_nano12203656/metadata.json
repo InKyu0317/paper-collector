@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_nano12203656",
+  "collection": "halide-solid-state-battery",
+  "title": "Self-Healable Lithium-Ion Batteries: A Review",
+  "authors": [
+    {
+      "name": "Ye Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China"
+    },
+    {
+      "name": "Chengrui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China"
+    },
+    {
+      "name": "Feiyu Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China"
+    },
+    {
+      "name": "Yan-Bing He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China"
+    }
+  ],
+  "doi": "10.3390/nano12203656",
+  "url": "https://doi.org/10.3390/nano12203656",
+  "published": null,
+  "abstract": "<jats:p>The inner constituents of lithium-ion batteries (LIBs) are easy to deform during charging and discharging processes, and the accumulation of these deformations would result in physical fractures, poor safety performances, and short lifespan of LIBs. Recent studies indicate that the introduction of self-healing (SH) materials into electrodes or electrolytes can bring about great enhancements in their mechanical strength, thus optimizing the cycle stability of the batteries. Due to the self-healing property of these special functional materials, the fractures/cracks generated during repeated cycles could be spontaneously cured. This review systematically summarizes the mechanisms of self-healing strategies and introduces the applications of SH materials in LIBs, especially from the aspects of electrodes and electrolytes. Finally, the challenges and the opportunities of the future research as well as the potential of applications are presented to promote the research of this field.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/nano12203656",
+  "pdf_path": "halide-solid-state-battery\\papers\\doi_10.3390_nano12203656\\paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 17,
+  "journal": "Nanomaterials",
+  "publisher": "",
+  "issn": "2079-4991",
+  "quartile": "",
+  "added_at": "2026-05-22T05:34:29.502251+00:00",
+  "updated_at": "",
+  "extra": {}
+}

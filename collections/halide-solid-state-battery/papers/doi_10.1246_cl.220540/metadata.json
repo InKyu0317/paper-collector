@@ -1,0 +1,82 @@
+{
+  "paper_id": "doi_10.1246_cl.220540",
+  "collection": "halide-solid-state-battery",
+  "title": "TaCl<sub>5</sub>-glassified Ultrafast Lithium Ion-conductive Halide Electrolytes for High-performance All-solid-state Lithium Batteries",
+  "authors": [
+    {
+      "name": "Yoshitaka Ishiguro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kenji Ueno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sayaka Nishimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Genshi Iida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yasuo Igarashib",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1246/cl.220540",
+  "url": "https://doi.org/10.1246/cl.220540",
+  "published": "2023-02-03",
+  "abstract": "For all-solid-state batteries (ASSBs), high ionic conductivity of solid-state electrolyte (SSE) and its good physical contact with the cathode is vital to realize very efficient ion transport inside the cathode layer. In this work, our team introduce a halide glass lithium solid electrolyte LiTaCl6 with ultrahigh ionic conductivity over 10 mS/cm at 25 °C. It is interesting that TaCl5 is able to glassify many simple lithium salts (LiF, LiCl, LiBr, LiI, Li2O, LiOH, Li2O2 and Li2S) and results in a series of glass-phase super lithium-ion conductors \\(\\text{LiTaCl}_{5}\\text{X}_{1/\\text{n}}^{\\text{n} - }\\) (Xn− = F−, Cl−, Br−, I−, O2−, OH−, O2−, S2−) with high room-temperature ionic conductivities ranging from 4.37 to 10.95 mS/cm. Their properties of no grain boundary and fast lithium-ion transport enable ASSBs using a high nickel cathode (LiNi0.91Co0.06Mn0.03O2) with 98.3% capacity retention after long-term 2,000 cycles (4.3 V versus Li+/Li, 1.34 mAh/cm2, 2C rate). Most importantly, \\(\\text{LiTaCl}_{5}\\text{X}_{1/\\text{n}}^{\\text{n} - }\\)-based ASSBs have: 1. excellent electrochemical performance in an ASSB with ultra-high loading over 7 mAh/cm2, 2. ultra-high potential window up to 4.8 V and 92.81% capacity retention after 200 cycles. These results provide new insights in synthesizing halide-based glass SSE and suggest a new approach for realizing ASSB with high voltage and large loading. TaCl5-glassified halide electrolytes has high ionic conductivity over 10 mS/cm at room temperature and high stabiltiy to high nickel cathode, enabling excellent electrochemical performance in an ASSB with untra-high loading over 7 mAh/cm2, ultra-high potential window up to 4.8 V and 92.81% capacity retention after 200 cycles, exhibiting large potential to be used in high performance all-solid-state lithium batteries.",
+  "keywords": [
+    "Electrolyte",
+    "Ionic conductivity",
+    "Halide",
+    "Lithium (medication)",
+    "Chemistry",
+    "Electrochemistry",
+    "Ionic bonding",
+    "Conductivity",
+    "Fast ion conductor",
+    "Cathode"
+  ],
+  "source": "openalex",
+  "source_id": "W4319068403",
+  "pdf_path": "halide-solid-state-battery\\papers\\doi_10.1246_cl.220540\\paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 96,
+  "journal": "Chemistry Letters",
+  "publisher": "",
+  "issn": "0366-7022",
+  "quartile": "",
+  "added_at": "2026-05-22T05:34:25.913426+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

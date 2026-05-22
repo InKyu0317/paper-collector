@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2604.17380v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Modern Solid Electrolytes for All-Solid-State Batteries: Materials Chemistry, Structure, and Transport",
+  "authors": [
+    {
+      "name": "Denys Butenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mustafa Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liusuo Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinlong Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.17380v1",
+  "published": "2026-04-19T11:11:24+00:00",
+  "abstract": "In this review, from crystallographic symmetry to amorphous local polyhedra arrangement and combinations, we examine inorganic solid state electrolytes through the lens of structure property relationships, with oxides, sulfides, and halides representing three major framework chemistries. Halide solid electrolytes and their derivatives, including mixed anion halides and antiperovskite related materials, have expanded this landscape further by introducing new ways to regulate local coordination chemistry, defect populations, and transport active frameworks. Across these families, fast ion conduction depends not simply on composition or crystallographic diffusion pathways, but on the coupled effects of framework topology, site energy distribution, defect chemistry, bottleneck response, and local anion flexibility. Oxides illustrate transport within chemically robust but geometrically constrained frameworks. Sulfides demonstrate that a soft, easily polarizable lattice can broaden the array of low energy migration pathways. Halides occupy an intermediate state, in which the closely packed anion sublattices, an approximately degenerate lithium environment, and mixed anion coordination enable effective transport while simultaneously enhancing oxidation stability and compatibility with cathodes. Building on these comparisons, we argue that long range ion transport is increasingly understood not as motion along a single idealized pathway, but as the macroscopic outcome of statistically connected low barrier local migration events distributed across the structure. We further discuss the experimental and computational approaches required to establish such multiscale structure property relationships and outline future strategies for designing transport active frameworks in which conductivity, stability, and processability are optimized together.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.17380v1",
+  "pdf_path": "halide-solid-state-battery\\papers\\arxiv_2604.17380v1\\paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.17380v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T05:34:04.472559+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1002_aenm.202304230",
+  "collection": "halide-solid-state-battery",
+  "title": "Effects of Grain Boundaries and Surfaces on Electronic and Mechanical Properties of Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Weihang Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeyu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhengyu Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Theodosios Famprikis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Keith T. Butler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pieremanuele Canepa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/aenm.202304230",
+  "url": "http://arxiv.org/abs/2312.05294v2",
+  "published": "2023-12-08T18:34:21+00:00",
+  "abstract": "Extended defects, including exposed surfaces and grain boundaries, are critical to the properties of polycrystalline solid electrolytes in all-solid-state batteries (ASSBs). These defects can significantly alter the mechanical and electronic properties of solid electrolytes, with direct manifestations on the performance of ASSBs. Here, by building a library of 590 surfaces and grain boundaries of 11 relevant solid electrolytes $-$including halides, oxides, and sulfides$-$ their electronic, mechanical, and thermodynamic characteristics are linked to the functional properties of polycrystalline solid electrolytes. It is found that the energy required to mechanically ``separate'' grain boundaries can be significantly lower than in the bulk region of materials, which can trigger preferential cracking of solid electrolyte particles in the grain boundary regions. The brittleness of ceramic solid electrolytes, inferred from the predicted low fracture toughnesses at the grain boundaries, contributes to their cracking under local pressure imparted by Lithium or Sodium penetration in the grain boundaries. Extended defects of solid electrolytes introduce new electronic ``interfacial'' states within bandgaps of solid electrolytes. These interfacial states alter and possibly increase locally the availability of free electrons and holes in solid electrolytes. Factoring effects arising from extended defects appear crucial to explain electrochemical and $-$mechanical observations in ASSBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2312.05294v2",
+  "pdf_path": "halide-solid-state-battery\\papers\\doi_10.1002_aenm.202304230\\paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2312.05294v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T05:34:25.909729+00:00",
+  "updated_at": "",
+  "extra": {}
+}

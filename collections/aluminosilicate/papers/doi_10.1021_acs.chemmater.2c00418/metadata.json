@@ -1,0 +1,138 @@
+{
+  "paper_id": "doi_10.1021_acs.chemmater.2c00418",
+  "collection": "aluminosilicate",
+  "title": "Nucleation of Porous Crystals from Ion-Paired Prenucleation Clusters",
+  "authors": [
+    {
+      "name": "Nick Pellens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5527-5130",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Nikolaus Doppelhammer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2611-9216",
+      "affiliation": "Linz Center of Mechatronics (Austria)"
+    },
+    {
+      "name": "Sambhu Radhakrishnan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0274-2759",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Karel Asselman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5206-3527",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "C. Vinod Chandran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4074-8833",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Dries Vandenabeele",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2902-093X",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Bernhard Jakoby",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2918-7150",
+      "affiliation": "Linz Center of Mechatronics (Austria)"
+    },
+    {
+      "name": "Johan A. Martens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9292-2357",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Françis Taulelle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8263-4802",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Erwin K. Reichel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7970-5190",
+      "affiliation": "Linz Center of Mechatronics (Austria)"
+    },
+    {
+      "name": "Eric Breynaert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3499-0455",
+      "affiliation": "KU Leuven"
+    },
+    {
+      "name": "Christine E. A. Kirschhock",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2409-9343",
+      "affiliation": "KU Leuven"
+    }
+  ],
+  "doi": "10.1021/acs.chemmater.2c00418",
+  "url": "https://doi.org/10.1021/acs.chemmater.2c00418",
+  "published": "2022-06-16",
+  "abstract": "Current nucleation models propose manifold options for the formation of crystalline materials. Exploring and distinguishing between different crystallization pathways on the molecular level however remain a challenge, especially for complex porous materials. These usually consist of large unit cells with an ordered framework and pore components and often nucleate in complex, multiphasic synthesis media, restricting in-depth characterization. This work shows how aluminosilicate speciation during crystallization can be documented in detail in monophasic hydrated silicate ionic liquids (HSILs). The observations reveal that zeolites can form via supramolecular organization of ion-paired prenucleation clusters, consisting of aluminosilicate anions, ion-paired to alkali cations, and imply that zeolite crystallization from HSILs can be described within the spectrum of modern nucleation theory.",
+  "keywords": [
+    "Nucleation",
+    "Crystallization",
+    "Aluminosilicate",
+    "Silicate",
+    "Materials science",
+    "Chemical physics",
+    "Ion",
+    "Zeolite",
+    "Alkali metal",
+    "Chemical engineering"
+  ],
+  "source": "openalex",
+  "source_id": "W4283009027",
+  "pdf_path": "aluminosilicate\\papers\\doi_10.1021_acs.chemmater.2c00418\\paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 25,
+  "journal": "Chemistry of Materials",
+  "publisher": "",
+  "issn": "0897-4756",
+  "quartile": "",
+  "added_at": "2026-05-22T05:33:49.222453+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

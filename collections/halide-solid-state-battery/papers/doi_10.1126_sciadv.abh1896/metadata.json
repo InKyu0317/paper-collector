@@ -1,0 +1,138 @@
+{
+  "paper_id": "doi_10.1126_sciadv.abh1896",
+  "collection": "halide-solid-state-battery",
+  "title": "A universal wet-chemistry synthesis of solid-state halide electrolytes for all-solid-state lithium-metal batteries",
+  "authors": [
+    {
+      "name": "Changhong Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4201-0130",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Jianwen Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4055-1301",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Jing Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3844-9746",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Jue Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4453-910X",
+      "affiliation": "Oak Ridge National Laboratory"
+    },
+    {
+      "name": "Xiaona Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6713-2997",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Feipeng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2686-6956",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Ruying Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1369-3398",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Huan Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5651-3831",
+      "affiliation": ""
+    },
+    {
+      "name": "Shangqian Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1605-9974",
+      "affiliation": "China Automotive Battery Research Institute"
+    },
+    {
+      "name": "Li Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0016-2918",
+      "affiliation": "China Automotive Battery Research Institute"
+    },
+    {
+      "name": "Jiantao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4773-5229",
+      "affiliation": "China Automotive Battery Research Institute"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0374-1245",
+      "affiliation": "Western University"
+    }
+  ],
+  "doi": "10.1126/sciadv.abh1896",
+  "url": "https://doi.org/10.1126/sciadv.abh1896",
+  "published": "2021-09-08",
+  "abstract": ". This work provides universal approaches in both material synthesis and interface design for developing halide-based ASSLMBs.",
+  "keywords": [
+    "Halide",
+    "Electrolyte",
+    "Ionic conductivity",
+    "Lithium (medication)",
+    "Materials science",
+    "Fast ion conductor",
+    "Inorganic chemistry",
+    "Alkali metal",
+    "Chemical engineering",
+    "Chemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W3196775087",
+  "pdf_path": "halide-solid-state-battery\\papers\\doi_10.1126_sciadv.abh1896\\paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 254,
+  "journal": "Science Advances",
+  "publisher": "",
+  "issn": "2375-2548",
+  "quartile": "",
+  "added_at": "2026-05-22T05:34:25.911167+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
