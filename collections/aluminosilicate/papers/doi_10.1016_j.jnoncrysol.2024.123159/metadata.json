@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi_10.1016_j.jnoncrysol.2024.123159",
+  "collection": "aluminosilicate",
+  "title": "Bulk ytterbium aluminosilicate glass with excellent mechanical properties and plasma etching resistance",
+  "authors": [
+    {
+      "name": "Yongheng Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3716-4669",
+      "affiliation": "University of Science and Technology of China"
+    },
+    {
+      "name": "Jixin Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1763-8644",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Hao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9447-1019",
+      "affiliation": "University of Science and Technology of China"
+    },
+    {
+      "name": "Yiming Lei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5344-4479",
+      "affiliation": "Chinese Academy of Sciences"
+    }
+  ],
+  "doi": "10.1016/j.jnoncrysol.2024.123159",
+  "url": "https://doi.org/10.1016/j.jnoncrysol.2024.123159",
+  "published": "2024-08-02",
+  "abstract": "",
+  "keywords": [
+    "Aluminosilicate",
+    "Ytterbium",
+    "Materials science",
+    "Etching (microfabrication)",
+    "Plasma",
+    "Resistance (ecology)",
+    "Composite material",
+    "Mineralogy",
+    "Doping",
+    "Geology"
+  ],
+  "source": "openalex",
+  "source_id": "W4401252317",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.jnoncrysol.2024.123159/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "",
+  "issn": "0022-3093",
+  "quartile": "",
+  "added_at": "2026-05-22T06:57:59.131048+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
