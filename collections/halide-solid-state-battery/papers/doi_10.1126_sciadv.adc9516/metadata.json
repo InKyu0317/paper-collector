@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi_10.1126_sciadv.adc9516",
+  "collection": "halide-solid-state-battery",
+  "title": "Prospects of halide-based all-solid-state batteries: From material design to practical application",
+  "authors": [
+    {
+      "name": "Changhong Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4201-0130",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Jianwen Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4055-1301",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Jung Tae Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9852-0044",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0374-1245",
+      "affiliation": "Western University"
+    }
+  ],
+  "doi": "10.1126/sciadv.adc9516",
+  "url": "https://doi.org/10.1126/sciadv.adc9516",
+  "published": "2022-09-07",
+  "abstract": "The safety of lithium-ion batteries has caused notable concerns about their widespread adoption in electric vehicles. A nascent but promising approach to enhancing battery safety is using solid-state electrolytes (SSEs) to develop all-solid-state batteries, which exhibit unrivaled safety and superior energy density. A new family of SSEs based on halogen chemistry has recently gained renewed interest because of their high ionic conductivity, high-voltage stability, good deformability, and cost-effective and scalable synthesis routes. Here, we provide a comprehensive review of halide SSEs concerning their crystal structures, ion transport kinetics, and viability for mass production. Furthermore, their moisture sensitivity and interfacial challenges are summarized with corresponding effective strategies. Last, halide-based all-solid-state Li-ion and Li-S pouch cells with energy density targets of 400 and 500 Wh kg −1 are projected to guide future endeavors. This work serves as a comprehensive guideline for developing halide SSEs from material design to practical application.",
+  "keywords": [
+    "Halide",
+    "Materials science",
+    "Battery (electricity)",
+    "Nanotechnology",
+    "Lithium (medication)",
+    "Ionic conductivity",
+    "Fast ion conductor",
+    "Electrolyte",
+    "Chemistry",
+    "Physics"
+  ],
+  "source": "openalex",
+  "source_id": "W4294897884",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1126_sciadv.adc9516/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 335,
+  "journal": "Science Advances",
+  "publisher": "",
+  "issn": "2375-2548",
+  "quartile": "",
+  "added_at": "2026-05-22T07:08:53.311497+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

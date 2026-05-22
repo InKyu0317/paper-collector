@@ -1,0 +1,130 @@
+{
+  "paper_id": "doi_10.1002_adfm.202205594",
+  "collection": "halide-solid-state-battery",
+  "title": "Regulating Electronic Conductivity at Cathode Interface for Low‐Temperature Halide‐Based All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Sixu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7458-0296",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Ming Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6102-8785",
+      "affiliation": "Anhui University"
+    },
+    {
+      "name": "Ning Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1269-6119",
+      "affiliation": "Canadian Light Source (Canada)"
+    },
+    {
+      "name": "Weihan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0249-9020",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Matthew Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7005-2522",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Weifeng Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6667-2403",
+      "affiliation": "Canadian Light Source (Canada)"
+    },
+    {
+      "name": "Ruying Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1369-3398",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Huan Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5651-3831",
+      "affiliation": ""
+    },
+    {
+      "name": "Jiantao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4773-5229",
+      "affiliation": "China Automotive Battery Research Institute"
+    },
+    {
+      "name": "Chandra Veer Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6644-0178",
+      "affiliation": "University of Toronto"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0374-1245",
+      "affiliation": "Western University"
+    }
+  ],
+  "doi": "10.1002/adfm.202205594",
+  "url": "https://doi.org/10.1002/adfm.202205594",
+  "published": "2022-08-26",
+  "abstract": "Abstract Halide solid‐state batteries (SSBs) show unparalleled application potential because of their outstanding advantages, such as high ionic conductivity and good compatibility with cathodes. However, operating halide SSBs under freezing temperatures faces big challenges, and the underlying degradation mechanisms are unclear. Herein, the impact of electronic conductivity in low‐temperature halide SSBs is investigated by designing different additives in the composite cathode. It is shown that the electrochemical stability of a halide electrolyte (Li 3 InCl 6 ) with additives is significantly affected by the degree of electronic conductivity as well as the ambient operational temperature. When the ambient temperatures are below freezing point, the moderate electronic conductivity in the composite cathode is beneficial toward improving the charge transfer kinetics without inducing the decomposition of Li 3 InCl 6 . The electrode materials (LiCoO 2 cathode and Li 3 InCl 6 electrolytes) show excellent structural and interfacial stability during electrochemical reactions, resulting in a competitive performance at low temperatures. Stable long‐term cycling performance with a capacity retention of 89.2% after 300 cycles is achieved along with a C‐rate capacity of 77.6 mAh g –1 (0.6 C) at −10 °C. This in‐depth study investigates the role of electronic conductivity, which opens the door to future research on low‐temperature SSBs.",
+  "keywords": [
+    "Materials science",
+    "Cathode",
+    "Electrolyte",
+    "Conductivity",
+    "Halide",
+    "Electrochemistry",
+    "Composite number",
+    "Ionic conductivity",
+    "Chemical engineering",
+    "Electrode"
+  ],
+  "source": "openalex",
+  "source_id": "W4293149328",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adfm.202205594/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 44,
+  "journal": "Advanced Functional Materials",
+  "publisher": "",
+  "issn": "1616-301X",
+  "quartile": "",
+  "added_at": "2026-05-22T07:08:57.352674+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
