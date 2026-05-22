@@ -74,5 +74,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -f collections/
-          git diff --staged --quiet || git commit -m "chore: collect papers ($(date -u +%Y-%m-%d))"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: collect papers ($(date -u +%Y-%m-%d))"
+          # Retry push up to 5 times with rebase to survive concurrent dispatches
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
+          echo "::error::push failed after 5 retries"
+          exit 1
