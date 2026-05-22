@@ -1,0 +1,114 @@
+{
+  "paper_id": "doi_10.1002_advs.202400736",
+  "collection": "aluminosilicate",
+  "title": "Medium‐Entropy Monosilicates Deliver High Corrosion Resistance to Calcium‐Magnesium Aluminosilicate Molten Salt",
+  "authors": [
+    {
+      "name": "Zeyu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0003-5605-0998",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yongzhe Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4014-6958",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yiling Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6662-3495",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Peng Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0924-9406",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Chucheng Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Wei Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6107-7261",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Xuemei Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0310-7826",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yaran Niu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3386-2179",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yi Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7468-7701",
+      "affiliation": "Chinese Academy of Sciences"
+    }
+  ],
+  "doi": "10.1002/advs.202400736",
+  "url": "https://doi.org/10.1002/advs.202400736",
+  "published": "2024-04-19",
+  "abstract": "For decreasing the global cost of corrosion, it is essential to understand the intricate mechanisms of corrosion and enhance the corrosion resistance of materials. However, the ambiguity surrounding the dominant mechanism of calcium-magnesium aluminosilicate (CMAS) molten salt corrosion in extreme environments hinders the mix-and-matching of the key rare earth elements for increasing the resistance of monosilicates against corrosion of CMAS. Herein, an approach based on correlated electron microscopy techniques combined with density functional theory calculations is presented to elucidate the complex interplay of competing mechanisms that control the corrosion of CMAS of monosilicates. These findings reveal a competition between thermodynamics and kinetics that relies on the temperatures and corrosion processes. Innovative medium-entropy monosilicates with exceptional corrosion resistance even at 1500 °C are developed. This is achieved by precisely modulating the radii of rare earth ions in monosilicates to strike a delicate balance between the competition in thermodynamics and kinetics. After 50 and 100 h of corrosion, the thinnest reactive layers are measured to be only 28.8 and 35.4 µm, respectively.",
+  "keywords": [
+    "Corrosion",
+    "Materials science",
+    "Aluminosilicate",
+    "Molten salt",
+    "Metallurgy",
+    "Salt (chemistry)",
+    "Magnesium",
+    "Chemical engineering",
+    "Chemistry",
+    "Physical chemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W4394962370",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_advs.202400736/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202400736",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 24,
+  "journal": "Advanced Science",
+  "publisher": "",
+  "issn": "2198-3844",
+  "quartile": "",
+  "added_at": "2026-05-22T07:08:40.039261+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
