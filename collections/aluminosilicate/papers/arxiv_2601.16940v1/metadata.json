@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2601.16940v1",
+  "collection": "aluminosilicate",
+  "title": "Connecting bond switching to fracture toughness of calcium aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "Sidsel Mulvad Johansen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johan F. S. Christensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anders K. R. Christensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuan Ge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Theany To",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lars R. Jensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Morten M. Smedskjaer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.16940v1",
+  "published": "2026-01-23T17:56:57+00:00",
+  "abstract": "Fracture toughness is a critical mechanical property of glasses, but a detailed understanding of its link to composition and structure is still missing. Here, focusing on the industrially important family of calcium aluminosilicate glasses, we measure the fracture toughness of two glass series using the single-edge precracked beam method, one based on tectosilicate compositions with varying silica contents and the other covering both percalcic and peraluminous compositions with varying Al/Ca ratio. To elucidate the structural origins of the variation in fracture toughness, we perform X-ray total scattering measurements and molecular dynamics simulations. Our findings show that local coordination changes of especially Al atoms, so-called bond switching, feature an overall positive correlation with fracture toughness. We also compare this variation with that in other mechanical properties, including elastic moduli, hardness, and crack initiation resistance. We find that various structural aspects need to be considered to describe and understand the mechanical properties of calcium aluminosilicate glasses.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.16940v1",
+  "pdf_path": "aluminosilicate/papers/arxiv_2601.16940v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.16940v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-22T07:34:53.440009+00:00",
+  "updated_at": "",
+  "extra": {}
+}
