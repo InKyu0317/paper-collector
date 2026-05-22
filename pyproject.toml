@@ -21,6 +21,7 @@ dependencies = [
     "unpywall>=0.2.2",
     "python-dotenv>=1.0.0",
     "rich>=13.7.0",
+    "xlrd>=2.0.0",
 ]
 
 [project.optional-dependencies]
@@ -33,7 +34,7 @@ dev = [
 ]
 
 [tool.setuptools.packages.find]
-include = ["models*", "collector*", "connectors*", "utils*", "workflows*"]
+include = ["models*", "collector*", "connectors*", "utils*", "workflows*", "data*"]
 
 [tool.ruff]
 line-length = 100
