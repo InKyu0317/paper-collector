@@ -25,7 +25,7 @@ class OpenAlexConnector(BaseConnector):
         self._api_key = api_key
         self._email = email
 
-    def search(self, query: str, max_results: int = 50, year_from: int = 0) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1) -> list[PaperMetadata]:
         filters = []
         if year_from > 0:
             filters.append(f"publication_year:>={year_from}")
@@ -34,6 +34,7 @@ class OpenAlexConnector(BaseConnector):
         params: dict[str, Any] = {
             "search": query,
             "per_page": per_page,
+            "page": page,
         }
         if filters:
             params["filter"] = ",".join(filters)
@@ -42,25 +43,11 @@ class OpenAlexConnector(BaseConnector):
         if self._email:
             params["mailto"] = self._email
 
-        all_results = []
-        cursor = "*"
-
-        while len(all_results) < max_results:
-            params["cursor"] = cursor
-            data = self.http.get_json(f"{OPENALEX_BASE}/works", params=params)
-            results_data = data.get("results", [])
-            if not results_data:
-                break
-
-            all_results.extend(results_data)
-            meta = data.get("meta", {})
-            next_cursor = meta.get("next_cursor")
-            if not next_cursor or len(results_data) < per_page:
-                break
-            cursor = next_cursor
+        data = self.http.get_json(f"{OPENALEX_BASE}/works", params=params)
+        results_data = data.get("results", [])
 
         records: list[PaperMetadata] = []
-        for w in all_results[:max_results]:
+        for w in results_data:
             doi_raw = w.get("doi") or w.get("id", "")
             doi = doi_raw.replace("https://doi.org/", "") if doi_raw else ""
             openalex_id = w.get("id", "").replace("https://openalex.org/", "")

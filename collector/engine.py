@@ -22,6 +22,7 @@ from models.paper import PaperMetadata
 from utils.http import HttpClient
 from utils.logging import get_logger
 from utils.pdf import verify_pdf_bytes
+from utils.state import QueryState
 from utils.storage import StorageManager
 
 logger = get_logger(__name__)
@@ -33,6 +34,7 @@ class CollectionEngine:
     def __init__(self, config: AppConfig):
         self.config = config
         self.storage = StorageManager(config.data_dir)
+        self.query_state = QueryState(config.data_dir / ".state")
 
         http = HttpClient(
             timeout=30.0,
@@ -93,11 +95,21 @@ class CollectionEngine:
                     query=sq.query[:80],
                 )
                 year_from = self.config.year_from or collection_cfg.year_from
-                records = connector.search(sq.query, max_results=sq.max_results, year_from=year_from)
+
+                # Resume from last saved page for incremental collection
+                page = self.query_state.get_page(collection_cfg.name, sq.connector, sq.query)
+                logger.info("search_page", connector=sq.connector, page=page)
+
+                records = connector.search(sq.query, max_results=sq.max_results, year_from=year_from, page=page)
                 for r in records:
                     r.collection = collection_cfg.name
                 all_records.extend(records)
                 stats["searched"] += len(records)
+
+                # Advance state only if we got results
+                if records:
+                    self.query_state.advance_page(collection_cfg.name, sq.connector, sq.query, page + 1)
+
                 logger.info(
                     "search_done",
                     connector=sq.connector,

@@ -27,12 +27,12 @@ class ArxivConnector(BaseConnector):
         super().__init__(**kwargs)
         self._delay = delay_seconds
         self._client = arxiv.Client(
-            page_size=200,
+            page_size=100,
             delay_seconds=delay_seconds,
             num_retries=10,
         )
 
-    def search(self, query: str, max_results: int = 50, year_from: int = 0, **kwargs) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1, **kwargs) -> list[PaperMetadata]:
         # Add year filter to query if specified
         if year_from > 0:
             date_filter = f" AND submittedDate:[{year_from}01010000 TO 299912312359]"
@@ -46,7 +46,14 @@ class ArxivConnector(BaseConnector):
 
         results: list[PaperMetadata] = []
         try:
+            # arxiv library handles pagination internally via page_size
+            # We skip (page-1) * max_results results manually
+            skip = (page - 1) * max_results
+            count = 0
             for result in self._client.results(search):
+                count += 1
+                if count <= skip:
+                    continue
                 arxiv_id = result.entry_id.split("/")[-1]
                 doi = result.doi or ""
                 pdf_url = result.pdf_url or ""

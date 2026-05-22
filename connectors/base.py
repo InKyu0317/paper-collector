@@ -23,7 +23,7 @@ class BaseConnector(ABC):
         self.http = http or HttpClient()
 
     @abstractmethod
-    def search(self, query: str, max_results: int = 50, year_from: int = 0) -> list[PaperMetadata]:
+    def search(self, query: str, max_results: int = 50, year_from: int = 0, page: int = 1) -> list[PaperMetadata]:
         """Execute a search query and return normalized PaperMetadata records."""
 
     def resolve_pdf(self, metadata: PaperMetadata) -> bytes | None:

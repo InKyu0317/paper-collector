@@ -17,7 +17,7 @@ class SearchQuery(BaseModel):
 
     query: Annotated[str, Field(description="Search string in the source API's native syntax")]
     connector: Annotated[str, Field(default="arxiv", description="Connector name: arxiv, openalex, crossref")]
-    max_results: Annotated[int, Field(default=500, ge=1, le=2000)]
+    max_results: Annotated[int, Field(default=50, ge=1, le=500)]
     extra_filters: Annotated[dict[str, str], Field(default_factory=dict)]
     description: Annotated[str, Field(default="")]
 
