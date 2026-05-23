@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1002_bte2.70117",
+  "collection": "halide-solid-state-battery",
+  "title": "Programming Ionic Landscapes: Ferroelectric Liquid Crystals, Dielectric Fields, and Process‐Programmed Assembly for the Future of Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Sijie Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0623-9608",
+      "affiliation": "Research Institute of Tsinghua University in Shenzhen Shenzhen Guangdong China"
+    },
+    {
+      "name": "Yuzhen Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8781-6883",
+      "affiliation": "Shaanxi Key Laboratory of Liquid Crystal Polymer Intelligent Display, Technological Institute of Materials and Energy Science (TIMES) Xijing University Xi'an China"
+    },
+    {
+      "name": "Le Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0007-7871-7588",
+      "affiliation": "State Key Laboratory of Displays and Opto‐electronics The Hong Kong University of Science and Technology Hong Kong China"
+    },
+    {
+      "name": "Jianjun Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Research Institute of Tsinghua University in Shenzhen Shenzhen Guangdong China"
+    },
+    {
+      "name": "Kristiaan Neyts",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5551-9772",
+      "affiliation": "State Key Laboratory of Displays and Opto‐electronics The Hong Kong University of Science and Technology Hong Kong China"
+    }
+  ],
+  "doi": "10.1002/bte2.70117",
+  "url": "https://doi.org/10.1002/bte2.70117",
+  "published": "2026-5",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Solid polymer electrolytes (SPEs) offer a compelling path toward next‐generation all‐solid‐state batteries (ASSBs), but their practical application remains constrained by low ionic conductivity and poor interfacial stability. These limitations arise from the intrinsically low dielectric constant of polymer matrices that fail to effectively dissociate lithium salts. Meanwhile, the disordered ion pathways induce tortuous migration routes and nonuniform current density at electrode interfaces. This perspective introduces the concept of programming ionic transport, which integrates ferroelectric liquid crystals (LCs), dielectric field engineering, and process‐programmed assembly to overcome these challenges. Ferroelectric LCs offer a unique combination of high dielectric anisotropy and programmable molecular order, enabling the creation of low‐tortuosity ion highways with built‐in polarization fields. The spontaneous polarization of ferroelectric nematic phases can generate local electric fields that actively repel anions and guide lithium ions, potentially overcoming the limitations of conventional SPEs. To translate this molecular order into macroscopic device function, we highlight the critical role of advanced manufacturing techniques. Process‐programmed assembly, including shear‐induced alignment in 3D printing and electrospinning, provides a direct means to control alignment of LCs into designed architectures. The integration of material design and digital fabrication enables electrolytes with graded dielectric properties, hierarchical ion transport networks, and customized device geometries for ASSBs. We outline a roadmap for the future development of ASSBs that moves beyond facilitated ion transport toward actively programmed ion transport.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.70117",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.70117/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/bte2.70117",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-05-23T03:08:07.982077+00:00",
+  "updated_at": "",
+  "extra": {}
+}

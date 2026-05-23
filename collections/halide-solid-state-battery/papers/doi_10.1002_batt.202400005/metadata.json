@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_batt.202400005",
+  "collection": "halide-solid-state-battery",
+  "title": "Emerging Halide Solid Electrolytes for Sodium Solid‐State Batteries: Structure, Conductivity, Paradigm of Applications",
+  "authors": [
+    {
+      "name": "Zhixuan Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8598-9772",
+      "affiliation": "Institute of Physical Chemistry &amp; Center for Materials Research Justus Liebig University Giessen  Heinrich-Buff-Ring 17 35392 Giessen Germany"
+    },
+    {
+      "name": "Linda F. Nazar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Chemistry and the Waterloo Institute for Nanotechnology University of Waterloo  200 University Avenue West Waterloo Ontario N2L 3G1 Canada"
+    },
+    {
+      "name": "Jürgen Janek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Physical Chemistry &amp; Center for Materials Research Justus Liebig University Giessen  Heinrich-Buff-Ring 17 35392 Giessen Germany"
+    }
+  ],
+  "doi": "10.1002/batt.202400005",
+  "url": "https://doi.org/10.1002/batt.202400005",
+  "published": "2024-7",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Solid‐state sodium batteries (SSSBs) hold great promise for the development of safe, low‐cost energy storage devices. Developing solid electrolyte (SE) materials with high ionic conductivity, high chemical and electrochemical stability, as well as good mechanical properties is the most critical step. As a promising category of SEs, halide‐based solid electrolytes combine good ionic conductivity and good electrochemical stability, and they have been already widely studied for their use in lithium‐based solid‐state batteries. In contrast, knowledge of their sodium analogues is still limited. Here, we provide a comprehensive overview of halide SEs for sodium ion conduction with a perspective of both experimental and theoretical studies, including the correlation of structure and properties; sodium ion conductivity and diffusivity; as well as compatibility with electrode materials. We hope this perspective can stimulate more research in developing halide‐based SSSBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/batt.202400005",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_batt.202400005/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 29,
+  "journal": "Batteries &amp; Supercaps",
+  "publisher": "",
+  "issn": "2566-6223",
+  "quartile": "",
+  "added_at": "2026-05-23T03:08:09.166614+00:00",
+  "updated_at": "",
+  "extra": {}
+}

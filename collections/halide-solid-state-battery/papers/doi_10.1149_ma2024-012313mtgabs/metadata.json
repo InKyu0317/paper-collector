@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2024-012313mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Mixed Electronic-Ionic Conductive Polymer Binder for Silicon-Based Solid-State Battery",
+  "authors": [
+    {
+      "name": "Defu Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Faiz Ahmed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Gao Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6886-0507",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-012313mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-012313mtgabs",
+  "published": "2024-8-9",
+  "abstract": "<jats:p>  \tSilicon has attracted extensive research attention in lithium-ion battery (LIB) field due to its high theoretical specific capacity (~3600 mAh/g) and cost-effectiveness. In recent years, silicon has emerged as a viable candidate for anode material for solid-state battery (SSB) technology. Similar to its application in LIBs, silicon utilizing in SSBs encounters challenges, such as significant volume variation (~300%) during cycling and poor cycling performance. In addition, the utilization of silicon in SSB faces another critical bottleneck in ionic conductivity due to the absence of liquid electrolyte. To address these challenges, various pioneering studies have explored potential solutions, including controlling the thickness of silicon anode to be below 150 nm,(1) fabricating electrodes with a combination of silicon and solid-state electrolyte (e.g, Garnet-type electrolyte(2) and sulfide electrolyte(3)), subjecting SSBs to a high pressure (10-50 MPa)(4).</jats:p>\n               <jats:p>Here, we introduced an alternative approach to mitigate these challenges by designing anodes through incorporating silicon with mixed electronic-ionic conductive (MEIC) hierarchically ordered structure (HOS) polymer binders. These multifunctional HOS polymer binders effectively preserve the structural integrity of electrode materials, even when silicon materials experiences significant volume expansion and shrinkage during the charging-discharging process. Owing to establishments of covalent bonds between silicon surface and the polymer binders, the resulting SSBs exhibited excellent resilience and only required hand-tightening force (&lt;1 ton) for operation. These polymer binders effectively maintained continuous electronic and ionic pathways within silicon-based anodes without the need of additional additives, such as carbon material and solid-state electrolytes. Utilizing these versatile polymer binders, the resultant SSBs featured an outstanding cycling performance over 100 cycles in full cells, with an average Coulombic efficiency exceeding 97%.</jats:p>\n               <jats:p>\n                  <jats:bold>Reference</jats:bold>\n                  <jats:list list-type=\"roman-lower\">\n                     <jats:list-item>\n                        <jats:p>A. Song, W. Zhang, H. Guo, L. Dong, T. Jin, C. Shen and K. Xie, <jats:italic>Advanced Energy Materials</jats:italic>, <jats:bold>13</jats:bold>, 2301464 (2023).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>W. Ping, C. Yang, Y. Bao, C. Wang, H. Xie, E. Hitz, J. Cheng, T. Li and L. Hu, <jats:italic>Energy Storage Materials</jats:italic>, <jats:bold>21</jats:bold>, 246 (2019).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>M. Rana, Y. Rudel, P. Heuer, E. Schlautmann, C. Rosenbach, M. Y. Ali, H. Wiggers, A. Bielefeld and W. G. Zeier, <jats:italic>ACS Energy Letters</jats:italic>, <jats:bold>8</jats:bold>, 3196 (2023).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>D. H. Tan, Y.-T. Chen, H. Yang, W. Bao, B. Sreenarayanan, J.-M. Doux, W. Li, B. Lu, S.-Y. Ham and B. Sayahpour, <jats:italic>Science</jats:italic>, <jats:bold>373</jats:bold>, 1494 (2021).</jats:p>\n                     </jats:list-item>\n                  </jats:list>\n               </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-012313mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-012313mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-012313mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-05-23T03:08:09.166101+00:00",
+  "updated_at": "",
+  "extra": {}
+}
