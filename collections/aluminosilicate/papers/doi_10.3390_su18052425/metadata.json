@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_su18052425",
+  "collection": "aluminosilicate",
+  "title": "Mechanical Properties, Self-Healing Characteristics, and Chloride-Ion Penetration Resistance of Cement-Free Composites Incorporating Aluminosilicate Material-Based Capsules",
+  "authors": [
+    {
+      "name": "Se-Jin Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2142-3745",
+      "affiliation": "Department of Architectural Engineering, Wonkwang University, 460 Iksan-daero, Iksan 54538, Republic of Korea"
+    },
+    {
+      "name": "Jeong-Yeon Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Architectural Engineering, Wonkwang University, 460 Iksan-daero, Iksan 54538, Republic of Korea"
+    },
+    {
+      "name": "Chunho Chang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Civil Engineering, Keimyung University, Daegu 42601, Republic of Korea"
+    },
+    {
+      "name": "Jae-In Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Architectural Engineering, Wonkwang University, 460 Iksan-daero, Iksan 54538, Republic of Korea"
+    }
+  ],
+  "doi": "10.3390/su18052425",
+  "url": "https://doi.org/10.3390/su18052425",
+  "published": null,
+  "abstract": "<jats:p>The construction sector is currently tasked with the critical challenge of minimizing CO2 emissions associated with cement manufacturing. To support a sustainable building environment, this research developed cement-free alkali-activated composites by leveraging industrial by-products, specifically fly ash and blast furnace slag. The study experimentally evaluated how aluminosilicate material-based capsules (AMCs) composed of a mixture of fly ash, blast furnace slag, and ferronickel slag powder affect the composites’ durability, mechanical properties, and self-healing capabilities, alongside microstructural investigations. Results indicated that specimens incorporating 10% AMC reached a compressive-strength recovery range of 112–118%, which represents an improvement of approximately 10% compared to the control sample. Furthermore, the 28-day resistance to chloride ion penetration was enhanced by 79.4%, successfully meeting the ‘very low’ permeability criteria defined by ASTM C 1202. These results suggest that cement-free self-healing composites incorporating AMCs are a viable alternative for reducing carbon emissions and minimizing environmental impact in the construction industry. Furthermore, the recycling of industrial byproducts, as demonstrated herein, contributes to sustainable development in response to climate change.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/su18052425",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_su18052425/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Sustainability",
+  "publisher": "",
+  "issn": "2071-1050",
+  "quartile": "",
+  "added_at": "2026-05-24T03:11:21.207102+00:00",
+  "updated_at": "",
+  "extra": {}
+}
