@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.est.2025.119614",
+  "collection": "halide-solid-state-battery",
+  "title": "Hybrid ML–EIS framework for ionic conductivity prediction in solid-state battery electrolytes",
+  "authors": [
+    {
+      "name": "Rania Gamal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Alyaa A. Hamza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abdelgwad Elashry",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.est.2025.119614",
+  "url": "https://doi.org/10.1016/j.est.2025.119614",
+  "published": "2026-1",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.est.2025.119614",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.est.2025.119614/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Journal of Energy Storage",
+  "publisher": "",
+  "issn": "2352-152X",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:50.657160+00:00",
+  "updated_at": "",
+  "extra": {}
+}

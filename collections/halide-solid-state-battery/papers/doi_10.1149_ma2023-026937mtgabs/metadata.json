@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2023-026937mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Multi-Functionalized High Ionic Conductive Soft Matter for Separator-Free All Solid-State Lithium-Ion Battery",
+  "authors": [
+    {
+      "name": "Fu-Ming Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-026937mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-026937mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tSolid state battery (SSB) with its promising advantages such as extreme light weight, thin film manufacturing, and compact structure, which leads to a possibility of high energy density design (up to 400-500 Wh/kg). The most important key for the development of SSB is the solid electrolyte (SE). Nowadays, there are several SEs been studied to overcome many drawbacks that are being investigated. Those problems are low ionic conductivity at room temperature, low electrochemical stability, low interfacial compatibility, and low mechanical property, respectively. Although several SEs like sulfide, halide, oxide, and polymer-based materials are developed, but there are still big challenges for further commercialization.</jats:p>\n               <jats:p>In this research, multi-functionalized high ionic soft matters have been synthesized successfully. These soft matters are siloxane polyelectrolytes that contains two functions of single ion transfer and lithium-ion compensation. With the single ion transfer design, the ionic conductivity of siloxane polyelectrolyte is achieved to 4*10<jats:sup>-4</jats:sup> S/cm at room temperature and the electrochemical stability is illustrated to a window of 0-5.5V. This soft matter provides outstanding interfacial compatibility to solid-solid interface owing to its unique function of lithium-ion compensation by directly coverage on cathode active materials. According to the results, the impedance of SSB with siloxane polyelectrolytes is decreased by 50% as well as the initial capacity on NMC811 cathode is 213.3 mAh/g (CE: 91.4%). The cycle ability on this separator-free polymer based SSB shows almost no fading in 50 cycles (at 60<jats:sup>o</jats:sup>C) without any assistances, the SSB only has NMC811 cathode, SE, and lithium metal anode.  Fig. 1 shows the SEM images of pristine and siloxane polyelectrolyte covered NMC811. According to the results, the NMC811 is homogeneously covered by thin film siloxane polyelectrolyte, which is used to transfer lithium ions.</jats:p>\n               <jats:p>This research demonstrates a separator-free all SSB by multi-functionalized siloxane polyelectrolyte. High ionic conductivity, high interfacial compatibility, lithium-ion compensation, and high mechanical property are provided to a future high energy density battery.</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n                     <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"937fig1.jpg\" xlink:type=\"simple\"/>\n                  </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-026937mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-026937mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-026937mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:48.039554+00:00",
+  "updated_at": "",
+  "extra": {}
+}

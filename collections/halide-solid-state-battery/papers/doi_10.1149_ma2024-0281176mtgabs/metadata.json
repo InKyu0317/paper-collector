@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2024-0281176mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Interphase-Controlled Composite Electrolyte Based on LLZTO-Ionic Liquid for All Solid-State Battery",
+  "authors": [
+    {
+      "name": "Harim Seo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Eunbin Jang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jeeyoung Yoo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-0281176mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-0281176mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tSolid-state electrolytes (SSEs) are promising alternatives to conventional liquid organic electrolytes in lithium-ion batteries (LIBs), primarily due to their non-flammability and potential to reduce battery size. SSEs are categorized into three types: solid polymer electrolytes (SPEs), inorganic ceramic electrolytes (ICEs), and composite solid electrolytes (CSEs). Solid polymer electrolytes (SPEs) offer good interface contact with electrodes but suffer from low ionic conductivity and poor mechanical stability. In contrast, inorganic ceramic electrolytes (ICEs) exhibit high ionic conductivity and excellent mechanical stability but have weak electrode contact due to stiffness. Composite solid electrolytes (CSEs) aim to combine the advantages of both SPEs and ICEs, utilizing inorganic filler and polymer host to enhance conductivity, mechanical stability, and electrode contact. Understanding the mechanisms behind the enhanced ionic conductivity of CSEs is important to getting the key. Previous studies have investigated various factors, including the type and morphology of fillers, with active fillers showing promise in improving conductivity by facilitating extra Li-ion transport and maintaining the amorphous phase of the polymer. However, the exact cause of enhanced conductivity remains unclear.</jats:p>\n               <jats:p>This study proposes the use of ionic liquids to exclude the amorphous effect of polymers and compares the ionic conductivity with active fillers. Additionally, nanoparticles are introduced to form a solid phase without additional solvents, enhancing filler-polymer contact and promoting thixotropy in the electrolyte, which improves safety and stability. To investigate the interphase effect between filler and matrix, our study focuses on controlling the vacancy concentration on the filler surface using garnet-type oxide as the filler material. X-ray photoelectron spectroscopy (XPS) analysis reveals a difference in oxygen vacancy (O-v) concentration between raw material and filled powder, indicating the influence of surface vacancies on ionic conductivity. Experimental results show that the addition of fillers increases the ionic conductivity of electrolytes, with lower oxygen vacancy concentrations leading to higher ionic conductivity. Distribution of relaxation time (DRT) analysis indicates low resistance in the electrolyte at most timescales, especially showing low diffusion resistance, suggesting improved ion transport properties. COMSOL Multiphysics simulations prove consistent electrolyte current density from the whole electrolyte, inducing uniform ion flux to electrodes. Laser-induced breakdown spectroscopy (LIBS) and XPS depth profiles confirm thin and uniform growth of the solid electrolyte interphase (SEI) layer, contributing to cycle stability.</jats:p>\n               <jats:p>Overall, our study provides insights into the role of surface-controlled fillers in enhancing electrochemical properties and understanding ion-conduction mechanisms in composite solid electrolytes (CSEs). We explore the interphase effect between filler and matrix using Li conductive oxide. Vacancies on the filler surface impact electrolyte properties; fewer vacancies correlate with improved ionic conductivity and stability. Results show enhanced conductivity in surface-controlled electrolytes compared to host or composite electrolytes. Oxygen-filled electrolytes demonstrate superior thermal and electrochemical stability, promoting uniform SEI layer formation and enhancing specific capacity and cycle stability in Li metal half-cells. These findings contribute to developing safer, more efficient solid-state batteries for various applications.</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n               </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-0281176mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-0281176mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-0281176mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:48.783398+00:00",
+  "updated_at": "",
+  "extra": {}
+}

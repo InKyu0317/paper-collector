@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_batteries9060314",
+  "collection": "halide-solid-state-battery",
+  "title": "Recent Advances in Ionic Liquids—MOF Hybrid Electrolytes for Solid-State Electrolyte of Lithium Battery",
+  "authors": [
+    {
+      "name": "Ruifan Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, China"
+    },
+    {
+      "name": "Yingmin Jin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, China"
+    },
+    {
+      "name": "Yumeng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, China"
+    },
+    {
+      "name": "Xuebai Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, China"
+    },
+    {
+      "name": "Yueping Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, China"
+    }
+  ],
+  "doi": "10.3390/batteries9060314",
+  "url": "https://doi.org/10.3390/batteries9060314",
+  "published": null,
+  "abstract": "<jats:p>Li-ion batteries are currently considered promising energy storage devices for the future. However, the use of liquid electrolytes poses certain challenges, including lithium dendrite penetration and flammable liquid leakage. Encouragingly, solid electrolytes endowed with high stability and safety appear to be a potential solution to these problems. Among them, ionic liquids (ILs) packed in metal organic frameworks (MOFs), known as ILs@MOFs, have emerged as a hybrid solid-state material that possesses high conductivity, low flammability, and strong mechanical stability. ILs@MOFs plays a crucial role in forming a continuous interfacial conduction network, as well as providing internal ion conduction pathways through the ionic liquid. Hence, ILs@MOFs can not only act as a suitable ionic conduct main body, but also be used as an active filler in composite polymer electrolytes (CPEs) to meet the demand for higher conductivity and lower cost. This review focuses on the characteristic properties and the ion transport mechanism behind ILs@MOFs, highlighting the main problems of its applications. Moreover, this review presents an introduction of the advantages and applications of Ils@MOFs as fillers and the improvement directions are also discussed. In the conclusion, the challenges and suggestions for the future improvement of ILs@MOFs hybrid electrolytes are also prospected. Overall, this review demonstrates the application potential of ILs@MOFs as a hybrid electrolyte material in energy storage systems.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/batteries9060314",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_batteries9060314/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 16,
+  "journal": "Batteries",
+  "publisher": "",
+  "issn": "2313-0105",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:48.783771+00:00",
+  "updated_at": "",
+  "extra": {}
+}

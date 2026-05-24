@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1007_s43938-024-00055-8",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide solid-state electrolyte achieving high ionic conductivity by engineering nanocrystals",
+  "authors": [
+    {
+      "name": "Sajid Bashir",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jingbo Louise Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6898-9933",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s43938-024-00055-8",
+  "url": "https://doi.org/10.1007/s43938-024-00055-8",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Lithium-ion battery (LIB) technologies utilize liquid electrolytes, which can cause safety issues due to electrolyte leakage, uncontrolled side reactions between the liquid electrolyte and electrode, dendrite formation, and flammability of the liquid components with air. These problems can be minimized using solid-state electrolytes (SSEs) containing the functionality of an electrolyte. Our research discovery meets the urgent requirement of developing rapid ionic conductive solid-state electrolytes for lithium metal battery applications, emphasizing safe operation and high energy density. The breakthrough lies in the functionalization and tunability of monoclinic doped Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub>-based solid electrolytes to achieve desirable structural and high ionic conductivity (&gt; 0.15 S cm<jats:sup>−1</jats:sup>). We report four formulations of solid-state electrolytes obtained using modified sol–gel synthesis and used to assemble symmetrical half cells for electrochemical impedance spectroscopic (EIS) analyses in the frequency ranging from 10<jats:sup>–2</jats:sup> to 10<jats:sup>6</jats:sup> Hz under five different temperatures (15–55 °C). The EIS data of non-doped, F-, Ce-, and Mo-doped electrolytes showed R<jats:sub>1</jats:sub> (solid-electrolyte) ranging from 0.05 to 0.10 Ohm and R<jats:sub>2</jats:sub> (interfacial) resistance varying from 0.05 to 1.25 Ohm, resulting in superionic conductivity (0.15–0.45 S cm<jats:sup>−1</jats:sup>), equivalent to the commercially available liquid electrolyte and evidenced two magnitudes increase compared to the published data.</jats:p>\n                <jats:p><jats:bold>Graphical abstract</jats:bold></jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s43938-024-00055-8",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s43938-024-00055-8/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43938-024-00055-8.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Discover Chemical Engineering",
+  "publisher": "",
+  "issn": "2730-7700",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:58.828812+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1038_s41467-022-34874-6",
+  "collection": "halide-solid-state-battery",
+  "title": "Molecular magneto-ionic proton sensor in solid-state proton battery",
+  "authors": [
+    {
+      "name": "Yong Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3360-7856",
+      "affiliation": ""
+    },
+    {
+      "name": "Zipeng Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2965-9995",
+      "affiliation": ""
+    },
+    {
+      "name": "Yingjie Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Chi Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7230-3754",
+      "affiliation": ""
+    },
+    {
+      "name": "Yuguang C. Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9559-7051",
+      "affiliation": ""
+    },
+    {
+      "name": "Shenqiang Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9987-3316",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-022-34874-6",
+  "url": "https://doi.org/10.1038/s41467-022-34874-6",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>High proton conductivity originated from its small size and the diffusion-free Grotthuss mechanism offers immense promise for proton-based magneto-ionic control of magnetic materials. Despite such promise, the realization of proton magneto-ionics is hampered by the lack of proton-responsive magnets as well as the solid-state sensing method. Here, we report the proton-based magneto-ionics in molecule-based magnet which serves as both solid-state proton battery electrode and radiofrequency sensing medium. The three-dimensional hydrogen-bonding network in such a molecule-based magnet yields a high proton conductivity of 1.6 × 10<jats:sup>−3</jats:sup> S cm<jats:sup>−1</jats:sup>. The three-dimensional printed vascular hydrogel provides the on-demand proton stimulus to enable magneto-ionics, where the Raman spectroscopy shows the redox behavior responsible for the magnetism control. The radiofrequency proton sensor shows high sensitivity in a wide proton concentration range from 10<jats:sup>−6</jats:sup> to 1 molar under a low working radiofrequency and magnetic field of 1 GHz and 405 Oe, respectively. The findings shown here demonstrate the promising sensing application of proton-based magneto-ionics.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1038/s41467-022-34874-6",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-022-34874-6/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41467-022-34874-6.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Nature Communications",
+  "publisher": "",
+  "issn": "2041-1723",
+  "quartile": "",
+  "added_at": "2026-05-24T03:09:47.340550+00:00",
+  "updated_at": "",
+  "extra": {}
+}
