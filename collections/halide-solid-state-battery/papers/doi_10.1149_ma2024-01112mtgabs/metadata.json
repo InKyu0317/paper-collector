@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2024-01112mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Sodium Halide-Based Solid Electrolyte with High Ionic Conductivity",
+  "authors": [
+    {
+      "name": "Yuan Tan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Laisuo Su",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-01112mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-01112mtgabs",
+  "published": "2024-8-9",
+  "abstract": "<jats:p>  \tSodium-ion batteries (SIBs) are considered one of the most prominent alternatives to lithium-ion batteries (LIBs) because of the abundance of sodium resources on Earth. However, compared to Li, Na has a heavier atomic weight (23 g mol<jats:sup>–1</jats:sup> vs. 6.9 g mol<jats:sup>–1</jats:sup>) and higher standard potential, leading to lower volumetric and gravimetric energy density of SIBs than LIBs. The energy density of state-of-the-art room-temperature SIBs is in the range of 75 – 165 W h kg<jats:sup>–1</jats:sup> or 250 – 375 W h L<jats:sup>–1</jats:sup>. To increase the energy density of SIBs, Na metal is proposed to be used as the anode material due to its superior theoretical specific capacity (1166 mA h g<jats:sup>–1</jats:sup>). To tackle the safety challenges brought by using Na metal, applying solid electrolytes (SEs) has been proposed to be an effective strategy. Despite the tremendous progress that has been made in the past decades, the progress and application are still in the infancy, experiencing numerous challenges for sodium solid-state batteries due to inherently low room-temperature ionic conductivity, interface complications, and fabrication.</jats:p>\n               <jats:p>Inorganic halide-based SEs have emerged as a game changer because of their fast-conducting characteristics, adequate thermodynamic stability, great deformability, and good oxidative stability.<jats:sup>1</jats:sup> Moreover, halide-based SEs are generally stable against moisture owing to their positive hydrolysis reaction energy. However, most of the studied halide-based SEs are based on the Li-ion system, with only a few based on the Na-ion system. Moreover, despite halide-based Na SEs theoretically having high ionic conductivity,<jats:sup>2</jats:sup> experimental obtained samples have much lower ionic conductivities compared to their Li counterparts (usually &lt; 0.1 mS cm<jats:sup>–1</jats:sup>). Therefore, developing halide-based SEs with high Na<jats:sup>+</jats:sup> ionic conductivity is crucial for Na ASSBs. We recently identified a new Na halide-based SE with a room temperature Na<jats:sup>+</jats:sup> ionic conductivity over 1 mS cm<jats:sup>–1</jats:sup>. The activation energy is also as low as 0.23 eV. Interestingly, the material shows a mixed amorphous and crystalline phase, and its ionic conductivity decreases with the increase of the crystalline phase. The ionic conductivity of &gt; 1 mS cm<jats:sup>–1 </jats:sup>is already comparable to some organic liquid electrolytes and thus is sufficient for many practical applications. The developed strategy has the potential to be applied to other halide-based SEs to improve their ionic conductivity, promoting the development of SIBs.</jats:p>\n               <jats:p>(1) Huang, J.; Wu, K.; Xu, G.; Wu, M.; Dou, S.; Wu, C. Recent Progress and Strategic Perspectives of Inorganic Solid Electrolytes: Fundamentals, Modifications, and Applications in Sodium Metal Batteries. <jats:italic>Chem. Soc. Rev.</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>52</jats:italic> (15), 4933–4995.</jats:p>\n               <jats:p>(2) Qie, Y.; Wang, S.; Fu, S.; Xie, H.; Sun, Q.; Jena, P. Yttrium–Sodium Halides as Promising Solid-State Electrolytes with High Ionic Conductivity and Stability for Na-Ion Batteries. <jats:italic>J. Phys. Chem. Lett.</jats:italic>\n                  <jats:bold>2020</jats:bold>, <jats:italic>11</jats:italic> (9), 3376–3383.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-01112mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-01112mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-01112mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-05-25T06:26:00.079524+00:00",
+  "updated_at": "",
+  "extra": {}
+}

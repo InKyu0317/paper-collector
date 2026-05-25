@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ae26c8",
+  "collection": "halide-solid-state-battery",
+  "title": "Imidazolium Based and Pyrrolidinium Based Poly(Ionic Liquid) Binders for Hard Carbon Anode in Sodium Ion Battery",
+  "authors": [
+    {
+      "name": "Zhang Yuanhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Bharat Srimitra Mantripragada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sameer Nirupam Mishra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Matsumi Noriyoshi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3621-5313",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ae26c8",
+  "url": "https://doi.org/10.1149/2162-8777/ae26c8",
+  "published": "2026-1-1",
+  "abstract": "<jats:p>\n                    The development of high-performance binders is critical for advancing sodium-ion batteries (SIBs), where conventional poly(vinylidene fluoride) (PVDF) faces limitations in electrochemical stability and electrode integrity. This study explores poly(ionic liquid)s (PILs) as alternative binders for hard carbon anodes, focusing on imidazolium-based poly(1-ethyl-3-vinylimidazolium bis(fluorosulfonyl)imide)(PEVIFSI) and pyrrolidinium-based poly(diallyldimethylammonium bis(fluorosulfonyl)imide)/Poly(diallyldimethylammonium bis(trifluoromethanesulfonyl)imide)(PDADMAFSI/ PDADMA-TFSI). PILs were synthesized via radical polymerization (PEVIFSI) and salt metathesis (PDADMAFSI/ PDADMATFSI), with structures confirmed by FTIR and NMR Electrochemical evaluations demonstrated that PDADMATFSI-based anodes achieved a high initial capacity of 321.6 mAh g\n                    <jats:sup>−1</jats:sup>\n                    and a capacity retention of 81.3% after 300 cycles, outperforming PEVIFSI (65.7%), and showing excellent cycling stability. The pyrrolidinium PILs facilitated lower charge transfer resistance (R\n                    <jats:sub>ct</jats:sub>\n                    : 13.3 Ω for PDADMAFSI and 16.9 Ω for PDADMATFSI) and stable SEI formation, attributed to their anion-adsorbing polymer backbone and robust electrochemical stability. In contrast, PEVIFSI suffered from severe degradation, leading to excessive SEI growth (R\n                    <jats:sub>SEI</jats:sub>\n                    : 13.07 Ω) and rapid capacity decay due to imidazolium reduction. Rate capability tests further highlighted PDADMAFSI’s superiority, delivering 89.2 mAh g\n                    <jats:sup>−1</jats:sup>\n                    at 700 mA g\n                    <jats:sup>−1</jats:sup>\n                    (12% higher than PVDF), while PEVIFSI exhibited poor recovery due to binder decomposition. Morphological analysis confirmed the anode using PDADMAFSI as binder has better structural integrity after cycling, whereas PEVIFSI anodes showed incompatibility with glass fiber separator. This work establishes pyrrolidinium-based PILs as promising binders for SIBs, combining high mechanical resilience, and electrochemical stability, while underscoring the unsuitability of imidazolium-based PILs for anode applications.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ae26c8",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ae26c8/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ae26c8/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-05-25T06:25:59.533867+00:00",
+  "updated_at": "",
+  "extra": {}
+}
