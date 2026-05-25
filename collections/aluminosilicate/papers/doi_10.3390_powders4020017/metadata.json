@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.3390_powders4020017",
+  "collection": "aluminosilicate",
+  "title": "Drying Structures of Droplets of Aluminosilicate-Based Hollow Particle Aqueous Dispersions",
+  "authors": [
+    {
+      "name": "Hiroshi Kimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0001-1010-2540",
+      "affiliation": "Faculty of Engineering, Gifu University, Gifu 501-1193, Japan"
+    },
+    {
+      "name": "Kaoru Saito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0006-0196-4698",
+      "affiliation": "Faculty of Engineering, Gifu University, Gifu 501-1193, Japan"
+    }
+  ],
+  "doi": "10.3390/powders4020017",
+  "url": "https://doi.org/10.3390/powders4020017",
+  "published": null,
+  "abstract": "<jats:p>The drying structures of droplets of colloidal aqueous dispersions exhibit a wide variety of patterns depending on experimental conditions. It has been established by previous researchers that capillary flows and Marangoni convection significantly influence the macroscopic pattern formation. To the best of our knowledge, this study is the first to focus on sessile droplets of aqueous dispersions containing hollow particles. These hollow particles have a lower density than water and thus float in the medium. The drying pattern of these droplets was markedly different from the well-known ring pattern. Instead, a bump-shaped structure—often referred to as a “coffee-eye”—was formed due to the accumulation of particles at the center of the dried film. While a ring pattern was still present, it was extremely narrow and barely noticeable. This behavior is attributed to the dominance of the buoyant motion of the hollow particles, which prevented their transport by capillary flow. The findings of this study provide fundamental and important insights into the drying structures of various types of colloidal droplets.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/powders4020017",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_powders4020017/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Powders",
+  "publisher": "",
+  "issn": "2674-0516",
+  "quartile": "",
+  "added_at": "2026-05-25T06:22:23.667998+00:00",
+  "updated_at": "",
+  "extra": {}
+}
