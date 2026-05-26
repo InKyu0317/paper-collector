@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2501.10567v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Polymer-based solid-state electrolytes for lithium sulfur batteries",
+  "authors": [
+    {
+      "name": "Praveen Balaji T",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Soumyadip Choudhury",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ernesto E. Marinero",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2501.10567v1",
+  "published": "2025-01-17T21:52:21+00:00",
+  "abstract": "Lithium-sulfur (Li-S) batteries offer substantial theoretical energy density gains over Li-ion bat-teries, a crucial factor for transportation electrification. In addition, sulfur is an earth-abundant, inexpensive material obtainable from multiple resources; thus, Li-S batteries are envisioned to provide environmentally sustainable solutions to the growing demand for energy storage. A crit-ical roadblock to the realization of commercial Li-S batteries is the formation of polysulfides and their secondary reactions with liquid organic electrolytes, resulting in low coulombic efficiency for charging and fast self-discharge rates. The realization of solid-state electrolytes for Li-S bat-teries provides potential pathways to address the safety concerns of liquid electrolytes and inhib-it the formation of polysulfides and/or prevent their diffusion into the anode electrode. However, current solid-state electrolytes are limited by low ionic conductivity, inadequate electrode inter-facial compatibility, and restricted electrochemical windows. This review discusses the status of polymer-based electrolytes for Li-S batteries, and outlines current methods for their fabrication, their transport characteristics and ongoing research aimed at overcoming material properties hindering the development of all-solid-state Li-S batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.10567v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2501.10567v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.10567v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:39.315824+00:00",
+  "updated_at": "",
+  "extra": {}
+}

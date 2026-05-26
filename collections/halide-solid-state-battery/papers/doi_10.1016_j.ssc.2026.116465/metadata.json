@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2026.116465",
+  "collection": "halide-solid-state-battery",
+  "title": "General expression for the energy and the equation of state for polycrystalline solids",
+  "authors": [
+    {
+      "name": "O. Bystrenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    },
+    {
+      "name": "B. Ilkiv",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    },
+    {
+      "name": "S. Petrovska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    },
+    {
+      "name": "T. Bystrenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    },
+    {
+      "name": "O. Foia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    },
+    {
+      "name": "O. Khyzhun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Frantsevich Institute for problems of materials science, Kyiv, Ukraine"
+    }
+  ],
+  "doi": "10.1016/j.ssc.2026.116465",
+  "url": "http://arxiv.org/abs/2510.07353v2",
+  "published": "2025-10-08T12:47:25+00:00",
+  "abstract": "On the basis of the extended classical elasticity theory, we propose universal semi-empirical analytical expressions for the energy and the equation of state for poly-crystalline solids. The validation of the relations has been made by means of first principle density functional theory simulations with the use of pseudo-potential approach and generalized gradient approximation for the exchange-correlation energy. The calculations performed for a large number of inorganic crystalline compounds with metal, covalent and ionic bonding (including diamond, Mg, sphalerite, B, magnesium carboboride, topaz, rocksalt, etc.) within the pressure range up to 300 GPa demonstrated an excellent agreement with the predictions of the analytical theory comparable in accuracy with Birch-Murnaghan approach.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.07353v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2026.116465/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.07353v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:42.589554+00:00",
+  "updated_at": "",
+  "extra": {}
+}

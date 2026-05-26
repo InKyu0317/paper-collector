@@ -1,0 +1,96 @@
+{
+  "paper_id": "arxiv_2401.00647v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Tuning Thermal Conductivity of Hybrid Perovskites through Halide Alloying",
+  "authors": [
+    {
+      "name": "Guang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongzhao Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhongwei Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yufei Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zuankai Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhigang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haipeng Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yanguang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.00647v1",
+  "published": "2024-01-01T03:20:45+00:00",
+  "abstract": "Tuning the thermal transport properties of hybrid halide perovskites is critical for their applications in optoelectronics, thermoelectrics, and photovoltaics. Here, we demonstrate an effective strategy to modulate the thermal transport property of hybrid perovskites by halide alloying. A highly tunable thermal conductivity of mixed-halide hybrid perovskites is achieved due to halide-alloying and structural distortion. Our experimental measurements show that the room temperature thermal conductivity of MAPb(BrxI1-x)3 (x = 0-1) can be largely modulated from 0.27 W/mK (x = 0.5) to 0.47 W/mK (x = 1). Molecular dynamics simulations further demonstrate that the thermal conductivity reduction of hybrid halide perovskites results from the suppression of the mean free paths of the low-frequency acoustic and optical phonons. It is found that halide alloying and the induced structural distortion can largely increase the scatterings of optical and acoustic phonons, respectively. The confined diffusion of MA+ cations in the octahedra cage is found to act as an additional thermal transport channel in hybrid perovskites and can contribute around 10-20% of the total thermal conductivity. Our findings provide a strategy for tailoring the thermal transport in hybrid halide perovskites which may largely benefit their related applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.00647v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.00647v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.00647v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:46.987485+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_batteries9100510",
+  "collection": "halide-solid-state-battery",
+  "title": "Unraveling the Correlation between Structure and Lithium Ionic Migration of Metal Halide Solid-State Electrolytes via Neutron Powder Diffraction",
+  "authors": [
+    {
+      "name": "Hao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3763-0228",
+      "affiliation": "School of Metallurgical and Ecological Engineering, University of Science and Technology Beijing, Beijing 100083, China"
+    },
+    {
+      "name": "Feilong Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Metallurgical and Ecological Engineering, University of Science and Technology Beijing, Beijing 100083, China"
+    },
+    {
+      "name": "Xingyu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Metallurgical and Ecological Engineering, University of Science and Technology Beijing, Beijing 100083, China"
+    },
+    {
+      "name": "Wei Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3164-2789",
+      "affiliation": "Eastern Institute for Advanced Study, Eastern Institute of Technology, Ningbo 315201, China"
+    }
+  ],
+  "doi": "10.3390/batteries9100510",
+  "url": "https://doi.org/10.3390/batteries9100510",
+  "published": null,
+  "abstract": "<jats:p>Metal halide solid-state electrolytes (SSEs) (Li-M-X system, typically Li3MX6 and Li2MX4; M is metal or rare-earth element, X is halogen) exhibit significant potential in all solid-state batteries (ASSB) due to wide stability windows (0.36–6.71 V vs. Li/Li+), excellent compatibility with cathodes, and a water-mediated facile synthesis route for large-scale fabrication. Understanding the dynamics of Li+ transportation and the influence of the host lattice is the prerequisite for developing advanced Metal halide SSEs. Neutron powder diffraction (NPD), as the most cutting-edge technology, could essentially reflect the nuclear density map to determine the whole crystal structure. Through NPD, the Li+ distribution and occupation are clearly revealed for transport pathway analysis, and the influence of the host ion lattice on Li+ migration could be discussed. In this review, we stress NPD utilization in metal halide SSEs systems in terms of defect chemistry, phase transition, cation/anion disorder effects, dual halogen, lattice dynamics/polarizability, and in situ analysis of phase evolution. The irreplaceable role of NPD technology in designing metal halide SSEs with enhanced properties is stressed, and a perspective on future developments of NPD in metal halide SSEs is also presented.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/batteries9100510",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_batteries9100510/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "Batteries",
+  "publisher": "",
+  "issn": "2313-0105",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:43.564713+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_aenm.202505286",
+  "collection": "halide-solid-state-battery",
+  "title": "From Promise to Production: Strategy for Halide‐Based All‐Solid‐State Battery Pilot Lines",
+  "authors": [
+    {
+      "name": "Sijie Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0623-9608",
+      "affiliation": "Research Institute of Tsinghua University in Shenzhen  Shenzhen Guangdong 518000 P. R. China"
+    },
+    {
+      "name": "Le Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Displays and Opto‐electronics The Hong Kong University of Science and Technology Clear Water Bay Hong Kong 999077 P. R. China"
+    },
+    {
+      "name": "Kristiaan Neyts",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Displays and Opto‐electronics The Hong Kong University of Science and Technology Clear Water Bay Hong Kong 999077 P. R. China"
+    }
+  ],
+  "doi": "10.1002/aenm.202505286",
+  "url": "https://doi.org/10.1002/aenm.202505286",
+  "published": "2026-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    All‐solid‐state batteries (ASSBs) are a pivotal advancement for next‐generation energy storage, addressing the safety and energy density limitations of conventional lithium‐ion systems. Among various solid‐state electrolytes (SSEs), halide‐based SSEs have emerged as particularly promising candidates due to their unique combination of high ionic conductivity (0.1–10 mS cm\n                    <jats:sup>−1</jats:sup>\n                    ), exceptional electrochemical stability (&gt;4.5 V), and favorable mechanical properties. In contrast to polymer SSEs (limited by low ionic conductivity), oxide SSEs (requiring energy‐intensive processing), and sulfide SSEs (exhibiting moisture sensitivity and high cost), halide SSEs offer a more balanced performance profile, making them highly suitable for commercial applications. This perspective highlights halide SSEs as a key enabler for the commercialization of ASSBs, not only due to their superior material properties but also because of their advantages in scalable synthesis and industrial compatibility. Specifically, halide SSEs can be processed at room temperatures and pressures, and exhibit better interfacial compatibility with high‐voltage cathodes. These attributes significantly simplify the transition from lab‐scale research to pilot‐scale production, reducing both energy consumption and manufacturing complexity. Furthermore, a unified lab‐to‐pilot framework is proposed that integrates fundamental electrochemistry with scalable engineering practices for halide SSEs. A 2D evaluation system is also introduced to guide the selection of optimal application scenarios for ASSBs. By addressing critical challenges such as moisture sensitivity, interfacial degradation, and mechanical brittleness, halide SSEs are positioned as the most manufacturable pathway toward the commercialization of ASSBs for electric vehicles and grid‐scale storage. This work is the first to provide a comprehensive strategy perspective on halide‐based ASSB pilot lines, offering practical insights into material selection, process optimization, and industrial scalability.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/aenm.202505286",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_aenm.202505286/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/aenm.202505286",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 9,
+  "journal": "Advanced Energy Materials",
+  "publisher": "",
+  "issn": "1614-6832",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:51.058362+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2211.04977v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Design of battery materials via defects and doping",
+  "authors": [
+    {
+      "name": "Khang Hoang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2211.04977v2",
+  "published": "2022-11-09T15:47:39+00:00",
+  "abstract": "This chapter illustrates the use of defect physics as a conceptual and theoretical framework for understanding and designing battery materials. It starts with a methodology for first-principles studies of defects in complex transition-metal oxides. The chapter then considers defects that are activated in a cathode material during synthesis, during measurements, and during battery use. Through these cases, it discusses possible defect landscapes in the material and their implications, guidelines for materials design via defect-controlled synthesis, mechanisms for electronic and ionic conduction and for electrochemical extraction and (re-)insertion, and effects of doping. Although specific examples are taken from studies of battery cathode materials, the computational approach and discussions are general and applicable to any ionic, electronic, or mixed ionic-electronic conducting materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2211.04977v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2211.04977v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2211.04977v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:30.194018+00:00",
+  "updated_at": "",
+  "extra": {}
+}

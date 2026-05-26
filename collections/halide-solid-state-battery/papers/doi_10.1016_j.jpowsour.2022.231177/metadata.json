@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1016_j.jpowsour.2022.231177",
+  "collection": "halide-solid-state-battery",
+  "title": "Modeling the effect of electrolyte microstructure on conductivity and solid-state Li-ion battery performance",
+  "authors": [
+    {
+      "name": "Maya Horii",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0716-6591",
+      "affiliation": ""
+    },
+    {
+      "name": "Rebecca J. Christianson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8277-7694",
+      "affiliation": ""
+    },
+    {
+      "name": "Heena Mutha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "John Christopher Bachman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8713-9595",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jpowsour.2022.231177",
+  "url": "https://doi.org/10.1016/j.jpowsour.2022.231177",
+  "published": "2022-4",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jpowsour.2022.231177",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jpowsour.2022.231177/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "issn": "0378-7753",
+  "quartile": "",
+  "added_at": "2026-05-26T05:59:51.058975+00:00",
+  "updated_at": "",
+  "extra": {}
+}
