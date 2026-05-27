@@ -1,0 +1,133 @@
+{
+  "paper_id": "doi_10.1002_ange.202403331",
+  "collection": "halide-solid-state-battery",
+  "title": "Reviving Cost‐Effective Organic Cathodes in Halide‐Based All‐Solid‐State Lithium Batteries",
+  "authors": [
+    {
+      "name": "Yingjie Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6853-7870",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Jiamin Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Yang Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Feipeng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Weihan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Sixu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Yipeng Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Xiaoge Hao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Jinjin Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Xiaoting Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Changhong Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Eastern Institute for Advanced Study Eastern Institute of Technology  Ningbo, Zhejiang 315200 P.R. China"
+    },
+    {
+      "name": "Ruying Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0374-1245",
+      "affiliation": "Department of Mechanical and Materials Engineering University of Western Ontario  1151 Richmond St, London Ontario N6A 3K7 Canada"
+    }
+  ],
+  "doi": "10.1002/ange.202403331",
+  "url": "https://doi.org/10.1002/ange.202403331",
+  "published": "2024-7-22",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The evolution of inorganic solid electrolytes has revolutionized the field of sustainable organic cathode materials, particularly by addressing the dissolution problems in traditional liquid electrolytes. However, current sulfide‐based all‐solid‐state lithium‐organic batteries still face challenges such as high working temperatures, high costs, and low voltages. Here, we design an all‐solid‐state lithium battery based on a cost‐effective organic cathode material phenanthrenequinone (PQ) and a halide solid electrolyte Li<jats:sub>2</jats:sub>ZrCl<jats:sub>6</jats:sub>. Thanks to the good compatibility between PQ and Li<jats:sub>2</jats:sub>ZrCl<jats:sub>6</jats:sub>, the PQ cathode achieved a high specific capacity of 248 mAh g<jats:sup>−1</jats:sup> (96 % of the theoretical capacity), a high average discharge voltage of 2.74 V (vs. Li<jats:sup>+</jats:sup>/Li), and a good capacity retention of 95 % after 100 cycles at room temperature (25 °C). Furthermore, the interactions between the high‐voltage carbonyl PQ cathode and both sulfide and halide solid electrolytes, as well as the redox mechanism of the PQ cathode in all‐solid‐state batteries, were carefully studied by a variety of advanced characterizations. We believe such a design and the corresponding investigations into the underlying chemistry give insights for the further development of practical all‐solid‐state lithium‐organic batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/ange.202403331",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_ange.202403331/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Angewandte Chemie",
+  "publisher": "",
+  "issn": "0044-8249",
+  "quartile": "",
+  "added_at": "2026-05-27T06:18:18.607710+00:00",
+  "updated_at": "",
+  "extra": {}
+}
