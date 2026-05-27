@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.31857_s0016752524040056",
+  "collection": "aluminosilicate",
+  "title": "Features of loparite dissolution in aluminosilicate melts (experimental investigation)",
+  "authors": [
+    {
+      "name": "N. I. Suk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Korzhinskii Institute of Experimental Mineralogy RAS (IEM RAS)"
+    },
+    {
+      "name": "A. R. Kotelʹnikov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Korzhinskii Institute of Experimental Mineralogy RAS (IEM RAS)"
+    },
+    {
+      "name": "A. A. Viryus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Korzhinskii Institute of Experimental Mineralogy RAS (IEM RAS)"
+    }
+  ],
+  "doi": "10.31857/s0016752524040056",
+  "url": "https://doi.org/10.31857/s0016752524040056",
+  "published": null,
+  "abstract": "<jats:p>The solubility of loparite (Na, Ce, Ca)2(Ti, Nb)2O6) in aluminosilicate melts of various compositions was experimentally studied at T = 1200 and 1000°C and P = 2 kbar under dry conditions and in the presence of 10 wt. % H2O in a high gas pressure vessel with a duration of 1 day. The initial material was previously melted glasses of malignite, urtite and eutectic albite-nepheline composition, as well as natural loparite of the Lovozero massif. The dependence of the solubility of loparite on the composition of the aluminosilicate melt (Ca/(Na + K), (Na + K)/Al) has been revealed. Partition coefficients of a number of elements (Ti, Nb, Sr, REE) between silicate melt and loparite crystals (Ki = Cimelt/Cilop) were estimated.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.31857/s0016752524040056",
+  "pdf_path": "aluminosilicate/papers/doi_10.31857_s0016752524040056/paper.pdf",
+  "pdf_url": "https://journals.rcsi.science/0016-7525/article/viewFile/263782/242607",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Геохимия",
+  "publisher": "",
+  "issn": "0016-7525",
+  "quartile": "",
+  "added_at": "2026-05-27T06:15:08.431889+00:00",
+  "updated_at": "",
+  "extra": {}
+}
