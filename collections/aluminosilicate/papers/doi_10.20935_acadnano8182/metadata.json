@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.20935_acadnano8182",
+  "collection": "aluminosilicate",
+  "title": "Substrate-dependent hardness and adhesion of nano-grained aluminosilicate films by dry aerosol deposition",
+  "authors": [
+    {
+      "name": "Arezou Karimian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials and Metallurgical Engineering, New Mexico Institute of Mining and Technology, Socorro, NM, USA."
+    },
+    {
+      "name": "Paul Fuierer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials and Metallurgical Engineering, New Mexico Institute of Mining and Technology, Socorro, NM, USA."
+    }
+  ],
+  "doi": "10.20935/acadnano8182",
+  "url": "https://doi.org/10.20935/acadnano8182",
+  "published": null,
+  "abstract": "<jats:p xml:lang=\"en\">This study explores the fabrication of nanoscale, fine-grained aluminosilicate thick films using dry aerosol deposition (DAD) and investigates how substrate hardness influences film evolution, morphology, and mechanical performance. Amorphous aluminosilicate powders were deposited at room temperature onto aluminum, stainless steel, and glass substrates, representing a wide hardness spectrum (1.5–6 GPa). Scanning electron microscopy (SEM), Atomic force microscopy (AFM), and nanoindentation analyses revealed that substrate hardness plays a role in particle anchoring, initial morphology, and roughness, and final film roughness and hardness. The deposited coatings achieved thicknesses of 5–11 μm with good adhesion. Tensile pull-off strength ranged from 18.5 to 25.3 MPa with predominantly cohesive failure, indicating strong interfacial adhesive bonding. Biaxial loading (scratch testing) of coatings on aluminum revealed average cohesive and adhesive failure loads of 4.4 and 9.0 N respectively. Films deposited on steel exhibited the highest hardness (5.9 GPa), highest tensile pull strength (25 MPa), and no evidence of adhesive failure even at the highest scratch load (25 N), suggesting an optimal energy transfer to particle fracture and particle embedding. These findings highlight the substrate’s role in the mechanical properties of DAD coatings, and demonstrate the viability of aluminosilicate as a low-cost, unrefined feedstock for protective DAD coatings.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.20935/acadnano8182",
+  "pdf_path": "aluminosilicate/papers/doi_10.20935_acadnano8182/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Academia Nano: Science, Materials, Technology",
+  "publisher": "",
+  "issn": "3065-9736",
+  "quartile": "",
+  "added_at": "2026-05-28T06:03:45.569414+00:00",
+  "updated_at": "",
+  "extra": {}
+}

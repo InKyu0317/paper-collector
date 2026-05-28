@@ -1,0 +1,117 @@
+{
+  "paper_id": "doi_10.1002_adfm.75724",
+  "collection": "aluminosilicate",
+  "title": "Unveiling the Nano‐To‐Atomic Scale Corrosion Mechanism in High‐Entropy Cerate–Zirconate for Superior Calcium–Magnesium–Aluminosilicate Resistance",
+  "authors": [
+    {
+      "name": "Zeyu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Mengyao Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Zhengyang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Yiling Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6662-3495",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Fan Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Yue Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Wei Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Xuemei Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Yaran Niu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3386-2179",
+      "affiliation": "Key Laboratory of Inorganic Coating Materials CAS Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    },
+    {
+      "name": "Juntao Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Beijing Python Scientific Technology Co., Ltd.  Beijing China"
+    },
+    {
+      "name": "Yi Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7468-7701",
+      "affiliation": "State Key Laboratory of High Performance Ceramics Shanghai Institute of Ceramics Chinese Academy of Sciences  Shanghai China"
+    }
+  ],
+  "doi": "10.1002/adfm.75724",
+  "url": "https://doi.org/10.1002/adfm.75724",
+  "published": null,
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Designing thermal barrier coatings (TBCs) with intrinsic resistance to calcium–magnesium–aluminosilicate (CMAS) corrosion requires mechanistic insight spanning atomic to mesoscale levels. Here we resolve the corrosion behavior of a high‐entropy rare‐earth cerate–zirconate, (Nd\n                    <jats:sub>1/5</jats:sub>\n                    Sm\n                    <jats:sub>1/5</jats:sub>\n                    Eu\n                    <jats:sub>1/5</jats:sub>\n                    Gd\n                    <jats:sub>1/5</jats:sub>\n                    Lu\n                    <jats:sub>1/5</jats:sub>\n                    )\n                    <jats:sub>2</jats:sub>\n                    ZrCeO\n                    <jats:sub>7</jats:sub>\n                    (HEZC), by integrating EBSD, SPED, HAADF‐STEM, atomic‐resolution STEM–EDS, iDPC‐TEM, and in situ XRD. Multi‐scale analyses reveal that CMAS infiltration triggers rapid apatite formation at the interface, accompanied by the emergence of multi‐element‐doped fluorite‐type ZrO\n                    <jats:sub>2</jats:sub>\n                    alternating along the corrosion frontier. This alternating architecture impedes melt penetration, yielding exceptional corrosion resistance—only 79.6 µm degradation after 50 h at 1300°C and 45.1 µm after 10 h at 1350°C. Atomic‐scale mapping and first‐principles calculations show that Ca preferentially occupies AO\n                    <jats:sub>9</jats:sub>\n                    polyhedra in the apatite lattice, while the high configurational entropy of the rare‐earth sublattice destabilizes corrosion products, collectively suppressing frontier advance. These results establish a mechanistically validated design framework in which mixed‐valent Ce and rare‐earth–site entropy act synergistically to govern CMAS–TBC interactions, guiding the development of next‐generation, entropy‐stabilized coatings for sustained operation above 1300°C.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/adfm.75724",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_adfm.75724/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.75724",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Advanced Functional Materials",
+  "publisher": "",
+  "issn": "1616-301X",
+  "quartile": "",
+  "added_at": "2026-05-28T06:03:45.677937+00:00",
+  "updated_at": "",
+  "extra": {}
+}
