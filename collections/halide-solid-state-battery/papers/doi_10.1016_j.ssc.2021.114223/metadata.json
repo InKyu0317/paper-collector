@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2021.114223",
+  "collection": "halide-solid-state-battery",
+  "title": "Origin of low thermal conductivity in monolayer PbI2",
+  "authors": [
+    {
+      "name": "E. Bolen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "E. Deligoz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "H. Ozisik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4011-1720",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2021.114223",
+  "url": "https://doi.org/10.1016/j.ssc.2021.114223",
+  "published": "2021-3",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2021.114223",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2021.114223/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 22,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-05-28T06:17:10.711031+00:00",
+  "updated_at": "",
+  "extra": {}
+}

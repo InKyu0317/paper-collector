@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2025-01187mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Combining Machine Learning and DFT to Design New Ionic Superconductor Halide Materials for All-Solid-State Lithium Batteries: A High-Throughput Study",
+  "authors": [
+    {
+      "name": "Yamine Benabed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7039-8742",
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo Roseiro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Kirk Bevan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Chisu Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0024-5767",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-01187mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-01187mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tSolid electrolytes (SEs) are developed as a key element in all-solid-state lithium batteries. They are expected to overcome the safety issues associated with conventional liquid electrolytes and to unlock higher power densities, through the use of lithium metal and high-potential active materials. To this end, different families of solid-state superionic conductors have been investigated since 1990’s, including polymers, garnets, perovskites, NASICONs and sulfides. More recently, studies have put forward halides as very promising solid-state electrolytes. Some halide materials (e. g., Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub>, LiYbCl<jats:sub>4</jats:sub>) compete with oxide and sulfide SEs on several aspects, like the ionic conductivity, electrochemical stability window and moisture resistance, while circumventing their biggest disadvantages, such as the extreme sensitivity to moisture observed in sulfides and the high temperatures needed to process oxides. The main limitations of the best performing halides such as Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> are the high synthesis cost and its rather narrow electrochemical stability window.</jats:p>\n               <jats:p>In order to find better performing halides, the battery community has turned to high-throughput screening based on computational tools. These methods have proven to be more efficient than the conventional trial-and-error approach, and to allow the exploration of extensive chemical spaces, at a fraction of the time used experimentally.</jats:p>\n               <jats:p>In this presentation, we have used a high throughput workflow developed by our research group to design new halide materials, using Li<jats:sub>3</jats:sub>InCl<jats:sub>6 </jats:sub>as structural framework, where In and Cl are substituted by more affordable elements that were proven to improve SEs performances.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-01187mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-01187mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-01187mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-05-28T06:17:10.710362+00:00",
+  "updated_at": "",
+  "extra": {}
+}
