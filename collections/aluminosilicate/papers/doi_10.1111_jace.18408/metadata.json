@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1111_jace.18408",
+  "collection": "aluminosilicate",
+  "title": "Enhanced calcium–magnesium–aluminosilicate (CMAS) resistance of GdAlO\n                    <sub>3</sub>\n                    (GAP) for composite thermal barrier coatings",
+  "authors": [
+    {
+      "name": "Michael P. Schmitt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0922-3975",
+      "affiliation": "HAMR Industries LLC  State College Pennsylvania USA"
+    },
+    {
+      "name": "Sergei P. Stepanoff",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Metals, Ceramics, and Coatings Processing Department, The Applied Research Laboratory The Pennsylvania State University University Park  Pennsylvania USA"
+    },
+    {
+      "name": "Amarendra K. Rai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "UES Inc.  Dayton Ohio USA"
+    },
+    {
+      "name": "Pete E. Lauer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5624-4387",
+      "affiliation": "Metals, Ceramics, and Coatings Processing Department, The Applied Research Laboratory The Pennsylvania State University University Park  Pennsylvania USA"
+    },
+    {
+      "name": "Ryan W. Spangler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9924-0535",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University University Park  Pennsylvania USA"
+    },
+    {
+      "name": "Douglas E. Wolfe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Metals, Ceramics, and Coatings Processing Department, The Applied Research Laboratory The Pennsylvania State University University Park  Pennsylvania USA"
+    }
+  ],
+  "doi": "10.1111/jace.18408",
+  "url": "https://doi.org/10.1111/jace.18408",
+  "published": "2022-6",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The impact of calcium–magnesium–alumino‐silicate (CMAS) degradation is a critical factor for development of new thermal and environmental barrier coatings. Several methods of preventing damage have been explored in the literature, with formation of an infiltration inhibiting reaction layer generally given the most attention. Gd\n                    <jats:sub>2</jats:sub>\n                    Zr\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>7</jats:sub>\n                    (GZO) exemplifies this reaction with the rapid precipitation of apatite when in contact with CMAS. The present study compares the CMAS behavior of GZO to an alternative thermal barrier coating (TBC) material, GdAlO\n                    <jats:sub>3</jats:sub>\n                    (GAP), which possesses high temperature phase stability through its melting point as well as a significantly higher toughness compared with GZO. The UCSB laboratory CMAS (35CaO–10MgO–7Al\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    –48SiO\n                    <jats:sub>2</jats:sub>\n                    ) was utilized to explore equilibrium behavior with 50:50 mol% TBC:CMAS ratios at 1200, 1300, and 1400°C for various times. In addition, 8 and 35 mg/cm\n                    <jats:sup>2</jats:sup>\n                    CMAS surface exposures were performed at 1425°C on dense pellets of each material to evaluate the infiltration and reaction in a more dynamic test. In the equilibrium tests, it was found that GAP appears to dissolve slower than GZO while producing an equivalent or higher amount of pore blocking apatite. In addition, GAP induces the intrinsic crystallization of the CMAS into a gehlenite phase, due in part to the participation of the Al\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    from GAP. In surface exposures, GAP experienced a substantially thinner reaction zone compared with GZO after 10 h (87 ± 10 vs. 138 ± 4 μm) and a lack of strong sensitivity to CMAS loading when tested at 35 mg/cm\n                    <jats:sup>2</jats:sup>\n                    after 10 h (85 ± 13 versus 246 ± 10 μm). The smaller reaction zone, loading agnostic behavior, and intrinsic crystallization of the glass suggest this material warrants further evaluation as a potential CMAS barrier and inclusion into composite TBCs.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.18408",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.18408/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jace.18408",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 14,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-05-29T06:09:45.321588+00:00",
+  "updated_at": "",
+  "extra": {}
+}
