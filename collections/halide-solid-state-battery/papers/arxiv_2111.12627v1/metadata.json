@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2111.12627v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Photo-induced Macro/Mesoscopic Scale Ion Segregation in Mixed-Halide Perovskites: Ring Structure and Ionic Plasma Oscillations",
+  "authors": [
+    {
+      "name": "Xiaoxiao Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yong Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weikun Ge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2111.12627v1",
+  "published": "2021-11-24T16:51:11+00:00",
+  "abstract": "Contrary to the common belief that light-induced halide ion segregation in a mixed halide al-loy occurs within the illuminated area, we find that the Br ions released by light diffuse away from the area, which generates a counter-balancing Coulombic force between the anion deficit and surplus region, together resulting in a macro/mesoscopic size anion ring surrounding the center, showing a photoluminescence ring. Upon removing the illumination, the displaced anions return to the illuminated area, and the restoring force leads to a damped ultra-low-frequency oscillatory ion motion, which may be the first observation of an ionic plasma oscillation in solids.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.12627v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2111.12627v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.12627v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:42:12.171691+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1021_acs.iecr.5c03294",
+  "collection": "halide-solid-state-battery",
+  "title": "Grain Boundaries in Ceramic Solid-State Lithium Metal Batteries: A Review",
+  "authors": [
+    {
+      "name": "Md Salman Rabbi Limon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abrar Fahim Navid",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Curtis Wesley Duffee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeeshan Ahmad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.iecr.5c03294",
+  "url": "http://arxiv.org/abs/2508.06866v1",
+  "published": "2025-08-09T07:34:24+00:00",
+  "abstract": "It is now widely accepted that grain boundaries play a critical role in the performance and reliability of solid-state batteries with lithium metal anodes. Understanding and controlling grain boundaries is essential for enabling safe, high-rate operation of solid-state batteries. This review explores the multifaceted influence of grain boundaries in ceramic solid electrolytes and metal anodes, including their impact on ionic and electronic transport, dendrite and void formation, connecting them to the failure mechanisms. We discuss the formation and structure of space charge layers at grain boundaries, their role in modulating local defect chemistry, and the conditions under which grain boundaries may serve as fast-ion pathways or as vulnerable sites for failure. We highlight key differences in the grain boundaries of different classes of solid electrolytes and advances in modeling, experimental characterization, and processing techniques to understand the complexity and engineer grain boundaries in solid electrolytes. Finally, we outline key open questions and opportunities for grain boundary engineering to stimulate further progress in the field.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.06866v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.iecr.5c03294/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.06866v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:41:57.057923+00:00",
+  "updated_at": "",
+  "extra": {}
+}

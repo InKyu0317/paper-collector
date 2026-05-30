@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2307.16701v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Towards the mechanism and high performance of solid-state Li batteries",
+  "authors": [
+    {
+      "name": "L. J. Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.16701v1",
+  "published": "2023-07-31T14:22:17+00:00",
+  "abstract": "Recently some critical problems and challenges have been exposed, hindering the development and practical application of SSLBs, such as the low room temperature ionic conductivity of solid electrolyte, the risk of short circuit caused by lithium dendrite piercing the electrolyte, etc. In order to address these challenges, it's essential to obtain in-depth insights into mechanisms and systematic optimization of SSLBs, including interfaces, electrolytes, and battery structures. Here, this minireview provides a brief summary, including strategies for electrode and electrolyte preparation, advanced battery characterization techniques, and the latest computational and simulation methods to advance understanding of kinetic or atomic scale mechanisms. The above contents will play an active role in promoting the development and practical application of safer and higher performance SSLBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.16701v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.16701v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.16701v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:42:04.687424+00:00",
+  "updated_at": "",
+  "extra": {}
+}

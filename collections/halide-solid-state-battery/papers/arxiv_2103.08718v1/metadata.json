@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2103.08718v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Good Solid-State Electrolytes Have Low, Glass-like Thermal Conductivity",
+  "authors": [
+    {
+      "name": "Zhe Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Beniamin Zahiri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoyang Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chen Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Darshan Chalise",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paul V. Braun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David G. Cahill",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2103.08718v1",
+  "published": "2021-03-15T21:03:23+00:00",
+  "abstract": "Management of heat during charging and discharging of Li-ion batteries is critical for their safety, reliability, and performance. Understanding the thermal conductivity of the materials comprising batteries is crucial for controlling the temperature and temperature distribution in batteries. This work provides systemic quantitative measurements of the thermal conductivity of three important classes of solid electrolytes (oxides, sulfides, and halides) over the temperature range 150-350 K. Studies include the oxides Li1.5Al0.5Ge1.5(PO4)3 and Li6.4La3Zr1.4Ta0.6O12, sulfides Li2S-P2S5, Li6PS5Cl, and Na3PS4, and halides Li3InCl6 and Li3YCl6. Thermal conductivities of sulfide and halide solid electrolytes are in the range 0.45-0.70 W m-1 K-1; thermal conductivities of Li6.4La3Zr1.4Ta0.6O12 and Li1.5Al0.5Ge1.5(PO4)3 are 1.4 W m-1 K-1 and 2.2 W m-1 K-1, respectively. For most of the solid electrolytes studied in this work, the thermal conductivity increases with increasing temperature; i.e., the thermal conductivity has a glass-like temperature dependence. The measured room-temperature thermal conductivities agree well with the calculated minimum thermal conductivities indicating the phonon mean-free-paths in these solid electrolytes are close to an atomic spacing. We attribute the low, glass-like thermal conductivity of the solid electrolytes investigated to the combination of their complex crystal structures and the atomic-scale disorder induced by the materials processing methods that are typically needed to produce high ionic conductivities.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2103.08718v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2103.08718v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2103.08718v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:42:22.254661+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2505.01887v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Parameter Sensitivity Analysis in Zinc-Ion Batteries: A Study on Ionic Conductivity, Current Density, and Electrode Properties",
+  "authors": [
+    {
+      "name": "Roya Rajabi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shichen Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Booker Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jamil Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kevin Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.01887v1",
+  "published": "2025-05-03T18:40:04+00:00",
+  "abstract": "This study presents a comprehensive Multiphysics model for zinc-ion batteries (ZIBs), incorporating electrochemical aspects. The model integrates the mass transport of Zn2+ ions, charge transfer, and solid diffusion to predict performance parameters like cell potential, and energy density. Significant research has focused on enhancing battery performance by optimizing components of battery to improve parameters such as ionic conductivity and exchange current density and capacity. In this study, we present a model-based investigation of zinc-ion batteries, examining the impact of these parameters. Our findings reveal that at low current densities, raising of ionic conductivity beyond 1.3 S/m and exchange current density above 0.13 mA/cm2 do not yield substantial improvements in capacity. These insights underscore the importance of identifying performance thresholds in the development of next-generation batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "eess.SY"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.01887v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.01887v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.01887v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:42:08.471037+00:00",
+  "updated_at": "",
+  "extra": {}
+}

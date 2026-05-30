@@ -1,0 +1,90 @@
+{
+  "paper_id": "arxiv_2506.10944v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Coupled reaction and diffusion governing interface evolution in solid-state batteries",
+  "authors": [
+    {
+      "name": "Jingxuan Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laura Zichi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matteo Carli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Menghang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Albert Musaelian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yu Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Boris Kozinsky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2506.10944v1",
+  "published": "2025-06-12T17:49:05+00:00",
+  "abstract": "Understanding and controlling the atomistic-level reactions governing the formation of the solid-electrolyte interphase (SEI) is crucial for the viability of next-generation solid state batteries. However, challenges persist due to difficulties in experimentally characterizing buried interfaces and limits in simulation speed and accuracy. We conduct large-scale explicit reactive simulations with quantum accuracy for a symmetric battery cell, {\\symcell}, enabled by active learning and deep equivariant neural network interatomic potentials. To automatically characterize the coupled reactions and interdiffusion at the interface, we formulate and use unsupervised classification techniques based on clustering in the space of local atomic environments. Our analysis reveals the formation of a previously unreported crystalline disordered phase, Li$_2$S$_{0.72}$P$_{0.14}$Cl$_{0.14}$, in the SEI, that evaded previous predictions based purely on thermodynamics, underscoring the importance of explicit modeling of full reaction and transport kinetics. Our simulations agree with and explain experimental observations of the SEI formations and elucidate the Li creep mechanisms, critical to dendrite initiation, characterized by significant Li motion along the interface. Our approach is to crease a digital twin from first principles, without adjustable parameters fitted to experiment. As such, it offers capabilities to gain insights into atomistic dynamics governing complex heterogeneous processes in solid-state synthesis and electrochemistry.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.LG",
+    "physics.chem-ph",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2506.10944v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2506.10944v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2506.10944v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-30T05:42:52.294925+00:00",
+  "updated_at": "",
+  "extra": {}
+}
