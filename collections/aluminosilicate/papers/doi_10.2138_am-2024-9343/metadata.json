@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.2138_am-2024-9343",
+  "collection": "aluminosilicate",
+  "title": "Intervalence charge transfer in aluminum oxide and aluminosilicate minerals at elevated temperatures",
+  "authors": [
+    {
+      "name": "Helen V. Evans",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, California 91125-2500, U.S.A."
+    },
+    {
+      "name": "George R. Rossman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4571-6884",
+      "affiliation": "Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, California 91125-2500, U.S.A."
+    }
+  ],
+  "doi": "10.2138/am-2024-9343",
+  "url": "https://doi.org/10.2138/am-2024-9343",
+  "published": "2024-12-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Single-crystal optical spectra of corundum (Al2O3) and the Al2SiO5 polymorphs andalusite, kyanite, and sillimanite, containing both Fe2+-Fe3+ and Fe2+-Ti4+ intervalence charge transfer (IVCT) absorption bands were measured at temperatures up to 1000 °C. Upon heating, thermally equilibrated IVCT bands significantly decreased in intensity and recovered fully on cooling. These trends contrast with the behavior of crystal field bands at temperature for Fe, Cr, and V in corundum, kyanite, and spinel. The effects of cation diffusion and aggregation, as well as the redistribution of band intensity at temperature, are also discussed. The loss of absorption intensity in the visible and near-infrared regions of the spectrum of these phases may point to a more general behavior of IVCT in minerals at temperatures within the Earth with implications for radiative conductivity within the Earth.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.2138/am-2024-9343",
+  "pdf_path": "aluminosilicate/papers/doi_10.2138_am-2024-9343/paper.pdf",
+  "pdf_url": "https://pubs.geoscienceworld.org/msa/ammin/article-pdf/109/12/2152/7062692/am-2024-9343.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "American Mineralogist",
+  "publisher": "",
+  "issn": "0003-004X",
+  "quartile": "",
+  "added_at": "2026-05-30T05:41:38.459667+00:00",
+  "updated_at": "",
+  "extra": {}
+}

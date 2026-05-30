@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.25073_2588-1124_vnumap.4594",
+  "collection": "aluminosilicate",
+  "title": "Energy Level Locations of Lanthanide Ions in Strontium-Aluminosilicate Phosphors",
+  "authors": [
+    {
+      "name": "Ho Van Tuyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nguyen Ha Vi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.25073/2588-1124/vnumap.4594",
+  "url": "https://doi.org/10.25073/2588-1124/vnumap.4594",
+  "published": null,
+  "abstract": "<jats:p>This paper determines the position of energy levels of lanthanide ions in Sr2Al2SiO7 (SAS) phosphor by a combining analysis of the lowest 4f-5d transition of Ce3+ ions and the charge transfer of Eu3+ ions-doped SAS phosphor. The SAS samples were successfully synthesized via solid state reaction, and their structure phase was further confirmed by X-ray diffraction. In the case of Eu3+-doped SAS phosphors, the energy of the charge transfer (CT) transition of the Eu3+ is about 4.70 eV (264 nm) and this energy is applied to determine the position 4f level of all divalent lanthanides relating to the top of the valence band in the SAS host lattice. For Ce3+ activated SAS samples, the lowest 4f1→4f05d1 excitation energy is determined around 3.71 eV (334 nm) and it is used to estimate the lowest 4f-5d transitions for all lanthanide (Ln) ions in host lattice. A broad band emission of the 5d→4f transition of Ce3+ ions includes two peaks emission with different energy about 1997 cm-1 that coincides with the theoretical value of 2000 cm-1. The host referred binding energy (HRBE) diagram of all Ln2+ and Ln3+ ions relating to the valance band of SAS materials has been constructed by using the data of fluorescent properties of Ce3+ and Eu3+ ions. The energy of 4f→5d transitions of Eu2+ ions that was predicted from the energy level scheme matches well with the observed experimental energy.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.25073/2588-1124/vnumap.4594",
+  "pdf_path": "aluminosilicate/papers/doi_10.25073_2588-1124_vnumap.4594/paper.pdf",
+  "pdf_url": "https://js.vnu.edu.vn/MaP/article/download/4594/4129",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "VNU Journal of Science: Mathematics - Physics",
+  "publisher": "",
+  "issn": "2588-1124",
+  "quartile": "",
+  "added_at": "2026-05-30T05:41:41.631240+00:00",
+  "updated_at": "",
+  "extra": {}
+}

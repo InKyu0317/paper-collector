@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_ceramics7030056",
+  "collection": "aluminosilicate",
+  "title": "Effect of Sodium Oxide on Structure of Lanthanum Aluminosilicate Glass",
+  "authors": [
+    {
+      "name": "Assia Mabrouk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6399-0644",
+      "affiliation": "Laboratoire de Recherche en Sciences et Techniques (LRST), Ecole Supérieure de l’Education et de la Formation d’Agadir (ESEFA), Nouveau Complexe Universitaire d’Agadir, Université Ibnou Zohr, Agadir 80000, Morocco"
+    },
+    {
+      "name": "Ahmed Bachar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratoire Génie des Procédés (LGP), Faculté des Sciences, Université Ibnou Zohr, Agadir 80000, Morocco"
+    },
+    {
+      "name": "Yann Vaills",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "CNRS, CEMHTI UPR 3079, Université d’Orléans, F-45071 Orléans, France"
+    },
+    {
+      "name": "Aurélien Canizarès",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2344-3838",
+      "affiliation": "CNRS, CEMHTI UPR 3079, Université d’Orléans, F-45071 Orléans, France"
+    },
+    {
+      "name": "Stuart Hampshire",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8993-2570",
+      "affiliation": "The Bernal Institute, University of Limerick, V94 T9PX Limerick, Ireland"
+    }
+  ],
+  "doi": "10.3390/ceramics7030056",
+  "url": "https://doi.org/10.3390/ceramics7030056",
+  "published": null,
+  "abstract": "<jats:p>Rare earth (RE) aluminosilicate glasses exhibit several favorable chemical, mechanical and thermal properties. As such, they are considered to be model systems for long-half-life actinides and are candidate containment materials for long-term immobilization of radioactive wastes. The aim of the present study was to investigate the effect of the substitution of sodium oxide on the glass transition temperature and structure of lanthanum aluminosilicate glasses. The primary objective was to elucidate the relationship between the substitution of Na2O for La2O3 on the Tg reduction and structural characteristics of lanthanum aluminosilicate glass, including identifying changes in the main Qn species and local environments of Si and Al. The structure of SiO2–Al2O3–La2O3–Na2O glasses has not been studied previously, and, thus, this investigation is the first to assess the structural changes occurring when La2O3 is substituted by Na2O. Three glasses were prepared with general composition (mol.%): 55SiO2–25Al2O3–20M2On (M = La or Na; n = 3 or 1). Glass G1 contains 20 mol.% La2O3; in G2, 15 mol.% of La2O3 was substituted by 15 mol.% Na2O; and Glass G3 contains 20 mol.% Na2O. The glasses were characterized by DSC to determine glass transition temperatures. As expected, as Na is substituted for La, Tg decreases substantially. Structural studies were carried out by FTIR spectroscopy, 29Si, and 27Al MAS NMR. As Na is substituted for La in these aluminosilicate glasses, the main goals that were achieved were the identification of Qn species and also changes in the local environments of Si and Al: {QnSi(mAl)} and {QnAl(mSi)}.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ceramics7030056",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ceramics7030056/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Ceramics",
+  "publisher": "",
+  "issn": "2571-6131",
+  "quartile": "",
+  "added_at": "2026-05-30T05:41:41.631706+00:00",
+  "updated_at": "",
+  "extra": {}
+}
