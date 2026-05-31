@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2310.20004v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of Electrode Structuring Techniques on the Performance of All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Moritz Clausnitzer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Timo Danner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Benedikt Prifling",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthias Neumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Volker Schmidt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnulf Latz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.20004v1",
+  "published": "2023-10-30T20:45:35+00:00",
+  "abstract": "All-solid-state batteries (ASSBs) offer a promising route to safer batteries with superior energy density compared to conventional Li-ion batteries (LIBs). However, the design of the composite cathode and optimization of the underlying microstructure is one of the aspects requiring intensive research. Achieving both high energy and power density remains challenging due to limitations in ionic conductivity and active material loading. Using structure-resolved simulations, we investigate the potential of perforated and layered electrode designs to enhance ASSB performance. Design strategies showing significant performance increase in LIBs are evaluated regarding their application to ASSBs. Composite cathodes with solid electrolyte channels in the structure do not significantly increase cell performance compared to unstructured electrodes. However, the design with a two-layer cathode proves promising. The layered structure effectively balances improved ionic transport due to increased solid electrolyte fraction at the separator side and substantial active material loading through increased active material fraction at the current collector side of the cathode. Our research highlights key challenges in ASSB development and provides a clear direction for future studies in the field.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.20004v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.20004v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.20004v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:23.976733+00:00",
+  "updated_at": "",
+  "extra": {}
+}

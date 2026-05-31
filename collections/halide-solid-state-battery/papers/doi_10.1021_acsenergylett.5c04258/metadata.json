@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.5c04258",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine Learning Enabled Graph Analysis of Particulate Composites: Application to Solid-state Battery Cathodes",
+  "authors": [
+    {
+      "name": "Zebin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shimao Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yijin Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jia-Mian Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsenergylett.5c04258",
+  "url": "http://arxiv.org/abs/2512.16085v2",
+  "published": "2025-12-18T02:00:22+00:00",
+  "abstract": "Particulate composites underpin many solid-state chemical and electrochemical systems, where microstructural features such as multiphase boundaries and inter-particle connections strongly influence system performance. Advances in X-ray microscopy enable capturing large-scale, multimodal images of these complex microstructures with an unprecedentedly high throughput. However, harnessing these datasets to discover new physical insights and guide microstructure optimization remains a major challenge. Here, we develop a machine learning (ML) enabled framework that enables automated transformation of experimental multimodal X-ray images of multiphase particulate composites into scalable, topology-aware graphs for extracting physical insights and establishing local microstructure-property relationships at both the particle and network level. Using the multiphase particulate cathode of solid-state lithium batteries as an example, our ML-enabled graph analysis corroborates the critical role of triple phase junctions and concurrent ion/electron conduction channels in realizing desirable local electrochemical activity. Our work establishes graph-based microstructure representation as a powerful paradigm for bridging multimodal experimental imaging and functional understanding, and facilitating microstructure-aware data-driven materials design in a broad range of particulate composites.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.CV"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.16085v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.5c04258/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.16085v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:20.824875+00:00",
+  "updated_at": "",
+  "extra": {}
+}

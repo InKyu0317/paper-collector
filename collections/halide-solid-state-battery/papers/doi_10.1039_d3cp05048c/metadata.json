@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.1039_d3cp05048c",
+  "collection": "halide-solid-state-battery",
+  "title": "Modelling structure and ionic diffusion in a class of ionic liquid crystal-based solid electrolytes",
+  "authors": [
+    {
+      "name": "Md Sharif Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ambroise Van Roekeghem",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefano Mossa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Flavien Ivol",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laurent Bernard",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lionel Picard",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Natalio Mingo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D3CP05048C",
+  "url": "http://arxiv.org/abs/2302.03639v2",
+  "published": "2023-02-07T17:46:45+00:00",
+  "abstract": "Next-generation high-efficiency Li-ion batteries require an electrolyte that is both safe and thermally stable. A possible choice for high performance all-solid-state Li-ion batteries is a liquid crystal, which possesses properties in-between crystalline solids and isotropic liquids. By employing molecular dynamics simulations together with various experimental techniques, we have designed and analyzed a novel liquid crystal electrolyte composed of rigid naphthalene-based moieties as mesogenic units, grafted to flexible alkyl chains of different lengths. We have synthesized novel highly ordered lamellar phase liquid crystal electrolytes at 99% purity and have evaluated the effect of alkyl chain length variation on ionic conduction. We find that the conductivity of the liquid crystal electrolytes is directly dependent on the extent of the nanochannels formed by molecule self-organization, which itself depends non-monotonously on the size of the alkyl chains. In addition, we show that the ion pair interaction between the anionic center of the liquid crystal molecules and the Li+ ions plays a crucial role in the overall conductivity. Based on our results, we suggest that further improvement of the ionic conductivity performance is possible, making this novel family of liquid crystal electrolytes a promising option for the design of entirely solid-state Li+ ion batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.03639v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d3cp05048c/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.03639v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:02.203826+00:00",
+  "updated_at": "",
+  "extra": {}
+}

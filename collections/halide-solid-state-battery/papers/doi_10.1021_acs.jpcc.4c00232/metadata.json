@@ -1,0 +1,128 @@
+{
+  "paper_id": "doi_10.1021_acs.jpcc.4c00232",
+  "collection": "halide-solid-state-battery",
+  "title": "Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy",
+  "authors": [
+    {
+      "name": "Johanna Weidelt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jijeesh Ravi Nair",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Diddo Diddens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wentao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Pfeiffer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tiago de Oliveira Schneider",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Markus Meinert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomoki Hiraoka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linda Nesterov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Masoud Baghernejad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dmitry Turchinovich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hassan A. Hafez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpcc.4c00232",
+  "url": "http://arxiv.org/abs/2604.25497v1",
+  "published": "2026-04-28T10:58:28+00:00",
+  "abstract": "Solid polymer electrolytes (SPEs) based on cross-linked poly(ethylene oxide) (PEO) encompassing lithium salts have gained significant attention as separators in solid-state lithium metal batteries. Here, we employ terahertz time-domain spectroscopy (THz-TDS), as a noninvasive contact-free technique, to investigate the conduction properties of these cross-linked SPEs and unravel their dependencies on the added lithium salt and the sample temperature. The obtained THz conductivity spectra are dominated by THz absorption bands, which we attribute to resonant vibrations within the polymer matrix of the electrolyte. By careful application of Lorentz model, the conductivity spectra have been analyzed, and the relevant polymer vibration modes have been quantitatively assessed. Calculations based on the density functional theory (DFT) were performed to elucidate the possible microscopic mechanisms of these resonant vibrations. This study sheds light on the relevance of polymer matrix vibrations validating the hopping transport of lithium ions in SPEs which ultimately leads to the technologically relevant ionic conduction in the solid-state polymer-based electrolytes.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.25497v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpcc.4c00232/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.25497v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:16.342553+00:00",
+  "updated_at": "",
+  "extra": {}
+}

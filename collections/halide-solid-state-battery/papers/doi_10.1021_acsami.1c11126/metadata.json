@@ -1,0 +1,96 @@
+{
+  "paper_id": "doi_10.1021_acsami.1c11126",
+  "collection": "halide-solid-state-battery",
+  "title": "Electrically Enhanced Exchange Bias via Solid State Magneto-Ionics",
+  "authors": [
+    {
+      "name": "Peyton D. Murray",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christopher J. Jensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alberto Quintana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Junwei Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xixiang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander J. Grutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Brian J. Kirby",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kai Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsami.1c11126",
+  "url": "http://arxiv.org/abs/2107.12503v2",
+  "published": "2021-07-26T22:38:16+00:00",
+  "abstract": "Electrically induced ionic motion offers a new way to realize voltage-controlled magnetism, opening the door to a new generation of logic, sensor, and data storage technologies. Here, we demonstrate an effective approach to magneto-ionically and electrically tune exchange bias in Gd/Ni$_{1-x}$Co$_{x}$O thin films (x=0.50, 0.67), where neither of the layers alone is ferromagnetic at room temperature. The Gd capping layer deposited onto antiferromagnetic Ni$_{1-x}$Co$_{x}$O initiates a solid-state redox reaction that reduces an interfacial region of the oxide to ferromagnetic NiCo. Exchange bias is established after field cooling, which can be enhanced by up to 35% after a voltage conditioning and subsequently reset with a second field cooling. These effects are caused by the presence of an interfacial ferromagnetic NiCo layer, which further alloys with the Gd layer upon field cooling and voltage application, as confirmed by electron microscopy and polarized neutron reflectometry studies. These results highlight the viability of the solid-state magneto-ionic approach to achieve electric control of exchange bias, with potentials for energy-efficient magneto-ionic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.12503v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsami.1c11126/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.12503v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:14:58.811548+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi_10.1063_1.5131790",
+  "collection": "halide-solid-state-battery",
+  "title": "Evaluation of the AMOEBA force field for simulating metal halide perovskites in the solid state and in solution",
+  "authors": [
+    {
+      "name": "P. V. G. M. Rathnayake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefano Bernardi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Asaph Widmer-Cooper",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/1.5131790",
+  "url": "http://arxiv.org/abs/2403.08134v1",
+  "published": "2024-03-12T23:42:28+00:00",
+  "abstract": "In this work, we compare existing non-polarizable force fields developed to study the solid or solution phases of hybrid organic-inorganic halide perovskites with the AMOEBA polarizable force field. The aim is to test whether more computationally expensive polarizable force fields like AMOEBA offer better transferability between solution and solid phases, with the ultimate goal being the study of crystal nucleation, growth and other interfacial phenomena involving these ionic compounds. In the context of hybrid perovskites, AMOEBA force field parameters already exist for several elements in solution and we decided to leave them unchanged and to only parameterize the missing ones (Pb\\textsuperscript{2+} and CH\\textsubscript{3}NH\\textsubscript{3}\\textsuperscript{+} ions) in order to maximise transferability and avoid over-fitting to the specific examples studied here. Overall, we find that AMOEBA yields accurate hydration free energies (within 5\\%) for typical ionic species while showing the correct ordering of stability for the different crystal polymorphs of CsPbI\\textsubscript{3} and CH\\textsubscript{3}NH\\textsubscript{3}PbI\\textsubscript{3}. While the existing parameters do not accurately reproduce all transition temperatures and lattice parameters, AMOEBA offers better transferability between solution and solid states than existing non-polarizable force fields.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.08134v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_1.5131790/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.08134v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:06.714382+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,133 @@
+{
+  "paper_id": "doi_10.1038_s41467-024-48712-4",
+  "collection": "halide-solid-state-battery",
+  "title": "LaCl3-based sodium halide solid electrolytes with high ionic conductivity for all-solid-state batteries",
+  "authors": [
+    {
+      "name": "Chengyu Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yifan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Wenjie Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xuyong Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-5363-671X",
+      "affiliation": ""
+    },
+    {
+      "name": "Weijian Gu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jue Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4453-910X",
+      "affiliation": ""
+    },
+    {
+      "name": "Wenwen Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Wei Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. M. Milinda Abeykoon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Laisuo Su",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9307-9357",
+      "affiliation": ""
+    },
+    {
+      "name": "Lingyun Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8137-8715",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaojun Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3606-1211",
+      "affiliation": ""
+    },
+    {
+      "name": "Hongfa Xiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6182-1932",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-024-48712-4",
+  "url": "https://doi.org/10.1038/s41467-024-48712-4",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    To enable high performance of all solid-state batteries, a catholyte should demonstrate high ionic conductivity, good compressibility and oxidative stability. Here, a LaCl\n                    <jats:sub>3</jats:sub>\n                    -based Na\n                    <jats:sup>+</jats:sup>\n                    superionic conductor (Na\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Zr\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    La\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Cl\n                    <jats:sub>4</jats:sub>\n                    ) with high ionic conductivity of 2.9 × 10\n                    <jats:sup>−4 </jats:sup>\n                    S cm\n                    <jats:sup>−1</jats:sup>\n                    (30 °C), good compressibility and high oxidative potential (3.80 V\n                    <jats:italic>vs</jats:italic>\n                    . Na\n                    <jats:sub>2</jats:sub>\n                    Sn) is prepared via solid state reaction combining mechanochemical method. X-ray diffraction reveals a hexagonal structure (\n                    <jats:italic>P6</jats:italic>\n                    <jats:sub>\n                      <jats:italic>3</jats:italic>\n                    </jats:sub>\n                    <jats:italic>/m</jats:italic>\n                    ) of Na\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Zr\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    La\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Cl\n                    <jats:sub>4</jats:sub>\n                    , with Na\n                    <jats:sup>+</jats:sup>\n                    ions forming a one-dimensional diffusion channel along the\n                    <jats:italic>c-</jats:italic>\n                    axis. First-principle calculations combining with X-ray absorption fine structure characterization etc. reveal that the ionic conductivity of Na\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Zr\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    La\n                    <jats:sub>1</jats:sub>\n                    <jats:sub>−</jats:sub>\n                    <jats:sub>\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    Cl\n                    <jats:sub>4</jats:sub>\n                    is mainly determined by the size of Na\n                    <jats:sup>+</jats:sup>\n                    -channels and the Na\n                    <jats:sup>+</jats:sup>\n                    /La\n                    <jats:sup>3+</jats:sup>\n                    mixing in the one-dimensional diffusion channels. When applied as a catholyte, the NaCrO\n                    <jats:sub>2</jats:sub>\n                    ||Na\n                    <jats:sub>0.7</jats:sub>\n                    Zr\n                    <jats:sub>0.3</jats:sub>\n                    La\n                    <jats:sub>0.7</jats:sub>\n                    Cl\n                    <jats:sub>4</jats:sub>\n                    ||Na\n                    <jats:sub>3</jats:sub>\n                    PS\n                    <jats:sub>4</jats:sub>\n                    ||Na\n                    <jats:sub>2</jats:sub>\n                    Sn all-solid-state batteries demonstrate an initial capacity of 114 mA h g\n                    <jats:sup>−1</jats:sup>\n                    and 88% retention after 70 cycles at 0.3 C. In addition, a high capacity of 94 mA h g\n                    <jats:sup>−1</jats:sup>\n                    can be maintained at 1 C current density.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1038/s41467-024-48712-4",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-024-48712-4/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41467-024-48712-4.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 73,
+  "journal": "Nature Communications",
+  "publisher": "",
+  "issn": "2041-1723",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:31.214016+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s10008-022-05299-4",
+  "collection": "halide-solid-state-battery",
+  "title": "Mg–Al hydroxide intercalated ionic liquids for quasi-solid-state lithium batteries",
+  "authors": [
+    {
+      "name": "Shuangyan Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zhihui Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7956-6557",
+      "affiliation": ""
+    },
+    {
+      "name": "HeMing He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-022-05299-4",
+  "url": "https://doi.org/10.1007/s10008-022-05299-4",
+  "published": "2023-1",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-022-05299-4",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-022-05299-4/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-022-05299-4.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:13.247142+00:00",
+  "updated_at": "",
+  "extra": {}
+}

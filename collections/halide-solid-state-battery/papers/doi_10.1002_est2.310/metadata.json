@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1002_est2.310",
+  "collection": "halide-solid-state-battery",
+  "title": "Performance of ionic liquid–based quasi‐solid‐state hybrid battery supercapacitor fabricated with porous carbon capacitive cathode and proton battery anode",
+  "authors": [
+    {
+      "name": "Manoj K. Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7006-290X",
+      "affiliation": "Department of Applied Science &amp; Humanities Rajkiya Engineering College Banda (AKTU)  Banda India"
+    },
+    {
+      "name": "Sujeet Kumar Chaurasia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0259-2612",
+      "affiliation": "Centre for Nanoscience and Technology, Prof. Rajendra Singh (Rajju Bhaiya) Institute of Physical Sciences for Study and Research Veer Bahadur Singh Purvanchal University  Jaunpur India"
+    }
+  ],
+  "doi": "10.1002/est2.310",
+  "url": "https://doi.org/10.1002/est2.310",
+  "published": "2022-6",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The present paper reports preparation, characterization, and application of proton‐conducting ionic liquid–based gel polymer electrolyte (ILGPE) obtained by immobilizing liquid electrolyte solution (0.3M NH<jats:sub>4</jats:sub>Tf in EMIMTf) to the polymer PVdF‐HFP. These ILGPE offer excellent ionic conductivity ~1.30 × 10<jats:sup>−2</jats:sup> S/cm at room temperature and used as separator membrane in the hybrid BatCap. DSC study confirms glass transitions and melting temperatures (<jats:italic>T</jats:italic><jats:sub><jats:italic>g</jats:italic></jats:sub>'s and <jats:italic>T</jats:italic><jats:sub><jats:italic>m</jats:italic></jats:sub>'s) of PVdF‐HFP/EMIMTF/NH<jats:sub>4</jats:sub>Tf decrease with increasing content of liquid electrolyte to the host polymer matrix PVdF‐HFP which, in turn, is responsible for increasing flexibility of membranes. Ionic transport number measurements (<jats:italic>t</jats:italic><jats:sub>ion</jats:sub> ~0.99, <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"graphic/est2310-math-0001.png\" xlink:title=\"urn:x-wiley:25784862:media:est2310:est2310-math-0001\"/> ~0.27) reveal that ions are the principal charge carriers in the present electrolyte system. The linear sweep voltammetry analysis shows the electrochemical stability window (ESW) of ILGPE film “PVdF‐HFP/EMIMTf/NH<jats:sub>4</jats:sub>Tf” is ~3.35 V. Two different hybrid BatCap cells are prepared with activated carbon and MWCNTs as a capacitive electrode (cathode) and ZnSO<jats:sub>4</jats:sub>·7H<jats:sub>2</jats:sub>O battery anode. The performance of the BatCaps is estimated using cyclic voltammetry and galvanostatic charge‐discharge techniques. The discharge capacity was observed ~2.4 and 17.2 mAh/g for Cell#1 and Cell#2, respectively, at the current load of 0.5 mA/cm<jats:sup>2</jats:sup>. After the initial fading (~20%), BatCap cells show stable performance up to 100 cycles.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/est2.310",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_est2.310/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/est2.310",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "Energy Storage",
+  "publisher": "",
+  "issn": "2578-4862",
+  "quartile": "",
+  "added_at": "2026-05-31T06:15:11.183295+00:00",
+  "updated_at": "",
+  "extra": {}
+}
