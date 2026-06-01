@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.jssc.2022.123775",
+  "collection": "halide-solid-state-battery",
+  "title": "Synthesis of amorphous Li3BO3 nanoparticles as solid electrolyte for all-solid-state battery by induction thermal plasma",
+  "authors": [
+    {
+      "name": "Yiran Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5290-2351",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoyu Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Byeong-Il Min",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Manabu Tanaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Takayuki Watanabe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0495-1108",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jssc.2022.123775",
+  "url": "https://doi.org/10.1016/j.jssc.2022.123775",
+  "published": "2023-2",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jssc.2022.123775",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jssc.2022.123775/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "",
+  "issn": "0022-4596",
+  "quartile": "",
+  "added_at": "2026-06-01T03:12:00.578992+00:00",
+  "updated_at": "",
+  "extra": {}
+}
