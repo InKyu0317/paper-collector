@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.52825_glass-europe.v2i.1320",
+  "collection": "aluminosilicate",
+  "title": "Open Electrode Thermal Poling Setup for Treating Lithium-Aluminosilicate Glass-Ceramics Using Gas Discharge",
+  "authors": [
+    {
+      "name": "Jonas Hildebrand",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0008-3662-1497",
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Roos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.52825/glass-europe.v2i.1320",
+  "url": "https://doi.org/10.52825/glass-europe.v2i.1320",
+  "published": null,
+  "abstract": "<jats:p>A setup for thermal poling treatment of glass and glass-ceramic via gas discharge using an open electrode configuration was built and tested successfully. In the setup a thin Pt-wire is used as a top electrode with adjustable distance to the glass sample. The glass rests on a Pt-sheet acting as bottom electrode which again rests on transporting rolls made of alumina. The setup is implemented in a specially built furnace in which the sample is moved underneath the static wire electrode. With this setup, lithium-aluminosilicate (LAS) glass samples were thermally poled at 200 °C for 20 min, 60 min and 180 min with discharge currents ranging from 25 µA to 300 µA. Over time the process gets more unstable but without any major breakdowns. The measured crystallinity at the anode side surface of the post-poling ceramised samples shows a decrease with both treatment time and poling current (i.e. electrical field strength). This is explained with the depletion of Li from the anode side surface layer which becomes stronger with higher electrical fields and continues over time. In scanning electron microscopy (SEM) images of cross sections of the anode sides a mostly glassy layer is observed which adds to the point aforementioned. As a key result this work proved that with an open electrode setup for thermal poling treatments of LAS glasses similar results can be achieved as with a blocking setup. This opens the door to the modification of glasses and corresponding glass-ceramics in an inline and continuous process that can be used industrially.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.52825/glass-europe.v2i.1320",
+  "pdf_path": "aluminosilicate/papers/doi_10.52825_glass-europe.v2i.1320/paper.pdf",
+  "pdf_url": "https://www.tib-op.org/ojs/index.php/glass-europe/article/download/1320/2181",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Glass Europe",
+  "publisher": "",
+  "issn": "2940-8830",
+  "quartile": "",
+  "added_at": "2026-06-01T03:10:22.057806+00:00",
+  "updated_at": "",
+  "extra": {}
+}
