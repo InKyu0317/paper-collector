@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2024-012412mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Fundamental Understanding of Halide Solid Electrolytes for All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Shuhao Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9783-1174",
+      "affiliation": ""
+    },
+    {
+      "name": "Guoying Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-012412mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-012412mtgabs",
+  "published": "2024-8-9",
+  "abstract": "<jats:p>  \tDue to their superior oxidative stability, high ionic conductivity and excellent chemical compatibility with uncoated 4 V-class cathode active materials, halide compounds, particularly those with a general formula of Li<jats:sub>3</jats:sub>MCl<jats:sub>6</jats:sub> (M = Sc, Zr, In, Y, Er, and Yb etc.), have attracted much attention as solid electrolytes (SEs) for all-solid-state batteries (ASSBs).<jats:sup>1,2</jats:sup> While a great deal of effort has been devoted to the discovery of new halide SEs,<jats:sup>3–5</jats:sup> fundamental understanding of their properties, such as the mechanism of ionic conductivity, chemical stability, and the interfacial reactivities at the cathode and the anode are still lacking. Here we use Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> (LYC) as an example to investigate the key parameters that impact their performances in ASSBs. Hopping frequency analysis is used to understand how synthesis methods and chemical compositions affect mobile carrier concentration and ionic conductivity in the Li–Y–Cl series.<jats:sup>6</jats:sup> Synchrotron X-ray absorption (XAS) and diffraction (XRD) are used to investigate electrochemical and interfacial chemistry of LYC in full ASSB cells with an uncoated nickel-rich cathode, a Li metal anode or a lithium-metal alloy anode. Our strategies in developing halide SEs for higher capacity and high energy density ASSBs will be presented.</jats:p>\n               <jats:p>\n                  <jats:bold>References:</jats:bold>\n               </jats:p>\n               <jats:p>(1) Manthiram, A.; Yu, X.; Wang, S. Lithium battery chemistries enabled by solid-state electrolytes. <jats:italic>Nat. Rev. Mater.</jats:italic>\n                  <jats:bold>2017</jats:bold>, <jats:italic>2</jats:italic>, 16103.</jats:p>\n               <jats:p>(2) Janek, J.; Zeier, W. G.; Challenges in speeding up solid-state battery development. <jats:italic>Nat. Energy</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>8</jats:italic>, 230−240.</jats:p>\n               <jats:p>(3) Combs, S. R.; Todd, P. K.; Gorai, P.; Maughan, A. E. Designing defects and diffusion through substitutions in metal halide solid electrolytes. <jats:italic>J. Electrochem. Soc.</jats:italic>\n                  <jats:bold>2022</jats:bold>, <jats:italic>169</jats:italic>, 040551.</jats:p>\n               <jats:p>(4) Kwak, H.; Wang, S.; Park, J.; Liu, Y.; Kim, K. T.; Choi, Y.; Mo, Y.; Jung, Y. S. Emerging halide superionic conductors for all-solid-state batteries: design, synthesis, and practical applications. <jats:italic>ACS Energy Lett.</jats:italic>\n                  <jats:bold>2022</jats:bold>, <jats:italic>7</jats:italic>, 1776–1805.</jats:p>\n               <jats:p>(5) Wang, C.; Liang, J.; Kim, J. T.; Sun, X. Prospects of halide-based all-solid-state batteries: from material design to practical application. <jats:italic>Sci. Adv.</jats:italic>\n                  <jats:bold>2022</jats:bold>, <jats:italic>8</jats:italic>, eadc9516.</jats:p>\n               <jats:p>(6) Yang, S.; Kim, S. Y.; Chen, G. Halide superionic conductors for all-solid-state batteries: effects of synthesis and composition on lithium-ion conductivity. <jats:italic>Submitted</jats:italic>.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-012412mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-012412mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-012412mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-02T03:09:40.963384+00:00",
+  "updated_at": "",
+  "extra": {}
+}

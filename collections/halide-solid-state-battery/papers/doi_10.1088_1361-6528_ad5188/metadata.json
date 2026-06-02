@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1088_1361-6528_ad5188",
+  "collection": "halide-solid-state-battery",
+  "title": "Strategies to improve the ionic conductivity of quasi-solid-state electrolytes based on metal-organic frameworks",
+  "authors": [
+    {
+      "name": "Chuan Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangyi Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4817-1461",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1361-6528/ad5188",
+  "url": "https://doi.org/10.1088/1361-6528/ad5188",
+  "published": "2024-9-2",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The low ionic conductivity of quasi-solid-state electrolytes (QSSEs) at ambient temperature is a barrier to the development of solid-state batteries (SSBs). Conversely, metal-organic frameworks (MOFs) with porous structure and metal sites show great potential for the fabrication of QSSEs. Numerous studies have proven that the structure and functional groups of MOFs could significantly impact the ionic conductivity of QSSEs based on MOFs (MOFs-QSSEs). This review introduces the transport mechanism of lithium ions in various MOFs-QSSEs, and then analyses how to construct an effective and consistent lithium ions pathway from the perspective of MOFs modification. It is shown that the ion conductivity could be enhanced by modifying the morphology and functional groups, as well as applying amorphous MOFs. Lastly, some issues and future perspectives for MOFs-QSSEs are examined. The primary objective of this review is to enhance the comprehension of the mechanisms and performance optimization methods of MOFs-QSSEs. Consequently, this would guide the design and synthesis of QSSEs with high ionic conductivity, and ultimately enhance the performance of commercial SSBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1361-6528/ad5188",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1088_1361-6528_ad5188/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6528/ad5188/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Nanotechnology",
+  "publisher": "",
+  "issn": "0957-4484",
+  "quartile": "",
+  "added_at": "2026-06-02T03:09:40.096434+00:00",
+  "updated_at": "",
+  "extra": {}
+}

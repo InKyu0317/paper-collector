@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2022-0272450mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Highly Conductive Sulfide Solid-State Electrolytes for All-Solid-State Li Battery",
+  "authors": [
+    {
+      "name": "Zhaoxin Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Dongping Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-0272450mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-0272450mtgabs",
+  "published": "2022-10-9",
+  "abstract": "<jats:p>  \tThe All-Solid-State Battery (ASSB) Is a Promising Next-Generation Energy Storage Technology for Both Consumer Electronics and Electric Vehicles Because of Its High Energy Density and Improved Safety. Sulfide Solid-State Electrolytes (SSEs) Have Merits of Low Density, High Ionic Conductivity, and Favorable Mechanical Properties Compared to Oxide Ceramic and Polymer Materials. However, Mass Production and Processing of Sulfide SSEs Remain a Grand Challenge Because of Their Poor Moisture Stability. Here We Report a Reversible Surface Coating Strategy for Enhancing the Moisture Stability of Sulfide Sses By Using Amphipathic Organic Molecules. an Ultra-Thin Layer of 1-Bromopentane Is Coated on the Sulfide SSE Surface (e.g., Li<jats:sub>7</jats:sub>P<jats:sub>2</jats:sub>S<jats:sub>8</jats:sub>Br<jats:sub>0.5</jats:sub>I<jats:sub>0.5</jats:sub>) Via Van Der Waals Force. 1-Bromopentane Has More Negative Adsorption Energy with SSE Than H<jats:sub>2</jats:sub>O Based on First-Principles Calculations, Thereby Enhancing the Moisture Stability of SSE Because the Hydrophobic Long-Chain Alkyl Tail of 1-Bromopentane Repels Water Molecules. Moreover, This Amphipathic Molecular Layer Has a Negligible Effect on Ionic Conductivity and Can be Removed Reversibly By Heating at Low Temperatures (e.g., 160°C). This Finding Opens a New Pathway for the Surface Engineering of Moisture-Sensitive SSEs and Other Energy Materials, Thereby Speeding up Their Deployment in ASSBs.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-0272450mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-0272450mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-0272450mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-02T03:09:41.569868+00:00",
+  "updated_at": "",
+  "extra": {}
+}
