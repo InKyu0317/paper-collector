@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.4028_www.scientific.net_ssp.321.97",
+  "collection": "aluminosilicate",
+  "title": "Investigation of the Rheokinetic Properties and Penetration Depth of Aluminosilicate Adhesive in Pine Wood",
+  "authors": [
+    {
+      "name": "Sergii G. Guziy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "LLC Geofip"
+    },
+    {
+      "name": "Olena Guzii",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Kyiv National University of Construction and Architecture"
+    },
+    {
+      "name": "Vasyl Lashchivskiy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "National University of Water and Environmental Engineering"
+    }
+  ],
+  "doi": "10.4028/www.scientific.net/ssp.321.97",
+  "url": "https://doi.org/10.4028/www.scientific.net/ssp.321.97",
+  "published": null,
+  "abstract": "<jats:p>Practical work and is devoted to the study of the rheological and deformative properties of Geofip aluminosilicate glue, obtained on the basis of an alkaline aluminosilicate binder composition Na<jats:sub>2</jats:sub>O Al<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub>×6SiO<jats:sub>2</jats:sub>×20H<jats:sub>2</jats:sub>O, modified with 5% Cr<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub>, when gluing wooden trusses in the field. The rheological and deformative properties of an aluminosilicate adhesive based on an alkaline aluminosilicate binder composition of Na<jats:sub>2</jats:sub>O×Al<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub>×6SiO<jats:sub>2</jats:sub>×20H<jats:sub>2</jats:sub>O modified with 5% Cr<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub> have been investigated. It is noted that the dynamic viscosity of the adhesive slurry in the speed range from 0.1 to 0.8 RPM varies from 147600 to 144600 cP, and the average plastic viscosity in the same speed range is 87.39 cP. It was found that at shear rates from 0.021 to 0.168 1/s, an increase in shear force from 31 to 242.9 dyne/cm<jats:sup>2</jats:sup> is observed due to the stabilization and uniformity of the dispersion phase particle distribution in the dispersion medium of the adhesive. It is shown that the aluminosilicate adhesive at a surface tension value of 88.1 mN/m is characterized by coefficients of wetting (s = 0.648) and fluidity (f = -62.02 mN/m), which ensures the uniformity of its application to the pine substrate. The average thickness of the adhesive layer was 1.25 mm, and the average depth of penetration of the aluminosilicate adhesive into the wood substrate, respectively, 0.12 mm. The destruction of the adhesive seam occurred at shear stresses of 515 MPa. The relative shear deformations were 162.5×10<jats:sup>-5</jats:sup> mm.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.4028/www.scientific.net/ssp.321.97",
+  "pdf_path": "aluminosilicate/papers/doi_10.4028_www.scientific.net_ssp.321.97/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "Solid State Phenomena",
+  "publisher": "",
+  "issn": "1662-9779",
+  "quartile": "",
+  "added_at": "2026-06-03T03:06:46.087707+00:00",
+  "updated_at": "",
+  "extra": {}
+}
