@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2412.17147v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A diffuse-interface model for predicting the evolution of metallic negative electrodes and interfacial voids in solid-state batteries with homogeneous and polycrystalline solid electrolyte separators",
+  "authors": [
+    {
+      "name": "Sourav Chatterjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael Tonks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "William Gardner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marina Sessim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.17147v1",
+  "published": "2024-12-22T20:03:52+00:00",
+  "abstract": "This paper presents a novel diffuse-interface electrochemical model that simultaneously simulates the evolution of the metallic negative electrode and interfacial voids during the stripping and plating processes in solid-state batteries. The utility and validity of this model are demonstrated for the first time on a cell with a sodium (Na) negative electrode and a Na-$β^{\\prime\\prime}$-alumina ceramic solid electrolyte (SE) separator. Three examples are simulated. First, stripping and plating with a perfect electrode/electrolyte interface; second, stripping and plating with a single interfacial void at the electrode/electrolyte interface; third, stripping with multiple interfacial voids. Both homogeneous SE properties and polycrystalline SEs with either low or high conductivity grain boundaries (GBs) are considered for all three examples. Heterogeneous GB conductivity has no significant impact on the behavior with a perfect electrode/electrolyte interface. However, it does result in local changes to void growth due to interactions between the void edge and the GBs. The void growth rate is a linear function of the flux of Na atoms at the void edge, which in turn depends on the applied current density. We also show that the void coalescence rate increases with applied current density and can be marginally influenced by GB conductivity.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.17147v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.17147v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.17147v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:11:01.449037+00:00",
+  "updated_at": "",
+  "extra": {}
+}

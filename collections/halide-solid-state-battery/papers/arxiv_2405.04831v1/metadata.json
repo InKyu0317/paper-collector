@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2405.04831v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of Ga-Ge Doping on the Structural and Electrical Properties of Li7La3Zr2O12 Solid Electrolytes For Li ion Battery",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anuj Khapekar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kajal Parchake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2405.04831v1",
+  "published": "2024-05-08T06:05:52+00:00",
+  "abstract": "In order to replace the conventional liquid electrolytes by solid electrolytes, high room temperature ionic conductivity is required. To achieve such high ionic conductivity, the series Li7-3xGaxLa3Zr1.9Ge0.1O12 was prepared by solid-state reaction method. The content of Ge was kept constant at 0.10 a.p.f.u, and the Ga has been varied from 0 to 0.40 a.p.f.u. The conducting cubic phase was identified using X-ray diffraction study, whereas the physical and structural studies were perfomed using density measurements and scanning electron microscopy (SEM) analysis, respectively. Electrical conductivity results reveal that the 0.20 Ga ceramic sample possessed the highest room temperature Li ion conductivity of 5.09 x 10-4 S/cm and minimum activation energy of 0.25 eV. Predominant ionic conduction in 0.20 Ga ceramic sample was confirmed by the DC polarization method. The high room temperature ionic conductivity makes the 0.20 Ga ceramic sample a suitable candidate as a solid electrolyte for all-solid-state lithium-ion batteries (ASSLIBs).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.04831v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2405.04831v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.04831v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:10:42.095664+00:00",
+  "updated_at": "",
+  "extra": {}
+}

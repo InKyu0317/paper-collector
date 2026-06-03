@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1007_s10008-023-05387-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Cathode materials for lithium-sulfur battery: a review",
+  "authors": [
+    {
+      "name": "Ryohei Mori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1950-6012",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-023-05387-z",
+  "url": "https://doi.org/10.1007/s10008-023-05387-z",
+  "published": "2023-4",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Lithium-sulfur batteries (LSBs) are considered to be one of the most promising candidates for becoming the post-lithium-ion battery technology, which would require a high level of energy density across a variety of applications. An increasing amount of research has been conducted on LSBs over the past decade to develop fundamental understanding, modelling, and application-based control. In this study, the advantages and disadvantages of LSB technology are discussed from a fundamental perspective. Then, the focus shifts to intermediate lithium polysulfide adsorption capacity and the challenges involved in improving LSBs by using alternative materials besides carbon for cathode construction. Attempted alternative materials include metal oxides, metal carbides, metal nitrides, MXenes, graphene, quantum dots, and metal organic frameworks. One critical issue is that polar material should be more favorable than non-polar carbonaceous materials in the aspect of intermediate lithium polysulfide species adsorption and suppress shuttle effect. It will be also presented that by preparing cathode with suitable materials and morphological structure, high-performance LSB can be obtained.</jats:p>\n                <jats:p><jats:bold>Graphical abstract</jats:bold></jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-023-05387-z",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-023-05387-z/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-023-05387-z.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 60,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-06-03T03:12:44.993496+00:00",
+  "updated_at": "",
+  "extra": {}
+}

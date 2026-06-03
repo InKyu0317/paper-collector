@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2602.17147v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Rotational Soft Modes and Octahedral Distortion as Design Principles for Ultralow Thermal Conductivity in Halide Materials",
+  "authors": [
+    {
+      "name": "Yu Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luman Shang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yufan Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuming Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liujiang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chenhan Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.17147v1",
+  "published": "2026-02-19T07:48:12+00:00",
+  "abstract": "We establish that ultralow lattice thermal conductivity in halide perovskites and related octahedral framework materials arises from two distinct and complementary mechanisms: (i) halogen-halogen-enabled rotational soft modes that reshape the low-frequency spectrum and intensify phonon scattering, and (ii) static octahedral distortions that further enhance anharmonicity and reduce phonon lifetimes. Using first-principles calculations on CsPbBr3, we demonstrate that Br-Br interactions induce rotational soft modes that decongest the phonon spectrum and enhance three- and four-phonon scattering, strongly suppressing particle-like thermal conductivity (kappa_p). Independently, static octahedral distortions further reduce kappa_p by amplifying anharmonicity while leaving wave-like conductivity (kappa_c) intact. Based on these mechanistic insights, we introduce a geometric distortion factor rho and perform a high-throughput screening that first selects materials with halogen-coordinated octahedral building blocks-ensuring the presence of rotational soft modes-and then identifies those with pronounced distortion. This strategy uncovers TaGaI8 with an ultralow kappa_L = 0.11 W/mK at room temperature. This work establishes halogen-halogen-enabled rotational soft modes and octahedral distortions as transferable design principles for octahedra-containing halides, spanning both extended frameworks and molecular-cluster motifs, for discovering ultralow-kappa_L materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.17147v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.17147v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.17147v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:10:46.129412+00:00",
+  "updated_at": "",
+  "extra": {}
+}

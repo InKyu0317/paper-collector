@@ -1,0 +1,40 @@
+{
+  "paper_id": "doi_10.7566_jpsj.91.094606",
+  "collection": "halide-solid-state-battery",
+  "title": "Two-dimensional ionic crystals: The cases of IA-VII alkali halides and IA-IB CsAu",
+  "authors": [
+    {
+      "name": "Shota Ono",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.7566/JPSJ.91.094606",
+  "url": "http://arxiv.org/abs/2203.02122v1",
+  "published": "2022-03-04T03:53:13+00:00",
+  "abstract": "The alkali halides, known as ionic crystals, have the NaCl-type or CsCl-type structure as the ground state. We study the structural, vibrational, and electronic properties of two-dimensional (2D) ionic crystals from first-principles. Two potential structures that are hexagonal and tetragonal are investigated as structural templates. Through phonon dispersion calculations, 8 and 16 out of 20 alkali halides in the hexagonal and tetragonal structures are dynamically stable, respectively. The electron energy gaps range from 6.8 eV for LiF to 3.9 eV for RbI and CsI in the tetragonal structure within the generalized gradient approximation. By considering the Madelung energy and the core-core repulsion, we propose a hard sphere model that accounts for the nearest-neighbor bond length and the cohesive energy of 2D alkali halides. The 2D CsAu in the tetragonal structure is also predicted to be stable as an ionic crystal including only metallic elements, showing a band gap of 2.6 eV that is higher than that of the 3D counterparts.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2203.02122v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.7566_jpsj.91.094606/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2203.02122v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:09:53.309656+00:00",
+  "updated_at": "",
+  "extra": {}
+}

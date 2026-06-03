@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2411.07583v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Investigation of the doping effects of Sr-Ta on the Ionic Conductivity of Garnet Li7La3Zr2O12 Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kajal Parchake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anuj Khapekar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2411.07583v2",
+  "published": "2024-11-12T06:43:25+00:00",
+  "abstract": "A solid electrolyte having the ionic conductivity comparable to that of conventional liquid electrolyte can be used in All Solid State Batteries (ASSB's). The series Li6.75+xLa3-xSrxZr1.75Ta0.25O12 (x = 0 to 0.20) was synthesized to improve the ionic conductivity of garnet Li7La3Zr2O12 (LLZO). The structural, physical and morphological investigations have been carried out for all the synthesized samples using X ray diffraction, density measurement and scanning electron microscopy respectively. The results of electrochemical analysis showed that the maximum room temperature ionic conductivity of 3.5 x 10-4 S/cm and minimum activation energy of 0.29 eV is achieved by the 0.05 Sr ceramic sample sintered at 1050^oC. The DC conductivity measurement confirmed the dominance of ionic conduction in the prepared ceramic samples. The highest ionic conductivity with the minimum activation energy makes the 0.05 Sr ceramic sample a suitable choice as solid electrolyte for All Solid State Lithium Ion Batteries (ASSLIB's).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2411.07583v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2411.07583v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2411.07583v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:10:32.859204+00:00",
+  "updated_at": "",
+  "extra": {}
+}

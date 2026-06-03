@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2202.06763v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine Learning-Aided Discovery of Superionic Solid-State Electrolyte for Li-Ion Batteries",
+  "authors": [
+    {
+      "name": "Seungpyo Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Minseon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kyoungmin Min",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2202.06763v1",
+  "published": "2022-02-14T14:33:56+00:00",
+  "abstract": "Li-Ion Solid-State Electrolytes (Li-SSEs) are a promising solution that resolves the critical issues of conventional Li-Ion Batteries (LIBs) such as poor ionic conductivity, interfacial instability, and dendrites growth. In this study, a platform consisting of a high-throughput screening and a machine-learning surrogate model for discovering superionic Li-SSEs among 20,237 Li-containing materials is developed. For the training database, the ionic conductivity of Na SuperIonic CONductor (NASICON) and Li SuperIonic CONductor (LISICON) type SSEs are obtained from the previous literature. Then, the chemical descriptor (CD) and additional structural properties are used as machine-readable features. Li-SSE candidates are selected through the screening criteria, and the prediction on the ionic conductivity of those is followed. Then, to reduce uncertainty in the surrogate model, the ensemble method by considering the best-performing two models is employed, whose mean prediction accuracy is 0.843 and 0.829, respectively. Furthermore, first-principles calculations are conducted for confirming the ionic conductivity of the strong candidates. Finally, six potential superionic Li-SSEs that have not previously been investigated are proposed. We believe that the constructed platform can accelerate the search for Li-SSEs with high ionic conductivity at minimum cost.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.AI"
+  ],
+  "source": "arxiv",
+  "source_id": "2202.06763v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2202.06763v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2202.06763v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:10:49.661460+00:00",
+  "updated_at": "",
+  "extra": {}
+}

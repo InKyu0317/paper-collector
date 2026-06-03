@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2023-024727mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Structural Tuning Strategy to Improve Ionic Conductivity of Eco, Cost-Effective Zr-Based Halide Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Joohyeon Noh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Kisuk Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-024727mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-024727mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tLithium-ion conductors based on halide anion frameworks have garnered significant attention as optimal ceramic conductors for composite cathodes due to their high oxidation stability and deformability. Recently, a cost-effective halide electrolyte, Li<jats:sub>2</jats:sub>ZrCl<jats:sub>6</jats:sub>, has been reported as a promising alternative to rare-metal-based halide solid electrolytes which are not suitable for manufacturing. Despite the economic advantage of using Zr, its ionic conductivity remains relatively low (0.36 mS cm<jats:sup>-1</jats:sup>), which could limit its applicability in high C-rate applications.</jats:p>\n               <jats:p>To enhance the ionic conductivity of Zr-based solid electrolytes, various structural tuning strategies have been employed. However, challenges persist, such as unstable cycling due to the redox reactions of metal ion and the uneconomical aspects of incorporating rare metals like Yttrium, Indium, and Lanthanides. In this study, we propose economical and rational strategies for tuning Li<jats:sub>2</jats:sub>ZrCl<jats:sub>6</jats:sub> to achieve higher ionic conductivity without compromising stability and affordability.</jats:p>\n               <jats:p>By introducing zero-valent dopants, vacancies, we were able to increase the ionic conductivity of the Zr-based solid electrolyte to nearly twice its original value (0.8 mS cm<jats:sup>-1</jats:sup>). Our detailed analysis reveals that the enhanced conductivity and reduced activation energy are primarily due to the activation of local diffusion paths, resulting from the alleviated repulsion between transition metal ions and Lithium ions. Furthermore, we establish the relationship between the Lithium-ion content and Li diffusivity in the Zr-based solid electrolyte, uncovering a new aspect for structural tuning in Zr-based solid electrolytes.</jats:p>\n               <jats:p>Consequently, we optimized the content of Lithium ions and dopants in the solid electrolyte, synthesizing a super-ionic conductive Zr-based solid electrolyte with an impressive ionic conductivity of approximately 1.6 mS cm<jats:sup>-1</jats:sup> and highest Zr percentage reported to date. Our findings offer a rational and economical design strategy for developing stable hcp-LZC structures with faster ionic conduction. This breakthrough has the potential to facilitate the widespread adoption of Zr-based solid electrolytes in lithium-ion batteries.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-024727mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-024727mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-024727mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-03T03:11:02.109555+00:00",
+  "updated_at": "",
+  "extra": {}
+}

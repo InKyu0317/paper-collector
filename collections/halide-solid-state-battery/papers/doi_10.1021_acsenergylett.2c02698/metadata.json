@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.2c02698",
+  "collection": "halide-solid-state-battery",
+  "title": "Leveraging Low-Energy Structural Thermodynamics in Halide Perovskites",
+  "authors": [
+    {
+      "name": "Bryan A. Rosales",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kelly Schutt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joseph J. Berry",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lance M. Wheeler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsenergylett.2c02698",
+  "url": "http://arxiv.org/abs/2209.13655v1",
+  "published": "2022-09-27T19:43:26+00:00",
+  "abstract": "Metal halide perovskites (MHPs) combine extraordinary optoelectronic properties with chemical and mechanical properties not found in their semiconductor counterparts. For instance, they exhibit optoelectronic properties on par with single-crystalline gallium arsenide yet exhibit near-zero formation energies. The small lattice energy of MHPs means they undergo a rich diversity of polymorphism near standard conditions similar to organic materials. MHPs also demonstrate ionic transport as high as state-of-the-art battery electrodes. The most widespread applications for metal halide perovskites (e.g. photovoltaics and solid-state lighting) typically view low formation energies, polymorphism, and high ion transport as a nuisance that should be eliminated. Here, we put these properties into perspective by comparing them to other technologically relevant semiconductors in order to highlight how unique this combination of properties is for semiconductors and to illustrate ways to leverage these properties in emerging applications.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.13655v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.2c02698/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.13655v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-03T03:10:28.893884+00:00",
+  "updated_at": "",
+  "extra": {}
+}
