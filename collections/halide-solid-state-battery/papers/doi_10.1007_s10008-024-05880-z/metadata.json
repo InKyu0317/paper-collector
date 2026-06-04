@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1007_s10008-024-05880-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of atmospheric moisture on the gas evolution tolerance of halide solid electrolytes",
+  "authors": [
+    {
+      "name": "Takeshi Usami",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Naoto Tanibata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Hayami Takeda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Masanobu Nakayama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5113-053X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-024-05880-z",
+  "url": "https://doi.org/10.1007/s10008-024-05880-z",
+  "published": "2024-12",
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Much attention has been paid on research and development on solid electrolytes for all-solid-state Li batteries. Although halide solid electrolytes such as Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> and Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> are promising due to fast Li ion conductivity and oxidation-resistant against positive electrode, a better understanding of their reactivity with atmospheric H<jats:sub>2</jats:sub>O is required for commercialization. In this study, the gas evolution tolerances of Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> and Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> were investigated. Temperature-programmed desorption mass spectrometry (TPD-MS) experiments at dew points below − 60 °C and gas detector tube experiments at dew points of − 30 °C both revealed significant differences in the H<jats:sub>2</jats:sub>O and HCl evolution behavior of Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> and Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub>. In TPD-MS, the onset temperature of HCl evolution for Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> (~ 100 °C) was significantly lower than that for Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> (~ 220 °C), indicating that Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> solid electrolytes have superior gas evolution tolerance. This difference may be attributable to differences in the retention of H<jats:sub>2</jats:sub>O derived from the material synthesis stage and from contact with the atmosphere during the measurements. In particular, based on first-principles calculations, the low-temperature HCl evolution observed in Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> was ascribed to the partial replacement of Cl<jats:sup>−</jats:sup> ions by OH<jats:sup>−</jats:sup> ions upon contamination with trace H<jats:sub>2</jats:sub>O. Because the heating and drying of solid electrolytes (including slurries) are inevitable processes during battery manufacturing, these findings can aid in the rational design of halide solid electrolytes for all-solid-state batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-024-05880-z",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-024-05880-z/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-024-05880-z.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 11,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-06-04T03:14:53.693808+00:00",
+  "updated_at": "",
+  "extra": {}
+}

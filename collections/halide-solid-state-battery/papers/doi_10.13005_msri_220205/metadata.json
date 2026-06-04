@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.13005_msri_220205",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermal Effects on Ionic Transport and Solid-State Battery Design with a New Blended Polymer Electrolyte: 98[70PEO:30NaCl] +2PVP",
+  "authors": [
+    {
+      "name": "Angesh Chandra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5975-1576",
+      "affiliation": "1Department of Physics, Government Naveen College, Saragaon, Chhattisgarh, India"
+    },
+    {
+      "name": "Lumeshwari Sahu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-5056-9258",
+      "affiliation": "2Department of Physics, Bharti Vishwavidyalaya, Durg, Chhattisgarh, India"
+    },
+    {
+      "name": "Alok Bhatt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0006-7811-0615",
+      "affiliation": "2Department of Physics, Bharti Vishwavidyalaya, Durg, Chhattisgarh, India"
+    },
+    {
+      "name": "Archana Chandra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1429-1948",
+      "affiliation": "3Department of Chemistry, Government M.M.R. P.G. College, Champa, Chhattisgarh, India"
+    }
+  ],
+  "doi": "10.13005/msri/220205",
+  "url": "https://doi.org/10.13005/msri/220205",
+  "published": "2025-9-30",
+  "abstract": "<jats:p>This study focuses on the ion transport behavior and the fabrication of a solid-state battery using a newly developed sodium ion-conducting blended solid polymer electrolyte (BSPE). The material was prepared with the composition 98 wt.% of [70PEO:30NaCl] blended with 2 wt.% PVP, synthesized via a hot-press technique. Among the tested formulations, this composition demonstrated the maximum ionic conductivity, approximately 3.6×10-5 S·cm⁻¹ at ambient temperature. To understand the ion conduction mechanism across varying temperatures, key parameters such as ionic conductivity (σ), ion mobility (μ), charge carrier density (n), ionic transference number (tₒₙ), and drift velocity (vd) were systematically measured. Activation energies, including migration energy (Em), formation energy (Ef), and drift energy (Ed), were determined using Arrhenius analysis. Utilizing the optimized BSPE composition, a solid-state polymer battery was assembled, and its performance was evaluated under multiple load conditions at room temperature.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.13005/msri/220205",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.13005_msri_220205/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Material Science Research India",
+  "publisher": "",
+  "issn": "0973-3469",
+  "quartile": "",
+  "added_at": "2026-06-04T03:14:40.266684+00:00",
+  "updated_at": "",
+  "extra": {}
+}
