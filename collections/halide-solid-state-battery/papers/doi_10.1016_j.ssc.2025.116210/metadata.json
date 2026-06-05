@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2025.116210",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploring the structural, electronic, optical and thermodynamic properties of halide perovskites InXI3 (X=Ge, Sn, Pb) for optoelectronic applications",
+  "authors": [
+    {
+      "name": "B. Belouad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. Bouhmouche",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0002-7311-1783",
+      "affiliation": ""
+    },
+    {
+      "name": "R. Moubah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2025.116210",
+  "url": "https://doi.org/10.1016/j.ssc.2025.116210",
+  "published": "2025-12",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2025.116210",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2025.116210/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-06-05T03:08:10.552559+00:00",
+  "updated_at": "",
+  "extra": {}
+}
