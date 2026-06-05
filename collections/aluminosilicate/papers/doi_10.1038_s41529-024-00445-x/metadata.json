@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1038_s41529-024-00445-x",
+  "collection": "aluminosilicate",
+  "title": "Mechanisms and energetics of calcium aluminosilicate glass dissolution through ab initio molecular dynamics-metadynamics simulations",
+  "authors": [
+    {
+      "name": "Meili Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-5324-2779",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Ruiz Pestana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8028-5242",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41529-024-00445-x",
+  "url": "https://doi.org/10.1038/s41529-024-00445-x",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The dissolution of silicate glasses has implications in diverse fields ranging from the immobilization of radioactive waste to the development of sustainable alternatives to Portland cement. Here, we used ab initio molecular dynamics simulations biased with well-tempered metadynamics to study Si-O-T bridge dissociation in calcium aluminosilicate glasses, crucial for understanding their dissolution. In a departure from the conventional Michalske-Freiman model, our findings reveal a nucleophilic substitution reaction mechanism characterized by a short-lived, 5-fold coordinated Si intermediate or transition state, depending on the Si bridge coordination, with a near-trigonal bipyramidal geometry. We find that the reorganization required for reaching this state causes the activation energy barriers to be dependent on the Si bridge coordination, with Si Q\n                    <jats:sup>3</jats:sup>\n                    species serving as the rate-limiting step in the dissolution reaction. Our findings not only challenge long-standing theoretical models but also pave the way for more accurate and comprehensive frameworks for understanding the dissolution of silicate glasses in various applications.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1038/s41529-024-00445-x",
+  "pdf_path": "aluminosilicate/papers/doi_10.1038_s41529-024-00445-x/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41529-024-00445-x.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 15,
+  "journal": "npj Materials Degradation",
+  "publisher": "",
+  "issn": "2397-2106",
+  "quartile": "",
+  "added_at": "2026-06-05T03:07:46.751855+00:00",
+  "updated_at": "",
+  "extra": {}
+}

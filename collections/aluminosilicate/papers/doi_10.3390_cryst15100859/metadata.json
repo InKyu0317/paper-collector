@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_cryst15100859",
+  "collection": "aluminosilicate",
+  "title": "Effect of LaF3 on Thermal Stability of Na-Aluminosilicate Glass and Formation of Low-Phonon Glass-Ceramics",
+  "authors": [
+    {
+      "name": "Marcin Środa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9781-6035",
+      "affiliation": "Faculty of Materials Science and Ceramics, AGH University of Krakow, al. Mickiewicza 30, 30-059 Kraków, Poland"
+    },
+    {
+      "name": "Szymon Świontek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4409-3494",
+      "affiliation": "Faculty of Materials Science and Ceramics, AGH University of Krakow, al. Mickiewicza 30, 30-059 Kraków, Poland"
+    },
+    {
+      "name": "Maciej Szal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Ceramics, AGH University of Krakow, al. Mickiewicza 30, 30-059 Kraków, Poland"
+    }
+  ],
+  "doi": "10.3390/cryst15100859",
+  "url": "https://doi.org/10.3390/cryst15100859",
+  "published": null,
+  "abstract": "<jats:p>This study examines the impact of varying the content of lanthanum oxide and lanthanum fluoride on the formation of glass-ceramics and their effect on the thermal stability of Na-aluminosilicate glasses, depending on the type and concentration of the raw material used. The aim of this study is to obtain a fluoride crystalline phase in the glassy matrix. Such a phase, due to its low phonon energy, increases the probability of radiative transitions (decay) of optically active lanthanide dopants, thereby enhancing luminescence. The scope of the work included the preparation of two glass series with varying amounts of La2O3 and LaF3 to determine the glass-forming range and to identify the characteristic temperatures of the glasses using Differential Thermal Analysis. It was found that increasing the La2O3 content above 10 mol% in this glass leads to exceeding the target melting temperature (1400 °C) of the glass batch. In contrast, the introduction of 10 mol% LaF3 prevents the formation of homogeneous glass. Based on these results, a controlled crystallization process was designed, and the resulting crystalline phases were identified using X-ray diffraction (XRD). In the base glass, two crystalline phases were identified: Na2O·Al2O3·SiO2 and Na2SiO3. For the La-oxide series, the crystallization of NaAlSiO4 and La2SiO5 was confirmed. In the case of the La-fluoride series, the formation of LaF3 was observed. It was found that by introducing an appropriate amount of LaF3 (7.5 mol%) into the aluminosilicate network, it is possible to obtain a glass suitable for controlled crystallization, leading to the formation of a low-phonon LaF3 phase.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/cryst15100859",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_cryst15100859/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Crystals",
+  "publisher": "",
+  "issn": "2073-4352",
+  "quartile": "",
+  "added_at": "2026-06-05T03:07:41.816987+00:00",
+  "updated_at": "",
+  "extra": {}
+}
