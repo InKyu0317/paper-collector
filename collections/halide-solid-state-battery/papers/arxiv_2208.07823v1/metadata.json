@@ -1,0 +1,127 @@
+{
+  "paper_id": "arxiv_2208.07823v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Synthetic control of structure and conduction properties in Na-Y-Zr-Cl solid electrolytes",
+  "authors": [
+    {
+      "name": "Elias Sebti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peter M. Richardson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Phillip Ridley",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Erik A. Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Swastika Banerjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raynald Giovine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ashley Cronk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "So-Yeon Ham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ying Shirley Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raphaële J. Clément",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2208.07823v1",
+  "published": "2022-08-16T16:09:14+00:00",
+  "abstract": "In the development of low cost, sustainable, and energy-dense batteries, chloride-based compounds are promising catholyte materials for solid-state batteries owing to their high Na-ion conductivities and oxidative stabilities. The ability to further improve Na-ion conduction, however, requires an understanding of the impact of long-range and local structural features on transport in these systems. In this study, we leverage different synthesis methods to control polymorphism and cation disorder in Na-Y-Zr-Cl solid electrolytes and interrogate the impact on Na-ion conduction. We demonstrate the existence of a more conductive P2$_1$/n polymorph of Na$_2$ZrCl$_6$ formed upon ball milling. In Na$_3$YCl$_6$, the R$\\bar{3}$ polymorph is shown to be more conductive than its P2$_1$/n counterpart owing to the presence of intrinsic vacancies and disorder on the Y sublattice. Transition metal ordering in the Na$_{2.25}$Y$_{0.25}$Zr$_{0.75}$Cl$_6$ composition strongly impacts Na-ion transport, where a greater mixing of Y$^{3+}$ and Zr$^{4+}$ on the transition metal sublattice facilitates ion migration through partial activation of Cl rotations at relevant temperatures. Overall, Na-ion transport sensitively depends on the phases and transition metal distributions stabilized during synthesis. These results are likely generalizable to other halide compositions and indicate that achieving control over the synthetic protocol and resultant structure is key in the pursuit of improved catholytes for high voltage solid-state sodium-ion batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2208.07823v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2208.07823v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2208.07823v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:55.127192+00:00",
+  "updated_at": "",
+  "extra": {}
+}

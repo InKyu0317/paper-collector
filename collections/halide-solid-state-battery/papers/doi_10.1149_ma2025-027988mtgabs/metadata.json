@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-027988mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-State Ionics in Halide Superionic Conductors",
+  "authors": [
+    {
+      "name": "Kisuk Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-027988mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-027988mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    Halides have emerged as a new class of solid electrolytes that can deliver superionic conductivity comparable to that of state-of-the-art sulfide electrolytes as well as electrochemical stability suitable for high-voltage (&gt;4 V) operations. Although these merits have led to an extensive exploration of various halide-based materials in recent years, our understanding of the superionic conduction mechanism and its structure dependency remains in its infancy, impeding a rational design of new halide electrolytes. Herein, we investigate lithium-ion conduction mechanisms in halides by focusing on two representative structural classes: the trigonal phase, which features an hcp-stacking anion framework, and the monoclinic phase, characterized by a ccp-stacking anion framework. For trigonal halides such as Li\n                    <jats:sub>3</jats:sub>\n                    MCl\n                    <jats:sub>6</jats:sub>\n                    (M=Y, Er), we find that superionic conduction is primarily controlled by the in-plane lithium percolation pathways and the interlayer spacing, both of which are sensitively altered by the distinct composition/ordering of cations (M) arising from the structural flexibility of Li\n                    <jats:sub>3</jats:sub>\n                    MCl\n                    <jats:sub>6</jats:sub>\n                    . Moreover, it is demonstrated that these two factors are inversely correlated with each other by the partial occupancy of M, which turns out to be a diffusion inhibitor and, simultaneously, a pillar that provides a large interlayer space for facile lithium diffusion. These findings infer that there exists a critical range/ordering of M in trigonal halides that can allow high ionic conductivity while elucidating previous reports of the considerable discrepancies in lithium diffusivities observed for Li\n                    <jats:sub>3</jats:sub>\n                    MCl\n                    <jats:sub>6</jats:sub>\n                    (M=Y, Er). Accordingly, we propose a general design criterion for superionic trigonal halide solid electrolytes and showcase that even a simple change in the M ratio (per Cl or Li) based on this strategy can result in a remarkable increase of the ionic conductivity, leading to the highest recorded value in the trigonal family (1.19 mS cm\n                    <jats:sup>−</jats:sup>\n                    <jats:sup>1</jats:sup>\n                    ). Furthermore, we study the fundamental diffusion mechanisms in ccp-stacked monoclinic halides, establishing general design rules for next-generation halide superionic conductors.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-027988mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-027988mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-027988mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:46.827468+00:00",
+  "updated_at": "",
+  "extra": {}
+}

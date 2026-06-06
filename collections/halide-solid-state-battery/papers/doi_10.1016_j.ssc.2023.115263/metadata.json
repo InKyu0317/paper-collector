@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2023.115263",
+  "collection": "halide-solid-state-battery",
+  "title": "Lattice thermal conductivity calculation of phosphorene using molecular dynamics and spectral energy density",
+  "authors": [
+    {
+      "name": "Narges Naghdiani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5207-4699",
+      "affiliation": ""
+    },
+    {
+      "name": "Amir Abbas Sabouri Dodaran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6397-1427",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2023.115263",
+  "url": "https://doi.org/10.1016/j.ssc.2023.115263",
+  "published": "2023-10",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2023.115263",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2023.115263/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-06-06T03:04:04.606924+00:00",
+  "updated_at": "",
+  "extra": {}
+}

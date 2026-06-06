@@ -1,0 +1,103 @@
+{
+  "paper_id": "doi_10.1002_advs.202401331",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-State Electrochemical Thermal Transistors with Large Thermal Conductivity Switching Widths",
+  "authors": [
+    {
+      "name": "Zhiping Bian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mitsuki Yoshimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ahrong Jeong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haobo Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takashi Endo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yasutaka Matsuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yusaku Magari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hidekazu Tanaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiromichi Ohta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/advs.202401331",
+  "url": "http://arxiv.org/abs/2404.08307v1",
+  "published": "2024-04-12T08:01:32+00:00",
+  "abstract": "Thermal transistors that switch the thermal conductivity (\\k{appa}) of the active layers are attracting increasing attention as thermal management devices. For electrochemical thermal transistors, several transition metal oxides (TMOs) have been proposed as active layers. After electrochemical redox treatment, the crystal structure of the TMO is modulated, which results in the \\k{appa} switching. However, the \\k{appa} switching width is still small (< 4 W/mK). In this study, we demonstrate that LaNiOx-based solid-state electrochemical thermal transistors have a \\k{appa} switching width of 4.3 W/mK. Fully oxidised LaNiO3 (on state) has a \\k{appa} of 6.0 W/mK due to the large contribution of electron thermal conductivity (\\k{appa}ele, 3.1 W/mK). In contrast, reduced LaNiO2.72 (off state) has a \\k{appa} of 1.7 W/mK because the phonons are scattered by the oxygen vacancies. The LaNiOx-based electrochemical thermal transistor exhibits excellent cyclability of \\k{appa} and the crystalline lattice of LaNiOx. This electrochemical thermal transistor may be a promising platform for next-generation devices such as thermal displays.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.08307v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_advs.202401331/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.08307v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:04:02.761155+00:00",
+  "updated_at": "",
+  "extra": {}
+}

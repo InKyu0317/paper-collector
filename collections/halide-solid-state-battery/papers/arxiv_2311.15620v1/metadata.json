@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2311.15620v1",
+  "collection": "halide-solid-state-battery",
+  "title": "How concerted are ionic hops in inorganic solid-state electrolytes?",
+  "authors": [
+    {
+      "name": "Cibrán López",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Riccardo Rurali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudio Cazorla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2311.15620v1",
+  "published": "2023-11-27T08:34:02+00:00",
+  "abstract": "Despite being fundamental to the understanding of solid-state electrolytes (SSE), little is known on the degree of coordination between mobile ions in diffusive events. Thus far, identification of concerted ionic hops mostly has relied on the analysis of spatio-temporal pair correlation functions obtained from atomistic molecular dynamics (MD) simulations. However, this type of analysis neither allows for quantifying particle correlations beyond two body nor determining concerted ionic hop mechanisms, thus hindering a detailed comprehension and possible rational design of SSE. Here, we introduce an unsupervised k-means clustering approach able to identify ion-hopping events and correlations between many mobile ions, and apply it to a comprehensive ab initio MD database comprising several families of inorganic SSE and millions of ionic configurations. It is found that despite two-body interactions between mobile ions are largest, higher-order $n$-ion ($2 < n$) correlations are most frequent. Specifically, we prove an universal exponential decaying law for the probability density function governing the number of concerted mobile ions. For the particular case of Li-based SSE, it is shown that the average number of correlated mobile ions amounts to $10 \\pm 5$ and that this result is practically independent of temperature. Interestingly, our data-driven analysis reveals that fast-ion diffusion strongly and positively correlates with ample hopping lengths and long hopping spans but not with high hopping frequencies and short interstitial residence times. Finally, it is shown that neglection of many-ion correlations generally leads to a modest overestimation of the hopping frequency that roughly is proportional to the average number of correlated mobile ions.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2311.15620v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2311.15620v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2311.15620v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:42.006402+00:00",
+  "updated_at": "",
+  "extra": {}
+}

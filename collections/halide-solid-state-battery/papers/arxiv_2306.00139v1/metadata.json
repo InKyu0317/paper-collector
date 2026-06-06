@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2306.00139v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Electronic paddle-wheels in a solid-state electrolyte",
+  "authors": [
+    {
+      "name": "Harender S. Dhattarwal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rahul Somni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Richard C. Remsing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2306.00139v1",
+  "published": "2023-05-31T19:28:38+00:00",
+  "abstract": "Solid-state superionic conductors (SSICs) are promising alternatives to liquid electrolytes in batteries and other energy storage technologies. The rational design of SSICs and ultimately their deployment in battery technologies is hindered by the lack of a thorough understanding of their ion conduction mechanisms. In SSICs containing molecular ions, rotational dynamics couple to translational diffusion to create a 'paddle-wheel' effect that facilitates conduction. The paddle-wheel mechanism explains many important features of molecular SSICs, but an explanation for ion conduction and anharmonic lattice dynamics in SSICs composed of monatomic ions is still needed. We predict that ion conduction in the classic SSIC AgI involves 'electronic paddle-wheels,' rotational motion of lone pairs that couple to and facilitate ion diffusion. The electronic paddle-wheel mechanism creates a universal perspective for understanding ion conductivity in both monatomic and molecular SSICs that will create design principles for engineering solid-state electrolytes from the electronic level up to the macroscale.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2306.00139v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2306.00139v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2306.00139v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:51.973242+00:00",
+  "updated_at": "",
+  "extra": {}
+}

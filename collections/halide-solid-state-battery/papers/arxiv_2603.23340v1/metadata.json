@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2603.23340v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Experimental Insights into the Limiting Mechanism of Vacancy Transport in Sodium Metal Anodes for Solid State Batteries",
+  "authors": [
+    {
+      "name": "Ansgar Lowack",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rafael Anton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bingchen Xue",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristian Nikolowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cornelius Dirksen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mareike Partsch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander Michaelis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.23340v1",
+  "published": "2026-03-24T15:40:47+00:00",
+  "abstract": "Ceramic solid-state batteries with sodium (Na) metal electrodes promise enhanced safety and energy density compared to contemporary secondary batteries. However, the critical delamination of the Na metal electrode during discharge - when vacancies accumulate at the Na/ceramic interface - remains to be understood and avoided. The study investigates the underlying mechanism by applying a linear current ramp between two Na metal electrodes separated by a ceramic solid electrolyte to provoke vacancy buildup. Above a critical current density $j_\\mathrm{crit}$ the anode voltage no longer increases linearly but in an exponential fashion. Arrhenius analysis of $j_\\mathrm{crit}(T)$ for the three solid electrolytes $\\mathrm{Na_{1.9}Al_{10.67}Li_{0.33}O_{17}}$, $\\mathrm{Na_{3.4}Zr_2Si_{2.4}P_{0.6}O_{12}}$, and $\\mathrm{Na_5SmSi_4O_{12}}$ yields an activation energy $E_\\mathrm{A}$ of $0.13$ to $0.15\\,\\mathrm{eV}$. This exceeds the activation energy of $0.053\\,\\mathrm{eV}$ for the diffusive vacancy migration in bulk Na significantly. Further, $E_\\mathrm{A}$ is insensitive to anode microstructure variation. Both observations rule out bulk diffusion as the transport bottleneck. A thin tin-sodium alloy interlayer lowers $E_\\mathrm{A}$ to $(0.10\\pm0.01)\\,\\mathrm{eV}$, implicating interfacial thermodynamics as rate-limiting. Sodiophilic, Na-conducting interlayers and low-tension interfaces emerge as key pathways to stable, high-rate Na-SSBs at practical stack pressures.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.23340v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.23340v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.23340v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:58.958763+00:00",
+  "updated_at": "",
+  "extra": {}
+}

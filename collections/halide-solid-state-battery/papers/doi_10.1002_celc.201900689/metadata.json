@@ -1,0 +1,81 @@
+{
+  "paper_id": "doi_10.1002_celc.201900689",
+  "collection": "halide-solid-state-battery",
+  "title": "Sulfonylamide-Based Ionic Liquids for High-Voltage Potassium-Ion Batteries with Honeycomb Layered Cathode Oxides",
+  "authors": [
+    {
+      "name": "Kazuki Yoshii",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Titus Masese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Minami Kato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Keigo Kubota",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiroshi Senoh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Masahiro Shikano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/celc.201900689",
+  "url": "http://arxiv.org/abs/2111.05314v2",
+  "published": "2021-11-06T06:51:23+00:00",
+  "abstract": "The world is at the cusp of a new era where pivotal importance is being attached to the development of sustainable and high-performance energy storage systems. Potassium-ion batteries are deemed not only as cheap battery candidates, but also as the penultimate high-voltage energy storage systems within the monovalent-cation chemistries. However, their performance and sustainability are undermined by the lack of suitable electrolytes for high-voltage operation particularly due to the limited availability of cathode materials. Here, the potential of ionic liquids based on potassium bis(trifluoromethanesulfonyl)amide (KTFSA) as high-voltage electrolytes is presented by assessing their physicochemical properties, along with the electrochemical properties upon coupling with new high-voltage layered cathode materials. These ionic liquids demonstrate a lower redox potential for potassium dissolution / deposition (with a wide voltage tolerance of around $6.0$ $\\rm V$), placing them as feasible and safe electrolytes for high-voltage potassium-ion battery configuration. This is proven by matching this electrolyte with new high-voltage layered cathode compositions, demonstrating stable electrochemical performance. The present findings of electrochemically stable ionic liquids based on potassium bis(trifluoromethanesulfonyl)amide will bolster further advancement of high-performance cathode materials, whose performance at high-voltage regimes were apparently restricted by the paucity of suitable and compatible electrolytes.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.05314v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_celc.201900689/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.05314v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-06T03:03:45.081941+00:00",
+  "updated_at": "",
+  "extra": {}
+}
