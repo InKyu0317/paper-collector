@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2511.21404v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations",
+  "authors": [
+    {
+      "name": "Manuel Grumet",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takeru Miyagawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Olivier Pittet",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paolo Pegolo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Karin S. Thalmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Waldemar Kaiser",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David A. Egger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.21404v1",
+  "published": "2025-11-26T13:53:35+00:00",
+  "abstract": "Fast ionic conduction is a defining property of solid electrolytes for all-solid-state batteries. Previous studies have suggested that liquid-like cation motion associated with fast ionic transport can disrupt crystalline symmetry, thereby lifting Raman selection rules. Here, we exploit the resulting low-frequency, diffusive Raman scattering as a spectral signature of fast ionic conduction and develop a machine learning-accelerated computational pipeline to identify promising solid electrolytes based on this feature. By overcoming the steep computational barriers to calculating Raman spectra of strongly disordered materials at finite temperatures, we achieve near-ab initio accuracy and demonstrate the predictive power of our approach for sodium-ion conductors, revealing clear Raman signatures of liquid-like ion conduction. This work highlights how machine learning can bridge atomistic simulations and experimental observables, enabling data-efficient discovery of fast-ion conductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.21404v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.21404v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.21404v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:32.111760+00:00",
+  "updated_at": "",
+  "extra": {}
+}

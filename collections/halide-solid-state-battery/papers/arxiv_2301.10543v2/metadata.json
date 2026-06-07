@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2301.10543v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Fundamental cause for superior optoelectronic properties in halide perovskites",
+  "authors": [
+    {
+      "name": "Xiaoming Wen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baohua Jia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2301.10543v2",
+  "published": "2023-01-25T12:18:34+00:00",
+  "abstract": "Halide perovskites have emerged as revolutionary materials for high performance photovoltaics and optoelectronics due to their superior optoelectronic properties. The physical origin for the superior optoelectronic properties of halide perovskites so far is still poorly understood. Here we propose and demonstrate a hypothesis that electron upconversion (detrapping) driven by ionic energy reservoir is the fundamental cause for the superior optoelectronic properties of halide perovskites. We fully consider ionic influence on the electronic dynamics in mixed ionic-electronic conduction system by introducing new concepts of ionic energy reservoir, ion-electron coupling and ion-phonon scattering. We clarified that the ionic beneficial effect originates from the different mechanisms from that of the detrimental effect of mobile ion. Our hypothesis consistently interprets that the electron detrapping directly leads to significantly enhanced fluorescence efficiency, prolonged carrier lifetime, and increased diffusion length, as well as the anomalous phenomena of defect healing and defect tolerance, which are responsible for the excellent device performance of halide perovskites. By adding the ion-electron coupling into the rate equations, we establish the physical correlation between electronic dynamics in the timescale of nanosecond-microsecond and ionic dynamics in the timescales of second to hour. This finding adds the missing puzzle into the holistic physics picture and provides a deep understanding of halide perovskites and ion-electron interaction in mixed ionic-electronic semiconductors. Our results suggest the possibility of maximizing the potential of halide perovskite devices through enhancing ion-electron coupling.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.10543v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2301.10543v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.10543v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:24.030337+00:00",
+  "updated_at": "",
+  "extra": {}
+}

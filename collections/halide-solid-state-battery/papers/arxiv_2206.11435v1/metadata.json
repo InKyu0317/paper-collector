@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2206.11435v1",
+  "collection": "halide-solid-state-battery",
+  "title": "An Investigation into the Kinetics of $Li^+$ Ion Migration in Garnet-Type Solid State Electrolyte: $Li_7La_3Zr_2O_{12}$",
+  "authors": [
+    {
+      "name": "Aditya Muralidharan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2206.11435v1",
+  "published": "2022-06-23T00:56:37+00:00",
+  "abstract": "An all solid-state thin film lithium ion battery has been touted the holy grail for energy storage technology ever since the inception of the first one in 1986 by Keiichi Kanehori. Solid-state batteries provide the distinct advantage of outperforming current technology by having a simpler composition, being easier and cheaper to manufacture, safer and having a higher theoretical gravimetric and volumetric energy density. The commercialization of this technology however, is plagued by its own set of challenges, primarily low ionic conductivity and interfacial stability of the solid-state electrolyte separating the anode and cathode, a small electrochemical window and sub-par mechanical properties. In the last decade considerable progress has been made in remedying these issues with garnet-type electrolytes, especially Li7La3Zr2O12 (LLZO), having emerged the leading contender. This has prompted renewed effects into the field of solid-state ionic's and maximizing the ionic conductivity of LLZO by modifying its properties, primarily by means of doping with a varying degree of success. Carving a clear road ahead requires an in-depth understanding of the origin of the high Li+ ion conductivity, the primary means of investigating which is by first-principle methods. In this term paper we try to gain insight into the origin of mechanisms at play that drive the collective migration of Li+ ions in LLZO using a first-principles approach, to gain a deeper understanding and appreciation for optimizing its properties for use in next-generation energy storage systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2206.11435v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2206.11435v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2206.11435v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:38.949092+00:00",
+  "updated_at": "",
+  "extra": {}
+}

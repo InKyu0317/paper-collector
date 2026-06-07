@@ -1,0 +1,128 @@
+{
+  "paper_id": "doi_10.1021_acsami.3c03839",
+  "collection": "halide-solid-state-battery",
+  "title": "The Impact of Inter-grain Phases on the Ionic Conductivity of LAGP Solid Electrolyte Prepared by Spark Plasma Sintering",
+  "authors": [
+    {
+      "name": "Sorina Cretu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David G. Bradley",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Omer Ulas Kudu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Li Patrick Wen Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linh Lan Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tuan Tu Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arash Jamali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jean-Noel Chotard",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vincent Seznec",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John V. Hanna",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnaud Demortière",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martial Duchamp",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsami.3c03839",
+  "url": "http://arxiv.org/abs/2211.06129v1",
+  "published": "2022-11-11T11:20:08+00:00",
+  "abstract": "Li1.5Al0.5Ge1.5(PO4)3 (LAGP) is a promising oxide solid electrolyte for all-solid-state batteries due to its excellent air stability, wide electrochemical stability window and cost-effective precursor materials. However, further improvement in their ionic conductivity performance is hindered by the presence of inter-grain phases leading to a major obstacle to the advanced design of oxide based solid-state electrolytes. This study establishes and quantifies the influence of inter-grain phases, their 3D morphology, and formed compositions on the overall ion conductivity properties of LAGP pellets fabricated under different Spark plasma sintering conditions. Based on complementary techniques, such as PEIS, XRD, 3D FIB-SEM tomography and solid-state MAS NMR coupled with DFT modelling, a deep insight into the inter-grain phase microstructures is obtained revealing that the inter-grain region is comprised of Li4P2O7 and a disordered Li9Al3(P2O7)3(PO4)2 phase. We demonstrate that optimal ionic conductivity for the LAGP system is achieved for the 680 °C SPS preparation when the disordered Li9Al3(P2O7)3(PO4)2 phase dominates the inter-grain region composition with reduced contributions from the highly ordered Li4P2O7 phases.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2211.06129v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsami.3c03839/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2211.06129v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:28.155588+00:00",
+  "updated_at": "",
+  "extra": {}
+}

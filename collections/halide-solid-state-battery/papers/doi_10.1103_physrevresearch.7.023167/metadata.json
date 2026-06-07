@@ -1,0 +1,96 @@
+{
+  "paper_id": "doi_10.1103_physrevresearch.7.023167",
+  "collection": "halide-solid-state-battery",
+  "title": "Predicting ionic conductivity in solids from the machine-learned potential energy landscape",
+  "authors": [
+    {
+      "name": "Artem Maevskiy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexandra Carvalho",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emil Sataev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Volha Turchyna",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Keian Noori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandr Rodin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. H. Castro Neto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrey Ustyuzhanin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevResearch.7.023167",
+  "url": "http://arxiv.org/abs/2411.06804v2",
+  "published": "2024-11-11T09:01:36+00:00",
+  "abstract": "Discovering new superionic materials is essential for advancing solid-state batteries, which offer improved energy density and safety compared to the traditional lithium-ion batteries with liquid electrolytes. Conventional computational methods for identifying such materials are resource-intensive and not easily scalable. Recently, universal interatomic potential models have been developed using equivariant graph neural networks. These models are trained on extensive datasets of first-principles force and energy calculations. One can achieve significant computational advantages by leveraging them as the foundation for traditional methods of assessing the ionic conductivity, such as molecular dynamics or nudged elastic band techniques. However, the generalization error from model inference on diverse atomic structures arising in such calculations can compromise the reliability of the results. In this work, we propose an approach for the quick and reliable screening of ionic conductors through the analysis of a universal interatomic potential. Our method incorporates a set of heuristic structure descriptors that effectively employ the rich knowledge of the underlying model while requiring minimal generalization capabilities. Using our descriptors, we rank lithium-containing materials in the Materials Project database according to their expected ionic conductivity. Eight out of the ten highest-ranked materials are confirmed to be superionic at room temperature in first-principles calculations. Notably, our method achieves a speed-up factor of approximately 50 compared to molecular dynamics driven by a machine-learning potential, and is at least 3,000 times faster compared to first-principles molecular dynamics.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.LG"
+  ],
+  "source": "arxiv",
+  "source_id": "2411.06804v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevresearch.7.023167/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2411.06804v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:35.529944+00:00",
+  "updated_at": "",
+  "extra": {}
+}

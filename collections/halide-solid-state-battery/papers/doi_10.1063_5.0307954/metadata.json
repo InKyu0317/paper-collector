@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1063_5.0307954",
+  "collection": "halide-solid-state-battery",
+  "title": "Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models",
+  "authors": [
+    {
+      "name": "Haewon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Taekgi Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seongeun Hong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kyeong-Ho Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongchul G. Chung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0307954",
+  "url": "http://arxiv.org/abs/2601.10997v2",
+  "published": "2026-01-16T05:13:09+00:00",
+  "abstract": "Solid-state electrolytes (SSEs) are attractive for next-generation lithium-ion batteries due to improved safety and stability but their low room-temperature ionic conductivity hinders practical application. Experimental synthesis and testing of new SSEs remain time-consuming and resource intensive. Machine learning (ML) offers an accelerated route for SSE discovery; however, composition-only models neglect structural factors important for ion transport while graph neural networks (GNNs) are challenged by the scarcity of structure-labeled conductivity data and the prevalence of crystallographic disorder in CIFs. Here, we train two complementary predictors on the same room-temperature, structure-labeled dataset (n = 499). A gradient-boosted tree regressor (GBR) combining stoichiometric and geometric descriptors achieves best performance (MAE = 0.543 in log(S cm-1)), and Shapley Additive exPlanations (SHAP) identifies probe-occupiable volume (POAV) and lattice parameters as key correlations for conductivity. In parallel, we fine-tune large language models (LLMs) using compact text prompts derived from CIF metadata (formula with optional symmetry and disorder tags), avoiding direct use of raw atomic coordinates. Notably, Llama-3.1-8B-Instruct achieves high accuracy (MAE = 0.657 in log(S cm-1)) using formula and symmetry information, eliminating the need for numerical feature extraction from CIF files. Together, these results show that global geometric descriptors improve tree-based predictions and enable interpretable structure-property analysis, while LLMs provide a competitive low-preprocessing alternative for rapid SSE screening.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.10997v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0307954/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.10997v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:45.928569+00:00",
+  "updated_at": "",
+  "extra": {}
+}

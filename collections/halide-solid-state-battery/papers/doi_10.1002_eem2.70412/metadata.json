@@ -1,0 +1,109 @@
+{
+  "paper_id": "doi_10.1002_eem2.70412",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhanced Ionic Conductivity and Moisture Stability of Zr‐Based Halide Solid Electrolytes via Ta\n                    <sup>5+</sup>\n                    Doping for All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Jin Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Yuhan Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Yihao Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Chunsheng Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3374-1449",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Biao Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Liying Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Jianli Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Fang He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Naiqin Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    },
+    {
+      "name": "Chunnian He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering and Tianjin Key Laboratory of Composite and Functional Materials, Tianjin University  Tianjin 300350 China"
+    }
+  ],
+  "doi": "10.1002/eem2.70412",
+  "url": "https://doi.org/10.1002/eem2.70412",
+  "published": null,
+  "abstract": "<jats:p>\n                    Recently developed halide solid‐state electrolytes (SSEs) have become promising alternatives for the next generation inorganic SSEs, primarily due to their comparatively favorable ionic conductivity, desirable deformability, and economic feasibility. Nevertheless, their practical application is still limited by inadequate ionic transport capability and poor moisture stability in the ambient environment. Herein, a simple yet effective Ta\n                    <jats:sup>5+</jats:sup>\n                    doping strategy is proposed to simultaneously improve the ionic conductivity and moisture stability of Li\n                    <jats:sub>2</jats:sub>\n                    ZrCl\n                    <jats:sub>6</jats:sub>\n                    (LZC). Specifically, the optimized Ta\n                    <jats:sup>5+</jats:sup>\n                    ‐doping SSEs, Li\n                    <jats:sub>2–x</jats:sub>\n                    Zr\n                    <jats:sub>1–x</jats:sub>\n                    Ta\n                    <jats:sub>x</jats:sub>\n                    Cl\n                    <jats:sub>6</jats:sub>\n                    (x = 0.3, denoted as LZT0.3C), exhibit an improved ionic conductivity of 1.31 mS cm\n                    <jats:sup>−1</jats:sup>\n                    at room temperature (RT). Notably, LZT0.3C retains its structural integrity and high ionic conductivity even after exposure to 10% relative humidity. When implemented in ASSLBs with LiCoO\n                    <jats:sub>2</jats:sub>\n                    or single‐crystalline LiNi\n                    <jats:sub>0.8</jats:sub>\n                    Mn\n                    <jats:sub>0.1</jats:sub>\n                    Co\n                    <jats:sub>0.1</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    cathodes, LZT0.3C delivers significantly improved long‐term cycling stability. The combination of high ionic conductivity and enhanced moisture stability renders this halide SSE a scalable and cost‐effective candidate for future energy storage systems.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/eem2.70412",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_eem2.70412/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/eem2.70412",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ENERGY &amp; ENVIRONMENTAL MATERIALS",
+  "publisher": "",
+  "issn": "2575-0356",
+  "quartile": "",
+  "added_at": "2026-06-07T03:05:46.703561+00:00",
+  "updated_at": "",
+  "extra": {}
+}
