@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.3390_ma18061289",
+  "collection": "aluminosilicate",
+  "title": "Electric Field-Induced Settling and Flotation of Flocs in Mixed Aqueous Suspensions of Poly(methyl methacrylate) and Aluminosilicate Hollow Particles",
+  "authors": [
+    {
+      "name": "Hiroshi Kimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0001-1010-2540",
+      "affiliation": "Department of Chemistry and Biomolecular Science, Faculty of Engineering, Gifu University, Gifu 501-1193, Japan"
+    },
+    {
+      "name": "Mirei Sakakibara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Chemistry and Biomolecular Science, Faculty of Engineering, Gifu University, Gifu 501-1193, Japan"
+    }
+  ],
+  "doi": "10.3390/ma18061289",
+  "url": "https://doi.org/10.3390/ma18061289",
+  "published": null,
+  "abstract": "<jats:p>When a horizontal electric field is applied, the sedimentation velocity of particles increases, a phenomenon known as Electrically Induced Rapid Separation (ERS). Hollow particles with a lower density than water exhibit an increased flotation velocity under an electric field. This study investigates the ERS effect in mixed suspensions containing particles denser than water and hollow particles with lower density. In the absence of an electric field, the denser particles settle while the hollow particles float, and their behavior is independent of the ratio of hollow particles to the total number of particles (α). However, when a DC electric field of 0.4 V/mm is applied, the behavior becomes dependent on α. For α &lt; ~0.90, all particles sediment, whereas for α &gt; ~0.93, all particles float. This suggests that the electric field induces a co-floc formation between the denser and hollow particles. Additionally, for the first time, a co-floc formation under an electric field was directly observed using a digital microscope. By adjusting α and applying an electric field, it is possible to control the sedimentation, flotation, or stabilization of the particle system. This study provides new insights into electric field-assisted particle separation and highlights its potential applications in colloidal science and materials science.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma18061289",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma18061289/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-06-07T03:04:26.906417+00:00",
+  "updated_at": "",
+  "extra": {}
+}
