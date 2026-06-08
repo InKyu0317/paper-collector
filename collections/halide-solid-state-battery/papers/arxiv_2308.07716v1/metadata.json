@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2308.07716v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhancement in Li-ion Conductivity through Co-doping of Ge and Ta in Garnet Li$_7$La$_3$Zr$_2$O$_{12}$ Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpandea",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2308.07716v1",
+  "published": "2023-08-15T11:47:30+00:00",
+  "abstract": "For being used as an electrolyte in All Solid State Batteries (ASSB), a solid electrolyte must possess ionic conductivity comparable to that of conventional liquid electrolytes. To achieve this conductivity range, the series Li$_{6.8-y}$Ge$_{0.05}$La$_3$Zr$_{2-y}$Ta$_y$O$_{12}$ ($y = 0, 0.15, 0.25, 0.35, 0.45$) has been synthesized using solid-state reaction method and studied using various characterization techniques. The highly conducting cubic phase is confirmed from XRD analysis. Structural information was collected using SEM and density measurements. The prepared ceramic sample containing 0.25 Ta, sintered at 1050$^\\circ$C for 7.30 hrs shows the maximum ionic conductivity of 6.61 x 10$^{-4}$ S/cm at 25$^\\circ$C. The air stability of the same ceramic has also been evaluated after exposure for 5 months. The minimum activation energy associated with the maximum conductivity of 0.25 Ta is 0.25 eV. The DC conductivity measurements were done to confirm the ionic nature of conductivity for all ceramic samples. The stable result of ionic conductivity makes the 0.25 Ta containing ceramic sample a promising candidate for solid electrolytes for ASSB applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2308.07716v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2308.07716v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2308.07716v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-08T03:05:57.602761+00:00",
+  "updated_at": "",
+  "extra": {}
+}

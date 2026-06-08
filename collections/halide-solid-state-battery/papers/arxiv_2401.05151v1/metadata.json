@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2401.05151v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Disorder-induced enhancement of lithium-ion transport in solid-state electrolytes",
+  "authors": [
+    {
+      "name": "Zhimin Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "N. M. Anoop Krishnan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuanzheng Yue",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Morten M. Smedskjaer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.05151v1",
+  "published": "2024-01-10T13:31:53+00:00",
+  "abstract": "Enhancing the ion conduction in solid electrolytes is critically important for the development of high-performance all-solid-state lithium-ion batteries (LIBs). Lithium thiophosphates are among the most promising solid electrolytes, as they exhibit superionic conductivity at room temperature. However, the lack of comprehensive understanding regarding their ion conduction mechanism, especially the effect of structural disorder on ionic conductivity, is a long-standing problem that limits further innovations of all-solid-state LIBs. Here, we address this challenge by establishing and employing a deep learning potential to simulate Li3PS4 electrolyte systems with varying levels of disorder. The results show that disorder-driven diffusion dynamics significantly enhances the room-temperature conductivity. We further establish bridges between dynamical characteristics, local structural features, and atomic rearrangements by applying a machine learning-based structure fingerprint termed \"softness\". This metric allows the classification of the disorder-induced \"soft\" hopping lithium ions. Our findings offer insights into ion conduction mechanisms in complex disordered structures, thereby contributing to the development of superior solid-state electrolytes for LIBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.05151v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.05151v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.05151v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-08T03:05:54.203040+00:00",
+  "updated_at": "",
+  "extra": {}
+}

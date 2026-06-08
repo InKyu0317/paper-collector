@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2023.115216",
+  "collection": "halide-solid-state-battery",
+  "title": "DFT calculations on physical properties of the lead-free halide-based double perovskite compound Cs2CdZnCl6",
+  "authors": [
+    {
+      "name": "M. Caid",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "D. Rached",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4686-5686",
+      "affiliation": ""
+    },
+    {
+      "name": "S. Al-Qaisi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Y. Rached",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "H. Rached",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3867-576X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2023.115216",
+  "url": "https://doi.org/10.1016/j.ssc.2023.115216",
+  "published": "2023-9",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2023.115216",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2023.115216/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 134,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-06-08T03:05:47.945812+00:00",
+  "updated_at": "",
+  "extra": {}
+}

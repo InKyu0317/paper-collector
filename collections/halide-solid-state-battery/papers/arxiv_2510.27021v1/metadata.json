@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2510.27021v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Defect Engineered Hexagonal-Boron Nitride Enables Ionic Conduction for Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Yecun Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yan-Kai Tzeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hao Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kun Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gangbin Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takashi Taniguchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kenji Watanabe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arun Majumdar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Cui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Steven Chu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.27021v1",
+  "published": "2025-10-30T22:06:13+00:00",
+  "abstract": "The practical implementation of lithium-metal anodes has been hindered by uncontrollable dendrite formation and interfacial instability. This study presents a defect-engineering approach of a chemically stable and electrically insulating interfacial layer of hexagonal boron nitride (h-BN) that markedly enhances ionic conductivity through argon ion irradiation. Initially, the electrochemical performance from commercially available, large-area chemical vapor deposition (CVD)-grown h-BN films with industrial-scale argon ion implantation motivated our subsequent detailed investigations using lab-scale exfoliated single-crystal h-BN flakes. Integration of these exfoliated flakes into a hybrid microfluidic-microelectronic chip provided direct evidence that controlled vacancy defects transform h-BN into an efficient lithium-ion conductor while preserving its intrinsic electrical insulation. Experimental validation confirmed improved lithium-metal anode stability, achieving dendrite-free cycling with Li plating/stripping Coulombic efficiencies exceeding 99.5% about 1000 cycles. Further assemble of irradiated h-BN in lithium-sulfur batteries effectively mitigates the polysulfide shuttle effect, sustaining over 97% specific capacity around 300 cycles. These results establish a robust, scalable interface-engineering route for next-generation lithium-metal batteries that combine high ionic transport with excellent electrical insulation.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.27021v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.27021v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.27021v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-08T03:05:44.913356+00:00",
+  "updated_at": "",
+  "extra": {}
+}
