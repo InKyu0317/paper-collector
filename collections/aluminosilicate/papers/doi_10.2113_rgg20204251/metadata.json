@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.2113_rgg20204251",
+  "collection": "aluminosilicate",
+  "title": "Ultrapotassic Aluminosilicate Melts: Specifics of Formation by the Example of Synnyrites from the Synnyr Massif",
+  "authors": [
+    {
+      "name": "L.I. Panina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "V.S. Sobolev Institute of Geology and Mineralogy, Siberian Branch of the Russian Academy of Sciences, pr. Akademika Koptyuga 3, Novosibirsk, 630090, Russia"
+    },
+    {
+      "name": "E.Yu. Rokosova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "V.S. Sobolev Institute of Geology and Mineralogy, Siberian Branch of the Russian Academy of Sciences, pr. Akademika Koptyuga 3, Novosibirsk, 630090, Russia"
+    },
+    {
+      "name": "M.A. Ryabukha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "V.S. Sobolev Institute of Geology and Mineralogy, Siberian Branch of the Russian Academy of Sciences, pr. Akademika Koptyuga 3, Novosibirsk, 630090, Russia"
+    }
+  ],
+  "doi": "10.2113/rgg20204251",
+  "url": "https://doi.org/10.2113/rgg20204251",
+  "published": "2022-2-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>—To reveal the formation conditions of synnyrites in the Synnyr alkaline pluton, we studied melt inclusions in the minerals of shonkinites and pseudoleucite syenites, in apatite segregations in pyroxenites, shonkinites, and synnyrites, and in the minerals of later monchiquite–camptonite dikes. Based on the obtained and earlier published data, a conclusion has been drawn that all plutonic rocks of the massif formed from the same parental alkali-basaltic magma during long-term crystallization differentiation and fractionation in a closed system excluding a release of volatile components. Similar minerals in the rocks crystallized at similar temperatures in the same sequence: clinopyroxene (1280–1150 °C) → leucite (1250–1200 °C) → K-feldspar (1200–1180 °C) → apatite (above 1180–1050 °C) → nepheline and kalsilite. The composition of the parental magma during crystallization evolved toward an increase in Si, Al, and K contents and a decrease in Fe, Mg, and Ca contents, i.e., toward melaphonolite and phonolite melts. The differentiation and fractionation processes led to the separation of minerals according to their specific gravity: Heavy minerals (clinopyroxene, ore minerals, and apatite) descended to the bottom of the magma chamber, forming the lower melanocratic series, and light minerals (leucite, K-feldspar, and foids), together with the residual melt, accumulated in the upper horizons of the chamber, forming the upper leucocratic series of rocks. During crystallization, the amount of fluids increased. At 920–830 °C, the fluids contained 3033–4051 mg/kg CO2, 397–644 mg/kg H2O, and 42.7–83.7 mg/kg CO. At the early high-temperature stage, when the amount of fluids was insignificant, the trend of magma transformation coincided with the trend of basaltoid crystallization. This fact is evidenced by the homogenization temperatures and chemical composition of inclusions in the minerals of monchiquite–camptonites and alkali basaltoids, similar to those in the plutonic rocks of the massif. Clinopyroxene crystallized in dike rocks at 4.58 kbar at a depth of 10–12 km. At the stage of crystallization of feldspars, when the amount of fluids in melts significantly increased during the formation of plutonic rocks and drastically decreased during the formation of basaltoids, the formation trends of these rocks became different. The trend of basaltoid crystallization was directed toward trachyte melts with an increase in Si contents and a decrease in Fe, Mg, Al, and alkali contents. During the formation of plutonic rocks of the massif, the high water pressure prevented the formation of plagioclase, and the melts became more enriched in Al and K and acquired a high-alumina ultrapotassic composition, forming kalsilite–nepheline–K-feldspar synnyrites at the final stages of transformation. A conclusion has been drawn that synnyrites crystallized from the residual products of differentiation and fractionation of alkali-basaltic magma in the temperature range slightly above 1050–1180 °C in a closed system excluding a release of volatiles. The occasional occurrence of synnyrites is due to the limited natural occurrence of closed magma chambers, macroanalogs of inclusions of mineral-forming media in minerals.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.2113/rgg20204251",
+  "pdf_path": "aluminosilicate/papers/doi_10.2113_rgg20204251/paper.pdf",
+  "pdf_url": "https://pubs.geoscienceworld.org/rgg/article-pdf/63/2/153/5927273/rgg_03_feb2022.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Russian Geology and Geophysics",
+  "publisher": "",
+  "issn": "1068-7971",
+  "quartile": "",
+  "added_at": "2026-06-08T03:04:50.880607+00:00",
+  "updated_at": "",
+  "extra": {}
+}
