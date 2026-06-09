@@ -1,0 +1,90 @@
+{
+  "paper_id": "doi_10.1007_s40145-022-0642-y",
+  "collection": "aluminosilicate",
+  "title": "Realizing translucency in aluminosilicate glass at ultralow temperature via cold sintering process",
+  "authors": [
+    {
+      "name": "Jie Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6186-2750",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Kangjing Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Wei Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6126-899X",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Xiaowei Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6544-3556",
+      "affiliation": "Fudan University"
+    },
+    {
+      "name": "Yuchi Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7713-6748",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Wan Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Donghua University"
+    }
+  ],
+  "doi": "10.1007/s40145-022-0642-y",
+  "url": "https://doi.org/10.1007/s40145-022-0642-y",
+  "published": "2022-10-18",
+  "abstract": "Abstract Glass with high visible-light transparency is widely considered as the most important optical material, which typically requires a processing temperature higher than 1000 °C. Here, we report a translucent aluminosilicate glass that can be prepared by cold sintering process (CSP) at merely 300 °C. After eliminating structural pores in hexagonal faujasite (EMT)-type zeolite by heat treatment, the obtained highly active nanoparticles are consolidated to have nearly full density by adding NaOH solution as liquid aids. However, direct densification of EMT powder cannot remove the structural pores of zeolite completely, leading to an opaque compact after the CSP. It is proved that the chemical reaction between the NaOH- and zeolite-derived powders is highly beneficial to dissolution-precipitation process during sintering, leading to the ultra-low activation energy of 27.13 kJ/mol. Although the addition of 5 M NaOH solution greatly promotes the densification via the reaction with aluminosilicate powder, lower or higher concentration of solvent can deteriorate the transmittance of glass. Additionally, the CSP-prepared glass exhibits a Vickers hardness of 4.3 GPa, reaching 60% of the reported value for spark plasma sintering (SPS)-prepared sample.",
+  "keywords": [
+    "Materials science",
+    "Aluminosilicate",
+    "Sintering",
+    "Spark plasma sintering",
+    "Zeolite",
+    "Chemical engineering",
+    "Dissolution",
+    "Faujasite",
+    "Vickers hardness test",
+    "Devitrification"
+  ],
+  "source": "openalex",
+  "source_id": "W4306691907",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s40145-022-0642-y/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40145-022-0642-y.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 37,
+  "journal": "Journal of Advanced Ceramics",
+  "publisher": "",
+  "issn": "2226-4108",
+  "quartile": "",
+  "added_at": "2026-06-09T03:03:41.557585+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

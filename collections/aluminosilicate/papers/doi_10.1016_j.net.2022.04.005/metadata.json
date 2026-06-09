@@ -1,0 +1,162 @@
+{
+  "paper_id": "doi_10.1016_j.net.2022.04.005",
+  "collection": "aluminosilicate",
+  "title": "A novel approach for rice straw agricultural waste utilization: Synthesis of solid aluminosilicate matrices for cesium immobilization",
+  "authors": [
+    {
+      "name": "А. Е. Панасенко",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7875-6068",
+      "affiliation": "Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences"
+    },
+    {
+      "name": "О. О. Шичалин",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2441-6209",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "S. B. Yarusova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1500-1319",
+      "affiliation": "Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences"
+    },
+    {
+      "name": "Andrei Ivanets",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3053-317X",
+      "affiliation": "Institute of General and Inorganic Chemistry of National Academy of Sciences of Belarus"
+    },
+    {
+      "name": "A.A. Belov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3120-819X",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "А. Н. Драньков",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "S. A. Azon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3129-1499",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "A. N. Fedorets",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9007-3171",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "I. Yu. Buravlev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3944-3629",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "V. Yu. Mayorov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5215-9510",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "Д. Х. Шлык",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4247-4872",
+      "affiliation": "Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences"
+    },
+    {
+      "name": "A.A. Buravleva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9896-2942",
+      "affiliation": "Far Eastern Federal University"
+    },
+    {
+      "name": "E. B. Merkulov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9698-5454",
+      "affiliation": "Institute of Chemistry, Far Eastern Branch of the Russian Academy of Sciences"
+    },
+    {
+      "name": "Н. В. Зарубина",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Russian Academy of Sciences"
+    },
+    {
+      "name": "Е. К. Папынов",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1185-7718",
+      "affiliation": "Far Eastern Federal University"
+    }
+  ],
+  "doi": "10.1016/j.net.2022.04.005",
+  "url": "https://doi.org/10.1016/j.net.2022.04.005",
+  "published": "2022-04-08",
+  "abstract": "A new approach to the use of rice straw as a difficult-to-recycle agricultural waste was proposed. Potassium aluminosilicate was obtained by spark plasma sintering as an effective material for subsequent immobilization of 137Cs into a solid-state matrix. The sorption properties of potassium aluminosilicate to 137Cs from aqueous solutions were studied. The effect of the synthesis temperature on the phase composition, microstructure, and rate of cesium leaching from samples obtained at 800–1000 °C and a pressure of 25 MPa was investigated. It was shown that the positive dynamics of compaction was characteristic of glass ceramics throughout the sintering. Glass ceramics RS-(K,Cs)AlSi3O8 obtained by the SPS method at 1000 °C for 5 min was characterized by a high density of ∼2.62 g/cm3, Vickers hardness ∼ 2.1 GPa, compressive strength ∼231.3 MPa and the rate of cesium ions leaching of ∼1.37 × 10−7 g cm−2·day−1. The proposed approach makes it possible to safe dispose of rice straw and reduce emissions into the atmosphere of microdisperse amorphous silica, which is formed during its combustion and causes respiratory diseases, including cancer. In addition, the obtained is perspective to solve the problem of recycling long-lived 137Cs radionuclides formed during the operation of nuclear power plants into solid-state matrices.",
+  "keywords": [
+    "Aluminosilicate",
+    "Materials science",
+    "Leaching (pedology)",
+    "Sintering",
+    "Spark plasma sintering",
+    "Straw",
+    "Potassium",
+    "Chemical engineering",
+    "Metallurgy",
+    "Waste management"
+  ],
+  "source": "openalex",
+  "source_id": "W4224903229",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.net.2022.04.005/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 48,
+  "journal": "Nuclear Engineering and Technology",
+  "publisher": "",
+  "issn": "1738-5733",
+  "quartile": "",
+  "added_at": "2026-06-09T03:03:54.932068+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

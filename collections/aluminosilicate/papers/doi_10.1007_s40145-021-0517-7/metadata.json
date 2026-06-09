@@ -1,0 +1,82 @@
+{
+  "paper_id": "doi_10.1007_s40145-021-0517-7",
+  "collection": "aluminosilicate",
+  "title": "Interaction of multicomponent disilicate (Yb0.2Y0.2Lu0.2Sc0.2Gd0.2)2Si2O7 with molten calcia-magnesia-aluminosilicate",
+  "authors": [
+    {
+      "name": "Dongli Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0914-6837",
+      "affiliation": "Northwestern Polytechnical University"
+    },
+    {
+      "name": "Ke Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Beijing Institute of Technology"
+    },
+    {
+      "name": "Qiankun Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3508-960X",
+      "affiliation": "Northwestern Polytechnical University"
+    },
+    {
+      "name": "Gang Shao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3927-436X",
+      "affiliation": "Zhengzhou University of Industrial Technology"
+    },
+    {
+      "name": "Yiguang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1676-4211",
+      "affiliation": "Beijing Institute of Technology"
+    }
+  ],
+  "doi": "10.1007/s40145-021-0517-7",
+  "url": "https://doi.org/10.1007/s40145-021-0517-7",
+  "published": "2021-11-06",
+  "abstract": "Abstract Environmental barrier coating (EBC) materials that are resistant against molten calcia-magnesia-aluminosilicate (CMAS) corrosion are urgently required. Herein, multicomponent rare-earth (RE) disilicate ((Yb 0.2 Y 0.2 Lu 0.2 Sc 0.2 Gd 0.2 ) 2 Si 2 O 7 , (5RE) 2 Si 2 O 7 ) was investigated with regard to its CMAS interaction behavior at 1400 °C. Compared with the individual RE disilicates, the (5RE) 2 Si 2 O 7 material exhibited improved resistance against CMAS attack. The dominant process involved in the interaction of (5RE) 2 Si 2 O 7 with CMAS was reaction-recrystallization. A dense and continuous reaction layer protected the substrate from rapid corrosion at high temperatures. The results demonstrated that multicomponent strategy of RE species in disilicate can provide a new perspective in the development of promising EBC materials with improved corrosion resistance.",
+  "keywords": [
+    "Aluminosilicate",
+    "Corrosion",
+    "Materials science",
+    "Coating",
+    "Metallurgy",
+    "Recrystallization (geology)",
+    "Chemical engineering",
+    "Mineralogy",
+    "Composite material",
+    "Chemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W3214398063",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s40145-021-0517-7/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 102,
+  "journal": "Journal of Advanced Ceramics",
+  "publisher": "",
+  "issn": "2226-4108",
+  "quartile": "",
+  "added_at": "2026-06-09T03:04:01.782880+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
