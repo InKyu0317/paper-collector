@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2024-0281080mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhanced Thermal Stability of Charged Cathodes in All-Solid-State Batteries Using Halide Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Sung-Kyun Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3708-3757",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-0281080mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-0281080mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tTo align with the 2050 carbon neutralization policy and escalate towards net-zero carbon emissions, electric vehicles (EVs) and energy storage systems (ESSs) are increasingly relying on lithium-ion batteries (LIBs). However, LIBs often utilize flammable organic liquid electrolytes, posing significant fire risks. All-solid-state batteries (ASSBs) are expected to address the thermal instability of conventional rechargeable batteries, given nonflammable inorganic solid electrolytes (SEs). Our study introduces an enhanced thermal stability in ASSBs by employing halide solid electrolyte (Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub>, LIC) in charged cathode materials (Li<jats:sub>1–x</jats:sub>Ni<jats:sub>0.6</jats:sub>Co<jats:sub>0.2</jats:sub>Mn<jats:sub>0.2</jats:sub>O<jats:sub>2</jats:sub>, x ≈ 0.5), significantly mitigating the risks associated with oxygen evolution and thermal decomposition. Unlike sulfide SEs that interact exothermically with cathode materials leading to explosive decompositions, interfacial interplay with the LIC and cathode not only delay decomposition but also capture evolved oxygen through an endothermic reaction, converting it into less reactive metal oxides or oxychlorides (e.g., In<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub>, InOCl) phases. Further investigations reveal that other halide SEs such as Li<jats:sub>3</jats:sub>YCl<jats:sub>6</jats:sub> and Li<jats:sub>2</jats:sub>ZrCl<jats:sub>6</jats:sub> also exhibit these oxygen-capturing and heat release-mitigating properties, broadening the potential for developing safer solid-state batteries. These findings underscore the importance of selecting SEs that not only prevent oxygen evolution but also chemically interact with the cathode to reduce the state-of-charge (SOC), thereby enhancing overall battery safety and stability. This study lays foundational criteria for SE design aimed at maximizing thermal safety in ASSBs, thereby supporting the broader adoption of EVs and ESSs in pursuit of global carbon neutrality.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-0281080mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-0281080mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-0281080mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:56.906137+00:00",
+  "updated_at": "",
+  "extra": {}
+}

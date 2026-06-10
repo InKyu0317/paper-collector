@@ -1,0 +1,66 @@
+{
+  "paper_id": "doi_10.1007_s41918-023-00179-5",
+  "collection": "halide-solid-state-battery",
+  "title": "Recent Progress in and Perspectives on Emerging Halide Superionic Conductors for All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Kaiyong Tuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-6248-0541",
+      "affiliation": "China University of Mining and Technology"
+    },
+    {
+      "name": "Chunwen Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3610-9396",
+      "affiliation": "China University of Mining and Technology"
+    },
+    {
+      "name": "Shuqin Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7670-7999",
+      "affiliation": "China University of Mining and Technology"
+    }
+  ],
+  "doi": "10.1007/s41918-023-00179-5",
+  "url": "https://doi.org/10.1007/s41918-023-00179-5",
+  "published": "2023-04-10",
+  "abstract": "Abstract Rechargeable all-solid-state batteries (ASSBs) are considered to be the next generation of devices for electrochemical energy storage. The development of solid-state electrolytes (SSEs) is one of the most crucial subjects in the field of energy storage chemistry. The newly emerging halide SSEs have recently been intensively studied for application in ASSBs due to their favorable combination of high ionic conductivity, exceptional chemical and electrochemical stability, and superior mechanical deformability. In this review, a critical overview of the development, synthesis, chemical stability and remaining challenges of halide SSEs is given. The design strategies for optimizing the ionic conductivity of halide SSEs, such as element substitution and crystal structure design, are summarized in detail. Moreover, the associated chemical stability issues in terms of solvent compatibility, humid air stability and corresponding degradation mechanisms are discussed. In particular, advanced in situ/operando characterization techniques applied to halide-based ASSBs are highlighted. In addition, a comprehensive understanding of the interface issues, cost issues, and scalable processing challenges faced by halide-based ASSBs for practical application is provided. Finally, future perspectives on how to design high-performance electrode/electrolyte materials are given, which are instructive for guiding the development of halide-based ASSBs for energy conversion and storage. Graphical Abstract In this review, a critical overview is given on the development, synthesis, chemical stability and remaining challenges facing for halide SSEs. The design strategies for optimizing ionic conductivity of halide SSEs like elements substitution, crystal structures design are summarized in detail. Future perspectives are given on how to design high-performance electrode/electrolyte materials.",
+  "keywords": [
+    "Halide",
+    "Ionic conductivity",
+    "Electrolyte",
+    "Materials science",
+    "Nanotechnology",
+    "Electrochemistry",
+    "Fast ion conductor",
+    "Energy storage",
+    "Chemical stability",
+    "Ionic bonding"
+  ],
+  "source": "openalex",
+  "source_id": "W4363651897",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s41918-023-00179-5/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s41918-023-00179-5.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 223,
+  "journal": "Electrochemical Energy Reviews",
+  "publisher": "",
+  "issn": "2520-8136",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:56.152295+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

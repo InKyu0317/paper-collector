@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1103_physrevmaterials.8.065403",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermal conductivity of Li$_3$PS$_4$ solid electrolytes with ab initio accuracy",
+  "authors": [
+    {
+      "name": "Davide Tisi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Federico Grasselli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lorenzo Gigli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michele Ceriotti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevMaterials.8.065403",
+  "url": "http://arxiv.org/abs/2401.12936v3",
+  "published": "2024-01-23T17:49:07+00:00",
+  "abstract": "The vast amount of computational studies on electrical conduction in solid-state electrolytes is not mirrored by comparable efforts addressing thermal conduction, which has been scarcely investigated despite its relevance to thermal management and (over)heating of batteries. The reason for this lies in the complexity of the calculations: on one hand, the diffusion of ionic charge carriers makes lattice methods formally unsuitable, due to the lack of equilibrium atomic positions needed for normal-mode expansion. On the other hand, the prohibitive cost of large-scale molecular dynamics (MD) simulations of heat transport in large systems at ab initio levels has hindered the use of MD-based methods. In this paper, we leverage recently developed machine-learning potentials targeting different ab initio functionals (PBEsol, r$^2$SCAN, PBE0) and a state-of-the-art formulation of the Green-Kubo theory of heat transport in multicomponent systems to compute the thermal conductivity of a promising solid-state electrolyte, Li$_3$PS$_4$, in all its polymorphs ($α$, $β$, and $γ$). By comparing MD estimates with lattice methods on the low-temperature, nondiffusive $γ$-Li$_3$PS$_4$, we highlight strong anharmonicities and negligible nuclear quantum effects, hence further justifying MD-based methods even for nondiffusive phases. Finally, for the ion-conducting $α$ and $β$ phases, where the multicomponent Green-Kubo MD approach is mandatory, our simulations indicate a weak temperature dependence of the thermal conductivity, a glass-like behavior due to the effective local disorder characterizing these Li-diffusing phases.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.12936v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevmaterials.8.065403/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.12936v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:06:03.509888+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi_10.1021_acs.accounts.0c00762",
+  "collection": "halide-solid-state-battery",
+  "title": "Metal Halide Superionic Conductors for All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Jianwen Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4055-1301",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Xiaona Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6713-2997",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Keegan R. Adair",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8680-3378",
+      "affiliation": "Western University"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0374-1245",
+      "affiliation": "Western University"
+    }
+  ],
+  "doi": "10.1021/acs.accounts.0c00762",
+  "url": "https://doi.org/10.1021/acs.accounts.0c00762",
+  "published": "2021-01-29",
+  "abstract": "ConspectusRechargeable all-solid-state Li batteries (ASSLBs) are considered to be the next generation of electrochemical energy storage systems. The development of solid-state electrolytes (SSEs), which are key materials for ASSLBs, is therefore one of the most important subjects in modern energy storage chemistry. Various types of electrolytes such as polymer-, oxide-, and sulfide-based SSEs have been developed to date and the discovery of new superionic conductors is still ongoing. Metal-halide SSEs (Li-M-X, where M is a metal element and X is a halogen) are emerging as new candidates with a number of attractive properties and advantages such as wide electrochemical stability windows (0.36–6.71 V vs Li/Li+) and better chemical stability toward cathode materials compared to other SSEs. Furthermore, some of the metal-halide SSEs (such as the Li3InCl6 developed by our group) can be directly synthesized at large scales in a water solvent, removing the need for special apparatus or handling in an inert atmosphere. Based on the recent advances, herein we focus on the topic of metal-halide SSEs, aiming to provide a guidance toward further development of novel halide SSEs and push them forward to meet the multiple requirements of energy storage devices.In this Account, we describe our recent progress in developing metal halide SSEs and focus on some newly reported findings based on state-of-the-art publications on this topic. A discussion on the structure of metal-halide SSEs will be first explored. Subsequently, we will illustrate the effective approaches to enhance the ionic conductivities of metal halide SSEs including the effect of anion sublattice framework, the regulation of site occupation and disorder, and defect engineering. Specifically, we demonstrated that proper structural framework, balanced Li+/vacancy concentration, and reduced blocking effect can promote fast Li+ migration for metal halide SSEs. Moreover, humidity stability and degradation chemistry of metal halide SSEs have been summarized for the first time. Some examples of the application of metal halide SSEs with stability toward humidity have been demonstrated. Direct synthesis of halide SSEs on cathode materials by the water-mediated route has been used to eliminate the interfacial challenges of ASSLBs and has been shown to act as an interfacial modifier for high-performance all-solid-state Li–O2 batteries. Taken together, this Account on metal halide SSEs will provide an insightful perspective over the recent development and future research directions that can lead to advanced electrolytes.",
+  "keywords": [
+    "Halide",
+    "Materials science",
+    "Electrochemical energy storage",
+    "Nanotechnology",
+    "Fast ion conductor",
+    "Electrochemistry",
+    "Energy storage",
+    "Electrolyte",
+    "Chemistry",
+    "Inorganic chemistry"
+  ],
+  "source": "openalex",
+  "source_id": "W3123495687",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.accounts.0c00762/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 248,
+  "journal": "Accounts of Chemical Research",
+  "publisher": "",
+  "issn": "0001-4842",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:28.782925+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

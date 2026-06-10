@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.22331_q-2023-07-10-1049",
+  "collection": "halide-solid-state-battery",
+  "title": "Quantum simulation of battery materials using ionic pseudopotentials",
+  "authors": [
+    {
+      "name": "Modjtaba Shokrian Zini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alain Delgado",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Roberto dos Reis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo A. M. Casares",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jonathan E. Mueller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arne-Christian Voigt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Miguel Arrazola",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.22331/q-2023-07-10-1049",
+  "url": "http://arxiv.org/abs/2302.07981v2",
+  "published": "2023-02-15T23:02:06+00:00",
+  "abstract": "Ionic pseudopotentials are widely used in classical simulations of materials to model the effective potential due to the nucleus and the core electrons. Modeling fewer electrons explicitly results in a reduction in the number of plane waves needed to accurately represent the states of a system. In this work, we introduce a quantum algorithm that uses pseudopotentials to reduce the cost of simulating periodic materials on a quantum computer. We use a qubitization-based quantum phase estimation algorithm that employs a first-quantization representation of the Hamiltonian in a plane-wave basis. We address the challenge of incorporating the complexity of pseudopotentials into quantum simulations by developing highly-optimized compilation strategies for the qubitization of the Hamiltonian. This includes a linear combination of unitaries decomposition that leverages the form of separable pseudopotentials. Our strategies make use of quantum read-only memory subroutines as a more efficient alternative to quantum arithmetic. We estimate the computational cost of applying our algorithm to simulating lithium-excess cathode materials for batteries, where more accurate simulations are needed to inform strategies for gaining reversible access to the excess capacity they offer. We estimate the number of qubits and Toffoli gates required to perform sufficiently accurate simulations with our algorithm for three materials: lithium manganese oxide, lithium nickel-manganese oxide, and lithium manganese oxyfluoride. Our optimized compilation strategies result in a pseudopotential-based quantum algorithm with a total Toffoli cost four orders of magnitude lower than the previous state of the art for a fixed target accuracy.",
+  "keywords": [
+    "quant-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.07981v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.22331_q-2023-07-10-1049/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.07981v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:14.137464+00:00",
+  "updated_at": "",
+  "extra": {}
+}

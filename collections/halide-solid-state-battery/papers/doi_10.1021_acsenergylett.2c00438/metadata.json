@@ -1,0 +1,106 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.2c00438",
+  "collection": "halide-solid-state-battery",
+  "title": "Emerging Halide Superionic Conductors for All-Solid-State Batteries: Design, Synthesis, and Practical Applications",
+  "authors": [
+    {
+      "name": "Hiram Kwak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-1624-0388",
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Shuo Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7907-9676",
+      "affiliation": "University of Maryland, College Park"
+    },
+    {
+      "name": "Juhyoun Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Yunsheng Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6456-9437",
+      "affiliation": "University of Maryland, College Park"
+    },
+    {
+      "name": "Kyu Tae Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Yeji Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Yifei Mo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8162-4629",
+      "affiliation": "University of Maryland, College Park"
+    },
+    {
+      "name": "Yoon Seok Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0357-9508",
+      "affiliation": "Yonsei University"
+    }
+  ],
+  "doi": "10.1021/acsenergylett.2c00438",
+  "url": "https://doi.org/10.1021/acsenergylett.2c00438",
+  "published": "2022-04-26",
+  "abstract": "Recently, halide superionic conductors have emerged as promising solid electrolyte (SE) materials for all-solid-state batteries (ASSBs), owing to their inherent properties combining high Li+ conductivity, good chemical and electrochemical oxidation stabilities, and mechanical deformability, compared to sulfide or oxide SEs. In this Review, recent advances in halide Li+- and Na+-conducting SEs are comprehensively summarized. After introducing the ionic diffusion mechanism and related governing factors of the crystal structures, we discuss the design strategies, such as the substitution and synthesis protocols, of the halide materials for further improving their properties. We review theoretical and experimental results on electrochemical stabilities and compatibilities with electrode materials. Moreover, we offer a critical assessment of the challenges and issues associated with the development of practical ASSB applications, such as cost considerations, stabilities in atmospheric air, aqueous solutions, and slurry-processing, and the wet-slurry or dry fabrication of sheet-type electrodes (or SE membranes) for large-format ASSBs. Based on these discussions, we provide a perspective on the future research directions of halide SEs, emphasizing the need for expanding the materials space.",
+  "keywords": [
+    "Halide",
+    "Fast ion conductor",
+    "Materials science",
+    "Electrolyte",
+    "Electrochemistry",
+    "Ionic conductivity",
+    "Nanotechnology",
+    "Slurry",
+    "Fabrication",
+    "Material Design"
+  ],
+  "source": "openalex",
+  "source_id": "W4224596107",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.2c00438/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 313,
+  "journal": "ACS Energy Letters",
+  "publisher": "",
+  "issn": "2380-8195",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:28.783214+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}

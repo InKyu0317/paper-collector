@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2606.07815v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Redox-Active Halide Materials for Cathode Applications",
+  "authors": [
+    {
+      "name": "Zhuohan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gerbrand Ceder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2606.07815v1",
+  "published": "2026-06-05T19:48:18+00:00",
+  "abstract": "Electrochemically redox-active halide (eREAL) materials are an emerging class of materials that combine high Li-ion conductivity with transition-metal redox activity, making them promising candidates for cathode or catholyte applications. As a redox-active catholyte, they could significantly increase the energy density of solid-state batteries. In this work, we perform first-principles calculations on Li-M-Cl (M = 3d transition metals) ternaries to establish such a theoretical foundation for their stability and electrochemical activity. We map the phase stability of eREAL structures with varying metal-to-Cl ratio, transition-metal species, oxidation states, and anion frameworks, and compute cation and anion redox potentials. We find that the high ionicity of metal-Cl bonds elevates cation redox potentials above those of conventional oxide cathodes, but also will promote Cl oxidation and Cl-Cl dimerization at high voltages, which may limit the stability of these materials. Anion substitution effectively tunes both cation and anion redox potentials, with F substitution standing out as a viable route to extend the reversible voltage window. Beyond the anion redox issue, eREAL compounds generally exhibit flat voltage profiles, which potentially poses an electrochemical compatibility challenge when paired with active materials that operate at different voltage values or over wider voltage ranges. Collectively, our study provides a comprehensive analysis for redox behavior of eREAL materials, paving the way for their rational design and optimization in next-generation battery applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2606.07815v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2606.07815v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2606.07815v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:17.252680+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2601.12892v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Discovery of Ferroelectric Twin Boundaries in a Photoactive Halide Perovskite",
+  "authors": [
+    {
+      "name": "Weilun Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qimu Yuan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael B. Johnston",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joanne Etheridge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.12892v1",
+  "published": "2026-01-19T09:43:12+00:00",
+  "abstract": "Halide perovskites have emerged as promising materials for next-generation photovoltaics, laser sources and X-ray detectors. There is intense debate as to whether some photoactive halide perovskites exhibit ferroelectric behaviour and whether it might be possible to utilise the bulk photovoltaic effect to enhance the performance of halide perovskite solar cells. Here, using low-dose scanning transmission electron microscopy, we discover the existence of ferroelastic twin boundaries in vapor-deposited CsPbI3 thin films, parallel to {110} and {112}. Remarkably, despite photoactive CsPbI3 being centrosymmetric and non-polar, we observe directly that Pb atoms shift at {110} twin boundaries driving a local ferroelectric-like polarisation. These polar twin walls form an intrinsic array of nanoscale functional interfaces, spaced ~30-50 nm apart, embedded within the non-polar perovskite lattice. In contrast, {112} twin boundaries remain non-polar but strongly suppress octahedral tilt and off-centre Cs atom displacements, revealing a different untapped ferroic degree of freedom. These discoveries together uncover previously hidden ferroic functionality in halide perovskite semiconductors, opening opportunities for enhanced conductivity and photovoltaic behaviour through domain wall engineering.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.12892v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2601.12892v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.12892v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:06:00.403099+00:00",
+  "updated_at": "",
+  "extra": {}
+}

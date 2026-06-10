@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2403.14116v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Mechanistic Insights into Temperature Effects for Ionic Conductivity in Li6PS5Cl",
+  "authors": [
+    {
+      "name": "Zicun Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jianxing Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinguo Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinbin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruijuan Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2403.14116v1",
+  "published": "2024-03-21T04:02:40+00:00",
+  "abstract": "Ensuring solid-state lithium batteries perform well across a wide temperature range is crucial for their practical use. Molecular dynamics (MD) simulations can provide valuable insights into the temperature dependence of the battery materials, however, the high computational cost of ab initio MD poses challenges for simulating ion migration dynamics at low temperatures. To address this issue, accurate machine-learning interatomic potentials were trained, which enable efficient and reliable simulations of the ionic diffusion processes in Li6PS5Cl over a large temperature range for long-time evolution. Our study revealed the significant impact of subtle lattice parameter variations on Li+ diffusion at low temperatures and identified the increasing influence of surface contributions as the temperature decreases. Our findings elucidate the factors influencing low temperature performance and present strategic guidance towards improving the performance of solid-state lithium batteries under these conditions.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.14116v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2403.14116v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.14116v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:28.782526+00:00",
+  "updated_at": "",
+  "extra": {}
+}

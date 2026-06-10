@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1002_aenm.202301105",
+  "collection": "halide-solid-state-battery",
+  "title": "An Advanced Cell for Measuring In Situ Electronic Conductivity Evolutions in All‐Solid‐State Battery Composites",
+  "authors": [
+    {
+      "name": "Elisa Quemin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3617-3352",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Romain Dugas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3552-4475",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Anshuman Chaupatnaik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8320-3353",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Gwenaelle Rousse",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8877-0015",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Ronan Chometon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9026-4082",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Benjamin Hennequart",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0325-7691",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    },
+    {
+      "name": "Jean‐Marie Tarascon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7059-6845",
+      "affiliation": "Collège de France Chaire de Chimie du Solide et de l'Energie UMR 8260 11 place Marcelin Berthelot  Cedex 05 Paris 75231 France"
+    }
+  ],
+  "doi": "10.1002/aenm.202301105",
+  "url": "https://doi.org/10.1002/aenm.202301105",
+  "published": "2023-8",
+  "abstract": "<jats:p>Ion and electron transport is of paramount importance for solid‐state technology and its limitation presently prevents the access to liquid cells performance. Herein, this work tackles this issue by proposing an easily implementable cell design enabling to follow the cathode composite's electronic conductivity evolution, in situ and during cycling. For proof of concept, distinct active material (AM) based composites are studied, namely LiCoO<jats:sub>2</jats:sub> (LCO), LiNiO<jats:sub>2</jats:sub>, LiNi<jats:sub>0.9</jats:sub>Co<jats:sub>0.1</jats:sub>O<jats:sub>2</jats:sub> (NC 9010), NMC 811, NMC 622, NMC 111 (NMC family: LiNi<jats:sub>1‐y</jats:sub>Mn<jats:sub>y</jats:sub>Co<jats:sub>y</jats:sub>O<jats:sub>2</jats:sub>), and Li<jats:sub>4</jats:sub>Ti<jats:sub>5</jats:sub>O<jats:sub>12</jats:sub> (LTO) mixed with Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl solid electrolyte (SE). This work shows the feasibility to track AM's phase transitions associated with changes in the material's electronic transport properties. Moreover, this work demonstrates the impact of the Ni content in the various layered oxides, on the interparticle loss of contact at high state‐of‐charge affecting electronic transport. Lastly, by tuning LTO particle size and morphology, this work shows the effect of primary and secondary particle size on the specific metal–insulator transition pertaining to this material. Altogether, this new testing cell opens‐up a broad spectrum of experimental possibilities aiming to access in situ mode key metrics to benefit the optimization of solid‐state batteries research.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/aenm.202301105",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_aenm.202301105/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 18,
+  "journal": "Advanced Energy Materials",
+  "publisher": "",
+  "issn": "1614-6832",
+  "quartile": "",
+  "added_at": "2026-06-10T03:06:09.619020+00:00",
+  "updated_at": "",
+  "extra": {}
+}

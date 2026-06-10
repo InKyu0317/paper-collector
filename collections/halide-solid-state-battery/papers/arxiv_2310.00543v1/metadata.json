@@ -1,0 +1,112 @@
+{
+  "paper_id": "arxiv_2310.00543v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Elucidating Dynamic Conductive State Changes in Amorphous Lithium Lanthanum Titanate for Resistive Switching Devices",
+  "authors": [
+    {
+      "name": "Ryosuke Shimizu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Diyi Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guomin Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bing Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas S. Marchese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Randall Burger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mingjie Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoqing Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Minghao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ying Shirley Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.00543v1",
+  "published": "2023-10-01T01:48:13+00:00",
+  "abstract": "Exploration of novel resistive switching materials attracts attention to replace conventional Si-based transistors and to achieve neuromorphic computing that can surpass the limit of the current Von-Neumann computing for the time of Internet of Things (IoT). Materials priorly used to serve in batteries have demonstrated metal-insulator transitions upon an electrical biasing due to resulting compositional change. This property is desirable for future resistive switching devices. Amorphous lithium lanthanum titanate (a-LLTO) was originally developed as a solid-state electrolyte with relatively high lithium ionic conductivity and low electronic conductivity among oxide-type solid electrolytes. However, it has been suggested that electric conductivity of a-LLTO changes depending on oxygen content. In this work, the investigation of switching behavior of a-LLTO was conducted by employing a range of voltage sweep techniques, ultimately establishing a stable and optimal operating condition within the voltage window of -3.5 V to 3.5 V. This voltage range effectively balances the desirable trait of a substantial resistance change by three orders of magnitude with the imperative avoidance of LLTO decomposition. This switching behavior is also confirmed at nanodevice of Ni/LLTO/Ni through in-situ biasing inside focused-ion beam/scanning electron microscope (FIB-SEM). Experiment and computation with different LLTO composition shows that LLTO has two distinct conductivity states due to Ti reduction. The distribution of these two states is discussed using simplified binary model, implying the conductive filament growth during low resistance state. Consequently, our study deepens understanding of LLTO electronic properties and encourages the interdisciplinary application of battery materials for resistive switching devices.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.00543v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.00543v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.00543v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:06:06.539717+00:00",
+  "updated_at": "",
+  "extra": {}
+}

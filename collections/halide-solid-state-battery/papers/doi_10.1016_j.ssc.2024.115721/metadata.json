@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2024.115721",
+  "collection": "halide-solid-state-battery",
+  "title": "Tuning the photocatalytic performance of halide perovskites for efficient solar hydrogen production: A DFT study of CsGeCl3-xXx (X= Br, I)",
+  "authors": [
+    {
+      "name": "Mihade El Akkel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0002-8972-8710",
+      "affiliation": ""
+    },
+    {
+      "name": "Hamid Ez-Zahraouy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2024.115721",
+  "url": "https://doi.org/10.1016/j.ssc.2024.115721",
+  "published": "2024-12",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2024.115721",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2024.115721/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 16,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:56.906959+00:00",
+  "updated_at": "",
+  "extra": {}
+}

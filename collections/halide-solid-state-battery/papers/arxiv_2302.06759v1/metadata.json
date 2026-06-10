@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2302.06759v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Modeling ionic transport and disorder in crystalline electrodes using percolation theory",
+  "authors": [
+    {
+      "name": "Alexander Urban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2302.06759v1",
+  "published": "2023-02-14T00:07:53+00:00",
+  "abstract": "Solid ionic conductors are essential components of batteries and fuel cells. In many cases, ionic conduction through crystalline materials with substitutional disorder can be modeled with atomic-scale lattice model percolation simulations. The ionic percolation theory reviewed in this chapter describes the percolation behavior of diffusion pathways, identifies the fraction of lattice sites that contributes to ionic conduction, and quantifies the tortuosity of diffusion networks. These quantities can be related to the bulk diffusivity and capacity of intercalation battery electrodes. We discuss applications to lithium-ion battery cathodes in the disordered rocksalt and related crystal structures, showing how the diffusion pathways and their tortuosity vary with the Li content short-range order. All examples are based on the free and open-source Dribble simulation software.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.06759v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2302.06759v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.06759v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-10T03:05:23.684192+00:00",
+  "updated_at": "",
+  "extra": {}
+}
