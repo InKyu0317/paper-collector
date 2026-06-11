@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_su16041683",
+  "collection": "halide-solid-state-battery",
+  "title": "Hybrid Electrolyte Based on PEO and Ionic Liquid with In Situ Produced and Dispersed Silica for Sustainable Solid-State Battery",
+  "authors": [
+    {
+      "name": "Tatiana Babkova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3841-7528",
+      "affiliation": "Centre of Polymer Systems, Tomas Bata University in Zlin, 760 01 Zlin, Czech Republic"
+    },
+    {
+      "name": "Rudolf Kiefer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7692-6705",
+      "affiliation": "Conducting Polymers in Composites and Applications Research Group, Faculty of Applied Sciences, Ton Duc Thang University, Ho Chi Minh City 700000, Vietnam"
+    },
+    {
+      "name": "Quoc Bao Le",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0451-0994",
+      "affiliation": "Conducting Polymers in Composites and Applications Research Group, Faculty of Applied Sciences, Ton Duc Thang University, Ho Chi Minh City 700000, Vietnam"
+    }
+  ],
+  "doi": "10.3390/su16041683",
+  "url": "https://doi.org/10.3390/su16041683",
+  "published": null,
+  "abstract": "<jats:p>This work introduces the synthesis of hybrid polymer electrolytes based on polyethylene oxide (PEO) and electrolyte solution bis(trifluoromethane)sulfonimide lithium salt/ionic liquid 1-ethyl-3-methyl-imidazolium bis(trifluoromethylsulfonyl)imide (LiTFSI/EMIMTFSI) with in situ produced and dispersed silica particles by the sol–gel method. Conventional preparation of solid polymer electrolytes was followed by desolvation of lithium salt in a polymer matrix of PEO, which, in some cases, additionally contains plasticizers. This one-pot synthesis is an alternative route for fabricating a solid polymer electrolyte for solid-state batteries. The presence of TFSI- reduces the crystallinity of the PEO matrix (plasticizing effect), increases the dissociation and solubility of LiTFSI in the PEO matrix because of a highly delocalized charge distribution, and reveals excellent thermal, chemical, and electrochemical stability. Tetraethylorthosilicate (TEOS) was chosen due to the slow reaction rate, with the addition of (3-glycidyoxypropyl)trimethoxysilane (GLYMO), which contributes to the formation of a silica network. FTIR studies confirmed the interactions between the silica, the polymer salt, and EMIMTFSI. Impedance spectroscopy measurements were performed in a wide range of temperatures from 25 to 70 °C. The electrochemical performance was explored by assembling electrolytes in LiCoO2 (LCO), NMC(811), and LiFePO4 (LFP) coin half-cells. The HPEf15 shows a discharge capacity of 143 mA/g for NMC(811) at 0.1 C, 134 mA/g for LCO, and 139 mA/g for LFP half-cells at 0.1 C and 55 °C. The LFP half-cell with a discharge capacity of 135 mA/g at 0.1 C (safety potential range of 2.8 to 3.8) obtained a cyclability of 97.5% at 55 °C after 100 cycles. Such a type of electrolyte with high safety and good electrochemical performance provides a potential approach for developing a safer lithium-ion battery.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/su16041683",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_su16041683/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "Sustainability",
+  "publisher": "",
+  "issn": "2071-1050",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:45.679392+00:00",
+  "updated_at": "",
+  "extra": {}
+}

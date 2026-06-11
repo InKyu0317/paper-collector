@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2101.09780v1",
+  "collection": "halide-solid-state-battery",
+  "title": "X-ray nanoimaging of crystal defects in single grains of solid-state electrolyte AlxLi7-3xLa3Zr2O12",
+  "authors": [
+    {
+      "name": "Yifei Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oleg Yu. Gorobstov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linqin Mu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel Weinstock",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ryan Bouck",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wonsuk Cha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nikolaos Bouklas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feng Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrej Singer1",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2101.09780v1",
+  "published": "2021-01-24T19:43:58+00:00",
+  "abstract": "All-solid-state lithium batteries promise significant improvements in energy density and safety over traditional liquid electrolyte batteries. The Al-doped AlxLi7-3xLa3Zr2O12 (LLZO) solid-state electrolyte shows excellent potential given its high ionic conductivity and good thermal, chemical, and electrochemical stability. Nevertheless, further improvements on LLZOs electrochemical and mechanical properties call for an incisive understanding of its local microstructure. Here, we employ Bragg Coherent Diffractive Imaging to investigate the atomic displacements inside single grains of LLZO with various Al-doping concentrations, resulting in cubic, tetragonal, and cubic-tetragonal mixed structures. We observe coexisting domains of different crystallographic orientations in the tetragonal structure. We further show that Al doping leads to crystal defects such as dislocations and phase boundary in the mixed- and cubic-phase grain. This study addresses the effect of Al-doping on the nanoscale structure within individual grains of LLZO, which is informative for the future development of solid-state batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2101.09780v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2101.09780v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2101.09780v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:38.330139+00:00",
+  "updated_at": "",
+  "extra": {}
+}

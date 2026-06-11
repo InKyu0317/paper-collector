@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2509.20312v2",
+  "collection": "halide-solid-state-battery",
+  "title": "4D-QENS Analysis of Correlated Ionic Conduction in SrCl$_2$",
+  "authors": [
+    {
+      "name": "Jared Coles",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Omar Chmaissem",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew Krogstad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel M. Pajerowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feng Ye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Duck Young Chung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mercouri G. Kanatzidis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stephan Rosenkranz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raymond Osborn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2509.20312v2",
+  "published": "2025-09-24T16:44:18+00:00",
+  "abstract": "Methods of elucidating the mechanisms of fast-ion conduction in solid-state materials are pivotal for advancements in energy technologies such as batteries, fuel cells, sensors, and supercapacitors. In this study, we examine the ionic conduction pathways in single crystal SrCl$_2$, which is a fast-ion conductor above 900~K, using four-dimensional Quasi-Elastic Neutron Scattering (4D-QENS). We explore both coherent and incoherent neutron scattering at temperatures above the transition temperature into the superionic phase to explore the correlated motion of hopping anions. Refinements of the incoherent QENS yield residence times and jump probabilities between lattice sites in good agreement with previous studies, confirming that ionic hopping along nearest-neighbor directions is the most probable conduction pathway. However, the coherent QENS reveals evidence of de Gennes narrowing, indicating the importance of ionic correlations in the conduction mechanism. This highlights the need for improvements both in the theory of ionic transport in fluorite compounds and the modeling of coherent 4D-QENS in single crystals.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2509.20312v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2509.20312v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2509.20312v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:45.679036+00:00",
+  "updated_at": "",
+  "extra": {}
+}

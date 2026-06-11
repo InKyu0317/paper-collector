@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2307.16621v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Which Ion Dominates Temperature and Pressure Response of Halide Perovskites and Elpasolites?",
+  "authors": [
+    {
+      "name": "Loreta A. Muscarella",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Huygen J. Jöbsis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bettina Baumgartner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "P. Tim Prins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Nicolette Maaskant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrei V. Petukhov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dmitry Chernyshov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Charles J. McMonagle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eline M. Hutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.16621v1",
+  "published": "2023-07-31T12:57:14+00:00",
+  "abstract": "Halide perovskite and elpasolite semiconductors are extensively studied for optoelectronic applications due to their excellent performance together with significant chemical and structural flexibility. However, there is still limited understanding of their basic elastic properties and how they vary with composition and temperature, which is relevant for synthesis and device operation. To address this, we performed temperature- and pressure-dependent synchrotron-based powder X-ray diffraction (XRD). In contrast to previous pressure-dependent XRD studies, our relatively low pressures (ambient to 0.06 GPa) enabled us to investigate the elastic properties of halide perovskites and elpasolites in their ambient crystal structure. We find that halide perovskites and elpasolites show common trends in the bulk modulus and thermal expansivity. Both materials become softer as the halide ionic radius increases from Cl to Br to I, exhibiting higher compressibility and larger thermal expansivity. The mixed-halide compositions show intermediate properties to the pure compounds. Contrary, cations show a minor effect on the elastic properties. Finally, we observe that thermal phase transitions in e.g., MAPbI3 and CsPbCl3 lead to a softening of the lattice, together with negative expansivity for certain crystal axes, already tens of degrees away from the transition temperature. Hence, the range in which the phase transition affects thermal and elastic properties is substantially broader than previously thought. These findings highlight the importance of considering the temperature-dependent elastic properties of these materials, since stress induced during manufacturing or temperature sweeps can significantly impact the stability and performance of the corresponding devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.16621v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.16621v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.16621v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:42.621176+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2509.16992v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermoelectric properties of Lead halide Janus layers -- A theoretical investigation",
+  "authors": [
+    {
+      "name": "A. E. Sudheer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M Vallinayagam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "G Tejaswini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M Posselt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "C Kamal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M Zschornak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D Murali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2509.16992v1",
+  "published": "2025-09-21T09:16:43+00:00",
+  "abstract": "Thermoelectric materials offer a promising route for efficient heat-to-power conversion. In search of materials functional at high and low operating temperatures, we investigate the thermoelectric properties of two-dimensional lead halide Janus layers (JLs) using density functional theory. The electronegativity difference between halides in JLs significantly modulates the electronic structure, particularly the strong Pb-F bonding in PbIF JLs leads to pronounced band curvature and a unique direct bandgap. Estimated through three-phonon interactions, the lattice thermal conductivity is intrinsically low, primarily due to acoustic phonon contributions and suppressed optical phonon transport. The thermoelectric coefficients are enhanced with carrier doping, resulting in figures of merit as high as 8.94 at room temperature and upto 36.31 at elevated temperatures. These findings establish two-dimensional lead halide Janus layers as exceptional candidates for thermoelectric conversion, and the insights into their elemental and electronic characteristics offer a valuable basis for the future design of high-performance lead-based thermoelectric materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2509.16992v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2509.16992v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2509.16992v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:52.961983+00:00",
+  "updated_at": "",
+  "extra": {}
+}

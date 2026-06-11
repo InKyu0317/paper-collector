@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2411.11122v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Topological representation of layered hybrid lead halides for machine-learning using universal clusters",
+  "authors": [
+    {
+      "name": "Ekaterina I. Marchenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria G. Khrenova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Korolev V. V.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eugene A. Goodilin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexey B. Tarasov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2411.11122v1",
+  "published": "2024-11-17T16:46:12+00:00",
+  "abstract": "Layered hybrid halide compounds offer promising functional properties, particularly tunable band gaps, conductivity, light harvesting thus making them prospective for applications in photovoltaics and optoelectronics. This study exemplifies an approach of predicting band gaps using machine learning models enhanced by invariant topological representations of these materials using the atom-specific persistent homology method in order to facilitate the discovery and design of new hybrid halide materials with tailored electronic properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2411.11122v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2411.11122v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2411.11122v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:05:59.390763+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2406.08846v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Observation of Extraordinary Vibration Scatterings Induced by Strong Anharmonicity in Lead-Free Halide Double Perovskites",
+  "authors": [
+    {
+      "name": "Guang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiongzhi Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jie Xue",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yixin Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qiye Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geoffroy Hautier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haipeng Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yanguang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2406.08846v1",
+  "published": "2024-06-13T06:10:43+00:00",
+  "abstract": "Lead-free halide double perovskites provide a promising solution for the long-standing issues of lead-containing halide perovskites, i.e., the toxicity of Pb and the low stability under ambient conditions and high-intensity illumination. Their light-to-electricity or thermal-to-electricity conversion is strongly determined by the dynamics of the corresponding lattice vibrations. Here, we present the measurement of lattice dynamics in a prototypical lead-free halide double perovskite, i.e., Cs2NaInCl6. Our quantitative measurements and first-principles calculations show that the scatterings among lattice vibrations at room temperature are at the timescale of ~ 1 ps, which stems from the extraordinarily strong anharmonicity in Cs2NaInCl6. We further quantitatively characterize the degree of anharmonicity of all the ions in the single Cs2NaInCl6 crystal, and demonstrate that this strong anharmonicity is synergistically contributed by the bond hierarchy, the tilting of the NaCl6 and InCl6 octahedral units, and the rattling of Cs+ ions. Consequently, the crystalline Cs2NaInCl6 possesses an ultralow thermal conductivity of ~0.43 W/mK at room temperature, and a weak temperature dependence of T-0.41. Our findings here uncovered the underlying mechanisms behind the dynamics of lattice vibrations in double perovskites, which could largely benefit the design of optoelectronics and thermoelectrics based on halide double perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.08846v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2406.08846v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.08846v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-11T03:06:03.533465+00:00",
+  "updated_at": "",
+  "extra": {}
+}
