@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1002_anie.202407380",
+  "collection": "halide-solid-state-battery",
+  "title": "Single‐Anion Conductive Solid‐State Electrolytes with Hierarchical Ionic Highways for Flexible Zinc‐Air Battery",
+  "authors": [
+    {
+      "name": "Mi Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Rui Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Boying Hao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Dongdong Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Dan Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Haozhen Dou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    },
+    {
+      "name": "Zhongwei Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3463-5509",
+      "affiliation": "State Key Laboratory of Catalysis Power Battery &amp; System Research Center Dalian Institute of Chemical Physics Chinese Academy of Sciences  Dalian 110623 China"
+    }
+  ],
+  "doi": "10.1002/anie.202407380",
+  "url": "https://doi.org/10.1002/anie.202407380",
+  "published": "2024-9-2",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Flexible zinc‐air batteries are leading power sources for next‐generation smart wearable electronics. However, flexible zinc‐air batteries suffer from the highly‐corrosive safety risk and limited lifespan due to the absence of reliable solid‐state electrolytes (SSEs). Herein, a single‐anion conductive SSE with high‐safety is constructed by incorporating a highly amorphous dual‐cation ionomer into a robust hybrid matrix of functional carbon nanotubes and polyacrylamide polymer. The as‐fabricated SSE obtains dual‐penetrating ionomer‐polymer networks and hierarchical ionic highways, which contribute to mechanical robustness with 1200 % stretchability, decent water uptake and retention, and superhigh ion conductivity of 245 mS ⋅ cm<jats:sup>−1</jats:sup> and good Zn anode reversibility. Remarkably, the flexible solid‐state zinc‐air batteries delivers a high specific capacity of 764 mAh ⋅ g<jats:sup>−1</jats:sup> and peak power density of 152 mW ⋅ cm<jats:sup>−2</jats:sup> as well as sustains excellent cycling stability for 1050 cycles (350 hours). This work offers a new paradigm of OH<jats:sup>−</jats:sup> conductors and broadens the definition and scope of OH<jats:sup>−</jats:sup> conductors.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/anie.202407380",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_anie.202407380/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 21,
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "",
+  "issn": "1433-7851",
+  "quartile": "",
+  "added_at": "2026-06-12T03:16:22.821434+00:00",
+  "updated_at": "",
+  "extra": {}
+}

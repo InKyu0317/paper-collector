@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2507.07720v1",
+  "collection": "halide-solid-state-battery",
+  "title": "In situ impedance spectroscopy tests of Li$_{4-x}$Ge$_{1-x}$P$_x$O$_4$ as potential solid state electrolyte for Micro Li ion Batteries",
+  "authors": [
+    {
+      "name": "Mohammadhossein Montazerian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kyle J. Stephens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladimir Roddatis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christof Vockenhuber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnold Müller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anders J. Barlow",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Lippert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nick A. Shepelin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniele Pergolesi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.07720v1",
+  "published": "2025-07-10T12:55:45+00:00",
+  "abstract": "Lithium-ion batteries employing solid-state electrolytes (SSEs) are emerging as a safer and more compact alternative to conventional batteries using liquid electrolytes, especially for miniaturized energy storage systems. However, the industry-standard SSE, LiPON, imposes limitations due to its incompatibility with high-temperature processing. In this study, we investigate Li$_{4-x}$Ge$_{1-x}$P$_x$O$_4$ (LGPO), a LISICON-type oxide, as a promising alternative thin-film SSE. LGPO thin films are fabricated using pulsed laser deposition under four distinct deposition conditions, with in situ impedance spectroscopy enabling precise conductivity measurements without ambient exposure. We systematically correlate deposition temperature, background pressure, chemical composition, crystallinity, and morphology with ionic transport properties. Polycrystalline LGPO films grown at high temperature (535 $^\\circ$C) and low oxygen pressure (0.01 mbar) exhibited the highest room-temperature ionic conductivity ($\\sim 1.2 \\times 10^{-5}$ S cm$^{-1}$), exceeding that of LiPON by an order of magnitude, with an activation energy of 0.46 eV. In contrast, amorphous films show significantly lower conductivity ($\\sim 5.2 \\times 10^{-8}$ S cm$^{-1}$) and higher activation energy (0.72 eV). The results reveal that crystallinity, chemical composition, and grain boundary density critically affect ion transport, highlighting the importance of microstructural control. This work establishes LGPO as a viable, high-performance oxide SSE compatible with high-temperature processing for next-generation microbattery architectures.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.07720v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.07720v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.07720v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-12T03:16:29.099146+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2104.01087v2",
+  "collection": "halide-solid-state-battery",
+  "title": "First-principles calculations of defects in metal halide perovskites: a performance comparison of density functionals",
+  "authors": [
+    {
+      "name": "Haibo Xue",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geert Brocks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuxia Tao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2104.01087v2",
+  "published": "2021-04-02T15:16:55+00:00",
+  "abstract": "Metal halide perovskite semiconductors have outstanding optoelectronic properties. Although these perovskites are defect-tolerant electronically, defects hamper their long-term stability and cause degradation. Density functional theory (DFT) calculations are an important tool to unravel the microscopic structures of defects, but results suffer from the different approximations used in the DFT functionals. In the case of metal halide perovskites, qualitatively different results have been reported with different functionals, either predicting vacancy or interstitial point defects to be most dominant. Here, we conduct a comprehensive comparison of a wide range of functionals for calculating the equilibrium defect formation energies and concentrations of point defects in the archetype metal halide perovskite, MAPbI$_3$. We find that it is essential to include long-range Van der Waals interactions in the functional, and that it is vital to self-consistently optimize structure and volume of all compounds involved in the defect formation. For calculating equilibrium formation energies of point defects in MAPbI$_3$ and similar metal halide perovskites, we argue that the exact values of the chemical potentials of the species involved, or of the intrinsic Fermi level, are not important. In contrast to the simple Schottky or Frenkel pictures, we find that the dominant defects are MA and I interstitials, and Pb vacancies.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2104.01087v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2104.01087v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2104.01087v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-12T03:16:48.335217+00:00",
+  "updated_at": "",
+  "extra": {}
+}

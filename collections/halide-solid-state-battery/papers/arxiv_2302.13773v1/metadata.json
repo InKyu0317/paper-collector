@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2302.13773v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Strain-driven topological quantum phase transition in the family of halide perovskites",
+  "authors": [
+    {
+      "name": "Ankita Phutela",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sajjan Shoeran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Saswata Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2302.13773v1",
+  "published": "2023-02-27T13:54:00+00:00",
+  "abstract": "The centrosymmetric halide perovskites undergo a continuous phase transition from a normal insulator to a topological insulator at the critical value of strain. Contrarily, in noncentrosymmetric halide perovskites, this phase transition is discontinuous. The noncentrosymmetry does not stabilize the gapless state, causing a discontinuity in the bandgap. We have employed the density functional theory and Slater-Koster formalism-based tight-binding Hamiltonian studies to understand the evolution of band topology under the compressive strain in the halide perovskites. Our study shows that both cubic and pseudocubic FAPbI$_3$ undergo a Pb $\\textit{s-p}$ band inversion at $γ$ (V/V$_0$) = 0.76 and 0.73, respectively. The cubic perovskite shows the surface state at $\\overline{M}$, whereas, the pseudocubic structure shows two conducting states in the neighbourhood of $\\overline{M}$, unlike the conventional topological insulator. The Pb-Pb second nearest neighbor interactions determine this topological phase transition. Alongside, we have modeled mixed cation halide perovskites Cs$_x$MA$_{1-x}$PbI$_3$ (\\textit{x} = 0.25, 0.5 and 0.75) to study their topological properties. Cs$_{0.5}$MA$_{0.5}$PbI$_3$ shows non-trivial topology at $γ$ = 0.74. In addition, we have checked the structural stability of different strained configurations using ab \\textit{initio} molecular dynamics at operational temperature. Their structural stability under compression strengthens the experimental relevance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.13773v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2302.13773v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.13773v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-12T03:16:38.749805+00:00",
+  "updated_at": "",
+  "extra": {}
+}

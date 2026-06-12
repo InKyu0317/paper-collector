@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2110.00551v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A Minimal Physics-Based Model on the Electrochemical Impedance Spectroscopy of Solid-State Electrolyte",
+  "authors": [
+    {
+      "name": "Changyu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wei Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2110.00551v1",
+  "published": "2021-10-01T17:27:28+00:00",
+  "abstract": "Solid state batteries have emerged as a potential next-generation energy storage device due to safety and energy density advantages. Development of electrolyte is one of the most important topics in solid state batteries. Electrochemical Impedance Spectroscopy (EIS) is a popular measurement technique to obtain the conductivity and diagnose the electrolyte. Current interpretation mainly uses the semicircle part of the curves and discards other information revealed by EIS such as the slope of the curve at low frequency. What is worse, some features on the curve are not fully interpreted. To better understand the transport mechanism and interpret EIS curves, we introduce a continuous model to quantify the ion transport and current flow in the electrolyte. The produced EIS curves from the model are compared with experiment data to show good agreement.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2110.00551v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2110.00551v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2110.00551v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-12T03:16:26.060026+00:00",
+  "updated_at": "",
+  "extra": {}
+}
