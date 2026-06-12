@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.36652_0042-4633-2021-11-62-66",
+  "collection": "aluminosilicate",
+  "title": "Computer simulation of the interaction of the surface of an aluminosilicate filler and an organoelement modifier",
+  "authors": [
+    {
+      "name": "",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.36652/0042-4633-2021-11-62-66",
+  "url": "https://doi.org/10.36652/0042-4633-2021-11-62-66",
+  "published": "2021-11",
+  "abstract": "<jats:p>Geometry optimization and molecular dynamics modeling are performed in the quantum-classical approximation for a phosphorus-boron-containing oligomer and aluminosilicate microspheres. By modeling the phosphorusboron-containing oligomer with the numbers of units of 3—5, the possibility of the appearance of internal cycles in oligomers with the number of chain units more than 3 as a result of the formation of bonds of boron atoms with the oxygen of the phosphorus atom was established. The interaction of the surface of the aluminosilicate filler and the phosphorus-boron-containing oligomer modifier is due to hydrogen bonds between the hydroxyl groups of the silicon atoms of the aluminosilicate filler and the oxygen and hydrogen atoms of the oligomer.\nKeywords: phosphorus-boron-containing oligomer, aluminosilicate microspheres, computer simulation.\nvg.kochetkov@mail.ru</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.36652/0042-4633-2021-11-62-66",
+  "pdf_path": "aluminosilicate/papers/doi_10.36652_0042-4633-2021-11-62-66/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Vestnik Mashinostroeniya",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-12T03:15:08.141717+00:00",
+  "updated_at": "",
+  "extra": {}
+}
