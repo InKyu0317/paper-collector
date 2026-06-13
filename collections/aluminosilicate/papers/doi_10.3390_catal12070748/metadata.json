@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_catal12070748",
+  "collection": "aluminosilicate",
+  "title": "A Novel Model Parameter for the Assessment of the Dimerization of n-Butenes over Ni-Containing Aluminosilicate Catalysts",
+  "authors": [
+    {
+      "name": "Felix Alscher",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dresden University of Technology, Helmholtzstraße 10, 01069 Dresden, Germany"
+    },
+    {
+      "name": "Ekaterina Borovinskaya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dresden University of Technology, Helmholtzstraße 10, 01069 Dresden, Germany"
+    },
+    {
+      "name": "Stephan Peitz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5751-1739",
+      "affiliation": "Evonik Operations GmbH-Performance Materials, Paul-Baumann-Straße 1, 45772 Marl, Germany"
+    },
+    {
+      "name": "Wladimir Reschetilowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dresden University of Technology, Helmholtzstraße 10, 01069 Dresden, Germany"
+    }
+  ],
+  "doi": "10.3390/catal12070748",
+  "url": "https://doi.org/10.3390/catal12070748",
+  "published": null,
+  "abstract": "<jats:p>Previous investigations on the dimerization of n-butenes over Ni-containing Al-MCM-41/ZSM-5 mixed-phase catalysts have shown a correlation between the conversion and the Ni/(Al + Ni) ratio as well as between the conversion and the metal–support interaction, which is represented by the reduction degree. In the present work, both approaches are combined to a novel model parameter, which allows to determine the proportion of active Ni species on the Al-Ni site pairs and thus provides crucial insights into formation of catalytically active nickel sites as well as their effects on the selective formation of low-branched dimers.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/catal12070748",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_catal12070748/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Catalysts",
+  "publisher": "",
+  "issn": "2073-4344",
+  "quartile": "",
+  "added_at": "2026-06-13T03:04:00.230302+00:00",
+  "updated_at": "",
+  "extra": {}
+}
