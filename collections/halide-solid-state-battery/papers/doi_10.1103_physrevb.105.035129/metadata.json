@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1103_physrevb.105.035129",
+  "collection": "halide-solid-state-battery",
+  "title": "Spin Texture as Polarization Fingerprint of Halide Perovskites",
+  "authors": [
+    {
+      "name": "Mayank Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "B. R. K. Nanda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.105.035129",
+  "url": "http://arxiv.org/abs/2109.13195v2",
+  "published": "2021-09-27T17:16:45+00:00",
+  "abstract": "Halide perovskites are perceived to be the promising class of materials for optoelectronics, spinorbitronics and topological electronics due to presence of strong spin-orbit coupling and polarized field. Here, we develop a Hamiltonian using quasi-degenerate perturbation theory to describe polarized field driven band structures and unique topological phases such as Dirac semimetallic rings for the universal class of Halide perovskites including both inorganic and hybrid members. The spin textures obtained through this theoretical model captures minute effects of polarization and hence can be used as a modern tool to determine the polarized field directions which have significant influence on spinorbitronics. The analysis brings out the concepts of hybrid spin textures intermixing the effects of valence and conduction bands under topological quantum phase transitions, and spin texture binaries where alignment of the spins are reversed between domains in the momentum space with sharp boundaries. The results are validated through density functional calculations.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2109.13195v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.105.035129/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2109.13195v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:47.757572+00:00",
+  "updated_at": "",
+  "extra": {}
+}

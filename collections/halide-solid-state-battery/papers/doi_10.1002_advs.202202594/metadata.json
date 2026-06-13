@@ -1,0 +1,151 @@
+{
+  "paper_id": "doi_10.1002_advs.202202594",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-state Janus nanoprecipitation enables amorphous-like heat conduction in crystalline Mg3Sb2-based thermoelectric materials",
+  "authors": [
+    {
+      "name": "Rui Shu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhijia Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anna Elsukova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongbin Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peng Qin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feng Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Per O. Å. Persson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Justinas Palisaitis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnaud le Febvrier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wenqing Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oana Cojocaru-Mirédin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuan Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Per Eklund",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weishu Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/advs.202202594",
+  "url": "http://arxiv.org/abs/2107.09397v4",
+  "published": "2021-07-20T10:36:24+00:00",
+  "abstract": "Solid-state precipitation can be used to tailor materials properties, ranging from ferromagnets and catalysts to mechanical strengthening and energy storage. Thermoelectric properties can be modified by precipitation to enhance phonon scattering while retaining charge-carrier transmission. Here, we uncover unconventional dual Janus-type nanoprecipitates in Mg3Sb1.5Bi0.5 formed by side-by-side Bi- and Ge-rich appendages, in contrast to separate nanoprecipitate formation. These Janus nanoprecipitates result from local co-melting of Bi and Ge during sintering, enabling an amorphous-like lattice thermal conductivity. A precipitate size effect on phonon scattering is observed due to the balance between alloy-disorder and nanoprecipitate scattering. The thermoelectric figure-of-merit ZT reaches 0.6 near room temperature and 1.6 at 773 K. The Janus nanoprecipitation can be introduced into other materials and may act as a general property-tailoring mechanism.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.09397v4",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_advs.202202594/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.09397v4",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:06:01.325629+00:00",
+  "updated_at": "",
+  "extra": {}
+}

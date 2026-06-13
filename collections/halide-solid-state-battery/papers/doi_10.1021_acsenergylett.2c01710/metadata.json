@@ -1,0 +1,112 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.2c01710",
+  "collection": "halide-solid-state-battery",
+  "title": "Intrinsic ion migration dynamics in a one-dimensional organic metal halide hybrid",
+  "authors": [
+    {
+      "name": "Zhenqi Hua",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Azza Ben-Akacha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qingquan He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tianhan Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gillian Boyce",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Margaret van Deventer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinsong Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hanwei Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Biwu Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peng Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsenergylett.2c01710",
+  "url": "http://arxiv.org/abs/2210.10134v1",
+  "published": "2022-10-18T20:06:49+00:00",
+  "abstract": "Metal halide perovskites possess many physical properties amenable to optoelectronic applications, whereas the realization of these potentials has been hampered by their environmental and electronic instabilities. The morphological and molecular low dimensional perovskites and perovskite related materials have shown much promise in enhancing the chemical stability due to their unique molecular structures. Here we report on robust and reproducible four-terminal (4T) electrical measurements in a one-dimensional (1D) organic metal halide hybrid, (R)-α-methylbenzylammonium lead triiodide ((R-α-MBA)PbI3) made possible by its chemical stability. The results reveal a distinct intrinsic ion migration dynamic of single exponential, which underlies the unique 4T I-V characteristics. The dynamic is directly verified by real-time measurements of the transient ionic current. Our observations are consistent with photo-activation and field-assisted ion migration. The elucidated intrinsic ion dynamics may provide the physical basis for understanding and modelling the ubiquitous hysteresis in metal halides based electronic devices and new insights into the dynamics of ion migration in metal halide perovskites and hybrids in general.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.10134v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.2c01710/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.10134v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:18.108393+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1063_5.0223138",
+  "collection": "halide-solid-state-battery",
+  "title": "Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning",
+  "authors": [
+    {
+      "name": "Xiang-Long Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bai-Xiang Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0223138",
+  "url": "http://arxiv.org/abs/2405.09227v1",
+  "published": "2024-05-15T10:06:37+00:00",
+  "abstract": "The ionic conductivity at the grain boundaries (GBs) in oxide ceramics is typically several orders of magnitude lower than that within the grain interior. This detrimental GB effect is the main bottleneck for designing high-performance ceramic electrolytes intended for use in solid-state Lithium-ion batteries, fuel cells, and electrolyzer cells. The macroscopic ionic conductivity in oxide ceramics is essentially governed by the underlying polycrystalline microstructures where GBs and grain morphology go hand in hand. This provides the possibility to enhance the ion conductivity by microstructure engineering. To this end, a thorough understanding of microstructure-property correlation is highly desirable. In this work, we investigate numerous polycrystalline microstructure samples with varying grain and grain boundary features. Their macroscopic ionic conductivities are numerically evaluated by the finite element homogenization method, whereby the GB resistance is explicitly regarded. The influence of different microstructural features on the effective ionic conductivity is systematically studied. The microstructure-property relationships are revealed. Additionally, a graph neural network-based machine learning model is constructed and trained. It can accurately predict the effective ionic conductivity for a given polycrystalline microstructure. This work provides crucial quantitative guidelines for optimizing the ionic conducting performance of oxide ceramics by tailoring microstructures.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.09227v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0223138/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.09227v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:36.530495+00:00",
+  "updated_at": "",
+  "extra": {}
+}

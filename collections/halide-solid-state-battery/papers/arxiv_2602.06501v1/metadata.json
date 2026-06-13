@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2602.06501v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Microscopic Origin of the Ultralow Lattice Thermal Conductivity in Vacancy-Ordered Halide Double Perovskites Cs$_2BX_6$ ($B$ = Zr, Pd, Sn, Te, Hf, and Pt; $X$= Cl, Br, and I)",
+  "authors": [
+    {
+      "name": "Lingzhi Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yateng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhonghao Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiangang He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.06501v1",
+  "published": "2026-02-06T08:52:43+00:00",
+  "abstract": "Vacancy-ordered halide double perovskites Cs$_2BX_6$ have recently attracted significant attention due to their intrinsically ultralow lattice thermal conductivity ($κ_{\\mathrm{L}}$), which is highly desirable for thermal insulation and thermoelectric applications. In this work, we systematically investigate the anharmonic lattice dynamics and thermal transport properties of Cs$_2BX_6$ ($B$ = Zr, Pd, Sn, Te, Hf, and Pt; $X$ = Cl, Br, and I) using state-of-the-art first-principles calculations, based on a unified theory of thermal transport for crystals and glasses. All studied compounds are found to exhibit ultralow $κ_{\\mathrm{L}}$ below 1.0~W\\,m$^{-1}$\\,K$^{-1}$ at room temperature and large derivation from the conventional $T^{-1}$ temperature dependence. Our analysis combining with machine-learning approach show that low sound velocities (1100 -- 1600~m\\,s$^{-1}$), which originates from the intrinsically weak chemical bonding, play a crucial role in suppressing heat transport of the most compounds, instead of the strong scattering of rattling phonon modes expected from the large void in the structure. Furthermore, the influence of $B$ and $X$-site elements on phonon dispersion, anharmonicity, and scattering phase space is clarified. Our results provide microscopic insights into the origin of ultralow $κ_{\\mathrm{L}}$ in Cs$_2BX_6$ and offer guiding principles for the rational design of halide-based materials with tailored thermal transport properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.06501v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.06501v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.06501v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:53.444867+00:00",
+  "updated_at": "",
+  "extra": {}
+}

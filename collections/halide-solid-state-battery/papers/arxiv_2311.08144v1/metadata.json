@@ -1,0 +1,57 @@
+{
+  "paper_id": "arxiv_2311.08144v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Salt effects on the mechanical properties of ionic conductive polymer: a molecular dynamics study",
+  "authors": [
+    {
+      "name": "Harish Gudla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristina Edström",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2311.08144v1",
+  "published": "2023-11-14T13:20:50+00:00",
+  "abstract": "Functoinal polymers can be used as electrolyte and binder materials in solid-state batteries. This often requires performance targets in terms of both transport and mechanical properties. In this work, a model ionic conductive polymer system, i.e., poly(ethylene oxide)-LiTFSI, was used to study the impact of salt concentrations on mechanical properties, including different types of elastic moduli and the visoelasticity with both non-equilibrium and equilibrium molecular dynamics simulations. We found an encouragingly good agreement between experiments and simulations regarding the Young's modulus, bulk modulus and viscosity. In addition, we identified an intermediate salt concentration at which the system shows high ionic conductivity, high Young's modulus and short elastic restoration time. Therefore, this study laid down the groundwork for investigating ionic conductive polymer binders with self-healing functionality from molecular dynamics simulations.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2311.08144v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2311.08144v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2311.08144v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:24.280216+00:00",
+  "updated_at": "",
+  "extra": {}
+}

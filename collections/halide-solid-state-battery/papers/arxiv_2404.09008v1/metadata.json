@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2404.09008v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Combinatorial Printing of Functionally Graded Solid-State Electrolyte for High-Voltage Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Qiang Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stephanie Atampugre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yipu Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lingyu Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jennifer L. Schaefer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yanliang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2404.09008v1",
+  "published": "2024-04-13T13:31:52+00:00",
+  "abstract": "Heterogeneous multilayered solid-state electrolyte (HMSSE) has been widely explored for their broadened working voltage range and compatibility with electrodes. However, due to the limitations of traditional manufacturing methods such as casting, the interface between electrolyte layers in HMSSE can decrease the ionic conductivity severely. Here, a novel combinatory aerosol jet printing (CAJP) is introduced to fabricate functionally graded solid-state electrolyte (FGSSE) without sharp interface. Owing to the unique ability of CAJP (in-situ mixing and instantaneous tuning of the mixing ratio), FGSSE with smooth microscale compositional gradation is achieved. Electrochemical tests show that FGSSE has excellent oxidative stability exceeding 5.5 V and improved conductivity (>7 times of an analogous HMSSE). By decoupling the total resistance, we show that the resistance from the electrolyte/electrolyte interface of HMSSE is 5.7 times of the total resistance of FGSSE. The Li/FGSSE/NCM622 cell can be stably run for more than 200 cycles along with improved rate performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.09008v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2404.09008v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.09008v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:43.791963+00:00",
+  "updated_at": "",
+  "extra": {}
+}

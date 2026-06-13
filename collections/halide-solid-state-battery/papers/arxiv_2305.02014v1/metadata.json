@@ -1,0 +1,112 @@
+{
+  "paper_id": "arxiv_2305.02014v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Substitution of Lead with Tin Suppresses Ionic Transport in Halide Perovskite Optoelectronics",
+  "authors": [
+    {
+      "name": "Krishanu Dey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Dibyajyoti Ghosh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Indian Institute of Technology Delhi, India"
+    },
+    {
+      "name": "Matthew Pilot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Bath, United Kingdom"
+    },
+    {
+      "name": "Samuel R Pering",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Loughborough University, United Kingdom"
+    },
+    {
+      "name": "Bart Roose",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Priyanka Deswal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Indian Institute of Technology Delhi, India"
+    },
+    {
+      "name": "Satyaprasad P Senanayak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "National Institute of Science Education and Research, India"
+    },
+    {
+      "name": "Petra J Cameron",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Bath, United Kingdom"
+    },
+    {
+      "name": "M Saiful Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Oxford, United Kingdom"
+    },
+    {
+      "name": "Samuel D Stranks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.02014v1",
+  "published": "2023-05-03T10:05:25+00:00",
+  "abstract": "Despite the rapid rise in the performance of a variety of perovskite optoelectronic devices with vertical charge transport, the effects of ion migration remain a common and longstanding Achilles heel limiting the long-term operational stability of lead halide perovskite devices. However, there is still limited understanding of the impact of tin (Sn) substitution on the ion dynamics of lead (Pb) halide perovskites. Here, we employ scan-rate-dependent current-voltage measurements on Pb and mixed Pb-Sn perovskite solar cells to show that short circuit current losses at lower scan rates, which can be traced to the presence of mobile ions, are present in both kinds of perovskites. To understand the kinetics of ion migration, we carry out scan-rate-dependent hysteresis analyses and temperature-dependent impedance spectroscopy measurements, which demonstrate suppressed ion migration in Pb-Sn devices compared to their Pb-only analogues. By linking these experimental observations to first-principles calculations on mixed Pb-Sn perovskites, we reveal the key role played by Sn vacancies in increasing the iodide ion migration barrier due to local structural distortions. These results highlight the beneficial effect of Sn substitution in mitigating undesirable ion migration in halide perovskites, with potential implications for future device development.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.02014v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.02014v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.02014v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-13T03:05:14.288063+00:00",
+  "updated_at": "",
+  "extra": {}
+}
