@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1063_5.0076239",
+  "collection": "halide-solid-state-battery",
+  "title": "Ballistic-like Space-charge-limited Currents in Halide Perovskites at Room Temperature",
+  "authors": [
+    {
+      "name": "Osbel Almora",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel Miravet",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marisé García-Batlle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Germà Garcia-Belmonte",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0076239",
+  "url": "http://arxiv.org/abs/2110.11307v3",
+  "published": "2021-10-21T17:41:34+00:00",
+  "abstract": "The emergence of halide perovskites in photovoltaics has diversified the research on this material family and extended their application towards several fields in the optoelectronics, such as photo- and ionizing-radiation-detectors. One of the most basic characterization protocols consist on measuring the dark current-voltage (J-V) curve of symmetrically contacted samples for identifying the different regimes of space-charge-limited current (SCLC). Customarily, J=C*V^n curves indicate the Mott-Gurney law when n=2, or the Child-Langmuir ballistic regime of SCLC when n=3/2. The latter can be often found in perovskite samples. In this work, we start by discussing the interpretation of currents proportional to V^(3/2) in relation to the masking effect of the dual electronic-ionic conductivity in halide perovskites. However, we do not discard the actual occurrence of SCLC transport with ballistic-like trends. For those cases, we introduce the models of: quasi-ballistic velocity-dependent dissipation (QvD) and the ballistic-like voltage-dependent mobility (BVM) regime of SCLC. The QvD model is shown to better describe electronic kinetics, whereas the BVM model is revealed as suitable for describing electronic or ionic kinetics in halide perovskites. The proposed formulations can be used as characterization tools for the evaluation of effective mobilities, charge carrier concentrations and times-of-flight from J-V curves and impedance spectroscopy spectra.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2110.11307v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0076239/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2110.11307v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:16.603008+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2102.11577v2",
+  "collection": "halide-solid-state-battery",
+  "title": "To study the structural, electronic and optical properties of predicted stable halide perovskites ABX3",
+  "authors": [
+    {
+      "name": "Kashif Murad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "G. Murtaza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Muhammad Noman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shamim Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2102.11577v2",
+  "published": "2021-02-23T09:34:01+00:00",
+  "abstract": "Structure, optical and electronic properties of predicted stables Perovskites ABX3 are calculated using DFT approach. The modified Becke-Johnson potential is also used to investigate electrical and optical properties. The density of states and electronic band structure calculations reveal that the predicted stable halides Perovskites ABX3 have a direct as well as indirect band gap, with dielectric function, optical reflectivity, absorption coefficient, optical conductivity, extinction coefficient, refractive index are calculated in different ranges of energy. The maximum value of static dielectric function is observed for KNiI3 and RbIrBr3 are 3.5 and 3 respectively. The highest absorption peak among the all is observed at 26eV for SrLiF3, while refractive index of that SrLiF3 gives peak at 24eV then refractive index decreases below the unity as energy increases up to 27.5eV. The maximum peaks of optical conductivity of predicted stables halides Perovskites are observed in visible to ultraviolet range (1.7eV to 30eV). The maximum peaks of optical conductivity are observed for SrLiF3 at 24eV. For the first time, all of the properties evaluated for predicted stable halides ABX3Perovskites are reported, because no theoretical work is reported yet on most of the physical properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2102.11577v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2102.11577v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2102.11577v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:53.981261+00:00",
+  "updated_at": "",
+  "extra": {}
+}

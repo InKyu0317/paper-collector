@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1063_5.0044338",
+  "collection": "halide-solid-state-battery",
+  "title": "A Generic Slater-Koster Description of the Electronic Structure of Centrosymmetric Halide Perovskites",
+  "authors": [
+    {
+      "name": "Ravi Kashikar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mayank Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "B. R. K. Nanda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0044338",
+  "url": "http://arxiv.org/abs/2101.08562v1",
+  "published": "2021-01-21T11:40:16+00:00",
+  "abstract": "The halide perovskites have truly emerged as efficient optoelectronic materials and show the promise of exhibiting nontrivial topological phases. Since the bandgap is the deterministic factor for these quantum phases, here we present a comprehensive electronic structure study using first-principle methods by considering nine inorganic halide perovskites CsBX$_3$ (B = Ge, Sn, Pb; X = Cl, Br, I) in their three structural polymorphs (cubic, tetragonal and orthorhombic). A series of exchange-correlations (XC) functionals are examined towards accurate estimation of the bandgap. Furthermore, while thirteen orbitals are active in constructing the valence and conduction band spectrum, here we establish that a four orbital based minimal basis set is sufficient to build the Slater-Koster tight-binding model (SK-TB), which is capable of reproducing the bulk and surface electronic structure in the vicinity of the Fermi level. Therefore, like the Wannier based TB model, the presented SK-TB model can also be considered as an efficient tool to examine the bulk and surface electronic structure of halide family of compounds. As estimated by comparing the model study and DFT band structure, the dominant electron coupling strengths are found to be nearly independent of XC functionals, which further establishes the utility of the SK-TB model.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2101.08562v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0044338/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2101.08562v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:43.828784+00:00",
+  "updated_at": "",
+  "extra": {}
+}

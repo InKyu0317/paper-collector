@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.5c01139",
+  "collection": "halide-solid-state-battery",
+  "title": "Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields",
+  "authors": [
+    {
+      "name": "Viren Tyagi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mike Pols",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geert Brocks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuxia Tao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.5c01139",
+  "url": "http://arxiv.org/abs/2409.16051v2",
+  "published": "2024-09-24T12:56:46+00:00",
+  "abstract": "Halide perovskite optoelectronic devices suffer from chemical degradation and current-voltage hysteresis induced by migration of highly mobile charged defects. Atomic scale molecular dynamics simulations can capture the motion of these ionic defects, but classical force fields are too inflexible to describe their dynamical charge states. Using CsPbI3 as a case study, we train machine learned force fields from density functional theory calculations and study the diffusion of charged halide interstitial and vacancy defects in bulk CsPbI3. We find that negative iodide interstitials and positive iodide vacancies, the most stable charge states for their respective defect type, migrate at similar rates at room temperature. Neutral interstitials are faster, but neutral vacancies are one order of magnitude slower. Oppositely charged interstitials and vacancies, as they can occur in device operation or reverse bias conditions, are significantly slower and can be considered relatively immobile.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.16051v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.5c01139/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.16051v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:24.423373+00:00",
+  "updated_at": "",
+  "extra": {}
+}

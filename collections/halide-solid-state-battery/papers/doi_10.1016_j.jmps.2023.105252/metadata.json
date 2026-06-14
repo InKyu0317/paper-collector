@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1016_j.jmps.2023.105252",
+  "collection": "halide-solid-state-battery",
+  "title": "A continuum electro-chemo-mechanical gradient theory coupled with damage: Application to Li-metal filament growth in all-solid-state batteries",
+  "authors": [
+    {
+      "name": "Donald Bistri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudio V. Di Leo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jmps.2023.105252",
+  "url": "http://arxiv.org/abs/2302.06462v1",
+  "published": "2023-01-19T16:23:32+00:00",
+  "abstract": "We formulate a continuum electro-chemo-mechanical gradient theory which couples electrochemical reactions with mechanical deformation and damage in solids. The framework models species transport across the host due to diffusion/migration and concurrent electrochemical reaction at damaged sites within the host, where ionic species are reduced to form a new compound. The theory is fully-coupled with electrodeposition impacting mechanical deformation, stress generation and damage of the host. Conversely, electrodeposition kinetics are affected by mechanical stresses via a thermodynamically-consistent, physically motivated driving force that distinguishes chemical, electrical and mechanical contributions. The theory also captures the interplay between growth-induced fracture of the host and deposition of a new material inside cracks by tracking damage and extent of electrodeposition via separate phase-field variables.\n  While the framework is general in nature, we specialize it to model a Li-metal-Li7La3Zr2O12 (LLZO) system and demonstrate the ability to capture both intergranular and transgranular crack and Li-filament growth mechanisms, which have been experimentally observed. In addition, we elucidate how mechanical confinement in solid-state batteries plays a key role in the resulting crack/electrodeposition morphology. In modeling this system, we demonstrate the manner in which our framework can elucidate the critical coupling between mechanics and electrodeposition kinetics and its role in dictating Li-filament growth. Beyond this, the framework should serve useful in a number of engineering problems of relevance in which electrochemical reactions take place within a damage zone, depositing new material at these sites.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.06462v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jmps.2023.105252/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.06462v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:28.723070+00:00",
+  "updated_at": "",
+  "extra": {}
+}

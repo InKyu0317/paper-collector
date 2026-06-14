@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2211.16224v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Universal ion-transport descriptors and classes of inorganic solid-state electrolytes",
+  "authors": [
+    {
+      "name": "Cibrán López",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Agustí Emperador",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Edgardo Saucedo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Riccardo Rurali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudio Cazorla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2211.16224v1",
+  "published": "2022-11-29T14:02:17+00:00",
+  "abstract": "Solid-state electrolytes (SSE) with high ion conductivity are pivotal for the development and large-scale adoption of green-energy conversion and storage technologies such as fuel cells, electrocatalysts and solid-state batteries. Yet, SSE are extremely complex materials for which general rational design principles remain indeterminate. Here, we unite first-principles materials modelling, computational power and modern data analysis techniques to advance towards the solution of such a fundamental and technologically pressing problem. Our data-driven survey reveals that the correlations between ion diffusivity and other materials descriptors in general are monotonic, although not necessarily linear, and largest when the latter are of vibrational nature and explicitly incorporate anharmonic effects. Surprisingly, principal component and k-means clustering analysis show that elastic and vibrational descriptors, rather than the usual ones related to chemical composition and ion mobility, are best suited for reducing the high complexity of SSE and classifying them into universal classes. Our findings highlight the need of considering databases that incorporate temperature effects to improve our understanding of SSE and point towards a generalized approach to the design of energy materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2211.16224v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2211.16224v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2211.16224v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:37.686024+00:00",
+  "updated_at": "",
+  "extra": {}
+}

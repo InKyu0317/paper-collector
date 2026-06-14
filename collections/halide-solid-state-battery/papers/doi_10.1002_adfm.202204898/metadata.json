@@ -1,0 +1,96 @@
+{
+  "paper_id": "doi_10.1002_adfm.202204898",
+  "collection": "halide-solid-state-battery",
+  "title": "\"Forbidden\" polarisation and extraordinary piezoelectric effect in organometallic lead halide perovskites",
+  "authors": [
+    {
+      "name": "Milica Vasiljevic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marton Kollar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David Spirito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lukas Riemer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laszlo Forro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Endre Horvath",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Semen Gorfman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dragan Damjanovic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/adfm.202204898",
+  "url": "http://arxiv.org/abs/2202.05754v1",
+  "published": "2022-02-11T16:47:20+00:00",
+  "abstract": "Organometallic lead halide perovskites are highly efficient materials for solar cells and other optoelectronic applications due to their high quantum efficiency and exceptional semiconducting properties. A peculiarity of these perovskites is the substantial ionic motion under external forces. Here, we reveal that electric field-and light-induced ionic motion in MAPbX3 crystals (X=Cl, Br, I and MA=CH3NH3) leads to unexpected piezoelectric-like response, an order of magnitude larger than in ferroelectric perovskite oxides. The nominal macroscopic symmetry of the crystals is broken by redistribution of ionic species, which can be controlled deterministically by light and electric field. The revealed piezoelectric response is possibly present in other materials with significant ionic activity but the unique feature of organometallic perovskites is the strong effect on the piezoelectric response of interplay of ionic motion (MA+ and X-1) and photoelectrons generated with illumination.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2202.05754v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adfm.202204898/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2202.05754v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-14T03:06:21.357168+00:00",
+  "updated_at": "",
+  "extra": {}
+}
