@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.32326_1814-9146-2026-88-1-68-77",
+  "collection": "aluminosilicate",
+  "title": "INVESTIGATION OF RELATIONSHIP BETWEEN ULTIMATE STRENGTH AND POISSON'S RATIO OF ALUMINUM MATRIX COMPOSITE REINFORCED WITH HOLLOW ALUMINOSILICATE MICROSPHERES",
+  "authors": [
+    {
+      "name": "K.V. Kurashkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Mechanical Engineering Research Institute of the Russian Academy of Sciences – Branch of Federal Research Center “Institute of Applied Physics n.a. A.V. Gaponov-Grekhov of the RAS”, Nizhny Novgorod"
+    },
+    {
+      "name": "A.V. Gonchar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Mechanical Engineering Research Institute of the Russian Academy of Sciences – Branch of Federal Research Center “Institute of Applied Physics n.a. A.V. Gaponov-Grekhov of the RAS”, Nizhny Novgorod"
+    },
+    {
+      "name": "A.A. Solovyov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Mechanical Engineering Research Institute of the Russian Academy of Sciences – Branch of Federal Research Center “Institute of Applied Physics n.a. A.V. Gaponov-Grekhov of the RAS”, Nizhny Novgorod"
+    }
+  ],
+  "doi": "10.32326/1814-9146-2026-88-1-68-77",
+  "url": "https://doi.org/10.32326/1814-9146-2026-88-1-68-77",
+  "published": "2026-3-30",
+  "abstract": "<jats:p>The actual topic of nondestructive evaluation of strength properties of cast aluminum matrix composites using ultrasonic inspection data is considered. The results of ultrasonic investigations of promising cast isotropic composite material based on aluminum alloy АA1060, reinforced with hollow aluminosilicate microspheres, are presented. Using the echo pulse method, the velocities of longitudinal and shear ultrasonic waves were determined in the specimens containing fractions of microspheres with sizes of 40–80 µm and 100–200 µm, with saturation degree of 5, 10 and 15%. Based on measurements of the propagation times of ultrasonic waves, the values of the Poisson's ratio are calculated. It was found that both the propagation velocities of longitudinal and shear waves and the Poisson's ratio decrease in direct proportion to the degree of saturation of the alloy with hollow aluminosilicate microspheres, while the slope angles of straightlines vary significantly depending on the size of the microspheres. For the specimens of composite containing microspheres 40–80 µm, the corresponding slope angles of the linear dependences are smaller than for the specimens containing microspheres 100–200 µm. It was also found that, with the same degree of saturation, the ultrasonic wave velocities and the Poisson's ratio in the specimens containing smaller microspheres are greater than in the specimens containing larger microspheres. A negative linear correlation of the Poisson's ratio and the tensile strength has been established for the studied sampling. It is shown that the Poisson's ratio, determined using ultrasonic waves, can be used as an informative parameter for nondestructive testing of an aluminum-matrix composite reinforced with hollow aluminosilicate microspheres. Empirical formulas are proposed for evaluation the ultimate strength of composite and the degree of saturation with hollow microspheres from the ultrasonic measurements.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.32326/1814-9146-2026-88-1-68-77",
+  "pdf_path": "aluminosilicate/papers/doi_10.32326_1814-9146-2026-88-1-68-77/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Problems of Strength and Plasticity",
+  "publisher": "",
+  "issn": "1814-9146",
+  "quartile": "",
+  "added_at": "2026-06-14T03:05:00.859894+00:00",
+  "updated_at": "",
+  "extra": {}
+}

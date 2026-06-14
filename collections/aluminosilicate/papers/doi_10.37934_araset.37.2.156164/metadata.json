@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.37934_araset.37.2.156164",
+  "collection": "aluminosilicate",
+  "title": "Radiation Shielding Properties of Aluminosilicate Glass Systems using Phy-X Software",
+  "authors": [
+    {
+      "name": "M. I. Sayyed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.37934/araset.37.2.156164",
+  "url": "https://doi.org/10.37934/araset.37.2.156164",
+  "published": null,
+  "abstract": "<jats:p>In this work, we studied the radiation shielding properties of aluminosilicate glasses with constant SiO2 content. By applying Phy-X software, we calculated different radiation attenuation factors for the chosen glasses. The linear attenuation coefficient (LAC) for the chosen CaO–Al2O3–SiO2 glass systems showed an exponential decrease as the energy changes from 0.015 to 15 MeV. For the glass with composition of 35CaO-5Al2O3-60SiO2, the LAC decreases from 29.80 to 1.279 cm-1 between 0.015 and 0.05 MeV. The LAC decreases with the increase in the Al2O3 content. The minimum LAC is found for the glass with the composition of 20CaO-20Al2O3-60SiO2. The effective atomic number (Zeff) was reported, and we found that the highest Zeff is occurred at 0.015 MeV and varied between 14.55 and 16.09. The Zeff decreases when we replaced the CaO by Al2O3. The half value layer was reported and we discussed the impact of the density of the glasses on the HVL values. In the low energy range, the HVL values are small and the different compositions have close HVL. For E&gt;0.08 MeV, the HVL is higher than 1 cm for all glasses, while for E&gt; 0.2 MeV, the HVL becomes higher than 2 cm for all glasses. The glass with composition of 35CaO-5Al2O3-60SiO2 has better attenuation performance than the other glasses in this study.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.37934/araset.37.2.156164",
+  "pdf_path": "aluminosilicate/papers/doi_10.37934_araset.37.2.156164/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 11,
+  "journal": "Journal of Advanced Research in Applied Sciences and Engineering Technology",
+  "publisher": "",
+  "issn": "2462-1943",
+  "quartile": "",
+  "added_at": "2026-06-14T03:05:00.860302+00:00",
+  "updated_at": "",
+  "extra": {}
+}
