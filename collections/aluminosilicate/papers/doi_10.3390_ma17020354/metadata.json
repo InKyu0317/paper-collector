@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_ma17020354",
+  "collection": "aluminosilicate",
+  "title": "A Study on the Microstructure and Mechanical Properties of Portland Cement Incorporating Aluminosilicate Waste",
+  "authors": [
+    {
+      "name": "Valentin Antonovič",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    },
+    {
+      "name": "Donatas Sikarskas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    },
+    {
+      "name": "Renata Boris",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    },
+    {
+      "name": "Andrius Kudžma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8667-2822",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    },
+    {
+      "name": "Jurgita Malaiškienė",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    },
+    {
+      "name": "Rimvydas Stonys",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Composite Materials, Institute of Building Materials, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania"
+    }
+  ],
+  "doi": "10.3390/ma17020354",
+  "url": "https://doi.org/10.3390/ma17020354",
+  "published": null,
+  "abstract": "<jats:p>The influence of aluminosilicate pozzolanic waste, specifically spent fluid catalytic cracking waste (FCCW) and metakaolin waste (MK) from the expanded glass industry, on the properties of hardened Portland cement paste were analysed. The study involved replacing part of cement with FCCW and MK and observing their impact on the hydration, microstructure, density, and compressive strength of hardened cement paste. Various analysis methods were employed, including X-ray diffraction (XRD), thermogravimetric analysis (TG), and scanning electron microscopy (SEM), to understand the changes in the structure of the hardened cement paste during hydration. The findings revealed that FCCW tends to accelerate the cement hydration process due to its high surface area and pozzolanic activity. Notably, the formation of portlandite crystals was observed on FCCW particle surfaces in a specific direction. These crystals appeared smaller and developed in different directions in compositions containing a composite binder with mixture of FCCW and MK in a ratio 1:1. This could be influenced by pozzolanic reactions activated by fine particles of MK and the formation of calcium silicate hydrates (C-S-H) and calcium alumino silicate hydrates (C-A-S-H) in the presence of portlandite. The XRD and TG results indicated that the specimens containing a composite binder exhibited the least amount of portlandite. The compressive strength of these specimens increased compared to the control specimens, although the amount of cement was 9% lower.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma17020354",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma17020354/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-06-15T03:06:57.194798+00:00",
+  "updated_at": "",
+  "extra": {}
+}
