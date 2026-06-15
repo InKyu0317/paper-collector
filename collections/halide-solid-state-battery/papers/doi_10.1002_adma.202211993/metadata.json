@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.1002_adma.202211993",
+  "collection": "halide-solid-state-battery",
+  "title": "Full control of solid-state electrolytes for electrostatic gating",
+  "authors": [
+    {
+      "name": "Chuanwu Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Margherita Melegari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marc Philippi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniil Domaretskiy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicolas Ubrig",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ignacio Gutiérrez-Lezama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alberto F. Morpurgo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/adma.202211993",
+  "url": "http://arxiv.org/abs/2302.11967v1",
+  "published": "2023-02-23T12:33:08+00:00",
+  "abstract": "Ionic gating is a powerful technique to realize field-effect transistors (FETs) enabling experiments not possible otherwise. So far, ionic gating has relied on the use of top-electrolyte gates, which pose experimental constraints and make device fabrication complex. Promising results obtained recently in FETs based on solid-state electrolytes remain plagued by spurious phenomena of unknown origin, preventing proper transistor operation, and causing limited control and reproducibility. Here we explore a class of solid-state electrolytes for gating (Lithium-ion conducting glass-ceramics, LICGCs), identify the processes responsible for the spurious phenomena and irreproducible behavior,and demonstrate properly functioning transistors exhibiting high density ambipolar operation with gate capacitance of ~20-50 $μ$F/cm$^2$ (depending on the polarity of the accumulated charges). Using two-dimensional semiconducting transition-metal dichalcogenides we demonstrate the ability to implement ionic-gate spectroscopy to determine the semiconducting bandgap, and to accumulate electron densities above 10$^{14}$ cm$^{-2}$, resulting in gate-induced superconductivity in MoS$_2$ multilayers. As LICGCs are implemented in a back-gate configuration, they leave the surface of the material exposed, enabling the use of surface-sensitive techniques (such as scanning tunneling microscopy and photoemission spectroscopy) impossible so far in ionic-liquid gated devices. They also allow double ionic gated devices providing independent control of charge density and electric field.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.11967v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adma.202211993/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.11967v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:33.070614+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2510.11948v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Microscopic Intricacies of Self-Healing in Halide Perovskite-Charge Transport Layer Heterostructures",
+  "authors": [
+    {
+      "name": "Tejmani Behera",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Boris Louis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lukas Paesen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Roel Vanden Brande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Koki Asano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Vacha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maarten Roeffaers",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elke Debroye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johan Hofkens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sudipta Setha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.11948v1",
+  "published": "2025-10-13T21:16:51+00:00",
+  "abstract": "The stability and performance of halide perovskite photovoltaic devices are critically limited by progressive defect generation and associated local non-radiative losses during operation. Self-healing of defects provides a promising pathway to prolong device functionality, yet the underlying microscopic mechanisms remain poorly understood, particularly the role of interfacial chemistry on trap dynamics and healing kinetics. Here, we elucidate self-healing and defect evolution in triple-cation mixed halide (TCMH) perovskite films and their device-relevant charge transport layer heterostructures subjected to photo-induced damage. Using correlation clustering imaging (CLIM), our recently developed local functional imaging tool, we map spatiotemporal photoluminescence heterogeneity to track defect dynamics in pristine and heterostructure films. The defect healing follows bi-phasic kinetics, with an initial electronic relaxation (tens of minutes) and a subsequent slower phase (~ hours) associated to ionic and lattice rearrangement. Most importantly, our results demonstrate that the chemical nature of charge-transport layers modulates trap activity, healing kinetics, and halide redistribution, with heterostructures exhibiting faster recovery than pristine films, a boon for device resilience. These findings provide new insights into the dynamic interaction between defects, interfaces, and ion migration, and establish a framework for rational design of durable, next-generation perovskite optoelectronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.11948v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.11948v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.11948v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:36.683363+00:00",
+  "updated_at": "",
+  "extra": {}
+}

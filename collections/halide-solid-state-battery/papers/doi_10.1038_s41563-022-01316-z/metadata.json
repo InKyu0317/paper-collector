@@ -1,0 +1,66 @@
+{
+  "paper_id": "doi_10.1038_s41563-022-01316-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Defect-Driven Anomalous Transport in Fast-Ion Conducting Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Andrey D. Poletayev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Stanford Institute for Materials and Energy Sciences, SLAC National Laboratory, Menlo Park, CA, USA, Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA"
+    },
+    {
+      "name": "James A. Dawson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Chemistry - School of Natural and Environmental Sciences, Newcastle University, Newcastle upon Tyne, UK, Centre for Energy, Newcastle University, Newcastle upon Tyne, UK"
+    },
+    {
+      "name": "M. Saiful Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Chemistry, University of Bath, Bath, UK"
+    },
+    {
+      "name": "Aaron M. Lindenberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Stanford Institute for Materials and Energy Sciences, SLAC National Laboratory, Menlo Park, CA, USA, Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA"
+    }
+  ],
+  "doi": "10.1038/s41563-022-01316-z",
+  "url": "http://arxiv.org/abs/2105.08761v1",
+  "published": "2021-05-18T18:19:18+00:00",
+  "abstract": "Solid-state ionic conduction is a key enabler of electrochemical energy storage and conversion. The mechanistic connections between material processing, defect chemistry, transport dynamics, and practical performance are of considerable importance, but remain incomplete. Here, inspired by studies of fluids and biophysical systems, we re-examine anomalous diffusion in the iconic two-dimensional fast-ion conductors, the $β$- and $β^{\\prime\\prime}$-aluminas. Using large-scale simulations, we reproduce the frequency dependence of alternating-current ionic conductivity data. We show how the distribution of charge-compensating defects, modulated by processing, drives static and dynamic disorder, which lead to persistent sub-diffusive ion transport at macroscopic timescales. We deconvolute the effects of repulsions between mobile ions, the attraction between the mobile ions and charge-compensating defects, and geometric crowding on ionic conductivity. Our quantitative framework based on these model solid electrolytes connects their atomistic defect chemistry to macroscopic performance with minimal assumptions and enables mechanism-driven 'atoms-to-device' optimization of fast-ion conductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2105.08761v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41563-022-01316-z/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2105.08761v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:56.431963+00:00",
+  "updated_at": "",
+  "extra": {}
+}

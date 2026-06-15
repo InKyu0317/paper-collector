@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1039_d2cp00452f",
+  "collection": "halide-solid-state-battery",
+  "title": "Structure, hydrogen bond dynamics and phase transition in a prototypical ionic liquid electrolyte",
+  "authors": [
+    {
+      "name": "Alexander E. Khudozhitkov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peter Stange",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander G. Stepanov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniil I. Kolokolov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ralf Ludwig",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D2CP00452F",
+  "url": "http://arxiv.org/abs/2112.02908v1",
+  "published": "2021-12-06T10:15:05+00:00",
+  "abstract": "Ionic liquids (ILs) gain much interest as possible electrolytes in the next generation of mixed-solid Li-ion batteries. However, such properties of ionic liquids as melting transition, diffusion, strength and structure of hydrogen bond network remain poorly investigated. Here 2H NMR study of a prototypical ionic liquid [TEA][NTf2] has been performed. We show that the dynamical melting occurs through a dynamically heterogeneous phase stable between 223-277 K and the transition process is characterized by two standard molar enthalpy changes indicating to the multistage nature of the melting. The spin relaxation analysis allowed determining geometry, rates and energetics of IL mobility in both solid and liquid state. We compare these properties with previously reported data on [TEA][OTf] and [TEA][OMs] ILs that share cation but have anions of varying strength. Our results prove that the stronger hydrogen bonds between cation and anion lead to the lower enthalpy change between solid and liquid state, higher activation barrier of tumbling motion and lower amplitude of libration motion.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2112.02908v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d2cp00452f/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2112.02908v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:39.704334+00:00",
+  "updated_at": "",
+  "extra": {}
+}

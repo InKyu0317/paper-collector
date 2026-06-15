@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2411.10780v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Weak Host Interactions Induced Thermal Transport Properties of Metal Halide Perovskites Deviating from the Rattling Model",
+  "authors": [
+    {
+      "name": "Yu Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linxuan Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuming Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yimin Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liujiang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2411.10780v1",
+  "published": "2024-11-16T11:49:00+00:00",
+  "abstract": "The low-frequency phonon branches of metal halide perovskites typically exhibit the characteristic of hardening with the increase of the cation mass, which leads to anomalous thermal transport phenomenon. However, the underlying physical mechanism is not yet understood. Here, we theoretically compare the thermal transport properties of $A_2$SnI$_6$ ($A$=K, Rb, and Cs) perovskites. The thermal transport in perovskites is widely explained using the rattling model, where ``guest'' cations inside the metal halide framework act as ``rattlers'', but this fails to explain the following phenomenon: The low-frequency phonon branch of $A_2$SnI$_6$ perovskites is insensitive to the mass of the $A^+$ cation and strongly correlated with the interaction of the $A^+$ cation with the I$^-$ anion in the octahedral structures. The failure of the rattling model stems mainly from the weak interactions between the octahedral structures. By developing a new spring model, we successfully explain the thermal transport behavior in $A_2$SnI$_6$ perovskites. Our work gives new insights into the thermal transport mechanism in metal halide perovskites, which has a guiding significance for designing extremely low thermal conductivity materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2411.10780v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2411.10780v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2411.10780v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:46.238594+00:00",
+  "updated_at": "",
+  "extra": {}
+}

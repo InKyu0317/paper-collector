@@ -1,0 +1,119 @@
+{
+  "paper_id": "arxiv_2309.01062v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Validation of the Wiedemann-Franz Law in solid and molten tungsten above 2000 K through thermal conductivity measurements via steady state temperature differential radiometry",
+  "authors": [
+    {
+      "name": "Milena Milich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hunter B. Schonfeld",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Konstantinos Boboridis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Davide Robba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luka Vlahovic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rudy Konings",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeffrey L. Braun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John T. Gaskins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Niraj Bhatt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ashutosh Giri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick E. Hopkins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2309.01062v1",
+  "published": "2023-09-03T03:07:34+00:00",
+  "abstract": "We measure the thermal conductivity of solid and molten tungsten using Steady State Temperature Differential Radiometry. We demonstrate that the thermal conductivity can be well described by application of Wiedemann-Franz Law to electrical resistivity data, thus suggesting the validity of Wiedemann-Franz Law to capture the electronic thermal conductivity of metals in their molten phase. We further support this conclusion using ab initio molecular dynamics simulations with a machine-learned potential. Our results show that at these high temperatures, the vibrational contribution to thermal conductivity is negligible compared to the electronic component.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2309.01062v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2309.01062v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2309.01062v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:52.673193+00:00",
+  "updated_at": "",
+  "extra": {}
+}

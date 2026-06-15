@@ -1,0 +1,136 @@
+{
+  "paper_id": "arxiv_2512.06766v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide Perovskite-Chalcohalide Nanocrystal Heterostructures as a Platform for the Synthesis and Investigation of the CsPbCl3-CsPbI3 Epitaxial Interface",
+  "authors": [
+    {
+      "name": "Nikolaos Livakas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Irina Skvortsova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juliette Zito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yurii P. Ivanov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aswin Asaithambi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrea Toma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Annick De Backer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Muhammad Imran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sandra Van Aert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Giorgio Divitini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ivan Infante",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sara Bals",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liberato Manna",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2512.06766v1",
+  "published": "2025-12-07T09:59:38+00:00",
+  "abstract": "Halide exchange in lead-based halide perovskites has been studied extensively. While mixed Cl-Br or Br-I alloy compositions can be formed with no miscibility gaps, this is precluded for mixed Cl-I compositions, due to the large difference in Cl and I ionic radii. Here, we exploit perovskite-chalcohalide CsPbCl3-Pb4S3Cl2 heterostructures to study the Cl-I exchange and isolate new types of intermediate structures. The epitaxial interface between the Pb4S3Cl2 chalcohalide and the CsPbCl3 perovskite domain significantly influences the intermediate stages of halide exchange in the perovskite domain, leading to coexisting CsPbCl3 and CsPbI3 domains, thereby delivering segmented CsPbI3-CsPbCl3-Pb4S3Cl2 energetically favorable heterostructures, with partial iodide alloying of the CsPbCl3 domain and at the perovskite-chalcohalide interface. The I:CsPbCl3 domain between CsPbI3 and Pb4S3Cl2 enables a gradual lattice expansion across the heterostructure. This design accommodates interfacial strain, with a 5.6% mismatch at the CsPbCl3-CsPbI3 interface and a 3.4% mismatch at the perovskite-chalcohalide interface. Full halide exchange leads to CsPbI3-Pb4S3Cl2 heterostructures. Both in intermediate and fully exchanged heterostructures, the CsPbI3 domain is emissive. In the intermediate structures, the band alignment between the two perovskite domains is type-I, with carriers photogenerated in the CsPbCl3 domain quickly transferring to the CsPbI3 domain, where they can recombine radiatively.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.class-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.06766v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2512.06766v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.06766v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:27.296253+00:00",
+  "updated_at": "",
+  "extra": {}
+}

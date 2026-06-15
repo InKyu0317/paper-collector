@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2025-013404mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Development of High-Throughput Solid-State Synthesis and Screening of Halide Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Elliot Zolfaghar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Parisa Vahdatkhah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Eric McCalla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-013404mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-013404mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tAll-solid-state lithium batteries (ASSLBs) represent a promising path for next-generation rechargeable battery technologies. ASSLBs offer enhanced safety, stability, and energy density by replacing flammable liquid electrolytes with solid electrolytes (SEs). Among SEs, halide solid electrolytes (HSEs) such as Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> (LIC) have shown particular promise due to their high ionic conductivity, deformability, and compatibility with high-voltage cathodes without requiring coatings.[1] These halides exhibit lower Coulombic forces and larger ionic radii compared to oxide or sulfide counterparts, which facilitates rapid lithium-ion transport and broadens the electrochemical window, making them ideal candidates for large-scale applications. While HSEs possess favorable properties, most are structurally and electrochemically unstable when exposed to moisture or air. Furthermore, tuning anion and cation sites to replace costly elements is essential while optimizing key properties. As a result, HSE advancement requires rapid exploration of wide compositional spaces.</jats:p>\n               <jats:p>In this work, we introduce a new solid-state high throughput (HT) platform that employs HT high-energy ball milling followed by annealing to synthesize LIC entirely in an inert atmosphere, avoiding air exposure throughout synthesis and characterization. Our approach incorporates a closed-system synthesis and screening workflow [2] to rapidly evaluate the impact of synthetic parameters, such as milling duration and annealing conditions. This setup enables consistent, scalable synthesis of milligram scale samples while ensuring phase integrity and electrochemical features. This HT platform is well-suited for systematic exploration of doped and undoped variants across lithium halide compositions, supporting the search for more sustainable and cost-effective ASSLIB materials.</jats:p>\n               <jats:p>Our findings validate the HT platform’s effectiveness in producing air-stable LIC with high ionic conductivity, assessed via X-ray diffraction (XRD), electrochemical impedance spectroscopy (EIS), cyclic voltammetry (CV), and thermogravimetric analysis (TGA). This closed-system HT synthesis approach allows for reliable screening of compositional modifications, including targeted anion and cation doping at lithium and indium sites, to optimize cost and sustainability without compromising performance. Our proof-of-concept demonstrates a scalable pathway for tunable electrolyte discovery, underscoring the potential of HT methodologies to advance the next generation of stable, high-performance SEs for energy storage solutions.</jats:p>\n               <jats:p>References</jats:p>\n               <jats:p>[1] X. Li <jats:italic>et al</jats:italic>. <jats:italic>Energy Environ. Sci </jats:italic>\n                  <jats:bold>12</jats:bold>, 2665–2671 (2019).</jats:p>\n               <jats:p>[2] A. Jonderian <jats:italic>et al</jats:italic>. <jats:italic>J. Electrochem. </jats:italic>\n                  <jats:italic>Soc.</jats:italic>\n                  <jats:bold>169</jats:bold>, 050504 (2022).    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-013404mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-013404mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-013404mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:41.579337+00:00",
+  "updated_at": "",
+  "extra": {}
+}

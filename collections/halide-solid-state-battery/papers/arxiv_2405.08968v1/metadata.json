@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2405.08968v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Hydrogen-doping mediated solid state thermal switch",
+  "authors": [
+    {
+      "name": "Ronald Warzoha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Brian Donovan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yifei Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elena Cimpoiasu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shriram Ramanathan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2405.08968v1",
+  "published": "2024-05-14T21:19:20+00:00",
+  "abstract": "Recent reports reveal that isothermal chemical doping of hydrogen in correlated complex oxides such as perovskite nickelates (e.g. NdNiO3) can induce a metal-to-insulator transition (MIT) without the need for temperature modulation. In this work, we interrogate the magnitude change in temperature dependence of thermal conductivity upon chemical doping of hydrogen, as any changes to the thermal properties upon doping offer a route to solid-state thermal switches as well as another potential signal to monitor in a diverse set of sensing, electronic, and optical applications. Using frequency-domain thermoreflectance, we demonstrate that a large concentration of hydrogen (~ 0.1 - 0.5 H/unit cell) completely suppresses the electronic contribution to thermal conductivity in NdNiO3 thin films and reduces the phononic contribution by a factor of 2. These results are critical for the design of next-generation solid-state thermal switches, sensors, extreme environment electronics and neuromorphic memory architectures.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.08968v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2405.08968v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.08968v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-15T03:08:49.643923+00:00",
+  "updated_at": "",
+  "extra": {}
+}
