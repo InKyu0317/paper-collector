@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ace797",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic Liquid-Assisted Vacuum Deposition of Organic Ionic Plastic Crystal Thin Films",
+  "authors": [
+    {
+      "name": "Yota Matsuoka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Shingo Maruyama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6608-2219",
+      "affiliation": ""
+    },
+    {
+      "name": "Kenichi Kaminaga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yuji Matsumoto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1819-5566",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ace797",
+  "url": "https://doi.org/10.1149/2162-8777/ace797",
+  "published": "2023-7-1",
+  "abstract": "<jats:p>We report the preparation of thin films of 1-ethyl-1-methylpyrrolidinium bis(trifluoromethylsulfonyl)amide ([C<jats:sub>2</jats:sub>mpyr][TFSA]), which is among organic ionic plastic crystals, using an ionic liquid (IL) -assisted vacuum deposition method. 1-ethyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide ([C<jats:sub>2</jats:sub>mim][TFSA]), a well-known IL, was used as a solvent to assist the crystal growth. The effect of the IL on the growth morphology and crystal orientation of the thin films was investigated. It was found that the IL-assisted growth resulted in the preferential growth of (100)-oriented [C<jats:sub>2</jats:sub>mpyr][TFSA] crystallites, whose morphology depended on the deposition temperature and the presence of IL. Growth models for [C<jats:sub>2</jats:sub>mpyr][TFSA] thin films under different growth conditions are proposed and discussed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ace797",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ace797/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ace797/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-06-16T03:19:13.638929+00:00",
+  "updated_at": "",
+  "extra": {}
+}
