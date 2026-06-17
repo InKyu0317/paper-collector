@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.3389_fchem.2022.952875",
+  "collection": "halide-solid-state-battery",
+  "title": "Temperature-dependent compatibility study on halide solid-state electrolytes in solid-state batteries",
+  "authors": [
+    {
+      "name": "Gaoshuai Jia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zhi Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Dixing Ni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zhaoran Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Diancheng Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xinxin Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Shuai Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yusheng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.3389/fchem.2022.952875",
+  "url": "https://doi.org/10.3389/fchem.2022.952875",
+  "published": null,
+  "abstract": "<jats:p>All-solid-state lithium batteries (ASSLBs) have attracted much attention owing to their high safety and energy density compared to conventional organic electrolytes. However, the interfaces between solid-state electrolytes and electrodes retain some knotty problems regarding compatibility. Among the various SSEs investigated in recent years, halide SSEs exhibit relatively good interfacial compatibility. The temperature-dependent interfacial compatibility of halide SSEs in solid-state batteries is investigated by thermal analysis using simultaneous thermogravimetry and differential scanning calorimetry (TG–DSC) and X-ray diffraction (XRD). Halide SSEs, including rock-salt-type Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> and anti-perovskite-type Li<jats:sub>2</jats:sub>OHCl, show good thermal stability with oxides LiCoO<jats:sub>2</jats:sub>, LiMn<jats:sub>2</jats:sub>O<jats:sub>4</jats:sub>, and Li<jats:sub>4</jats:sub>Ti<jats:sub>5</jats:sub>O<jats:sub>12</jats:sub> up to 320 °C. Moreover, anti-perovskite-type Li<jats:sub>2</jats:sub>OHCl shows a chemical reactivity with other battery materials (eg., LiFePO<jats:sub>4</jats:sub>, LiNi<jats:sub>0.8</jats:sub>Co<jats:sub>0.1</jats:sub>Mn<jats:sub>0.1</jats:sub>O<jats:sub>2</jats:sub>, Si-C, and Li<jats:sub>1.3</jats:sub>Al<jats:sub>0.3</jats:sub>Ti<jats:sub>1.7</jats:sub>(PO<jats:sub>4</jats:sub>)<jats:sub>3</jats:sub>) at 320°C, which reaches the melting point of Li<jats:sub>2</jats:sub>OHCl. It indicated that Li<jats:sub>2</jats:sub>OHCl has relatively high chemical reactivity after melting. In contrast, rock-salt-type Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> shows higher stability and interfacial compatibility. This work delivers insights into the selection of suitable battery materials with good compatibility for ASSLBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3389/fchem.2022.952875",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3389_fchem.2022.952875/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 17,
+  "journal": "Frontiers in Chemistry",
+  "publisher": "",
+  "issn": "2296-2646",
+  "quartile": "",
+  "added_at": "2026-06-17T03:19:05.668593+00:00",
+  "updated_at": "",
+  "extra": {}
+}
