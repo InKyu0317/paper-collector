@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1038_s41598-023-36501-w",
+  "collection": "halide-solid-state-battery",
+  "title": "Using Pressure to Unravel the Structure-Dynamic-Disorder Relationship in Metal Halide Perovskites",
+  "authors": [
+    {
+      "name": "Kai Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Pérez-Fidalgo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bethan L. Charles",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mark T. Weller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Isabel Alonso",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro R. Goñi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41598-023-36501-w",
+  "url": "http://arxiv.org/abs/2305.07020v1",
+  "published": "2023-05-11T17:57:58+00:00",
+  "abstract": "The exceptional optoelectronic properties of metal halide perovskites (MHPs) are presumed to arise, at least in part, from the peculiar interplay between the inorganic metal-halide sublattice and the atomic or molecular cations enclosed in the cage voids. The latter can exhibit a roto-translative dynamics, which is shown here to be at the origin of the structural behavior of MHPs as a function of temperature, pressure and composition. The application of high hydrostatic pressure allows for unraveling the nature of the interaction between both sublattices, characterized by the simultaneous action of hydrogen bonding and steric hindrance. In particular, we find that under the conditions of unleashed cation dynamics, the key factor that determines the structural stability of MHPs is the repulsive steric interaction rather than hydrogen bonding. Taking as example the results from pressure and temperature-dependent photoluminescence and Raman experiments on MAPbBr$_3$ but also considering the pertinent MHP literature, we provide a general picture about the relationship between the crystal structure and the presence or absence of cationic dynamic disorder. The reason for the structural sequences observed in MHPs with increasing temperature, pressure, A-site cation size or decreasing halide ionic radius is found principally in the strengthening of the dynamic steric interaction with the increase of the dynamic disorder. In this way, we have deepened our fundamental understanding of MHPs; knowledge that could be coined to improve performance in future optoelectronic devices based on this promising class of semiconductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.07020v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41598-023-36501-w/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.07020v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:06.733313+00:00",
+  "updated_at": "",
+  "extra": {}
+}

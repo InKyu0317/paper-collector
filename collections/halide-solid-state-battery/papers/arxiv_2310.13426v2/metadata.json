@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2310.13426v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Equilibrium in solid-state electrochemical cells at sample-electrolyte boundary",
+  "authors": [
+    {
+      "name": "Yakov I. Korepanov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.13426v2",
+  "published": "2023-10-20T11:29:54+00:00",
+  "abstract": "In solid-state electrochemical experiments, the boundary between the sample and the electrolyte plays a crucial role, and the rest of the sample acting as a buffer that maintains a fixed composition. Due to the presence of an electrochemical circuit in the cell (ionic conductivity in the electrolyte and electronic conductivity in the sample system), the chemical potential is equalized at the electrolyte-sample boundary. This leads to an equilibrium state and allows for the measurement of equilibrium values, regardless of the assumptions made by the experimenters. This article demonstrates the principle of equalizing the electrochemical potential at the electrolyte-sample interface, which explains why achieving equilibrium in the presence of an electrolyte can occur much faster compared to sample synthesis, which often occurs at higher temperatures. This fact can be used to synthesize sample systems or other substances at the required temperatures with a significant reduction in synthesis time.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.13426v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.13426v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.13426v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:18.359449+00:00",
+  "updated_at": "",
+  "extra": {}
+}

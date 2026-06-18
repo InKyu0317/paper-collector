@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2022.114881",
+  "collection": "halide-solid-state-battery",
+  "title": "Effects of biaxial strain on thermal conductivity of novel puckered C2N2 monolayer: A first-principles study",
+  "authors": [
+    {
+      "name": "Liang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7018-1308",
+      "affiliation": ""
+    },
+    {
+      "name": "Jiahong Gu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiqiang Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2022.114881",
+  "url": "https://doi.org/10.1016/j.ssc.2022.114881",
+  "published": "2022-10",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2022.114881",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2022.114881/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:18.359827+00:00",
+  "updated_at": "",
+  "extra": {}
+}

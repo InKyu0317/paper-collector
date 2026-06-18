@@ -1,0 +1,91 @@
+{
+  "paper_id": "doi_10.1038_s41586-023-06827-6",
+  "collection": "halide-solid-state-battery",
+  "title": "The Persistence of Memory in Ionic Conduction Probed by Nonlinear Optics",
+  "authors": [
+    {
+      "name": "Andrey D. Poletayev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthias C. Hoffmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James A. Dawson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Samuel W. Teitelbaum",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mariano Trigo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Saiful Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aaron M. Lindenberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41586-023-06827-6",
+  "url": "http://arxiv.org/abs/2110.06522v2",
+  "published": "2021-10-13T06:19:37+00:00",
+  "abstract": "Predicting practical rates of ion transport from atomistic descriptors enables the rational design of materials, devices, and processes, which is especially critical to developing low-carbon energy technologies such as rechargeable batteries. The correlated mechanisms of ionic conduction, variation of conductivity with timescale and confinement, and ambiguity in the vibrational origin of translation, the attempt frequency, call for a direct atomic probe of the most fundamental steps of ionic diffusion: ion hops. However, such hops are rare-event large-amplitude translations, and are challenging to excite and detect. Here we use single-cycle terahertz pumps to impulsively trigger ionic hopping in battery solid electrolytes. This is visualized by an induced transient birefringence enabling direct probing of anisotropy in ionic hopping on the picosecond timescale. The relaxation of the transient signal measures the decay of orientational memory, and the production of entropy in diffusion. We extend experimental results using in silico transient birefringence to identify attempt frequencies for ion hopping. Using nonlinear optical methods, we probe ion transport at its fastest limit, distinguish correlated conduction mechanisms from a true random walk at the atomic scale, and demonstrate the connection between activated transport and the thermodynamics of information.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "physics.chem-ph",
+    "physics.comp-ph",
+    "physics.optics"
+  ],
+  "source": "arxiv",
+  "source_id": "2110.06522v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41586-023-06827-6/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2110.06522v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:03.009869+00:00",
+  "updated_at": "",
+  "extra": {}
+}

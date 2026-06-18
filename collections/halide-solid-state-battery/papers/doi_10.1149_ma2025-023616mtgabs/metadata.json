@@ -1,0 +1,117 @@
+{
+  "paper_id": "doi_10.1149_ma2025-023616mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Analysis of the Origin of Enhanced Ionic Conductivity of Halide-Based Solid-State Electrolyte by Anion Site Substitution",
+  "authors": [
+    {
+      "name": "Priya Ganesan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ramon Zimmermanns",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jianneng Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yang Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Gabriel J Cuello",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Inés Puente Orench",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastian Baumgart",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Mohsen Sotoudeh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Diemant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Alberto Varzi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Maximilian Fichtner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-023616mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-023616mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    Halide based solid electrolytes (HSEs) have gained significant attention due to their enhanced ionic conductivity (10\n                    <jats:sup>-3</jats:sup>\n                    to 10\n                    <jats:sup>-4</jats:sup>\n                    S cm\n                    <jats:sup>-1</jats:sup>\n                    ), mechanical robustness and oxidative stability, surpassing that of oxide- and sulphide -based electrolytes. However, their ionic conductivity remains lower than that of sulphide based solid electrolytes.\n                    <jats:sup>1</jats:sup>\n                    Among various HSEs, Li\n                    <jats:sub>2</jats:sub>\n                    ZrCl\n                    <jats:sub>6</jats:sub>\n                    stands out due to its cost effectiveness and abundance compared to other halide solid electrolytes.\n                    <jats:sup>2</jats:sup>\n                    Despite these advantages, its room temperature ionic conductivity is suboptimal (&lt; 1 mS cm\n                    <jats:sup>-1</jats:sup>\n                    ). Recent efforts have focused on enhancing the ionic conductivity of these materials, through strategies such as doping, exploiting inductive effects and fine tuning the crystal structure to introduce disorder and optimize diffusion pathways.\n                  </jats:p>\n                  <jats:p>\n                    In this study, we report the synthesisof\n                    <jats:italic>\n                      Li\n                      <jats:sub>2</jats:sub>\n                      ZrCl\n                      <jats:sub>6-2x</jats:sub>\n                      S\n                      <jats:sub>x</jats:sub>\n                    </jats:italic>\n                    via mechanochemical milling, investigating the effect of sulphur substitution on the materials properties. Neutron and and X - ray diffraction analysis reveals the formation of a biphasic mixtures, confirming the structural changes upon doping. Notably, Sulphur doping leads to a significant increase in room temperature ionic conductivity rising from 0.24 mS cm\n                    <jats:sup>-1</jats:sup>\n                    to 0.64 mS cm\n                    <jats:sup>-1</jats:sup>\n                    by sulphur doping. Density Functional Theory (DFT) simulations provide further insight into the improved diffusion mechanism, transitioning from one dimensional (1D) to two - dimensional (2D) conduction pathway. Electrochemical testing of the full cells demonstrates enhanced performance, with a capacity retention of 96.3 % compared to the undoped material (68.5 %). Additionally, focused ion beam (FIB) line scans indicate reduced oxygen and nickel diffusion in the Sulphur doped sample.\n                  </jats:p>\n                  <jats:p>Hence, tailoring the crystal structure to create optimized diffusion pathways is essential to improve the ionic conductivity of this class of electrolytes, thereby, offering valuable insights into the promising design of high-performance solid electrolytes for practical applications, contributing to the advancement of the field of solid electrolytes.</jats:p>\n                  <jats:p>\n                    <jats:bold>References:</jats:bold>\n                  </jats:p>\n                  <jats:p>\n                    (1) Huang, L.; Zhang, L.; Bi, J.; Liu, T.; Zhang, Y.; Liu, C.; Cui, J.; Su, Y.; Wu, B.; Wu, F. An Insight into Halide Solid-State Electrolytes: Progress and Modification Strategies.\n                    <jats:italic>Energy Material Advances</jats:italic>\n                    . American Association for the Advancement of Science 2024. https://doi.org/10.34133/energymatadv.0092.\n                  </jats:p>\n                  <jats:p>\n                    (2) Wang, K.; Ren, Q.; Gu, Z.; Duan, C.; Wang, J.; Zhu, F.; Fu, Y.; Hao, J.; Zhu, J.; He, L.; Wang, C. W.; Lu, Y.; Ma, J.; Ma, C. A Cost-Effective and Humidity-Tolerant Chloride Solid Electrolyte for Lithium Batteries.\n                    <jats:italic>Nat. Commun.</jats:italic>\n                    <jats:bold>2021</jats:bold>\n                    ,\n                    <jats:italic>12</jats:italic>\n                    (1). https://doi.org/10.1038/s41467-021-24697-2.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-023616mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-023616mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-023616mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:07.860064+00:00",
+  "updated_at": "",
+  "extra": {}
+}

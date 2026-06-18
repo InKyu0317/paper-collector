@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1002_adma.202205459",
+  "collection": "halide-solid-state-battery",
+  "title": "Optical Memory, Switching, and Neuromorphic Functionality in Metal Halide Perovskite Materials and Devices",
+  "authors": [
+    {
+      "name": "Gaurav Vats",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Brett Hodges",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrew J. Ferguson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lance Wheeler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeffrey L. Blackburn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/adma.202205459",
+  "url": "http://arxiv.org/abs/2303.02220v1",
+  "published": "2023-03-03T21:30:48+00:00",
+  "abstract": "Metal halide perovskite-based materials have emerged over the past few decades as remarkable solution-processable opto-electronic materials with many intriguing properties and potential applications. These emerging materials have recently been considered for their promise in low-energy memory and information processing applications. In particular, their large optical cross-sections, high photoconductance contrast, large carrier diffusion lengths, and mixed electronic/ionic transport mechanisms are attractive for enabling memory elements and neuromorphic devices that are written and/or read in the optical domain. Here, we review recent progress toward memory and neuromorphic functionality in metal halide perovskite materials and devices where photons are used as a critical degree of freedom for switching, memory, and neuromorphic functionality.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2303.02220v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adma.202205459/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2303.02220v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:06:58.203544+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1063_5.0083763",
+  "collection": "halide-solid-state-battery",
+  "title": "Time-resolved vibrational-pump visible-probe spectroscopy for thermal conductivity measurement of metal-halide perovskites",
+  "authors": [
+    {
+      "name": "Shunran Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenghong Dai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linda Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nitin P. Padture",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peijun Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0083763",
+  "url": "http://arxiv.org/abs/2205.01194v1",
+  "published": "2022-05-02T20:15:26+00:00",
+  "abstract": "Understanding thermal transport at the micro- to nanoscale is crucially important for a wide range of technologies ranging from device thermal management and protection systems to thermal-energy regulation and harvesting. In the past decades, non-contact optical methods such as time-domain and frequency-domain thermoreflectance (TDTR and FDTR) have emerged as extremely powerful and versatile thermal metrological techniques for the measurement of material thermal conductivities. Here, we report the measurement of thermal conductivity of thin films of CH3NH3PbI3 (MAPbI3), a prototypical metal-halide perovskite, by developing a time-resolved optical technique called vibrational-pump visible-probe (VPVP) spectroscopy. The VPVP technique relies on the direct thermal excitation of MAPbI3 by femtosecond (fs) mid-infrared (MIR) optical pump pulses that are wavelength-tuned to a vibrational mode of the material, after which the time dependent optical transmittance across the visible range is probed in the ns to the us time window using a broadband pulsed laser. Using the VPVP method, we determine the thermal conductivities of MAPbI3 thin films deposited on different substrates. The transducer-free VPVP method reported here is expected to permit spectrally resolving and spatiotemporally imaging the dynamic lattice temperature variations in organic, polymeric, and hybrid organic-inorganic semiconductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.01194v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0083763/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.01194v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:11.150143+00:00",
+  "updated_at": "",
+  "extra": {}
+}

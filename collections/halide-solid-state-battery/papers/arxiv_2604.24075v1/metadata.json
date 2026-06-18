@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2604.24075v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Interfacial breathing as a dynamic failure law in all-solid-state batteries: amplitude, phase lag and dual-timescale memory as design principles",
+  "authors": [
+    {
+      "name": "Changdeuck Bae",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.24075v1",
+  "published": "2026-04-27T06:00:15+00:00",
+  "abstract": "All-solid-state batteries fail not only by bulk transport limits, but by a reactive interface that evolves during cycling. We show that degradation is governed by two coupled processes: interfacial breathing, the cycle-scale oscillation of lithium contact, and reactive memory, the slow accumulation of electrolyte decomposition. Four descriptors capture breathing, together with a memory metric based on decomposed interphase thickness. A reduced electrochemical benchmark shows that ionic conductivity has little effect on mean discharge voltage, whereas cathode electrolyte interphase resistance causes major voltage and energy losses. A phase-field model of a sulfide-based cell shows that higher stack pressure strongly suppresses breathing-related fluctuations, but leaves reactive memory nearly unchanged. Thus, pressure controls breathing, not memory. The resulting regime map identifies void-growth-dominant, healing-dominant, and interphase-memory-dominant regions. The theory also predicts energy-density rank inversion with C rate, where an initially superior architecture loses advantage at higher rate as breathing intensifies and interphase memory locks in. The design target is therefore not merely higher conductivity or lower resistance, but simultaneous suppression of breathing and independent control of reactive memory through interphase chemistry.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.24075v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.24075v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.24075v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:07:15.279485+00:00",
+  "updated_at": "",
+  "extra": {}
+}

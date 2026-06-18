@@ -1,0 +1,135 @@
+{
+  "paper_id": "arxiv_2510.09960v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Nitrogen-Triggered Amorphization Enables High-Performance Solid-State Electrolytes",
+  "authors": [
+    {
+      "name": "Bolong Hong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lei Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bingkai Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pengfei Nan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruishan Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuhang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhihao Lei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ming Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jing Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Longbang Di",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haijin Ni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Songbai Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinlong Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.09960v1",
+  "published": "2025-10-11T02:15:52+00:00",
+  "abstract": "Amorphous solid-state electrolytes (SSEs) hold great promise for advancing the application of all-solid-state batteries (ASSBs), owing to their favorable ionic conductivity, structural tunability, and promising electrochemical performance. However, the absence of universal design principles for amorphous SSEs limits their development. By fundamentally re-evaluating the amorphization-forming ability of amorphous SSE systems, this study establishes a nitrogen-driven universal strategy to convert diverse metal chlorides into amorphous xLi3N-MCly (0.3 < 3x < 1.9; M denotes a metal element; 2 < y < 5) SSE. Nitrogen synergistically disrupts crystalline order via distorted coordination polyhedra and N-bridged networks, while dynamic bond reorganization enables rapid Li+ migration, achieving ionic conductivity of 2.02 mS cm-1 for 0.533Li3N-HfCl4 at 25 °C. Structural-property relationships reveal that high charge density and bridging capability of N3- enhance network disorder, shorten metal coordinating atom distances, and optimize Li+ diffusion pathway connectivity. ASSBs employing 0.533Li3N-HfCl4 retain 81.87% capacity after 2000 cycles at 1000 mA g-1 with high cathode loading (6.24 mg cm-2), demonstrating engineering viability. This work provides a paradigm for rational design of high-performance amorphous SSEs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.09960v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.09960v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.09960v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-18T03:06:46.379218+00:00",
+  "updated_at": "",
+  "extra": {}
+}
