@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1038_s41598-021-88686-7",
+  "collection": "aluminosilicate",
+  "title": "Laser-induced structural modification in calcium aluminosilicate glasses using molecular dynamic simulations",
+  "authors": [
+    {
+      "name": "Sean Locker",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sushmit Goyal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew E. McKenzie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "S. K. Sundaram",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Craig Ungaro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41598-021-88686-7",
+  "url": "https://doi.org/10.1038/s41598-021-88686-7",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Glass structures of multicomponent oxide systems (CaO–Al\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    –SiO\n                    <jats:sub>2</jats:sub>\n                    ) are studied using a simulated pulsed laser with molecular dynamics. The short- and intermediate-range order structures revealed a direct correlation between the transformation of Al\n                    <jats:sup>(IV)</jats:sup>\n                    to Al\n                    <jats:sup>(V)</jats:sup>\n                    , regions of increased density following laser processing, inherent reduction in the average T–O–T (T = Al, Si) angle, and associated elongation of the T–O bonding distance. Variable laser pulse energies were simulated across calcium aluminosilicate glasses with high silica content (50–80%) to identify densification trends attributed to composition and laser energy. High-intensity pulsed laser effects on fictive temperature and shockwave promotion are discussed in detail for their role in glass densification. Laser-induced structural changes are found to be highly dependent on pulse energy and glass chemistry.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1038/s41598-021-88686-7",
+  "pdf_path": "aluminosilicate/papers/doi_10.1038_s41598-021-88686-7/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-021-88686-7.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "Scientific Reports",
+  "publisher": "",
+  "issn": "2045-2322",
+  "quartile": "",
+  "added_at": "2026-06-18T03:04:47.246220+00:00",
+  "updated_at": "",
+  "extra": {}
+}
