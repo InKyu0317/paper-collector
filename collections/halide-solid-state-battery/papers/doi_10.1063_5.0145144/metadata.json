@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1063_5.0145144",
+  "collection": "halide-solid-state-battery",
+  "title": "Electric field control of RKKY coupling through solid-state ionics",
+  "authors": [
+    {
+      "name": "Maria Ameziane",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Roy Rosenkamp",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lukáš Flajšman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastiaan van Dijken",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rhodri Mansell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0145144",
+  "url": "http://arxiv.org/abs/2301.11626v1",
+  "published": "2023-01-27T10:03:56+00:00",
+  "abstract": "Placing a suitable spacer layer between two magnetic layers can lead to an interaction between the magnetic layers known as Ruderman-Kittel-Kasuya-Yosida (RKKY) coupling. Controlling RKKY coupling, particularly the ability to switch between ferromagnetic and antiferromagnetic coupling, would enable novel magnetic data storage devices. By combining solid-state Li ion battery technology with an out-of-plane magnetized Co/Pt-based stack coupled through a Ru interlayer we investigate the effects of the insertion of Li ions on the magnetic properties of the stack. The RKKY coupling and its voltage dependence is measured as a function of the Ru interlayer thickness, along with the effects of repeated voltage cycling. The Li ions both change the amplitude of the RKKY coupling and its phase, leading to the ability to switch the RKKY coupling between ferromagnetic and antiferromagnetic with applied voltages.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.11626v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0145144/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.11626v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:23.674658+00:00",
+  "updated_at": "",
+  "extra": {}
+}

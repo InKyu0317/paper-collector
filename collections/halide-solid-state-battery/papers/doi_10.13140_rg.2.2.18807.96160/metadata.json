@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.13140_rg.2.2.18807.96160",
+  "collection": "halide-solid-state-battery",
+  "title": "Characteristics of a Titanium Manganese redox flow battery based on Comsol",
+  "authors": [
+    {
+      "name": "Anupam Saha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shinthia Binte Eskender",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.13140/RG.2.2.18807.96160",
+  "url": "http://arxiv.org/abs/2209.09904v1",
+  "published": "2022-09-20T17:38:45+00:00",
+  "abstract": "A simulation model and design of Titanium Manganese Redox Flow Battery (TMRFB) is proposed to study the distribution of dissociation rate, overpotential, current density, and electrode potential. TMRFB is one of the most promising new energy storages because of its high capacity and eco-friendly characteristics in the current condition of energy scarcity and environmental pollution. Moreover, Mn-based flow batteries are gaining popularity due to their inexpensive cost and high energy density in lieu of all vanadium redox flow batteries which are expensive. This research shows that the surface dissociation rate of Ti4+/ Ti3+ and Mn3+/Mn2+ ions are higher at the membrane and lower at the inlet where the velocity of the electrolyte flow is higher; Furthermore, our work reveals that when the thickness of the electrode is compressed from 4.5 mm to 3 mm, overpotential reduces whereas current density and electrode potential increases. The COMSOL Multiphysics software is used to solve the model's equations using the finite element approach. From the dissociation rate it is concluded that less potential is required at the membrane for the oxidation reduction reaction and with optimized electrolyte flow rate battery performance can be improved. Thus, electrode compression increases conductivity and battery performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.09904v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.13140_rg.2.2.18807.96160/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.09904v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:39.034528+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,137 @@
+{
+  "paper_id": "arxiv_2202.02553v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Charge Transport in Mixed Metal Halide Perovskite Semiconductors",
+  "authors": [
+    {
+      "name": "Satyaprasad P. Senanayak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "National Institute of Science Education and Research, India"
+    },
+    {
+      "name": "Krishanu Dey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Ravichandran Shivanna",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Weiwei Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom, Nanjing University of Aeronautics and Astronautics, China"
+    },
+    {
+      "name": "Dibyajyoti Ghosh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Indian Institute of Technology Delhi, India"
+    },
+    {
+      "name": "Bart Roose",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Youcheng Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Zahra Andaji-Garmaroudi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Nikhil Tiwale",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Brookhaven National Laboratory, United States"
+    },
+    {
+      "name": "Judith L. MacManus Driscoll",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Richard Friend",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Samuel D. Stranks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    },
+    {
+      "name": "Henning Sirringhaus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "University of Cambridge, United Kingdom"
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2202.02553v1",
+  "published": "2022-02-05T13:34:04+00:00",
+  "abstract": "Investigation of the inherent field-driven charge transport behaviour of 3D lead halide perovskites has largely remained a challenging task, owing primarily to undesirable ionic migration effects near room temperature. In addition, the presence of methylammonium in many high performing 3D perovskite compositions introduces additional instabilities, which limit reliable room temperature optoelectronic device operation. Here, we address both these challenges and demonstrate that field-effect transistors (FETs) based on methylammonium-free, mixed-metal (Pb/Sn) perovskite compositions, that are widely studied for solar cell and light-emitting diode applications, do not suffer from ion migration effects as their pure Pb counterparts and reliably exhibit hysteresis free p-type transport with high mobility reaching 5.4 $cm^2/Vs$, ON/OFF ratio approaching $10^6$, and normalized channel conductance of 3 S/m. The reduced ion migration is also manifested in an activated temperature dependence of the field-effect mobility with low activation energy, which reflects a significant density of shallow electronic defects. We visualize the suppressed in-plane ionic migration in Sn-containing perovskites compared to their pure-Pb counterparts using photoluminescence microscopy under bias and demonstrate promising voltage and current-stress device operational stabilities. Our work establishes FETs as an excellent platform for providing fundamental insights into the doping, defect and charge transport physics of mixed-metal halide perovskite semiconductors to advance their applications in optoelectronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph",
+    "physics.optics"
+  ],
+  "source": "arxiv",
+  "source_id": "2202.02553v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2202.02553v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2202.02553v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:26.833298+00:00",
+  "updated_at": "",
+  "extra": {}
+}

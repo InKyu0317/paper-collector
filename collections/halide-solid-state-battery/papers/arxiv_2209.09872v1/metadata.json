@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2209.09872v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Characteristics of a Nickel Vanadium redox flow battery Based on COMSOL",
+  "authors": [
+    {
+      "name": "Anupam Saha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shinthia Binte Eskender",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2209.09872v1",
+  "published": "2022-09-20T17:29:04+00:00",
+  "abstract": "The overpotential, dissociation rate, electrode potential distributions and current density are suggested in this study to analyze the Nickel Vanadium Redox Flow Battery (NVRFB). Due to its large capacity and ecofriendly properties, NVRFB may be a viable option in the present state of energy constraint and environmental pollution. Due to their low cost and high energy density, nickel-based flow batteries have gained popularity. This study demonstrates that the Ni2+/Ni+ and V5+/V4+ ions have a higher rate of dissociation at the membrane and a lower rate at the inlet, where the electrolyte flow velocity is greater; Because the membrane undergoes more oxidation-reduction reactions, the electrolyte flow rate is critical in the redox flow cell; Additionally, we see that when electrode thickness is reduced, current density and electrode potential increase while overpotential decreases; the model's equations are solved using the finite-element method in the COMSOL Multiphysics program. An electrolyte-electrode interface connection is used to simulate the reaction. The dissociation rate indicates that the oxidation-reduction process happens at a lower membrane potential. Improving the electrolyte flow rate enhances battery performance. Compression of the electrodes enhances conductivity and battery performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.09872v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2209.09872v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.09872v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:53.923564+00:00",
+  "updated_at": "",
+  "extra": {}
+}

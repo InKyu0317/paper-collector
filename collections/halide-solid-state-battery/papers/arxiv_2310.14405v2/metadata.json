@@ -1,0 +1,41 @@
+{
+  "paper_id": "arxiv_2310.14405v2",
+  "collection": "halide-solid-state-battery",
+  "title": "A Novel Quasiparticle Method for Solid State Ion Transport",
+  "authors": [
+    {
+      "name": "Jiaming Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.14405v2",
+  "published": "2023-10-22T20:34:13+00:00",
+  "abstract": "The quasiparticle method, which has achieved a great success in solid state electronics and crystal lattice vibration, is adopted to study the solid state ion transport. A general recipe is put forward to map the classical solid state ion system together with the short-range ion-ion repulsion to a quasiparticle quantum system based on which simple tight-binding models are set up to study popular solid state ionic issues. The derived ionic eigen-states and transport can naturally incorporate the concerted behavior. The influence of mobile ion doping to ionic conductivity is investigated by an explicit mean-field expression of ion-ion Coulomb interaction to reveal the mechanism of super-ionic conduction. Similar trick is also applied to study the the Onsager transport originated from ion-electron interference. The so called high-entropy mechanism is also explored where the lattice random distorsion and multi-site percolation exhibit positive influence to increase ionic conductivity. Our method is expected to provide a novel framework to understand and study the solid state ion transport.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "quant-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.14405v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.14405v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.14405v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:18.994877+00:00",
+  "updated_at": "",
+  "extra": {}
+}

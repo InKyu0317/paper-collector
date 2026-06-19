@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2410.15350v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Li$_{14}$Mn$_{2}$S$_{9}$ and Li$_{10}$Si$_{2}$S$_{9}$ as a pair of all-electrochem-active electrode and solid-state electrolyte with chemical compatibility and low interface resistance",
+  "authors": [
+    {
+      "name": "Qifan Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jing Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiao Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingchen Lian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liqi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuhe Gong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zibin Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruijuan Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2410.15350v1",
+  "published": "2024-10-20T10:09:30+00:00",
+  "abstract": "In solid-state batteries (SSBs), improving the physical contact at the electrode-electrolyte interface is essential for achieving better performance and durability. On the one hand, it is necessary to look for solid-state electrolytes (SSEs) with high ionic conductivity and no reaction with the electrode, on the other hand, to design the all-electrochem-active (AEA) electrodes that contain no SSEs and other non-active substances. In this work, we proposed a pair of AEA-electrode and SSE with the same structural framework and excellent interface compatibility, Li$_{14}$Mn$_{2}$S$_{9}$ and Li$_{10}$Si$_{2}$S$_{9}$, and confirmed the feasibility by ab-initio molecular dynamics (AIMD) simulations and machine learning interatomic potential based molecular dynamics (MLIP-based MD) simulations, providing a new approach to promote interfacial stability in SSBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.15350v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2410.15350v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.15350v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:46.707987+00:00",
+  "updated_at": "",
+  "extra": {}
+}

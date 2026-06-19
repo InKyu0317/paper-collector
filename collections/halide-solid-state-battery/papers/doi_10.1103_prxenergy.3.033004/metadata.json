@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1103_prxenergy.3.033004",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploring the Temperature and Composition Dependence of the Ionic Transport in Solid-State Battery Composites",
+  "authors": [
+    {
+      "name": "Yannik Rudel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0003-3198-783X",
+      "affiliation": "University of Münster"
+    },
+    {
+      "name": "Marvin A. Kraft",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-5632-4228",
+      "affiliation": "Helmholtz-Institut Münster"
+    },
+    {
+      "name": "Lukas Ketter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "University of Münster"
+    },
+    {
+      "name": "Wolfgang G. Zeier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7749-5089",
+      "affiliation": "University of Münster"
+    }
+  ],
+  "doi": "10.1103/prxenergy.3.033004",
+  "url": "https://doi.org/10.1103/prxenergy.3.033004",
+  "published": null,
+  "abstract": "<jats:p>\n                    Solid-state electrolytes offer a promising avenue for energy storage in the context of lithium-based batteries, not only from an energy density perspective, but also by eliminating issues such as freezing of the liquid electrolyte at low temperatures and the performance limitations associated with that. In solid-state batteries, solid electrolytes are not only used in separators but are also needed in composite electrodes. However, the transport properties of solid-state battery composites are often investigated at room temperature, while the temperature dependence of effective ion transport as a function of volume fraction remains underexplored. Therefore, this work investigates the effective ionic transport in composites of multiple sulfide-based solid electrolytes with\n                    <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\">\n                      <a:mi>Si</a:mi>\n                      <a:mo>/</a:mo>\n                      <a:mrow>\n                        <a:mrow>\n                          <a:mi mathvariant=\"normal\">C</a:mi>\n                        </a:mrow>\n                      </a:mrow>\n                    </a:math>\n                    as the active material, as a function of composition and temperature. Analyzing impedance spectra with a transmission line model, this work reveals changes in activation barrier and with that the temperature dependence of ion transport upon varying the volume ratios. This finding emphasizes the importance of considering the activation energy in solid-state battery design to tailor battery performance to the temperature range of application.\n                  </jats:p>\n                  <jats:sec>\n                    <jats:title/>\n                    <jats:supplementary-material>\n                      <jats:permissions>\n                        <jats:copyright-statement>Published by the American Physical Society</jats:copyright-statement>\n                        <jats:copyright-year>2024</jats:copyright-year>\n                      </jats:permissions>\n                    </jats:supplementary-material>\n                  </jats:sec>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1103/prxenergy.3.033004",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_prxenergy.3.033004/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "PRX Energy",
+  "publisher": "",
+  "issn": "2768-5608",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:33.731390+00:00",
+  "updated_at": "",
+  "extra": {}
+}

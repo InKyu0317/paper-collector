@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2605.19414v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Octahedral Tilting in Halide Double Perovskites: Disentangling Lone-Pair Chemistry and Geometric Effects",
+  "authors": [
+    {
+      "name": "Mehmet Baskurt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Erik Fransson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Madeleine Lindvik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paul Erhart",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Julia Wiktor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2605.19414v2",
+  "published": "2026-05-19T06:08:37+00:00",
+  "abstract": "Halide double perovskites (HDPs) have emerged as promising alternatives to their lead-based counterparts. However, their structural dynamics is less explored than that of conventional halide perovskites. In this work, we investigate octahedral tilting at 0 K and the relative stability of tetragonal and cubic phases of a set of 57 halide double perovskites (HDPs). By combining structural and energetic descriptors with simple geometric metrics, we identify the main trends controlling the stabilization of one-tilt tetragonal phases across this family. We find that both the magnitude of the tilt angles and the energetic preference for tilted phases correlate primarily with the Goldschmidt tolerance factor $t$. The presence of stereochemically active lone-pair cations also correlates with enhanced tilting; however, this trend largely reflects that lone-pair chemistries in HDPs occur together with ionic sizes that shift $t$ away from unity. Consistent with this picture, we observe several compounds without lone pairs that nonetheless exhibit strong octahedral tilting. Finally, using machine-learned interatomic potentials, we connect the 0 K tilting energetics to finite-temperature behavior: compounds with more strongly stabilized tilt phases exhibit higher transition temperatures, and phonon spectra at 350 K reveal soft and broad modes that are consistent with the trends in tolerance factors, tilt angles, and tilt energies at 0 K. Our results provide a systematic reference for structure-stability relationships in HDPs and clarify when lone-pair chemistry is correlated with, rather than the primary cause of, octahedral tilting.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2605.19414v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2605.19414v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2605.19414v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:30.552926+00:00",
+  "updated_at": "",
+  "extra": {}
+}

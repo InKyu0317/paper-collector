@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2024-02674548mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Towards a Degradation-Free Solid-State Lithium-Sulfur Battery Using Sulfide Glassy Solid-State Electrolytes",
+  "authors": [
+    {
+      "name": "Jacob Wheaton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Stuart Leland",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Steve Martin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-02674548mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-02674548mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tSolid-state batteries present several possible advantages over current lithium-ion batteries, including their enabling of higher capacity lithium anodes, and their removal of flammable organic liquid electrolytes. Sulfide glasses are of particular interest due to their high conductivity, low processing temperatures, and their ability to be formed without grain boundaries. Glasses in the Li<jats:sub>2</jats:sub>S – SiS<jats:sub>2</jats:sub> – Li<jats:sub>x</jats:sub>MO<jats:sub>y</jats:sub> phase space are being studied for use in lithium-sulfur batteries. While these glasses may appear to be stable against lithium metal during symmetric cell cycling and cyclic voltammetry, they appear to exhibit degradation during full cell cycling. In this study, this degradation is explored through full cell cycling, scanning electron microscopy, and x-ray photoelectron spectroscopy. Multiple glass compositions were explored for their degradation behavior to find a composition that is stable for use in lithium-sulfur batteries, particularly with LiPO<jats:sub>3</jats:sub> and Li<jats:sub>x</jats:sub>SiO<jats:sub>y</jats:sub> as salt dopants to the Li<jats:sub>2</jats:sub>S – SiS<jats:sub>2</jats:sub> parent glass system. The full cells were made using composite cathodes consisting of planetary ball milled glassy solid electrolytes mixed with carbon and lithium sulfide to generate triple-junctions for optimum capacity.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-02674548mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-02674548mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-02674548mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-19T03:07:35.610168+00:00",
+  "updated_at": "",
+  "extra": {}
+}
