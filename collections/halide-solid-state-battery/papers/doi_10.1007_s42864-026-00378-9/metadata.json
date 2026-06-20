@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1007_s42864-026-00378-9",
+  "collection": "halide-solid-state-battery",
+  "title": "From powder to product: a perspective on halide electrolytes for commercial lithium solid-state batteries",
+  "authors": [
+    {
+      "name": "Nicholas S. Grundish",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1821-6734",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s42864-026-00378-9",
+  "url": "https://doi.org/10.1007/s42864-026-00378-9",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Halide solid electrolytes have emerged as compelling candidates for next-generation solid-state batteries, offering a promising balance of ionic conductivity, interfacial stability, and processability. Compared to sulfides and oxides, halides have a unique blend of properties—high oxidative stability for high-voltage cathodes, good mechanical deformability, and compatibility with emerging anode interfaces. This perspective examines the state of the field, highlighting structure–property relationships across trigonal, spinel, and emerging oxyhalide frameworks, and emphasizing how aliovalent doping, mixed-anion strategies, and Earth-abundant chemistries expand the halide design space. Challenges in moisture sensitivity, interphase formation, and long-term chemical stability are discussed, while scalable synthesis pathways—from mechanochemical milling to melt processing—and their trade-offs in cost and phase purity are evaluated. Integration strategies for halides into composite electrodes and full-cell architectures are examined, with a focus on manufacturability and performance metrics relevant to commercialization. To contextualize these findings, a comparative analysis with sulfide and oxide systems is provided, along with a roadmap for halide-based solid-state battery development to guide future academic research and industrial development initiatives. Halide solid electrolytes now represent a major class of solid electrolyte materials that may provide the critical mix of properties to push true all-solid-state batteries closer to a commercial reality.</jats:p>\n                  <jats:p>\n                    <jats:bold>Graphical abstract</jats:bold>\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s42864-026-00378-9",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s42864-026-00378-9/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42864-026-00378-9.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Tungsten",
+  "publisher": "",
+  "issn": "2661-8028",
+  "quartile": "",
+  "added_at": "2026-06-20T03:17:55.755997+00:00",
+  "updated_at": "",
+  "extra": {}
+}
