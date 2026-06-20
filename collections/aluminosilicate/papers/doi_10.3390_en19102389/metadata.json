@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_en19102389",
+  "collection": "aluminosilicate",
+  "title": "Mechanical and Optical Characterization of 0.7 mm Ion-Exchange-Strengthened Aluminosilicate Glass for Building-Integrated Photovoltaics",
+  "authors": [
+    {
+      "name": "Paweł Kwaśnicki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Physics and Medical Engineering, Rzeszów University of Technology, Al. Powstańców Warszawy 6, 35-959 Rzeszów, Poland"
+    },
+    {
+      "name": "Ludmiła Marszałek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Research & Development Centre for Photovoltaics ML System S.A., Zaczernie 190G, 36-062 Zaczernie, Poland"
+    },
+    {
+      "name": "Dariusz Augustowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4437-7582",
+      "affiliation": "Research & Development Centre for Photovoltaics ML System S.A., Zaczernie 190G, 36-062 Zaczernie, Poland"
+    },
+    {
+      "name": "Anna Gronba-Chyła",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0976-7553",
+      "affiliation": "Faculty of Medicine Institute of Biological Sciences, John Paul II Catholic University of Lublin, Konstantynów 1H, 20-708 Lublin, Poland"
+    },
+    {
+      "name": "Agnieszka Generowicz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8219-0340",
+      "affiliation": "Cracow University of Technology, Department of Environmental Technologies, ul. Warszawska 24, 31-155 Kraków, Poland"
+    }
+  ],
+  "doi": "10.3390/en19102389",
+  "url": "https://doi.org/10.3390/en19102389",
+  "published": null,
+  "abstract": "<jats:p>Ion-exchange-strengthened 0.7 mm aluminosilicate glass offers a promising route to lightweight, mechanically robust front covers for building-integrated photovoltaic (BIPV) modules, but systematic characterization at sub-millimeter thicknesses remains limited. This study investigated 100 × 60 × 0.7 mm glass samples subjected to Na+/K+ ion exchange (6 h, 430 °C, KNO3) and characterized mechanical and optical properties relevant to BIPV applications. Depth of layer (DOL) was cross-validated using three independent methods, mass gain diffusion modeling (31–37 μm), elasto-optic measurements (FSM-6000: 38–42 μm), and EDS Na/K depth profiling (35–40 μm), confirming consistent strengthened layer depth of 35–40 μm. Surface compressive stress measured 733 MPa (Series 2) and 773 MPa (Series 3), significantly exceeding conventional PV cover glass (490–515 MPa, 1 mm thickness). Vickers hardness increased by 17.7% (490 → 596 HV, p &lt; 0.0001), demonstrating enhanced damage tolerance. Spectrophotometric analysis (200–2400 nm) showed transmittance &gt;91% (380–2000 nm) and &gt;92% (600–2000 nm) for both as-received and strengthened glass, confirming no optical degradation (p = 0.29–0.41). The 78–83% mass reduction relative to standard 3.2–4 mm glass, combined with superior CS/DOL and preserved optical performance, establishes ion-exchanged 0.7 mm aluminosilicate glass as a strong material-level candidate for next-generation lightweight BIPV modules. Future work requires module-scale mechanical validation (bending, impact testing per EN/IEC standards) and techno-economic assessment to verify system-level benefits.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/en19102389",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_en19102389/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Energies",
+  "publisher": "",
+  "issn": "1996-1073",
+  "quartile": "",
+  "added_at": "2026-06-20T03:18:50.329226+00:00",
+  "updated_at": "",
+  "extra": {}
+}
