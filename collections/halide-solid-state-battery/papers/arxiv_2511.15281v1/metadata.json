@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2511.15281v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Photoluminescence Mapping of Mobile and Fixed Defects in Halide Perovskite Films",
+  "authors": [
+    {
+      "name": "Sarah C. Gillespie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jérome Gautier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linde M. van de Ven",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Agustin O. Alvarez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bruno Ehrler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "L. J. Geerligs",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Veronique S. Gevaerts",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gianluca Coletti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Erik C. Garnett",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.15281v1",
+  "published": "2025-11-19T09:46:01+00:00",
+  "abstract": "Metal halide perovskites exhibit coupled electronic and ionic properties that determine their photovoltaic performance and operational stability. Understanding and quantifying ionic transport are therefore essential for advancing perovskite optoelectronics. Conventional electrical methods such as impedance spectroscopy require fully integrated devices, and their interpretation is often complicated by interfacial and contact effects, limiting the ability to isolate intrinsic ionic behavior. Here, a localized adaptation of intensity-modulated photoluminescence spectroscopy (IMPLS) is utilized to optically probe lateral ionic transport in perovskite films. The frequency-dependent photoluminescence response is measured under controlled carrier injection levels and correlated with the photoluminescence quantum yield (PLQY). The proposed diffusion model indicates that mobile ionic defects laterally migrate from high light intensity regions, giving rise to characteristic photoluminescence modulations. Ionic diffusion coefficients extracted from IMPLS agree well with literature values obtained from electrical measurements. Importantly, IMPLS mapping separates mobile and immobile defect contributions through a defect contrast coefficient (DCC), which quantifies the normalized difference between the area-averaged photoluminescence intensity and phase data. This work ultimately demonstrates that localized IMPLS provides a contact-free means to extract lateral ion diffusion coefficients while spatially distinguishing defect types across the sample.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.15281v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.15281v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.15281v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:13.020984+00:00",
+  "updated_at": "",
+  "extra": {}
+}

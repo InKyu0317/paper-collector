@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.3390_en19112659",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-State Battery Technology for Next-Generation Electric Vehicles",
+  "authors": [
+    {
+      "name": "Boucar Diouf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Information Display, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-Gu, Seoul 02447, Republic of Korea"
+    }
+  ],
+  "doi": "10.3390/en19112659",
+  "url": "https://doi.org/10.3390/en19112659",
+  "published": null,
+  "abstract": "<jats:p>Solid-state batteries (SSBs) are emerging as a transformative alternative to conventional lithium-ion batteries (LIBs) for next-generation electric vehicles (EVs) by replacing flammable liquid electrolytes with solid-state materials. Compared with current LIB systems delivering approximately 160–300 Wh/kg at the pack level, SSBs are projected to achieve 400–800 Wh/kg, enabling improvements in driving range of nearly 50–100% while simultaneously reducing battery pack mass by 10–30%. These improvements directly enhance vehicle-level energy efficiency by lowering energy consumption from typical values of 150–180 Wh/km in present EVs to projected levels of 110–140 Wh/km in optimized SSB-based architectures. Furthermore, reduced internal resistance and improved electrochemical stability can increase round-trip efficiency from approximately 85–95% in conventional LIBs to values approaching 95–98% under optimized solid-state configurations. The enhanced thermal stability of solid electrolytes significantly reduces the need for active cooling systems, decreasing parasitic thermal-management energy consumption from 10–30% of total vehicle energy demand to below 5–15% in advanced SSB systems. Fast-charging capability is also substantially improved, with projected charging times decreasing from 20–40 min to approximately 10–15 min for 10–80% state-of-charge operation, while maintaining improved safety and reduced risk of thermal runaway. In addition, SSBs demonstrate projected cycle lifetimes exceeding 3000–5000 cycles, compared with 1000–2000 cycles for conventional LIBs, thereby lowering battery replacement frequency and lifecycle energy losses. This paper examines the electrochemical fundamentals, thermal behavior, charging/discharging efficiency, and vehicle-level implications of SSB technology for EV applications. Comparative analyses demonstrate that replacing LIBs with SSBs can increase EV driving range from approximately 400 km to 700–800+ km under equivalent battery mass conditions, while also improving coulombic efficiency beyond 99.5% and reducing self-discharge rates to below 1–2% per month. Current industrial case studies from Toyota, Factorial Energy, Mercedes-Benz, CATL, BYD, QuantumScape, and Samsung SDI further confirm accelerating commercialization pathways toward 2027–2030. Overall, the study demonstrates that SSBs are not merely incremental battery improvements but represent a system-level efficiency technology capable of simultaneously enhancing energy density, reducing thermal and electrical losses, extending vehicle range, accelerating charging, and improving long-term sustainability. Despite persistent challenges related to manufacturing scalability, interfacial resistance, and cost, SSBs are positioned to become a critical enabler of highly efficient, long-range, and safer electric mobility systems beyond 2030.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/en19112659",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_en19112659/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Energies",
+  "publisher": "",
+  "issn": "1996-1073",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:26.367833+00:00",
+  "updated_at": "",
+  "extra": {}
+}

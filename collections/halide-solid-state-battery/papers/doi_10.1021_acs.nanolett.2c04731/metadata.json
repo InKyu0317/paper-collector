@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi_10.1021_acs.nanolett.2c04731",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-state lithium-ion supercapacitor for voltage control of skyrmions",
+  "authors": [
+    {
+      "name": "Maria Ameziane",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joonatan Huhtasalo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lukáš Flajšman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rhodri Mansell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastiaan van Dijken",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.nanolett.2c04731",
+  "url": "http://arxiv.org/abs/2301.11585v1",
+  "published": "2023-01-27T08:18:43+00:00",
+  "abstract": "Ionic control of magnetism gives rise to high magneto-electric coupling efficiencies at low voltages, which is essential for low-power magnetism-based non-conventional computing technologies. However, for on-chip applications, magneto-ionic devices typically suffer from slow kinetics, poor cyclability, impractical liquid architectures or strong ambient effects. As a route to overcoming these problems, we demonstrate an LiPON-based solid-state ionic supercapacitor with a magnetic Pt/Co$_{40}$Fe$_{40}$B$_{20}$/Pt thin-film electrode which enables voltage control of a magnetic skyrmion state. Skyrmion nucleation and annihilation are caused by Li ion accumulation and depletion at the magnetic interface under an applied voltage. The skyrmion density can be controlled through dc applied fields or through voltage pulses. The skyrmions are nucleated by single 60-$μ$s voltage pulses and devices are cycled 750,000 times without loss of electrical performance. Our results demonstrate a simple and robust approach to ionic control of magnetism in spin-based devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.11585v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.nanolett.2c04731/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.11585v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:07.752286+00:00",
+  "updated_at": "",
+  "extra": {}
+}

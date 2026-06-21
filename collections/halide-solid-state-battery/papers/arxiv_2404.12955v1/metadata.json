@@ -1,0 +1,119 @@
+{
+  "paper_id": "arxiv_2404.12955v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Anisotropic electron-phonon interactions in 2D lead-halide perovskites",
+  "authors": [
+    {
+      "name": "Jaco J. Geuchies",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johan Klarbring",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lucia Di Virgillio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuai Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sheng Qu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guangyu Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hai Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jarvist M. Frost",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aron Walsh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mischa Bonn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Heejae Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2404.12955v1",
+  "published": "2024-04-19T15:39:21+00:00",
+  "abstract": "Two-dimensional hybrid organic-inorganic metal halide perovskites offer enhanced stability for perovskite-based applications. Their crystal structure's soft and ionic nature gives rise to strong interactions between charge carriers and ionic rearrangements. Here, we investigate the interaction of photo-generated electrons and ionic polarizations in single-crystal 2D perovskite butylammonium lead iodide, varying the inorganic lammelae thickness in the 2D single crystals. We determined the directionality of the transition dipole moments of the relevant phonon modes (in the 0.3-3 THz range) by angle-and-polarization dependent THz transmission measurements. We find a clear anisotropy of the in-plane photoconductivity, with a 10% reduction along the axis parallel with the transition dipole moment of the most strongly coupled phonon. Detailed calculations, based on Feynman polaron theory, indicate that the anisotropy originates from directional electron-phonon interactions.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.12955v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2404.12955v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.12955v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:26.367012+00:00",
+  "updated_at": "",
+  "extra": {}
+}

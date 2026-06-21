@@ -1,0 +1,80 @@
+{
+  "paper_id": "doi_10.1021_acsaem.1c00482",
+  "collection": "halide-solid-state-battery",
+  "title": "Composite fabrics of conformal MoS2 grown on CNT fibers: tough battery anodes without metals or binders",
+  "authors": [
+    {
+      "name": "Moumita Rana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicola Boaretto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anastasiia Mikhalchan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria Vila Santos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rebeca Marcilla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Jose Vilatela",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaem.1c00482",
+  "url": "http://arxiv.org/abs/2107.12261v1",
+  "published": "2021-07-26T15:09:14+00:00",
+  "abstract": "In the quest to increase battery performance, nanostructuring battery electrodes gives access to architectures with electrical conductivity and solid-state diffusion regimes not accessible with traditional electrodes based on aggregated spherical microparticles, while often also contributing to the cyclability of otherwise unstable active materials. This work describes electrodes where active material and current collector are formed as a single nanostructured composite network, consisting of macroscopic fabrics of carbon nanotube fibers covered with conformal MoS2 grown preferentially aligned over the graphitic layers, without metallic current collector or any conductive or polymeric additives. The composite fabric of CNTF/MoS2 retain high toughness and show out-of-plane electrical conductivity as high as 1.2 S/m, above the threshold to avoid electrical transport-limited performance of electrodes (1 S/m), and above control nanocomposite LIB electrodes (0.1 S/m) produced from dispersed nanocarbons. Cycled against Li, they show specific capacity as high as 0.7 Ah/g along with appreciable rate capability and cycling stability in low (108% capacity retention after 50 cycles at 0.1 A/g) as well as high current density (89 % capacity retention after 250 cycles at 1 A/g). The composite fabrics are flexible, with high tensile toughness up to 0.7 J/g, over two orders of magnitude higher than conventional electrodes or regular MoS2 material, and full-electrode capacity above state of the art at different current densities.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.12261v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaem.1c00482/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.12261v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:29.690128+00:00",
+  "updated_at": "",
+  "extra": {}
+}

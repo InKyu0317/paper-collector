@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2503.02430v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Structural and Dynamical Behaviors of Fast Ionic Conducting Potassium nido-(Carba)borates",
+  "authors": [
+    {
+      "name": "Mads B. Amdisen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hui Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mikael S. Andersson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mirjana Dimitrievska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wei Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Torben R. Jensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Craig M. Brown",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juscelino B. Leão",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Terrence J. Udovic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2503.02430v1",
+  "published": "2025-03-04T09:19:59+00:00",
+  "abstract": "Solid-state batteries are one of the most recent iterations of electrochemical energy storage, and the technology can potentially provide safer and more-energy-dense batteries. The metal closo- and nido-(carba)borates show promise as versatile solid electrolytes and have been shown to have some of the highest ionic conductivities as well as wide electrochemical stability windows. In the present study, we investigate the four potassium nido-(carba)borates KB$_{11}$H$_{14}$, K-7-CB$_{10}$H$_{13}$, K-7,8-C$_2$B$_9$H$_{12}$, and K-7,9-C$_2$B$_9$H$_{12}$, and a total of eight new crystal structures were solved. All four compounds transition from a low-temperature, ordered phase to a high-temperature, disordered phase with the space group Fm-3m. In the high-temperature polymorphs, the anions are disordered and undergo rapid reorientational dynamics, which is confirmed by quasielastic neutron scattering experiments. Reorientational activation energies of 0.151(2) eV, 0.146(32) eV, and 0.143(3) eV were determined for K-7-CB$_{10}$H$_{13}$, K-7,8-C$_2$B$_9$H$_{12}$, and K-7,9-C$_2$B$_9$H$_{12}$, respectively. Additionally, such rotationally fluid anions are concomitant with fast potassium-ion conductivity. The highest ionic conductivity is observed for K-7,8-C$_2$B$_9$H$_{12}$ with 1.7$\\times$10$^{-2}$ Scm$^{-1}$ at 500 K and an activation energy of 0.28 eV in the disordered state. The differences in phase transition temperatures, reorientational dynamics, and ionic conductivities between the potassium nido-(carba)borates illustrate a strong correlation between the K$^+$ cationic mobility and the local cation-anion interactions, anion dynamics, and the specific positions of the carbon-atoms in the nido-(carba)borate anion cages.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.02430v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2503.02430v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.02430v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:20.866415+00:00",
+  "updated_at": "",
+  "extra": {}
+}

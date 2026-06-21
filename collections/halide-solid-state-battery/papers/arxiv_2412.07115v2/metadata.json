@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2412.07115v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Path Entropy-driven Design of Solid-State Electrolytes",
+  "authors": [
+    {
+      "name": "Qiye Guan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kaiyang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingjie Yeo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongqing Cai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.07115v2",
+  "published": "2024-12-10T02:05:58+00:00",
+  "abstract": "The development of high-performance solid-state electrolytes (SSEs) has entered a critical stage, where entropy-driven strategies offer transformative potential for enhancing electrochemical properties. By engineering local environments for conductive ions alongside introducing disorder, these approaches can significantly improve conductivity. However, embracing high-entropy designs does not always guarantee improved performance. Current entropy descriptions oversimplify disorder by accounting solely for host framework configurations, neglecting conductive ion-induced disorder, rendering such descriptions incomplete. Herein, we propose path entropy (Sp) as a descriptor that quantifies diffusion pathway diversity, directly capturing diffusional disorder. Combining Markov state model with transition path theory, we reveal the interplay between diffusion pathway diversity of lithium and microscopic local environments in inorganic thiophosphates. Generalizing this path-informative Sp for high-throughput screening, we demonstrate its broad applicability in identifying and designing high-performance SSEs. Our work establishes a critical link between entropy evolution underlying ion conduction and practical entropy-driven design principles.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.07115v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.07115v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.07115v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-21T03:07:33.448507+00:00",
+  "updated_at": "",
+  "extra": {}
+}
