@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2210.06152v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Rashba and Dresselhaus effects in doped methylammonium lead halide perovskite MAPbI$_3$",
+  "authors": [
+    {
+      "name": "Megha Arya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Preeti Bhumla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sajjan Sheoran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": " Suraj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2210.06152v3",
+  "published": "2022-10-12T12:54:28+00:00",
+  "abstract": "Inorganic-organic lead halide perovskites, particularly methylammonium lead halide (MAPbI$_3$) perovskite, is perceived to be a promising material for optoelectronics and spintronics. However, lead toxicity and instability under air and moisture restrict its practical uses. Hence, it is essential to reduce lead extent by substituting appropriate alternatives. Here, we substitute Sn and Ge in cubic MAPbI$_3$ and compare various properties of hybrid perovskites by employing state-of-the-art first-principles-based methodologies, viz., density functional theory (DFT) with semilocal and hybrid functional (HSE06) and generalized gradient approximation (PBE) combined with spin-orbit coupling (SOC). We mainly study the Rashba-Dresselhaus (RD) effect, which occurs here due to two major mechanisms breaking inversion symmetry, i.e., static and dynamic, and the presence of heavy elements contributing to significant SOC. We find non-negligible spin-splitting effects in the conduction band minimum (CBm) and valence band maximum (VBM) for hybrid perovskites. For a deeper understanding of the observed spin-splitting, the spin textures are analyzed and Rashba coefficients are calculated. We find that Dresselhaus effect comes into play in substituted hybrids in addition to the usual Rashba effect observed in pristine compound. We also observe that the strength of Rashba spin-splitting can be substantially tuned on application of uniaxial strain ($\\pm5\\%$). Also, we notice that some of the hybrids are mechanically stable and ductile. Hence these hybrid perovskites can prove to be potent for perovskite-based spintronic applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.06152v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2210.06152v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.06152v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:08:10.555934+00:00",
+  "updated_at": "",
+  "extra": {}
+}

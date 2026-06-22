@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1109_icece64886.2024.11024609",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploring Lead Free Mixed Halide Double Perovskites Solar Cell",
+  "authors": [
+    {
+      "name": "Md Yekra Rahman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sharif Mohammad Mominuzzaman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1109/ICECE64886.2024.11024609",
+  "url": "http://arxiv.org/abs/2401.09584v1",
+  "published": "2024-01-17T20:19:31+00:00",
+  "abstract": "The significant surge in energy use and escalating environmental concerns have sparked worldwide interest towards the study and implementation of solar cell technology. Perovskite solar cells (PSCs) have garnered remarkable attention as an emerging third-generation solar cell technology. This paper presents an in-depth analysis of lead-free mixed halide double perovskites in the context of their potential uses in solar cell technology. Through the previous studies of various mixed halide double perovskite materials as potential absorber layer materials, it has been observed that Cs$_2$TiI$_{6-x}$Br$_x$ possesses promising characteristics. In this study, simulations were conducted using SCAPS-1D software to explore all possible combinations for x= 0 to 6. The materials for the Hole Transport Layer (HTL) and Electron Transport Layer (ETL) and absorber layer, along with their optimal thicknesses, are selected to yield the most promising results in terms of open-circuit voltage (V$_{oc}$), short-circuit current density (J$_{sc}$), fill factor (FF), and power conversion efficiency. A novel tolerance factor is employed to assess structural stability of perovskites. FTO/Cu$_2$O/Cs$_2$TiI$_5$Br$_1$/WS$_2$ emerges as the best combination in terms of the efficiency with 19.03% but FTO/Cu$_2$O/Cs$_2$TiI$_2$Br$_4$/WS$_2$ shows good stability with 13.31% efficiency.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.09584v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_icece64886.2024.11024609/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.09584v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:07:52.934112+00:00",
+  "updated_at": "",
+  "extra": {}
+}

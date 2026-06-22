@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2110.03716v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Atom probe analysis of battery materials: challenges and ways forward",
+  "authors": [
+    {
+      "name": "Se-Ho Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stoichko Antonov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuyang Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Leigh T. Stephenson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chanwon Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ayman A. El-Zoka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel K. Schreiber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michele Conroy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baptiste Gault",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2110.03716v3",
+  "published": "2021-10-07T18:09:28+00:00",
+  "abstract": "The worldwide developments of electric vehicles, as well as large-scale or grid-scale energy storage to compensate the intermittent nature of renewable energy generation has generated a surge of interest in battery technology. Understanding the factors controlling battery capacity and, critically, their degradation mechanisms to ensure long-term, sustainable and safe operation requires detailed knowledge of their microstructure and chemistry, and their evolution under operating conditions, on the nanoscale. Atom probe tomography (APT) provides compositional mapping of materials in three-dimensions with sub-nanometre resolution, and is poised to play a key role in battery research. However, APT is underpinned by an intense electric-field that can drive lithium migration, and many battery materials are reactive oxides, requiring careful handling and sample transfer. Here, we report on the analysis of both anode and cathode materials, and show that electric-field driven migration can be suppressed by using shielding by embedding powder particles in a metallic matrix or by using a thin conducting surface layer. We demonstrate that for a typical cathode material, cryogenic specimen preparation and transport under ultra-high vacuum leads to major delithiation of the specimen during the analysis. In contrast, transport of specimens through air enables analysis of the material. Finally, we discuss the possible physical underpinnings and discuss ways forward to enable shield of the electric field, which helps address the challenges inherent to the APT analysis of battery materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2110.03716v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2110.03716v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2110.03716v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:08:04.668303+00:00",
+  "updated_at": "",
+  "extra": {}
+}

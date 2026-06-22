@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2604.20424v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Phonon driven non-equilibrium triggers for thermal runaway in battery electrodes",
+  "authors": [
+    {
+      "name": "Harry Mclean",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Francis Huw Davies",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ned Thaddeus Taylor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David W. Horsell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Steven P. Hepplestone",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.20424v1",
+  "published": "2026-04-22T10:46:38+00:00",
+  "abstract": "Thermal runaway in lithium-ion batteries is governed by the poorly-understood initiation phase, where localised heating introduces instability. Here we identify the three key components that trigger thermal runaway, decreases in local conductivity, heat capacity changes, and intercalation heating, which significantly increase temperature gradients that accelerate battery degradation. Using a multiscale framework that links atomistic phonon calculations with grain-resolved thermal modelling, we identify large thermal gradients across grain boundaries arising from external heating events and intercalation-dependent thermal properties of Li$_x$ZrS$_2$. The observed changes in thermal conductivity are due to charge redistribution and bond-strength modulation of the host, in contrast to the existing theory of lithium rattler mechanics. Internal heating events driven by intercalation gives rise to local thermal gradients, finite-speed thermal wave interference, and internal thermal fluctuations that generate mechanical strain and sub-grain thermal breakdown. These results show that the trigger for thermal runaway is controlled by internal grain architecture and composition, as well as the external environment. Our findings establish materials and electrode design rules for suppressing hotspot formation and improving battery safety during fast charging.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.20424v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.20424v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.20424v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:08:00.001250+00:00",
+  "updated_at": "",
+  "extra": {}
+}

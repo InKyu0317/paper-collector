@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1002_bte2.20230041",
+  "collection": "halide-solid-state-battery",
+  "title": "A review of all‐solid‐state lithium‐selenium batteries",
+  "authors": [
+    {
+      "name": "Baiyu Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Clean Nano Energy Center, State Key Laboratory of Metastable Materials Science and Technology Yanshan University Qinhuangdao Hebei China"
+    },
+    {
+      "name": "Liqiang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Clean Nano Energy Center, State Key Laboratory of Metastable Materials Science and Technology Yanshan University Qinhuangdao Hebei China"
+    },
+    {
+      "name": "Yongfu Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Clean Nano Energy Center, State Key Laboratory of Metastable Materials Science and Technology Yanshan University Qinhuangdao Hebei China"
+    },
+    {
+      "name": "Jianyu Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8424-5368",
+      "affiliation": "Clean Nano Energy Center, State Key Laboratory of Metastable Materials Science and Technology Yanshan University Qinhuangdao Hebei China"
+    }
+  ],
+  "doi": "10.1002/bte2.20230041",
+  "url": "https://doi.org/10.1002/bte2.20230041",
+  "published": "2024-1",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Rechargeable lithium‐selenium batteries (LSeBs) are promising candidates for next‐generation energy storage systems due to their exceptional theoretical volumetric energy density (3253 mAh cm<jats:sup>−3</jats:sup>). However, akin to lithium‐sulfur batteries, the adoption of LSeBs has been hampered by problems such as polyselenides migration in liquid electrolytes, uncontrolled dendrite growth and safety concerns. To overcome these issues, researchers proposed to use the solid‐state electrolytes (SSEs) as a method, which could mitigate the formation of polyselenides. However, practical utilization of the all‐solid‐state Li‐Se batteries (ASSLSeBs) face significant obstacles, including sluggish redox kinetics during Se conversion (Se ↔ Li<jats:sub>2</jats:sub>Se), inadequate interfacial contact and formation of Li dendrites. Scientists have applied strategies to tackle these challenges. This article offers a timely review of emerging strategies. The article begins by conducting a detailed analysis of the working principles of ASSLSeBs and identifying the critical challenges that hinder practical application. Subsequently, the article presents a comprehensive summary of various strategies aimed at boosting the development of ASSLSeBs, which encompass advancements in Se cathode materials, optimization of SSEs, design of stable Li anodes, and approaches in addressing the interfacial challenge. Finally, the article offers further perspectives about promoting the application of ASSLSeBs. It highlights the need for continued research and development to overcome existing limitations. Overall, by understanding these emerging strategies, researchers could enhance the technology of LSeBs, bringing us closer to the practical realization of high‐energy storage systems.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.20230041",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.20230041/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 18,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-06-22T03:07:49.844749+00:00",
+  "updated_at": "",
+  "extra": {}
+}

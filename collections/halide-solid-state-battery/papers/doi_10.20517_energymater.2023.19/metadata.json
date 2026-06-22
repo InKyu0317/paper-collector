@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.20517_energymater.2023.19",
+  "collection": "halide-solid-state-battery",
+  "title": "Achieving fast and stable Li+ transport in lithium-sulfur battery via a high ionic conduction and high adhesion solid polymer electrolyte",
+  "authors": [
+    {
+      "name": "Ximing Cui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaohui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Qinmin Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.20517/energymater.2023.19",
+  "url": "https://doi.org/10.20517/energymater.2023.19",
+  "published": null,
+  "abstract": "<jats:p>Solid-state lithium (Li)-sulfur (S) batteries are promising secondary batteries because of their high energy density and high safety, but their practical application is severely hindered by poor Li-ions (Li+) transport in batteries due to low ionic conduction of the electrolyte and unstable electrode/electrolyte interface. Here, we address the issue by using a polyurethane (PU)-based electrolyte. The polar urethane/urea groups of PU reduce the hopping energy barrier of Li+, which results in high ionic conductivity of 1.8 × 10-4 S cm-1 (25 °C), high ion transference number of 0.54, and low activation energy of 0.39 eV. In addition, the polar urethane/urea groups endow the electrolyte with high adhesion, which allows the electrode/electrolyte interfaces to self-heal timely after being damaged during cycling. Benefiting from these merits, a symmetric Li||Li cell using the polyolefin-PU-bis(trifluoromethane)sulfonimide lithium salt electrolyte can cycle for approximately 800 h with a stable overpotential (approximately 40 mV), and a solid-state Li-S battery using the electrolyte delivers a specific capacity of approximately 610 mAh g-1 after testing for 125 cycles at a S loading of about 4 mg cm-2. Self-healing of the electrode/electrolyte interfaces during cycling was observed in situ by a laser confocal microscope. This study demonstrates the importance of polar groups in electrolytes in maintaining a fast and stable Li+ transport, which can be applied to other solid-state batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.20517/energymater.2023.19",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.20517_energymater.2023.19/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Energy Materials",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:07:49.844239+00:00",
+  "updated_at": "",
+  "extra": {}
+}

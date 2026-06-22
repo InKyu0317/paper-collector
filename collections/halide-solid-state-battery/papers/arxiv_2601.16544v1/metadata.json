@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2601.16544v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Synergistic effects of ferromagnetic elements and LAGP solid electrolyte in suppressing and trapping polysulfide shuttle transfers in lithium-sulfur batteries",
+  "authors": [
+    {
+      "name": "Giovanni Ceccio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiri. Vacík",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mykhailo Drozdenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Romana Mikšová",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Josef Novak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eva Štěpanovská",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mayur Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.16544v1",
+  "published": "2026-01-23T08:29:46+00:00",
+  "abstract": "The large - scale commercialization of promising lithium - sulfur (Li - S) batteries remains limited by the polysulfide shuttle effect, which causes rapid capacity fading and poor cycle life. In this study, we present a scalable strategy to mitigate this challenge by modifying polyethylene (PE) separators with ferromagnetic and solid - state ionic coatings. Thin films of nickel (Ni), cobalt (Co), and the Li - ion - conducting ceramic Li1.5Al0.5Ge1.5(PO4)3 (LAGP) were deposited via ion beam sputtering, while Ni ion implantation was also employed to modify the PE substrate. The electrochemical performance of pristine and modified separators was evaluated using electrochemical impedance spectroscopy (EIS) and staircase voltammetry (SV) in liquid electrolyte within H - cell configurations. Surface morphology and elemental composition were characterized by scanning electron microscopy (SEM) and Rutherford backscattering spectroscopy (RBS). The results show that LAGP-based coatings significantly enhance separator stability and effectively suppress polysulfide diffusion, leading to lower redox peak intensities and improved cycling performance. In contrast, Ni coatings exhibited poor long - term stability, likely due to parasitic reactions or delamination during its life time. The combined LAGP/Co architecture provided the most effective suppression of the polysulfide shuttle, attributed to synergistic ionic and catalytic effects that promote interfacial stability and selective ion transport. Ni implantation into PE showed only a negligible effect. This study highlights the potential of integrating solid ionic conductors with ferromagnetic layers to design multifunctional separators for high-performance Li - S batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.16544v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2601.16544v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.16544v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:07:49.843837+00:00",
+  "updated_at": "",
+  "extra": {}
+}

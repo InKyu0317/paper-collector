@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2603.10954v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Importance of nonlinear long-range electron-phonon interaction on the carrier mobility of anharmonic halide perovskites",
+  "authors": [
+    {
+      "name": "Matthew Houtput",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ingvar Zappacosta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Serghei Klimin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Samuel Poncé",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jacques Tempere",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cesare Franchini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.10954v1",
+  "published": "2026-03-11T16:43:23+00:00",
+  "abstract": "The interaction between the electrons and the lattice vibrations in a solid is responsible for various important effects, such as formation of polarons, temperature dependent bandgaps, phonon-limited carrier transport, and conventional superconductivity. Most works assume a linear electron-phonon interaction, where the electron only interacts with one phonon at a time. However, the validity of this assumption has not been verified in polar anharmonic materials, where large ionic displacements may invalidate the assumption of linear interaction. Here, we show that nonlinear electron-phonon interactions contribute significantly to the finite-temperature electron mobility of the inorganic lead halide perovskite CsPbI$_3$. We calculate the electron mobility from first principles using the self-energy relaxation time approximation and the long-range approximation. The effect of nonlinear interaction is taken into account using the recently derived expression for the long-range part of the one-electron-two-phonon matrix element. We show that due to the low phonon frequencies of CsPbI$_3$, the one-electron-two-phonon interaction changes the temperature scaling of the mobility and contributes about 10\\% to the mobility at room temperature. The results underscore the importance of including nonlinear electron-phonon interaction in anharmonic halide perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.10954v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.10954v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.10954v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-22T03:07:37.063770+00:00",
+  "updated_at": "",
+  "extra": {}
+}
