@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_advs.202403208",
+  "collection": "halide-solid-state-battery",
+  "title": "Wet Chemistry Route to Li<sub>3</sub>InCl<sub>6</sub>: Microstructural Control Render High Ionic Conductivity and Enhanced All‐Solid‐State Battery Performance",
+  "authors": [
+    {
+      "name": "Jacob Otabil Bonsu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering UNSW Sydney  Kensington NSW 2052 Australia"
+    },
+    {
+      "name": "Abhirup Bhadra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering UNSW Sydney  Kensington NSW 2052 Australia"
+    },
+    {
+      "name": "Dipan Kundu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5244-9836",
+      "affiliation": "School of Chemical Engineering UNSW Sydney  Kensington NSW 2052 Australia"
+    }
+  ],
+  "doi": "10.1002/advs.202403208",
+  "url": "https://doi.org/10.1002/advs.202403208",
+  "published": "2024-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Thanks to superionic conductivity and compatibility with &gt;4 V cathodes, halide solid electrolytes (SEs) have elicited tremendous interest for application in all‐solid‐state lithium batteries (ASSLBs). Many compositions based on groups 3, 13, and divalent metals, and substituted stoichiometries have been explored, some displaying requisite properties, but the Li<jats:sup>+</jats:sup> conductivity still falls short of theoretical predictions and appealing sulfide‐type SEs. While controlling microstructural characteristics, namely grain boundary effects and microstrain, can boost ionic conductivity, they have rarely been considered. Moving away from the standard solid‐state route, here a scalable and facile wet chemical approach for obtaining highly conductive (&gt;2 mS cm<jats:sup>−1</jats:sup>) Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> is presented, and it is shown that aprotic solvents can reduce grain boundaries and microstrain, leading to very high ionic conductivity of over 4 mS cm<jats:sup>−1</jats:sup> (at 22 °C). Minimized grain boundary area renders improved moisture stability and enhances solid–solid interfacial contact, leading to excellent LiNi<jats:sub>0.6</jats:sub>Mn<jats:sub>0.2</jats:sub>Co<jats:sub>0.2</jats:sub>O<jats:sub>2</jats:sub>‐based full‐cell performance, exemplified by stable room temperature (22 °C) cycling at a 0.2 C rate with 155 mAh g<jats:sup>−1</jats:sup> capacity and 85% retention after 1000 cycles at 60 °C with a high 99.75% Coulombic efficiency. The findings showcase the viability of the aprotic solvent‐mediated route for producing high‐quality Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> for all‐solid‐state batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/advs.202403208",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_advs.202403208/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 38,
+  "journal": "Advanced Science",
+  "publisher": "",
+  "issn": "2198-3844",
+  "quartile": "",
+  "added_at": "2026-06-24T03:12:33.830969+00:00",
+  "updated_at": "",
+  "extra": {}
+}

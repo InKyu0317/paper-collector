@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1016_j.jpowsour.2023.232849",
+  "collection": "halide-solid-state-battery",
+  "title": "Constructing a PVDF-based composite solid-state electrolyte with high ionic conductivity Li6.5La3Zr1.5Ta0.1Nb0.4O12 for lithium metal battery",
+  "authors": [
+    {
+      "name": "Xin Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5263-5698",
+      "affiliation": ""
+    },
+    {
+      "name": "Tianhang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Saifang Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4315-4494",
+      "affiliation": ""
+    },
+    {
+      "name": "Jinshuo Mi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yudong Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jadranka Travas-Sejdic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Adrian Peter Turner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5098-398X",
+      "affiliation": ""
+    },
+    {
+      "name": "Wei Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5064-0917",
+      "affiliation": ""
+    },
+    {
+      "name": "Peng Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6390-6852",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jpowsour.2023.232849",
+  "url": "https://doi.org/10.1016/j.jpowsour.2023.232849",
+  "published": "2023-4",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jpowsour.2023.232849",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jpowsour.2023.232849/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 37,
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "issn": "0378-7753",
+  "quartile": "",
+  "added_at": "2026-06-24T03:12:33.830151+00:00",
+  "updated_at": "",
+  "extra": {}
+}
