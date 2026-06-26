@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.3390_mi15091093",
+  "collection": "aluminosilicate",
+  "title": "Broadband Near-Infrared Emission from Bi/Cr Co-Doped Aluminosilicate Glasses",
+  "authors": [
+    {
+      "name": "Shiwen Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Physics and Astronomy, China West Normal University, Nanchong 637002, China"
+    },
+    {
+      "name": "Min Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9118-0603",
+      "affiliation": "School of Physics and Astronomy, China West Normal University, Nanchong 637002, China"
+    }
+  ],
+  "doi": "10.3390/mi15091093",
+  "url": "https://doi.org/10.3390/mi15091093",
+  "published": null,
+  "abstract": "<jats:p>Bismuth-doped aluminosilicate glass has garnered significant attention due to its unique ultra-wide luminescence properties in the near-infrared (NIR) band. Enhancing the NIR luminescence of Bi-doped glass remains challenging. To achieve Bi-doped glass with more excellent luminescent properties, a series of Bi/Cr co-doped glasses were prepared, and the optical and structural properties of the samples were observed. The results indicate that low-concentration Cr doping broadens the luminescence range of Bi/Cr co-doped glass samples. The luminescence peak of Bi in the samples is at 1230 nm, while the peak of Cr is around 804 nm. The addition of an appropriate amount of Bi2O3 can enhance the NIR luminescence of Bi and Cr in the sample, realizing the energy conversion between Bi and Cr. Bi/Cr co-doped is a novel approach for achieving broadband NIR luminescence in glass materials.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/mi15091093",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_mi15091093/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Micromachines",
+  "publisher": "",
+  "issn": "2072-666X",
+  "quartile": "",
+  "added_at": "2026-06-26T03:04:05.878010+00:00",
+  "updated_at": "",
+  "extra": {}
+}
