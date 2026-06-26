@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1039_d3ta06286d",
+  "collection": "halide-solid-state-battery",
+  "title": "VO2 Phase Change Electrodes in Li-ion Batteries",
+  "authors": [
+    {
+      "name": "Samuel Castro-Pardo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anand B. Puthirath",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shaoxun Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sreehari Saju",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guang Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jagjit Nanda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Robert Vajtai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ming Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pulickel M. Ajayan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D3TA06286D",
+  "url": "http://arxiv.org/abs/2305.19002v1",
+  "published": "2023-05-30T12:59:25+00:00",
+  "abstract": "Use of electrode materials that show phase change behavior and hence drastic changes in electrochemical activity during operation, have not been explored for Li-ion batteries. Here we demonstrate the vanadium oxide (VO2) cathode that undergoes metal-insulator transition due to first-order structural phase transition at accessible temperature of 68°C for battery operation. Using a suitable electrolyte operable across the phase transition range and compatible with vanadium oxide cathodes, we studied the effect of electrode structure change on lithium insertion followed by the electrochemical characteristics above and below the phase transition temperature. The high-temperature VO2 phase shows significantly improved capacitance, enhanced current rate capabilities, improved electrical conductivity and lithium-ion diffusivity compared to the insulating low temperature phase. This opens up new avenues for electrode designs, allowing manipulation of electrochemical reactions around phase transition temperatures, and in particular enhancing electrochemical properties at elevated temperatures contrary to existing classes of battery chemistries that lead to performance deterioration at elevated temperatures.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.19002v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d3ta06286d/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.19002v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:46.060587+00:00",
+  "updated_at": "",
+  "extra": {}
+}

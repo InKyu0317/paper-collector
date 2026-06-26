@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1021_acsnano.2c12702",
+  "collection": "halide-solid-state-battery",
+  "title": "Nitrogen-Based Magneto-Ionic Manipulation of Exchange Bias in CoFe/MnN Heterostructures",
+  "authors": [
+    {
+      "name": "Christopher J. Jensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alberto Quintana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick Quarterman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander J. Grutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Purnima P. Balakrishnan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Huairuo Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Albert V. Davydov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xixiang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kai Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsnano.2c12702",
+  "url": "http://arxiv.org/abs/2303.14350v1",
+  "published": "2023-03-25T04:02:45+00:00",
+  "abstract": "Electric field control of the exchange bias effect across ferromagnet/antiferromagnet (FM/AF) interfaces has offered exciting potentials for low-energy-dissipation spintronics. In particular, the solid state magneto-ionic means is highly appealing as it may allow reconfigurable electronics by transforming the all-important FM/AF interfaces through ionic migration. In this work, we demonstrate an approach that combines the chemically induced magneto-ionic effect with the electric field driving of nitrogen in the Ta/Co$_{0.7}$Fe$_{0.3}$/MnN/Ta structure to electrically manipulate exchange bias. Upon field-cooling the heterostructure, ionic diffusion of nitrogen from MnN into the Ta layers occurs. A significant exchange bias of 618 Oe at 300 K and 1484 Oe at 10 K is observed, which can be further enhanced after a voltage conditioning by 5% and 19%, respectively. This enhancement can be reversed by voltage conditioning with an opposite polarity. Nitrogen migration within the MnN layer and into the Ta capping layer cause the enhancement in exchange bias, which is observed in polarized neutron reflectometry studies. These results demonstrate an effective nitrogen-ion based magneto-ionic manipulation of exchange bias in solid-state devices.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2303.14350v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsnano.2c12702/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2303.14350v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:32.103312+00:00",
+  "updated_at": "",
+  "extra": {}
+}

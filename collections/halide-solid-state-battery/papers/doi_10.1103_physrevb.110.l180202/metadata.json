@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1103_physrevb.110.l180202",
+  "collection": "halide-solid-state-battery",
+  "title": "Optimization of ionic configurations in battery materials by quantum annealing",
+  "authors": [
+    {
+      "name": "Tobias Binninger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yin-Ying Ting",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Piotr M. Kowalski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael H. Eikerling",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.110.L180202",
+  "url": "http://arxiv.org/abs/2401.02165v2",
+  "published": "2024-01-04T09:32:34+00:00",
+  "abstract": "Energy materials with disorder in site occupation are challenging for computational studies due to an exponential scaling of the configuration space. We herein present a grand-canonical optimization method that enables the use of quantum annealing (QA) for sampling the ionic ground state. The method relies on a Legendre transformation of the Coulomb energy cost function that strongly reduces the effective coupling strengths of the fully connected problem, which is essential for effectiveness of QA. The approach is expected to be applicable to a variety of materials optimization problems.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.02165v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.110.l180202/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.02165v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:21.643724+00:00",
+  "updated_at": "",
+  "extra": {}
+}

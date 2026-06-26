@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_adeae2",
+  "collection": "halide-solid-state-battery",
+  "title": "Empowering Primary Batteries: Tailoring Ionic Conductivity in Methylcellulose Based Solid Polymer Electrolytes via Aluminium Nitrate Doping",
+  "authors": [
+    {
+      "name": "Saranya Vijayan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ismayil",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1682-5248",
+      "affiliation": ""
+    },
+    {
+      "name": "Jayalakshmi Koliyoor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/adeae2",
+  "url": "https://doi.org/10.1149/2162-8777/adeae2",
+  "published": "2025-7-1",
+  "abstract": "<jats:p>This study presents the preparation of a solid polymer electrolyte film using a biopolymer, Methylcellulose, doped with aluminium nitrate (Al(NO<jats:sub>3</jats:sub>)<jats:sub>3</jats:sub>.9H<jats:sub>2</jats:sub>O) via the solution casting method. The structural and morphological properties of the polymer electrolyte were examined using FTIR analysis, XRD, and Scanning Electron Microscopy. FTIR analysis provides the complexation between the polymer and the dopant. The XRD analysis accounts for the polymer’s structural modification with the salt’s inclusion. Impedance analysis indicates the enhancement of the electrical properties of the polymer. An electrolyte system with 30 wt% of the salt exhibits a room temperature ionic conductivity of 3.78 × 10<jats:sup>−5</jats:sup> S cm<jats:sup>−1</jats:sup>. I-V and I-t characteristics of the highest conducting electrolyte systems were carried out. In this work, a primary battery was designed with a state-of-the-art, high-conductivity electrolyte. The resulting battery’s discharge characteristics were then evaluated.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/adeae2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_adeae2/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/adeae2/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-06-26T03:07:01.702556+00:00",
+  "updated_at": "",
+  "extra": {}
+}

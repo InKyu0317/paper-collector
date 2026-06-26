@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2104.03641v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Structural characterization and electronic structure of Li$_{3}$ClO glasses for solid-state Li-ion batteries",
+  "authors": [
+    {
+      "name": "Young Won Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Moyses Araujo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Levente Vitos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raquel Lizárraga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2104.03641v1",
+  "published": "2021-04-08T09:52:12+00:00",
+  "abstract": "Energy storage technologies that can meet the unprecedented demands of a sustainable energy system based on intermittent energy sources require new battery materials. We investigate high ionic conductors, Li$_3$ClO glasses. In the present work we use a first principles method to model the amorphous structure of the glass. We characterize the structure by means of radial distribution functions, radial disctributions functions and coordination numbers. We compare to their crystalline counterparts. The electronic structure of the glass is compared to that of the crystalline material. The band gap of the glass appears to be slighly reduced compared to that of the crystal. We also investigate the chemical stability of the glass against Li metal electrode. The electrochemical stability of the glassy electrolite is evaluated against Li metal.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "source": "arxiv",
+  "source_id": "2104.03641v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2104.03641v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2104.03641v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:18.255170+00:00",
+  "updated_at": "",
+  "extra": {}
+}

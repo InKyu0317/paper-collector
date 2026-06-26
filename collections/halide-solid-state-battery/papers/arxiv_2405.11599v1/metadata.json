@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2405.11599v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Lattice matched heterogeneous nucleation eliminate defective buried interface in halide perovskites",
+  "authors": [
+    {
+      "name": "Paramvir Ahlawat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cecilia Clementi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Musil",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria-Andreea Filip",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2405.11599v1",
+  "published": "2024-05-19T16:06:58+00:00",
+  "abstract": "Metal halide perovskite-based semi-conducting hetero-structures have emerged as promising electronics for solar cells, light-emitting diodes, detectors, and photo-catalysts. Perovskites' efficiency, electronic properties and their long-term stability directly depend on their morphology [1-24]. Therefore, to manufacture stable and higher efficiency perovskite solar cells and electronics, it is now crucial to understand their micro-structure evolution. In this study, we perform molecular dynamics simulations to investigate the formation of cesium lead bromide perovskite on interfaces. Our simulations reveal that perovskite crystallizes in a heteroepitaxial manner on widely employed oxide interfaces. This could introduce the formation of dislocations, voids and defects in the buried interface, and grain boundaries in the bulk crystal. From simulations, we find that lattice-matched interfaces could enable epitaxial ordered growth of perovskites and may prevent defect formation in the buried interface.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.11599v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2405.11599v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.11599v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:59.232022+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,111 @@
+{
+  "paper_id": "doi_10.1126_sciadv.ads6137",
+  "collection": "halide-solid-state-battery",
+  "title": "High-performance solid-state electrochemical thermal switches with earth-abundant cerium oxide",
+  "authors": [
+    {
+      "name": "Ahrong Jeong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mitsuki Yoshimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hyeonjun Kong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiping Bian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jason Tam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bin Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuichi Ikuhara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takashi Endo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yasutaka Matsuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiromichi Ohta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1126/sciadv.ads6137",
+  "url": "http://arxiv.org/abs/2404.19385v2",
+  "published": "2024-04-30T09:20:47+00:00",
+  "abstract": "Thermal switches, which electrically turn heat flow on and off, have attracted attention as thermal management devices. Electrochemical reduction/oxidation switches the thermal conductivity (\\k{appa}\\) of active metal oxide films. The performance of the previously proposed electrochemical thermal switches is low; on/off \\k{appa}\\-ratio is mostly less than 5 and \\k{appa}\\-switching width is less than 5 W/mK. We used CeO2 thin film as the active layer deposited on a solid electrolyte YSZ substrate. When the CeO2 thin film was reduced once (off-state) and then oxidized (on-state), \\k{appa}\\ was about 2.2 W/mK in the most reduced state, and \\k{appa}\\ increased with oxidation to 12.5 W/mK (on-state). This reduction (off-state)/oxidation (on-state) cycle was repeated 100 times and the average value of \\k{appa}\\ was 2.2 W/mK after reduction (off-state) and 12.5 W/mK after oxidation (on-state). The on/off \\k{appa}\\-ratio was 5.8 and \\k{appa}\\-switching width was 10.3 W/mK. The CeO2-based solid-state electrochemical thermal switches would be potential devices for thermal shutters and thermal displays.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.19385v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1126_sciadv.ads6137/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.19385v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:41.867518+00:00",
+  "updated_at": "",
+  "extra": {}
+}

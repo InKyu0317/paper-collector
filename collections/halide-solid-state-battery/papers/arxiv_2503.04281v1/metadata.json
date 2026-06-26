@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2503.04281v1",
+  "collection": "halide-solid-state-battery",
+  "title": "T-MSD: An improved method for ionic diffusion coefficient calculation from molecular dynamics",
+  "authors": [
+    {
+      "name": "Yuxiang Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaodong Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhicheng Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2503.04281v1",
+  "published": "2025-03-06T10:08:52+00:00",
+  "abstract": "Ionic conductivity is a critical property of solid ionic conductors, directly influencing the performance of energy storage devices such as batteries. However, accurately calculating ionic conductivity or diffusion coefficient remains challenging due to the complex, dynamic nature of ionic motion, which often yield significant deviations, especially at room temperature. In this study, we propose an improved method, T-MSD, to enhance the accuracy and reliability of diffusion coefficient calculations. Combining time-averaged mean square displacement analysis with block jackknife resampling, this method effectively addresses the impact of rare, anomalous diffusion events and provides robust statistical error estimates from a single simulation. Applied to large-scale deep-potential molecular dynamics simulations, we show that T-MSD eliminates the need for multiple independent simulations while ensuring accurate diffusion coefficient calculations across systems of varying sizes and simulation durations. This approach offers a practical and reliable framework for precise ionic conductivity estimation, advancing the study and design of high-performance solid ionic conductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.04281v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2503.04281v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.04281v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:25.113387+00:00",
+  "updated_at": "",
+  "extra": {}
+}

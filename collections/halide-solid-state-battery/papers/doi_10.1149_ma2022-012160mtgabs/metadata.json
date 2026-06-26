@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2022-012160mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Novel Acrylonitrile-Based Polymers for Solid–State Polymer Electrolyte and Solid-State Lithium Ion Battery",
+  "authors": [
+    {
+      "name": "Quoc-Thai Pham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Badril Azhar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Chorng-Shyan Chern",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-012160mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-012160mtgabs",
+  "published": "2022-7-7",
+  "abstract": "<jats:p>  \tRechargeable lithium-ion batteries (LIBs) involving lithium metal oxides, liquid electrolyte and graphite have been widely used in portable electronic devices due to their relatively high energy density and long cycle life. These desirable features make LIBs very attractive as the power source for electronic devices, hybrid electric vehicles (HEVs) and electric vehicles (EVs) applications [1, 2]. For future EV applications, higher energy density of LIBs up to 360 Wh kg<jats:sup>-1</jats:sup> is required. Currently, the energy density of the state-of-the-art LIBs using conventional graphite anode, LiFePO<jats:sub>4</jats:sub> (denoted as LFP) or LiNi<jats:sub>0.5</jats:sub>Co<jats:sub>0.2</jats:sub>Mn<jats:sub>0.3</jats:sub>O<jats:sub>2</jats:sub> (NCM523) cathodes and 1-1.2 M LiPF<jats:sub>6</jats:sub> in organic carbonate electrolytes provide practically achievable energy densities of up to around 200-260 Wh kg<jats:sup>−1</jats:sup> [3]. When commercial graphite anodes are used, LiNi<jats:sub>0.8</jats:sub>Co<jats:sub>0.15</jats:sub>Al<jats:sub>0.05</jats:sub>O<jats:sub>2</jats:sub> (NCA), LiNi<jats:sub>0.8</jats:sub>Co<jats:sub>0.1</jats:sub>Mn<jats:sub>0.1</jats:sub>O<jats:sub>2</jats:sub> (NCM811), LiNi<jats:sub>0.5</jats:sub>Mn<jats:sub>1.5</jats:sub>O<jats:sub>4</jats:sub> (LNMO) and LiNiPO<jats:sub>4</jats:sub> (LNP) cathode based batteries with high-voltage provide energy densities of 354, 338, 351 and 414 Wh kg<jats:sup>-1</jats:sup>, respectively. However, LIBs using these high-voltage cathode materials and the organic carbonate electrolytes exhibit quite low thermal stability and tend to catch fire or even explode when abnormal charge/discharge cycling or accidental penetration of cells occurs, which greatly limits the automotive applications. When replacing graphite with a Li metal anode, the energy densities of all battery systems can be enhanced significantly due to the highest theoretical specific energy density (3860 mAh g<jats:sup>-1</jats:sup>) among all anode materials for rechargeable LIBs. Nevertheless, commercial LIBs are prone to cause safety problems due to the safety concern arising from Li dendrite growth in liquid organic electrolytes [4-6].</jats:p>\n               <jats:p>The promising solid-state LIBs offer high thermal stability (i.e., low risk in catching fire), high energy density, wide electrochemical stability window and less environmental impact. A competent electrolyte is the key component of solid-state LIBs. The solid-state electrolyte materials are mainly classified as solid polymer electrolytes (SPEs), inorganic solid electrolytes (ISEs), and organic/inorganic composite electrolytes. ISEs include oxide-based and sulfide-based materials [7, 8], which show very high ionic conductivity (10<jats:sup>-2</jats:sup> – 10<jats:sup>-3</jats:sup> S cm<jats:sup>-1</jats:sup>). Furthermore, the lithium ion transference number is close to 1. However, the major limitation factors of practical solid-state LIB applications are the large interfacial impedance between electrode and ISE and the difficulty of processing [9]. Considering processability, mechanical flexibility, interfacial compatibility and electrochemical stability, one prefers SPEs to the inorganic ceramic electrolytes. Nevertheless, SPEs have low ion conductivities (10<jats:sup>−7</jats:sup> − 10<jats:sup>−5</jats:sup> S cm<jats:sup>−1</jats:sup> near room temperature) and most of the Li<jats:sup>+</jats:sup> transference numbers are lower than 0.5 [10, 11]. The major requirements for SPEs include high ionic conductivity and transference number at room temperature, wide electrochemical potential window, high mechanical strength and excellent thermal stability. However, the ion conductivity is the most important (&gt; 10<jats:sup>-4</jats:sup> S cm<jats:sup>-1</jats:sup> at room temperature desired) and should be considered first. The coordinating groups of a good polymeric host are expected to interact with Li<jats:sup>+</jats:sup> and facilitate dissociation.</jats:p>\n               <jats:p>In this study, we prepared various novel acrylonitrile-based polymers (e.g., acrylonitrile/acrylate copolymer and polymer with two pendant groups b-cyano ethyl ether (-O-CH<jats:sub>2</jats:sub>CH<jats:sub>2</jats:sub>-CN) sulfonate alkyl ether (-O-(CH<jats:sub>2</jats:sub>)<jats:sub>3</jats:sub>SO<jats:sub>3</jats:sub>Li). The corresponding SPEs comprising acrylonitrile-based polymer and ca. 50 wt.% lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) with high ionic conductivity (up to 10<jats:sup>-3</jats:sup> S cm<jats:sup>-1</jats:sup>) at room temperature, high ion transfer number (up to 0.45) and large electrochemical potential window (oxidation stability &gt; 5 V vs. Li<jats:sup>+</jats:sup>/Li) achieved. The selected SPEs were used as the separator in solid-state batteries with LiFePO<jats:sub>4</jats:sub> as the cathode and Li foil as the anode; and long-term cycle stability of solid-state LIB was achieved. The polymers and corresponding SPEs were characterized by using DSC, SEM, XRD and FTIR measurements. Ionic conductivities of SPEs were determined from electrochemical impedance spectroscopy results. The linear sweep voltammetry technique was adopted to measure the oxidation stability window of SPE, and the Evans-Vincent-Bruce method was used to determined ion transfer number.</jats:p>\n               <jats:p/>\n               <jats:p/>\n               <jats:p>\n                  <jats:bold>References</jats:bold>\n               </jats:p>\n               <jats:p>[1] J.B. Goodenough, Energy Environ. Sci. 7 (2014) 14−18.</jats:p>\n               <jats:p>[2] M. Armand, et al., Nature 451 (2008) 652-657.</jats:p>\n               <jats:p>[3] F. Wu, et al., Chem Soc Rev 49 (2020) 1569-1614.</jats:p>\n               <jats:p>[4] Q. Wang, et at., J Power Sources 208 (2012) 210-224.</jats:p>\n               <jats:p>[5] A.W. Golubkov, et al., RSC Adv 5 (2015) 57171-57186.</jats:p>\n               <jats:p>[6] Z. Wang, et al. Nat Energy 3, (2018) 227–235.</jats:p>\n               <jats:p>[7] L. Fan, et al., Adv. Energy Mater. 2018, 8, 1702657.</jats:p>\n               <jats:p>[8] G. Kim, et al., J Power Sources 282 (2015) 299-322.</jats:p>\n               <jats:p>[9] P. Knauth, Solid State Ion 180 (2009) 911-916.</jats:p>\n               <jats:p>[10] C. Ma, et al., J Power Sources 2016; 317 :103–11.</jats:p>\n               <jats:p>[11] N.K. Karan, et al., Solid State Ion 179 (2008) 689–696.</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n                     <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"160fig1.jpg\" xlink:type=\"simple\"/>\n                  </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-012160mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-012160mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-012160mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:36.969796+00:00",
+  "updated_at": "",
+  "extra": {}
+}

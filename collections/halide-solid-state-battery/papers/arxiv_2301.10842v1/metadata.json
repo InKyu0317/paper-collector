@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2301.10842v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Impact of the Energy Landscape on the Ionic Transport of Disordered Rocksalt Cathodes",
+  "authors": [
+    {
+      "name": "Shashwat Anand",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tina Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gerbrand Ceder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2301.10842v1",
+  "published": "2023-01-25T21:48:28+00:00",
+  "abstract": "Traditional approaches to identify ion-transport pathways often presume equal probability of occupying all hopping sites and focus entirely on finding the lowest migration barrier channels between them. Although this strategy has been applied successfully to solid-state Li battery materials, which historically have mostly been ordered frameworks, in the emerging class of disordered electrode materials some Li-sites can be significantly more stable than others due to a varied distribution of transition metal (TM) environments. Using kinetic Monte Carlo simulations, we show that in such cation-disordered compounds only a fraction of the Li-sites connected by the so-called low-barrier ``0-TM\" channels actually participate in Li-diffusion. The Li-diffusion behavior through these sites, which are determined primarily by the voltage applied during Li-extraction, can be captured using an effective migration barrier larger than that of the 0-TM barrier itself. The suppressed percolation due to cation disorder can decrease the ionic diffusion coefficient at room temperature by over 2 orders of magnitude.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.10842v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2301.10842v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.10842v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-26T03:06:35.907938+00:00",
+  "updated_at": "",
+  "extra": {}
+}
