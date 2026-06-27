@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2504.07249v2",
+  "collection": "halide-solid-state-battery",
+  "title": "The dynamical role of optical phonons and sub-lattice screening in a solid-state ion conductor",
+  "authors": [
+    {
+      "name": "Kim H. Pham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vijaya Begum-Hudde",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Amy K. Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Natan A. Spear",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jackson McClellan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael W. Zuerch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andre Schleife",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kimberly A. See",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Scott Cushing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2504.07249v2",
+  "published": "2025-04-09T19:42:57+00:00",
+  "abstract": "Solid-state electrolytes (SSEs) require ionic conductivities that are competitive with liquid electrolytes to realize applications in all-solid state batteries. Although numerous materials have been discovered, the underlying mechanisms enabling superionic conduction remain elusive. In particular, the role of ultrafast lattice dynamics in mediating ion migration, which involves couplings between ions, phonons, and electrons, is rarely explored experimentally at their corresponding timescales. To investigate the contributions of coupled lattice dynamics on ion migration, we modulate the charge density occupations within the crystal, and then measure the time-resolved change in impedance on picosecond timescales for a candidate SSE, Li0.5La0.5TiO3. Upon perturbation, we observe enhanced ion migration at ultrafast timescales that are shorter than laser-induced heating. The respective transients match the timescales of optical and acoustic phonon vibrations, suggesting their involvement in ion migration. We further computationally evaluate the effect of a charge transfer from the O 2p to Ti 3d band on the electronic and physical structure of LLTO. We hypothesize that the charge transfer excitation distorts the TiO6 polyhedra by altering the local charge density occupancy of the hopping site at the migration pathway saddle point, thereby causing a reduction in the migration barrier for the Li+ hop, shown using computation. We rule out the contribution of photogenerated electrons and laser heating. Overall, our investigation introduces a new spectroscopic tool to probe fundamental ion hopping mechanisms transiently at ultrafast timescales, which has previously only been achieved in a time-averaged manner or solely via computational methods. Our proposed technique expands our capability to answer dynamical questions previously limited by incumbent spectroscopic strategies.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.07249v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2504.07249v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.07249v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:07:10.522324+00:00",
+  "updated_at": "",
+  "extra": {}
+}

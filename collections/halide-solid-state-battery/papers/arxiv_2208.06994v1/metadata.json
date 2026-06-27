@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2208.06994v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Valorizing the carbon byproduct of methane pyrolysis in batteries",
+  "authors": [
+    {
+      "name": "Yuefan Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Clarke Palmer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emily E. Foley",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raynald Giovine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eric Yoshida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eric McFarland",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raphaële J. Clément",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2208.06994v1",
+  "published": "2022-08-15T03:51:32+00:00",
+  "abstract": "While low-cost natural gas remains abundant, the energy content of this fuel can be utilized without greenhouse gas emissions through the production of molecular hydrogen and solid carbon via methane pyrolysis. In the absence of a carbon tax, methane pyrolysis is not economically competitive with current hydrogen production methods unless the carbon byproducts can be valorized. In this work, we assess the viability of the carbon byproduct produced from methane pyrolysis in molten salts as high-value-added anode or conductive additive for secondary Li-ion and Na-ion batteries. Raman characterization and electrochemical differential capacity analysis demonstrate that the use of molten salt mixtures with catalytically-active FeCl3- or MnCl2 result in more graphitic carbon co-products. These graphitic carbons exhibit the best electrochemical performance (up to 272 mAh/g of reversible capacity) when used as Li-ion anodes. For all carbon samples studied here, disordered carbon domains and retained salt species trapped and/or intercalated into the carbon structure were identified by X-ray photoelectron and multinuclear solid-state nuclear magnetic resonance spectroscopy. The latter lead to reduced electrochemical activity and reversibility, and poorer rate performance compared to commercial carbon anodes. The electronic conductivity of the pyrolyzed carbons is found to be highly dependent on their purity, with the purest carbon exhibiting an electronic conductivity nearly on par with that of commercial carbon additives. These findings suggest that more effective removal of the salt catalyst could enable applications of these carbons in secondary batteries, providing a financial incentive for the large-scale implementation of methane pyrolysis for low-carbon hydrogen production.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2208.06994v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2208.06994v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2208.06994v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:06:51.482107+00:00",
+  "updated_at": "",
+  "extra": {}
+}

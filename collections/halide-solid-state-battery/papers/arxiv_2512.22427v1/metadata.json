@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2512.22427v1",
+  "collection": "halide-solid-state-battery",
+  "title": "The Role of THz Phonons in the Ionic Conduction Mechanism of $Li_7La_3Zr_2O_{12}$ Polymorphs",
+  "authors": [
+    {
+      "name": "Amy K. Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Natan A. Spear",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geoffrey A. Blake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Scott K. Cushing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2512.22427v1",
+  "published": "2025-12-27T01:19:53+00:00",
+  "abstract": "Superionic conduction in solid-state materials is governed not only by static factors, such as structure and composition, but also by dynamic interactions between the mobile ion and the crystal lattice. Specifically, the dynamics of lattice vibrations, or phonons, have attracted interest because of their hypothesized ability to facilitate superionic conduction. However, direct experimental measurement of the role of phonons in ionic conduction is challenging due to the fast intrinsic timescales of ion hopping and the difficulty of driving relevant phonon modes, which often lie in the low-energy THz regime. To overcome these limitations, we use laser-driven ultrafast impedance spectroscopy (LUIS). LUIS resonantly excites phonons using a THz field and probes ion hopping with picosecond time resolution. We apply LUIS to understand the dynamical role of phonons in $Li_7La_3Zr_2O_{12}$ (LLZO). When in its cubic phase (c-LLZO), this garnet-type solid electrolyte has an ionic conductivity two orders of magnitude greater than its tetragonal phase (t-LLZO). T-LLZO is characterized by an ordered and filled $Li^+$ sublattice necessitating synchronous ion hopping. In contrast, c-LLZO is characterized by a disordered and vacancy-rich $Li^+$ sublattice, and has a conduction mechanism dominated by single hops. We find that, upon excitation of phonons in the 0.5-7.5 THz range, the impedance of t-LLZO experiences a longer ion hopping decay signal in comparison to c-LLZO. The results suggest that phonon-mediated ionic conduction by THz modes may lead to larger ion displacements in ordered and fully occupied mobile ion sublattices as opposed to those that are disordered and vacancy-rich. Overall, this work highlights the interplay between static and dynamic factors that enables improved ionic conductivity in otherwise poorly conducting inorganic solids.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.22427v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2512.22427v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.22427v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:06:31.976796+00:00",
+  "updated_at": "",
+  "extra": {}
+}

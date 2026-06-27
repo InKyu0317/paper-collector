@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2306.05222v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A continuous multiphase model for liquid metal batteries",
+  "authors": [
+    {
+      "name": "Omar E. Godinez-Brizuela",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carolina Duczek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Norbert Weber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristian E. Einarsrud",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2306.05222v1",
+  "published": "2023-06-08T14:19:28+00:00",
+  "abstract": "Liquid metal batteries (LMBs) are a promising alternative for large-scale stationary energy storage for renewable applications. Using high-abundance electrode materials such as Sodium and Zinc is highly desirable due to their low cost and excellent cell potential. LMBs undergo multiple complex mass transport dynamics and as a result, their operation limits and other critical parameters are not fully understood yet. In this work, a multiphase numerical model was developed to resolve electrode and electrolyte components in 1D and simulate the discharge process of a Na-Zn battery including the interfacial displacement of the molten metal electrodes. The variation in electrolyte composition was predicted throughout the process, including the species distribution and its effect on the cell conductivity and capacity. Volume change and species redistribution were found to be important in predicting the maximum theoretical capacity of the cell when neglecting convective phenomena.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2306.05222v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2306.05222v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2306.05222v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:07:19.493152+00:00",
+  "updated_at": "",
+  "extra": {}
+}

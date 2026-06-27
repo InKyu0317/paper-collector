@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2407.15258v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Optimizing ionic conductivity of lithium in Li$_7$PS$_6$ argyrodite via dopant engineering",
+  "authors": [
+    {
+      "name": "Sokseiha Muy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thierry Le Mercier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marion Dufour",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marc-David Braida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Antoine A. Emery",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicola Marzari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2407.15258v1",
+  "published": "2024-07-21T20:12:14+00:00",
+  "abstract": "Li-containing argyrodites represent a promising family of Li-ion conductors with several derived compounds exhibiting room-temperature ionic conductivity > 1 mS/cm and making them attractive as potential candidates as electrolytes in solid-state Li-ion batteries. Starting from the parent phase Li7PS6, several cation and anion substitution strategies have been attempted to increase the conductivity of Li ions. Nonetheless, a detailed understanding of the thermodynamics of native defects and doping of Li argyrodite and their effect on the ionic conductivity of Li is missing. Here, we report a comprehensive computational study of defect chemistry of the parent phase Li7PS6 in both intrinsic and extrinsic regimes, using a newly developed workflow to automate the computations of several defect formation energies in a thermodynamically consistent framework. Our findings agree with known experimental findings, rule out several unfavorable aliovalent dopants, narrowing down the potential promising candidates that can be tested experimentally. We also find that cation-anion co-doping can provide a powerful strategy to further optimize the composition of argyrodite. In particular, Si-F co-doping is predicted to be thermodynamically favorable; this could lead to the synthesis of the first F-doped Li-containing argyrodite. Finally, using DeePMD neural networks, we have mapped the ionic conductivity landscape as function of the concentration of the most promising cation and anion dopants identified from the defect calculations, and identified the most promising region in the compositional space with high Li conductivity that can be explored experimentally.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2407.15258v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2407.15258v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2407.15258v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:06:35.601556+00:00",
+  "updated_at": "",
+  "extra": {}
+}

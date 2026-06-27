@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1016_j.gca.2023.06.004",
+  "collection": "halide-solid-state-battery",
+  "title": "Modeling diffusion in ionic, crystalline solids with internal stress gradients",
+  "authors": [
+    {
+      "name": "Benjamin L. Hess",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jay J. Ague",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.gca.2023.06.004",
+  "url": "http://arxiv.org/abs/2304.14330v2",
+  "published": "2023-04-27T17:03:59+00:00",
+  "abstract": "Intracrystalline diffusion is an invaluable tool for estimating timescales of geological events. Diffusion is typically modeled using gradients in chemical potential. However, chemical potential is derived for uniform pressure and temperature conditions and therefore cannot be used to model diffusion when there are gradients in stress. Internal stress variations in minerals create gradients in strain energy which will drive diffusion. Consequently, it is necessary to have a method that incorporates stress variations into diffusion models. We derive a flux expression that allows diffusion to be modeled in ionic, crystalline solids under arbitrary stress states. Our derivation utilizes gradients in a thermodynamic potential called relative chemical potential which quantifies changes in free energy due to the exchanges of constituents on lattice sites under arbitrary stress conditions. We apply our derivation to the common quaternary garnet solid solution almandine-pyrope-grossular-spessartine. The rates and directions of divalent cation diffusion in response to stress are determined by endmember molar volume or lattice parameters, elastic moduli, and non-ideal activity interaction parameters. Our results predict that internal stress variations of one hundred MPa or more are required to shift garnet compositions by at least a few hundredths of a mole fraction. Mineral inclusions in garnet present a potential environment to test and apply our stress-driven diffusion approach, as stress variations ranging from hundreds of MPa to GPa-level are observed or predicted around such inclusions. The ability to model stress-induced diffusion may provide new information about the magnitudes of both intracrystalline stresses and the timescales during which they occurred, imparting a better understanding of large-scale tectono-metamorphic processes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2304.14330v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.gca.2023.06.004/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2304.14330v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:06:40.450500+00:00",
+  "updated_at": "",
+  "extra": {}
+}

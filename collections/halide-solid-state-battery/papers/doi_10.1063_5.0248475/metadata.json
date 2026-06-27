@@ -1,0 +1,136 @@
+{
+  "paper_id": "doi_10.1063_5.0248475",
+  "collection": "halide-solid-state-battery",
+  "title": "Charge gain via solid-state gating of an oxide Mott system",
+  "authors": [
+    {
+      "name": "Lishai Shoham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Itai Silber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gal Tuvia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria Baskin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Soo-Yoon Hwang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Si-Young Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Myung-Geun Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yimei Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eilam Yalon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marcelo J. Rozenberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yoram Dagan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Trier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lior Kornblum",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0248475",
+  "url": "http://arxiv.org/abs/2411.15818v1",
+  "published": "2024-11-24T12:48:39+00:00",
+  "abstract": "The modulation of channel conductance in field-effect transistors (FETs) via metal-oxide-semiconductor (MOS) structures has revolutionized information processing and storage. However, the limitations of silicon-based FETs in electrical switching have driven the search for new materials capable of overcoming these constraints. Electrostatic gating of competing electronic phases in a Mott material near its metal to insulator transition (MIT) offers prospects of substantial modulation of the free carriers and electrical resistivity through small changes in band filling. While electrostatic control of the MIT has been previously reported, the advancement of Mott materials towards novel Mott transistors requires the realization of their charge gain prospects in a solid-state device. In this study, we present gate-control of electron correlation using a solid-state device utilizing the oxide Mott system $La_{1-x}Sr_xVO_3$ as a correlated FET channel. We report on a gate resistance response that cannot be explained in a purely electrostatic framework, suggesting at least $\\times100$ charge gain originating from the correlated behavior. These preliminary results pave the way towards the development of highly efficient, low-power electronic devices that could surpass the performance bottlenecks of conventional FETs by leveraging the electronic phase transitions of correlated electron systems.",
+  "keywords": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2411.15818v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0248475/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2411.15818v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:07:23.531585+00:00",
+  "updated_at": "",
+  "extra": {}
+}

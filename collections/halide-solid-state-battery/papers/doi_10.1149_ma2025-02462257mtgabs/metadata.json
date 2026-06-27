@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-02462257mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Multi-Scale Simulations of Ionic Charge Carriers in Solid State Ionic Materials for Electrochemical Energy Conversions",
+  "authors": [
+    {
+      "name": "Lei Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-02462257mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-02462257mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>In solid state ionic conductors, the defects (or ionic and electronic charge carriers) related thermodynamic and kinetic properties can only be modeled in a multi-scale simulation way.</jats:p>\n                  <jats:p>\n                    In this talk, I am going to summarize my computational efforts over a decade on the multi-scale simulations of this family of materials in the following order:\n                    <jats:list list-type=\"roman-lower\">\n                      <jats:list-item>\n                        <jats:p>\n                          My master's thesis at Penn State with Prof. Zi-Kui Liu on CALPHAD (CALculation of PHAse Diagram) modeling of defect chemistry and phase stability (La,Sr)CoO\n                          <jats:italic>3-δ</jats:italic>\n                          , a pure classical thermodynamic description with\n                          <jats:italic>ab-initio</jats:italic>\n                          and experimental thermochemical data as the aid.\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>\n                          My PhD work with Prof. Meilin Liu at Georgia Tech about the oxygen ion and proton transport in Y-doped BaZrO\n                          <jats:sub>3</jats:sub>\n                          using Reactive Force Field Molecular Dynamics simulations, with edge-dislocation inside the bulk lattice.\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>\n                          My independent work on an\n                          <jats:italic>ab-initio</jats:italic>\n                          thermodynamic and kinetic model of estimating proton conductivity in order to select optimal dopant in BaHfO3.\n                        </jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>My independent work on an statistical thermodynamic treatment of lattice defects (i.e. aliovalent dopants and oxygen vacancies) in BaZrO3 to study defect-clustering and degradation of this proton conductor.</jats:p>\n                      </jats:list-item>\n                      <jats:list-item>\n                        <jats:p>Lastly, I will talk about the epitaxial and interfacial strain effect on the Ce3+ polaron and oxygen vacancy distribution over CeO2 (111) surface and oxygen ion conductivity within the SDC/BZY hetero-interface.</jats:p>\n                      </jats:list-item>\n                    </jats:list>\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-02462257mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-02462257mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-02462257mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-06-27T03:06:45.972589+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2402.04266v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploring $\\rm Mg^{2+}$ and $\\rm Ca^{2+}$ Conductors Via Solid-State Metathesis Reactions",
+  "authors": [
+    {
+      "name": "Titus Masese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Godwill Mbiti Kanyolo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yoshinobu Miyazaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shintaro Tachibana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sachio Komori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomoyasu Taniyama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuki Orikasa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomohiro Saito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.04266v3",
+  "published": "2024-01-25T14:39:11+00:00",
+  "abstract": "The scarcity of viable electrode and electrolyte materials vastly hinders the advancement of magnesium and calcium batteries. This study utilises solid-state metathetical reactions involving chalcogen- and pnictogen-based honeycomb layered oxides with alkaline-earth halides/nitrates to synthesise $\\rm Mg^{2+}$- and $\\rm Ca^{2+}$-based materials previously achievable only under high-temperature/high-pressure conditions, as well as new metastable materials with unique crystal versatility. Particularly, we employ metathetical reactions involving $\\rm Li_4MgTeO_6$, $\\rm Na_2Mg_2TeO_6$, and $\\rm Na_4MgTeO_6$ with $\\rm MgCl_2$/$\\rm MgSO_4$/$\\rm Mg(NO_3)_2$.$\\rm 6H_2O$ or $\\rm Ca(NO_3)_2$.$\\rm 4H_2O$ / $\\rm CaCl_2$.$\\rm 2H_2O$ at temperatures not exceeding 500 $^\\circ$C to produce $\\rm Mg_3TeO_6$ polymorphs, ilmenite-type $\\rm CaMg_2TeO_6$/$\\rm Mg_2CaTeO_6$, and double perovskite-type $\\rm Ca_2MgTeO_6$. Thus, we demonstrate that these materials, conventionally requiring gigascale pressures or high temperatures (>1000$^\\circ$C) for their proper synthesis, are now readily accessible at ambient pressure and considerably lower temperatures. Meanwhile, despite sub-optimal pellet densities, the synthesised ilmenite-type \\magenta {$\\rm Mg_3TeO_6$ (high-pressure polymorph)} and double perovskite-type ${\\rm Ca}_2M{\\rm TeO_6}$ ($M = \\rm Mg, Ca, Zn$) materials exhibit remarkable bulk ionic conductivity at room temperature, marking them as promising compositional spaces for exploring novel $\\rm Mg^{2+}$ and $\\rm Ca^{2+}$ conductors. Furthermore, this study extends the applicability of metathetical reactions to attain Mg- or Ca-based antimonates, ruthenates, titanates, phosphates, and silicates, thus opening avenues to novel high-entropy multifunctional nanomaterial platforms with utility in energy storage and beyond.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.04266v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.04266v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.04266v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-27T03:07:15.467431+00:00",
+  "updated_at": "",
+  "extra": {}
+}
