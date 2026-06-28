@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.2138_am-2022-8756",
+  "collection": "aluminosilicate",
+  "title": "Single-crystal UV/Vis absorption spectroscopy of aluminosilicate garnet: Part III. {Fe2+} + [Fe3+] → {Fe3+} + [Fe2+] intervalence charge transfer",
+  "authors": [
+    {
+      "name": "Charles A. Geiger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9212-354X",
+      "affiliation": "Department of Chemistry and Physics of Materials, University of Salzburg, Jakob Haringer Str. 2a, A-5020 Salzburg, Austria"
+    },
+    {
+      "name": "Michail N. Taran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "M.P. Semenenko Institute of Geochemistry and Mineralogy and Ore Formation, National Academy of Sciences of Ukraine, Palladin Avenue 34, 03680 Kyiv-142, Ukraine"
+    }
+  ],
+  "doi": "10.2138/am-2022-8756",
+  "url": "https://doi.org/10.2138/am-2022-8756",
+  "published": "2023-6-1",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>The various intervalence charge transfer (IVCT) mechanisms that can occur in silicate garnet, general crystal-chemical formula {X3}[Y2](Z3)O12, are not fully understood. The single-crystal UV/Vis/NIR absorption spectra of two different almandine-rich, spessartine-rich and grossular-rich garnets, as well as an intermediate almandine-pyrope garnet, were measured. Absorption was observed from roughly 15 000 to 30 000 cm–1. The spectra were deconvoluted and a very broad band with FWHM values ranging from 5000 to 7000 cm–1 (except in the case of one grossular where the FWHM is 8700 cm–1) and having an intensity maximum located between about 20 000 and 22 000 cm–1 in the visible region could be fit. Small weaker features located on this broad band were fit as well. The broad band is strongest in a nearly end-member composition almandine and weakest in a very grossular-rich iron-poor crystal. It is assigned to {Fe2+} + [Fe3+] → {Fe3+} + [Fe2+] IVCT. This is the first recognition of this type of electronic transition mechanism in different aluminosilicate garnet species. Photon-induced electron transfer probably occurs through an overlap of the d orbitals of Fe2+ and Fe3+ in their edge-shared triangular dodecahedral and octahedral coordination polyhedra, respectively. The two Fe cations with different formal charges should have markedly different energy potentials giving rise to asymmetric IVCT behavior. This, together with the relatively long Fe2+-Fe3+ distances (greater than 3.2 Å), could explain the higher energy of the IVCT in garnet compared to Fe2+ + Fe3+ → Fe3+ + Fe2+ IVCT mechanisms observed in other minerals. The latter typically have iron cations in octahedral or quasi-octahedral coordination. The IVCT in aluminosilicate garnet can occur in different species that grew under dissimilar P-T-X conditions. The resulting electronic absorption band affects color markedly, because it is centered at higher energies in the blue visible region. It remains to be determined why IVCT is observed in the spectra of some garnets but not others. The various proposed IVCT mechanisms in Ca-Ti-bearing and aluminosilicate garnets are reviewed and analyzed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.2138/am-2022-8756",
+  "pdf_path": "aluminosilicate/papers/doi_10.2138_am-2022-8756/paper.pdf",
+  "pdf_url": "https://pubs.geoscienceworld.org/msa/ammin/article-pdf/108/6/1171/5867334/am-2022-8756.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 9,
+  "journal": "American Mineralogist",
+  "publisher": "",
+  "issn": "0003-004X",
+  "quartile": "",
+  "added_at": "2026-06-28T03:04:24.174236+00:00",
+  "updated_at": "",
+  "extra": {}
+}
