@@ -1,0 +1,143 @@
+{
+  "paper_id": "arxiv_2305.14942v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Generalised Framework for Controlling and Understanding Ion Dynamics with Passivated Lead Halide Perovskites",
+  "authors": [
+    {
+      "name": "Tomi K. Baikie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Philip Calado",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Krzysztof Galkowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zahra Andaji-Garmaroudi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi-Chun Chin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joel Luke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Charlie Henderson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tom Dunlop",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James McGettrick",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji-Seon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akshay Rao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jenny Nelson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Samuel D. Stranks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Piers R. B. Barnes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.14942v1",
+  "published": "2023-05-24T09:28:07+00:00",
+  "abstract": "Metal halide perovskite solar cells have gained widespread attention due to their high efficiency and high defect tolerance. The absorbing perovskite layer is as a mixed electron-ion conductor that supports high rates of ion and charge transport at room temperature, but the migration of mobile defects can lead to degradation pathways. We combine experimental observations and drift-diffusion modelling to demonstrate a new framework to interpret surface photovoltage (SPV) measurements in perovskite systems and mixed electronic ionic conductors more generally. We conclude that the SPV in mixed electronic ionic conductors can be understood in terms of the change in electric potential at the surface associated with changes in the net charge within the semiconductor system. We show that by modifying the interfaces of perovskite bilayers, we may control defect migration behaviour throughout the perovskite bulk. Our new framework for SPV has broad implications for developing strategies to improve the stability of perovskite devices by controlling defect accumulation at interfaces. More generally, in mixed electronic conductors our framework provides new insights into the behaviour of mobile defects and their interaction with photoinduced charges, which are foundational to physical mechanisms in memristivity, logic, impedance, sensors and energy storage.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.14942v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.14942v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.14942v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:19.372008+00:00",
+  "updated_at": "",
+  "extra": {}
+}

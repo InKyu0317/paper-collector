@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.sse.2022.108386",
+  "collection": "halide-solid-state-battery",
+  "title": "MoS2-based multiterminal ionic transistor with orientation-dependent STDP learning rules",
+  "authors": [
+    {
+      "name": "Changfa Tian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Liubo Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jie Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.sse.2022.108386",
+  "url": "https://doi.org/10.1016/j.sse.2022.108386",
+  "published": "2022-8",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.sse.2022.108386",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.sse.2022.108386/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 11,
+  "journal": "Solid-State Electronics",
+  "publisher": "",
+  "issn": "0038-1101",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:21.297382+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2201.11203v1",
+  "collection": "halide-solid-state-battery",
+  "title": "AI-Aided Mapping of the Structure-Composition-Conductivity Relationships of Glass-Ceramic Lithium Thiophosphate Electrolytes",
+  "authors": [
+    {
+      "name": "Haoyue Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qian Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander Urban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nongnuch Artrith",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2201.11203v1",
+  "published": "2022-01-26T22:01:09+00:00",
+  "abstract": "Lithium thiophosphates (LPS) with the composition (Li$_2$S)$_x$(P$_2$S$_5$)$_{1-x}$ are among the most promising prospective electrolyte materials for solid-state batteries (SSBs), owing to their superionic conductivity at room temperature ($>10^{-3}$ S cm$^{-1}$), soft mechanical properties, and low grain boundary resistance. Several glass-ceramic (gc) LPS with different compositions and good Li conductivity have been previously reported, but the relationship between composition, atomic structure, stability, and Li conductivity remains unclear due to the challenges in characterizing non-crystalline phases in experiments or simulations. Here, we mapped the LPS phase diagram by combining first principles and artificial intelligence (AI) methods, integrating density functional theory, artificial neural network potentials, genetic-algorithm sampling, and ab initio molecular dynamics simulations. By means of an unsupervised structure-similarity analysis, the glassy/ceramic phases were correlated with the local structural motifs in the known LPS crystal structures, showing that the energetically most favorable Li environment varies with the composition. Based on the discovered trends in the LPS phase diagram, we propose a candidate solid-state electrolyte composition, (Li$_{2}$S)$_{x}$(P$_{2}$S$_{5}$)$_{1-x}$ ($x\\sim{}0.725$), that exhibits high ionic conductivity ($>10^{-2}$ S cm$^{-1}$) in our simulations, thereby demonstrating a general design strategy for amorphous or glassy/ceramic solid electrolytes with enhanced conductivity and stability.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "source": "arxiv",
+  "source_id": "2201.11203v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2201.11203v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2201.11203v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:35.852174+00:00",
+  "updated_at": "",
+  "extra": {}
+}

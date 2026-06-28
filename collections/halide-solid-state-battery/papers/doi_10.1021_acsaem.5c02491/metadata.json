@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acsaem.5c02491",
+  "collection": "halide-solid-state-battery",
+  "title": "Unveiling the Lithium-Ion Transport Mechanism in Li2ZrCl6 Solid-State Electrolyte via Deep Learning-Accelerated Molecular Dynamics Simulations",
+  "authors": [
+    {
+      "name": "Hanzeng Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Volodymyr Koverga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Selva Chandrasekaran Selvaraj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anh T. Ngo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaem.5c02491",
+  "url": "http://arxiv.org/abs/2508.05598v2",
+  "published": "2025-08-07T17:41:11+00:00",
+  "abstract": "Lithium zirconium chlorides (LZCs) present a promising class of cost-effective solid electrolyte for next-generation all-solid-state batteries. The unique crystal structure of LZCs plays a crucial role in facilitating lithium-ion mobility, which further affects its electrochemical performance. To understand the underlying mechanism governing ion transport, we employed deep learning-accelerated molecular dynamics simulation on Li2ZrCl6 (trigonal α- and monoclinic \\b{eta}-LZC), focusing specifically on the zirconium coordination environment. Our results reveal that disordered α-LZC exhibits the highest ionic conductivity, while \\b{eta}-LZC demonstrates significantly lower conductivity, closely aligning with experimental findings. The study confirms that across all phases, lithium migration proceeds via site-to-site hopping mechanism, where variations in site residence times critically impact the overall ionic conductivity. In α-LZCs, lithium ions prefer to anisotropically diffuse across interlayers as the result of lower energy barrier, driven primarily by collective diffusion. In contrast, lithium ions in \\b{eta}-LZC primarily isotropically diffuse within intralayer, hindered by higher energy barriers and determined by individual diffusion. The variation in ZrCl62- octahedral unit softening, induced by the specific layered arrangement of zirconium atoms, emerges as a critical determinant of the energy barriers across the LZC phases. These atomic-scale insights into the transport processes provide valuable guidance for the rational design and optimization of LZCs-based electrolytes, accelerating their practical application in advanced energy storage technologies.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.05598v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaem.5c02491/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.05598v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:31.150303+00:00",
+  "updated_at": "",
+  "extra": {}
+}

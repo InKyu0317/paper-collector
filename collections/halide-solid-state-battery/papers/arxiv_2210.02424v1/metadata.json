@@ -1,0 +1,89 @@
+{
+  "paper_id": "arxiv_2210.02424v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide Perovskite Light Emitting Photodetector",
+  "authors": [
+    {
+      "name": "A. A. Marunchenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "V. I. Kondratiev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. P. Pushkarev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. A. Khubezhov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. A. Baranov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. G. Nasibulin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. V. Makarov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2210.02424v1",
+  "published": "2022-10-05T17:40:45+00:00",
+  "abstract": "Light emission and detection are the two fundamental attributes of optoelectronic communication systems. Until now, both functions have been demonstrated using the p-n diode which is exploited across a wide range of applications. However, due to the competing dynamics of carrier injection and photocarrier collection, with this device light emission and detection are realized separately by switching the direction of the applied electrical bias. Here we use mobile ions in halide perovskites to demonstrate light-emitting photodetection in either condition of applied electrical bias. Our device consists of a CsPbBr$_3$ microwire which is integrated with single-walled carbon nanotube thin film electrodes. The dual functionality stems from the modulation of an energetic barrier caused by the cooperative action of mobile ions with the photogenerated charge carriers at the perovskite-electrode interface. Furthermore, such complex charge dynamics also result in a novel effect: light-enhanced electroluminescence. The observed new optoelectronic phenomena in our simple lateral device design will expand the applications for mixed ionic-electronic conductors in multifunctional optoelectronic devices .",
+  "keywords": [
+    "physics.optics",
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.02424v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2210.02424v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.02424v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:15.834784+00:00",
+  "updated_at": "",
+  "extra": {}
+}

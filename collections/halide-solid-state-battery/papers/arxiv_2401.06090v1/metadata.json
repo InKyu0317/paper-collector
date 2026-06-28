@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2401.06090v1",
+  "collection": "halide-solid-state-battery",
+  "title": "2D Li$^{\\bf +}$ ionic hopping in Li$_{\\bf 3}$InCl$_{\\bf 6}$ as revealed by diffusion-induced nuclear spin relaxation",
+  "authors": [
+    {
+      "name": "Florian Stainer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "H. Martin R. Wilkening",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.06090v1",
+  "published": "2024-01-11T18:10:58+00:00",
+  "abstract": "Ternary Li halides, such as Li$_3$MeX$_6$ with, e.g., Me = In, Sc, Y and X = Cl, Br, are in the center of attention for battery applications as these materials might serve as ionic electrolytes. To fulfill their function, such electrolytes must have an extraordinarily high ionic Li$^+$ conductivity. Layer-structured Li$_3$InCl$_6$ represents such a candidate; understanding the origin of the rapid Li$^+$ exchange processes needs, however, further investigation. Spatially restricted, that is, low-dimensional particle diffusion might offer an explanation for fast ion dynamics. It is, however, challenging to provide evidence for 2D diffusion at the atomic scale when dealing with polycrystalline powder samples. Here, we used purely diffusion-induced $^7$Li nuclear magnetic spin relaxation to detect anomalies that unambiguously show that 2D Li diffusion is chiefly responsible for the dynamic processes in a Li$_3$InCl$_6$ powder sample. The change of the spin-lattice relaxation rate $1/T_1$ as a function of inverse temperature $1/T$ passes through a rate peak that is strictly following asymmetric behavior. This feature is in excellent agreement with the model of P. M. Richards suggesting a logarithmic spectral density function $J$ to fully describe 2D diffusion. Hence, Li$_3$InCl$_6$ belongs to the very rare examples for which 2D Li$^+$ diffusion has been immaculately verified. We believe that such information help understand the dynamic features of ternary Li halides.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.06090v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.06090v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.06090v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:06:44.269774+00:00",
+  "updated_at": "",
+  "extra": {}
+}

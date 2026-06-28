@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2602.00444v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Upward band gap bowing and negative mixing enthalpy in multi-component cubic halide perovskite alloys",
+  "authors": [
+    {
+      "name": "Xiuwen Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando P. Sabino",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jia-Xin Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alex Zunger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.00444v3",
+  "published": "2026-01-31T01:39:14+00:00",
+  "abstract": "Physical properties intermediate between constituents of alloys can be achieved as downward convex positive bowing, upward concave negative bowing, or zero bowing. Such bowing effects are essential for band gap engineering in semiconductor alloys. Upward band gap bowing effects are rather rare, hindering the exploration on half of the available physical property space of alloys. Part of the this being a rare event is related to the need to stabilize an alloy with low mixing enthalpy, so it does not phase separate. In this paper we find via density functional theory that one can satisfy the simultaneous conditions of negative mixing enthalpy and upward band gap bowing in four-component ABX3 halide perovskite alloys in the cubic perovskite structure. Such perovskite alloys have the B-site occupied by a mixture of group IVB and IIB elements that have the IVB-s and IIB-s states in the valence bands and conduction bands, respectively, leaving the delocalized s states strongly repel each other. This s-s repulsion leads to the upward band gap bowing and negative mixing enthalpies simultaneously. Remarkably, we identify a perovskite alloy that has a band gap much larger than all its components. Analogous trends of upward band gap bowing and negative mixing enthalpy also appear in the corresponding three-component and two-component ABX3 halide perovskite alloys. These observations of upward band gap bowing and negative mixing enthalpy will significantly accelerate the design of stable upward band gap bowing alloys in a broad range of material families.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.00444v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.00444v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.00444v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-28T03:07:28.017998+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,146 @@
+{
+  "paper_id": "doi_10.1038_s41467-023-38037-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Boosting the interfacial superionic conduction of halide solid electrolytes for all-solid-state batteries",
+  "authors": [
+    {
+      "name": "Hiram Kwak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-1624-0388",
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Jae‐Seung Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3052-6444",
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Daseul Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9560-9246",
+      "affiliation": "Dongguk University"
+    },
+    {
+      "name": "Jong Seok Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3243-3890",
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Juhyoun Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Gihan Kwon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7963-2136",
+      "affiliation": "Brookhaven National Laboratory"
+    },
+    {
+      "name": "Seong‐Min Bak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1626-5949",
+      "affiliation": "Yonsei University"
+    },
+    {
+      "name": "Un-Seon Heo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Dongguk University"
+    },
+    {
+      "name": "Changhyun Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1269-7581",
+      "affiliation": "Ulsan National Institute of Science and Technology"
+    },
+    {
+      "name": "Hyun‐Wook Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9074-1619",
+      "affiliation": "Ulsan National Institute of Science and Technology"
+    },
+    {
+      "name": "Kyung‐Wan Nam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6278-6369",
+      "affiliation": "Dongguk University"
+    },
+    {
+      "name": "Dong‐Hwa Seo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7200-7186",
+      "affiliation": "Ulsan National Institute of Science and Technology"
+    },
+    {
+      "name": "Yoon Seok Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0357-9508",
+      "affiliation": "Yonsei University"
+    }
+  ],
+  "doi": "10.1038/s41467-023-38037-z",
+  "url": "https://doi.org/10.1038/s41467-023-38037-z",
+  "published": "2023-04-28",
+  "abstract": "Abstract Designing highly conductive and (electro)chemical stable inorganic solid electrolytes using cost-effective materials is crucial for developing all-solid-state batteries. Here, we report halide nanocomposite solid electrolytes (HNSEs) ZrO 2 (-ACl)-A 2 ZrCl 6 (A = Li or Na) that demonstrate improved ionic conductivities at 30 °C, from 0.40 to 1.3 mS cm −1 and from 0.011 to 0.11 mS cm −1 for Li + and Na + , respectively, compared to A 2 ZrCl 6 , and improved compatibility with sulfide solid electrolytes. The mechanochemical method employing Li 2 O for the HNSEs synthesis enables the formation of nanostructured networks that promote interfacial superionic conduction. Via density functional theory calculations combined with synchrotron X-ray and 6 Li nuclear magnetic resonance measurements and analyses, we demonstrate that interfacial oxygen-substituted compounds are responsible for the boosted interfacial conduction mechanism. Compared to state-of-the-art Li 2 ZrCl 6 , the fluorinated ZrO 2 −2Li 2 ZrCl 5 F HNSE shows improved high-voltage stability and interfacial compatibility with Li 6 PS 5 Cl and layered lithium transition metal oxide-based positive electrodes without detrimentally affecting Li + conductivity. We also report the assembly and testing of a Li-In||LiNi 0.88 Co 0.11 Mn 0.01 O 2 all-solid-state lab-scale cell operating at 30 °C and 70 MPa and capable of delivering a specific discharge of 115 mAh g −1 after almost 2000 cycles at 400 mA g −1 .",
+  "keywords": [
+    "Electrolyte",
+    "Fast ion conductor",
+    "Materials science",
+    "Ionic conductivity",
+    "Halide",
+    "Conductivity",
+    "Nanocomposite",
+    "Chemical engineering",
+    "Oxide",
+    "Sulfide"
+  ],
+  "source": "openalex",
+  "source_id": "W4367310821",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-023-38037-z/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 197,
+  "journal": "Nature Communications",
+  "publisher": "",
+  "issn": "2041-1723",
+  "quartile": "",
+  "added_at": "2026-06-28T03:08:05.413438+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
