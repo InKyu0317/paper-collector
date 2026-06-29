@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2505.01062v1",
+  "collection": "halide-solid-state-battery",
+  "title": "In-Situ Growth and Ionic Switching Behavior of Single-Crystalline Silver Iodide Nanoflakes",
+  "authors": [
+    {
+      "name": "Amir Parsi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abdulsalam Aji Suleiman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Doruk Pehlivanoğlu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hafiz Muhammad Shakir",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emine Yeğin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "T. Serkan Kasırga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.01062v1",
+  "published": "2025-05-02T07:10:53+00:00",
+  "abstract": "Silver iodide (AgI) is a prototypical superionic conductor, undergoing a first-order phase transition at 147 Celsius that enables rapid ionic transport through its lattice, making it attractive for solid-state ionic devices. However, due to the presence of mobile Ag ions, controlled chemical vapor deposition (CVD) synthesis of high-quality AgI single crystals has remained largely unexplored. Here, we present the controllable synthesis of thin, single-crystalline β-AgI nanoflakes using a home-built CVD setup with real-time optical observation capability, offering insights into their nucleation and growth dynamics. We evaluate the material's environmental stability through temperature-dependent photodegradation and Ag nanoparticle formation induced by electron beam irradiation. Electrical measurements on two-terminal devices with silver contacts demonstrate a remarkable six-order-of-magnitude resistance drop in lateral configurations at elevated temperatures, indicative of switchable ionic conductivity. Additionally, vertical device architectures exhibit clear memristive (resistive switching) characteristics, likely due to the formation of conductive filaments. Our work addresses the key synthesis challenges and highlights the unique electrical properties of thin AgI single crystals, suggesting its potential for innovative devices in unconventional computing, data storage, and advanced neuromorphic systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.01062v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.01062v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.01062v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:30.357103+00:00",
+  "updated_at": "",
+  "extra": {}
+}

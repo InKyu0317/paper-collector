@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1016_j.est.2024.112940",
+  "collection": "halide-solid-state-battery",
+  "title": "Evaluation of methods for the determination of tortuosity of Li-ion battery separators",
+  "authors": [
+    {
+      "name": "Wei Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Q. M. Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ping Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paola Carbone",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.est.2024.112940",
+  "url": "http://arxiv.org/abs/2212.04988v1",
+  "published": "2022-12-09T17:04:20+00:00",
+  "abstract": "The porosities and tortuosities are commonly utilized to characterize the microstructure of a Li-ion battery's separator and are adopted as key input parameters in advanced battery models. Herein, a general classification of the tortuosity for a porous medium is introduced based on its bi-fold significance, i.e., the geometrical and physical tortuosities. Then, three different methods for the determination of separator's electrical tortuosity are introduced and compared, which include the empirical Bruggeman equation, the experimental method using Electrochemical Impedance Spectrum (EIS) testing a the numerical method using realistic 3D microstructure of the separator obtained from nanoscale X-ray Computed Tomography (XCT). In addition, the connection between the geometrical tortuosity and the electrical tortuosity of a separator is established by introducing the electrical phenomenological factor (\\b{eta}_e), which can facilitate the understanding of the relationship between the microstructure characteristics and transport properties of the separators. Furthermore, to quantitively compare the values of the tortuosities determined by different methods, the corresponding effective transport coefficients (δ) are compared, which was usually used as a correction for effective diffusivity and conductivity of electrolytes in porous media.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2212.04988v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.est.2024.112940/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2212.04988v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:41.995818+00:00",
+  "updated_at": "",
+  "extra": {}
+}

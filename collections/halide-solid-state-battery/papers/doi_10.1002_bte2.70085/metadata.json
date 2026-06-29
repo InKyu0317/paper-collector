@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_bte2.70085",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid‐State Lithium Electrolytes: Characteristic of Floating Li Inside of Anion Framework",
+  "authors": [
+    {
+      "name": "Shipeng Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-4254-0957",
+      "affiliation": "Department of Chemistry City University of Hong Kong  Hong Kong China"
+    },
+    {
+      "name": "Jiongrui Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Chemistry City University of Hong Kong  Hong Kong China"
+    },
+    {
+      "name": "Zikang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Chemistry City University of Hong Kong  Hong Kong China"
+    }
+  ],
+  "doi": "10.1002/bte2.70085",
+  "url": "https://doi.org/10.1002/bte2.70085",
+  "published": "2026-3",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The transition from liquid to solid electrolytes is driven by the need for enhanced safety and higher energy density in advanced batteries. Solid‐state electrolytes (SSEs) eliminate flammability and leakage risks but suffer from low ionic conductivity at ambient conditions due to lattice constraints and high migration barriers. Breakthroughs in SSEs materials such as Li\n                    <jats:sub>10</jats:sub>\n                    GeP\n                    <jats:sub>2</jats:sub>\n                    S\n                    <jats:sub>12</jats:sub>\n                    (LGPS), Li\n                    <jats:sub>7</jats:sub>\n                    La\n                    <jats:sub>3</jats:sub>\n                    Zr\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>12</jats:sub>\n                    (LLZO), and Argyrodite‐type Li\n                    <jats:sub>6</jats:sub>\n                    PS\n                    <jats:sub>5</jats:sub>\n                    Cl reveal a unique phenomenon: lithium ions exhibit “floating” behavior within a stable anionic framework, enabling quasi‐fluid migration through interconnected channels. This work explores the physicochemical nature of “floating Li,” emphasizing weak interactions, multi‐path coupling, and framework flexibility as key factors reducing migration barriers. We further propose an electronic‐density‐based approach using the interaction region indicator (IRI) to extract characteristic descriptors for high‐conductivity SSEs. Comparative analysis of IRI maps across different electrolytes demonstrates distinct patterns associated with low‐electron‐density migration channels. These insights establish a paradigm shift from single‐path models to networked migration behavior and suggest that integrating chemical bonding theory, lattice dynamics, and data‐driven screening can accelerate the rational design of next‐generation solid electrolytes.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.70085",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.70085/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/bte2.70085",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:31.082248+00:00",
+  "updated_at": "",
+  "extra": {}
+}

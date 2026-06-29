@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2310.09849v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid state defect emitters with no electrical activity",
+  "authors": [
+    {
+      "name": "Pei Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Song Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Péter Udvarhelyi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bing Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Adam Gali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.09849v2",
+  "published": "2023-10-15T14:43:18+00:00",
+  "abstract": "Point defects may introduce defect levels into the fundamental band gap of the host semiconductors that alter the electrical properties of the material. As a consequence, the in-gap defect levels and states automatically lower the threshold energy of optical excitation associated with the optical gap of the host semiconductor. It is, therefore, a common assumption that solid state defect emitters in semiconductors ultimately alter the conductivity of the host. Here we demonstrate on a particular defect in 4H silicon carbide that a yet unrecognized class of point defects exists which are optically active but electrically inactive in the ground state.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.09849v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.09849v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.09849v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:46.137381+00:00",
+  "updated_at": "",
+  "extra": {}
+}

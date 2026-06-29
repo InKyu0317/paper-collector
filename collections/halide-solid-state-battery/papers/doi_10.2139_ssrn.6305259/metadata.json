@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.2139_ssrn.6305259",
+  "collection": "halide-solid-state-battery",
+  "title": "Optimizing Solid-State Battery Performance Through Intelligent Remaining Useful Life Estimation",
+  "authors": [
+    {
+      "name": "David Brian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.2139/ssrn.6305259",
+  "url": "https://doi.org/10.2139/ssrn.6305259",
+  "published": null,
+  "abstract": "<jats:p>Solid-state batteries (SSBs) are widely regarded as a next-generation energy storage solution due to their enhanced safety and high energy density; however, their long-term performance remains constrained by degradation uncertainty and limited predictive management strategies. Recent advances in prognostics and health management (PHM), artificial intelligence (AI), and hybrid modeling have demonstrated strong potential in improving Remaining Useful Life (RUL) estimation accuracy for advanced battery systems (Sadegh Kouhestani et al.; Wang et al., 2025; Long et al.). This study develops an intelligent RUL estimation framework tailored specifically for solid-state battery architectures by integrating multi-kernel regression, fusion-based health indicator extraction, and digital twin-enabled battery management systems (Cao, Wang, and Fernandez; Tao et al.; Madani et al.). The results indicate that hybrid physical-data-driven approaches outperform purely statistical or single-model learning strategies in prediction robustness and lifecycle optimization (Rahman and Lu; Cheng et al.). The study concludes that embedding intelligent RUL estimation into smart battery management systems significantly enhances reliability, safety margins, and lifecycle utilization in solid-state batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.2139/ssrn.6305259",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.2139_ssrn.6305259/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "SSRN Electronic Journal",
+  "publisher": "",
+  "issn": "1556-5068",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:30.357535+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,167 @@
+{
+  "paper_id": "arxiv_2512.12849v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Crossover Dynamics of Non-Fickian Ionic Diffusion in Solids",
+  "authors": [
+    {
+      "name": "Gangbin Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pierfrancesco Ombrini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhichu Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shakul Pathak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maoyu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Barbara Lavina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexandros Vasileiadis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Suin Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mingzhan Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dongchen Ying",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qizhang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Esen E. Alp",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hua Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Z. Bazant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qian Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marnix Wagemaker",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chong Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2512.12849v1",
+  "published": "2025-12-14T21:28:46+00:00",
+  "abstract": "Ionic diffusion in solids is central to energy storage, electronics, and catalysis, yet its chemical origins are difficult to resolve because conventional diffusion models struggle with effects of confinement, crystallographic disorder, lattice distortions, and coupling to electronic or phononic carriers. These challenges are especially pronounced in battery materials, where ionic and electronic motion occur together, complicating interpretation of electrochemical measurements. Here we use tracer exchange as a direct, non-electrochemical probe to reveal distinct ion-transport regimes in the one-dimensional conductor olivine Li_xFePO4 (0 <= x <= 1). Lithium isotope exchange validates single-file diffusion governed by strong ion-ion correlations, where 1D confinement suppresses bypassing and preserves spatial order. Kinetic Monte Carlo simulations and chronoamperometry quantify both Faradaic and non-Faradaic surface exchange, identifying electron transport, rather than Li+ mobility, as the rate-limiting step for electrochemical reaction. In addition, Li-Na exchange exhibits apparent superdiffusion, with rates that increase with Na content. Simulations attribute this behavior to surface-exchange limitations and Na-induced lattice strain that enhances cross-channel Li+ hopping and drives a crossover from 1D to quasi-2D transport. Four-dimensional STEM, in situ synchrotron XRD, X-ray absorption spectroscopy, and Mossbauer spectroscopy confirm that lattice softening and concerted polaron motion contribute to the observed dynamics. These results establish tracer exchange as a powerful tool for probing coupled ion-electron transport and provide chemical insight into how lattice mechanics and multicomponent exchange shape ionic diffusion in solids.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.12849v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2512.12849v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.12849v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:15.666496+00:00",
+  "updated_at": "",
+  "extra": {}
+}

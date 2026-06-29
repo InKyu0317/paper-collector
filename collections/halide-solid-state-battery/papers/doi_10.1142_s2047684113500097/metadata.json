@@ -1,0 +1,57 @@
+{
+  "paper_id": "doi_10.1142_s2047684113500097",
+  "collection": "halide-solid-state-battery",
+  "title": "Electronic Conductivity Measurements in Solid Electrolytes Using an Ion Blocking Microelectrode: Noise Rejection Based on a Median Filter",
+  "authors": [
+    {
+      "name": "Veyis Gunes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jean-Yves Botquelen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Odile Bohnke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1142/S2047684113500097",
+  "url": "http://arxiv.org/abs/2402.10883v1",
+  "published": "2024-02-16T18:40:10+00:00",
+  "abstract": "A method of electronic conductivity measurement is presented. It combines two well known methods of electrochemistry: cyclic voltammetry and chronoamperometry. This DC technique uses the Hebb/Wagner approach to block ionic conduction when steady state conditions are reached and allows electronic conduction of solid electrolytes to be determined. In order to get short diffusion times, a micro contact is used as an ion blocking electrode. However, as the electronic conduction in electrolytes is and should be very low, the current is also very low, typically some tens of nanoamps. Thus, the heating system inevitably generates noise problems that are solved using a median filter. Our system allows the determination of the conductivities without any preliminary smoothing or fitting of the curves. Some results with oxygen ion conductors are also give",
+  "keywords": [
+    "eess.SY",
+    "cond-mat.mtrl-sci",
+    "physics.ins-det"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.10883v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1142_s2047684113500097/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.10883v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:34.574759+00:00",
+  "updated_at": "",
+  "extra": {}
+}

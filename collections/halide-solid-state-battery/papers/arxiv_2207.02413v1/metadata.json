@@ -1,0 +1,128 @@
+{
+  "paper_id": "arxiv_2207.02413v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Overpotential decomposition enabled decoupling of complex kinetic processes in battery electrodes",
+  "authors": [
+    {
+      "name": "Ruoyu Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yue Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuyi Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maoyuan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Longhui Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mengyuan Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wen Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bo Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dequn Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hui Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yun Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Huamin Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2207.02413v1",
+  "published": "2022-07-06T02:54:10+00:00",
+  "abstract": "Identifying overpotential components of electrochemical systems enables quantitative analysis of polarization contributions of kinetic processes under practical operating conditions. However, the inherently coupled kinetic processes lead to an enormous challenge in measuring individual overpotentials, particularly in composite electrodes of lithium-ion batteries. Herein, the full decomposition of electrode overpotential is realized by the collaboration of single-layer structured particle electrode (SLPE) constructions and time-resolved potential measurements, explicitly revealing the evolution of kinetic processes. Perfect prediction of the discharging profiles is achieved via potential measurements on SLPEs, even in extreme polarization conditions. By decoupling overpotentials in different electrode/cell structures and material systems, the dominant limiting processes of battery rate performance are uncovered, based on which the optimization of electrochemical kinetics can be conducted. Our study not only shades light on decoupling complex kinetics in electrochemical systems, but also provides vitally significant guidance for the rational design of high-performance batteries.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2207.02413v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2207.02413v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2207.02413v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:38.518800+00:00",
+  "updated_at": "",
+  "extra": {}
+}

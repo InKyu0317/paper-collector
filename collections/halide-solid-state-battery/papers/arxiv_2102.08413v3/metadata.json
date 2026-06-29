@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2102.08413v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Bridging the Gap Between Simulated and Experimental Ionic Conductivities in Lithium Superionic Conductors",
+  "authors": [
+    {
+      "name": "Ji Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Swastika Banerjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yunxing Zuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chi Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhuoying Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "H. C. Manas Likhit",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangguo Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2102.08413v3",
+  "published": "2021-02-16T19:06:34+00:00",
+  "abstract": "Lithium superionic conductors (LSCs) are of major importance as solid electrolytes for next-generation all-solid-state lithium-ion batteries. While $ab$ $initio$ molecular dynamics have been extensively applied to study these materials, there are often large discrepancies between predicted and experimentally measured ionic conductivities and activation energies due to the high temperatures and short time scales of such simulations. Here, we present a strategy to bridge this gap using moment tensor potentials (MTPs). We show that MTPs trained on energies and forces computed using the van der Waals optB88 functional yield much more accurate lattice parameters, which in turn leads to accurate prediction of ionic conductivities and activation energies for the Li$_{0.33}$La$_{0.56}$TiO$_3$, Li$_3$YCl$_6$ and Li$_7$P$_3$S$_{11}$ LSCs. NPT MD simulations using the optB88 MTPs also reveal that all three LSCs undergo a transition between two quasi-linear Arrhenius regimes at relatively low temperatures. This transition can be traced to an expansion in the number and diversity of diffusion pathways, in some cases with a change in the dimensionality of diffusion. This work presents not only an approach to develop high accuracy MTPs, but also outlines the diffusion characteristics for LSCs which is otherwise inaccessible through $ab$ $initio$ computation.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2102.08413v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2102.08413v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2102.08413v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-06-29T03:08:26.919133+00:00",
+  "updated_at": "",
+  "extra": {}
+}
