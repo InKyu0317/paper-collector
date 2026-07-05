@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2310.13680v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3",
+  "authors": [
+    {
+      "name": "Jiongzhi Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Changpeng Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chongjia Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baoling Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruiqiang Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geoffroy Hautier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.13680v2",
+  "published": "2023-10-20T17:40:33+00:00",
+  "abstract": "Fundamental understanding of thermal transport in compounds with ultra-low thermal conductivity remains challenging, primarily due to the limitations of conventional lattice dynamics and heat transport models. In this study, we investigate the thermal transport in quasi-one-dimensional (1D) copper halide CsCu2I3 by employing a combination of first principles-based self-consistent phonon calculations and a dual-channel thermal transport model. Our results show that the 0-K unstable soft modes, primarily dominated by Cs and I atoms in CsCu2I3, can be an-harmonically stabilized at ~ 75 K. Furthermore, we predict an ultra-low thermal conductivity of 0.362 Wm^(-1) K^(-1) along the chain axis and 0.201 Wm^(-1) K^(-1) along cross chain direction in CsCu2I3 at 300 K. Importantly, we find that an unexpected anomalous trend of increasing cross-chain thermal conductivity with increasing temperature for CsCu2I3, following a temperature dependence of ~T 0.106, which is atypical for a single crystal and classified as an abnormal glass-like behavior. The peculiar temperature-dependent behavior of thermal conductivity is elucidated by the dominant wave-like tunnelling of phonons in thermal transport of CsCu2I3 along cross-chain direction. In contrast, particle-like phonon propagation primarily contributes to the chain-axis thermal conductivity across the entire temperature range of 300-700 K. The sharp difference in the dominant thermal transport channels between the two crystallographic directions can be attributed to the unique chain-like quasi-1D structure of CsCu2I3. Our study not only illustrates the microscopic mechanisms of thermal transport in CsCu2I3 but also paves the way for searching for and designing materials with ultra-low thermal conductivity.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.13680v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.13680v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.13680v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-05T03:14:47.274357+00:00",
+  "updated_at": "",
+  "extra": {}
+}

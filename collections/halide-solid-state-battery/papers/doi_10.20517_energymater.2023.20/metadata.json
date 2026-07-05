@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.20517_energymater.2023.20",
+  "collection": "halide-solid-state-battery",
+  "title": "Pore filled solid electrolytes with high ionic conduction and electrochemical stability for lithium sulfur battery",
+  "authors": [
+    {
+      "name": "Anh Le Mong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yeonho Ahn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rangaswamy Puttaswamy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Dukjoon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6187-0737",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.20517/energymater.2023.20",
+  "url": "https://doi.org/10.20517/energymater.2023.20",
+  "published": null,
+  "abstract": "<jats:p>High lithium (Li)-ion conductive solid electrolytes with mechanical stability are quite important in the development of long-term safe and high-performance solid-state Li-sulfur batteries (LSBs). Accordingly, we prepared a pore-filling solid electrolyte (PFSE) by introducing poly(ethylene glycol) double-grafted (poly(arylene ether sulfone) (PAES-g-2PEG), ionic liquid (IL), and ethylene carbonate (EC) into a porous polypropylene/polyethylene/polypropylene (PP/PE/PP) substrate. While the PP/PE/PP substrate provides the membrane with the mechanical strength, the PAES-g-2PEG filler provides high Li-ion conductivity due to the facile ion conduction pathway formation via percolation in the presence of IL and EC. This synergistic effect allowed the prepared PFSE membranes to exhibit both high mechanical strength of 200 MPa, thermal stability above 150 °C, and high ion conductivity of 0.604 mS cm-1 with a Li-transfer number of 0.41. Moreover, PFSE membranes also achieved a large electrochemical potential window of 4.60 V and high cyclic stability after 500 h of Li-stripping/plating. The LSB cell based on a PFSE membrane showed excellent electrochemical performance with preserving 95% of initial capacity after 200 cycles at a 0.2 C-rate. </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.20517/energymater.2023.20",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.20517_energymater.2023.20/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Energy Materials",
+  "publisher": "",
+  "issn": "2770-5900",
+  "quartile": "",
+  "added_at": "2026-07-05T03:14:33.495599+00:00",
+  "updated_at": "",
+  "extra": {}
+}

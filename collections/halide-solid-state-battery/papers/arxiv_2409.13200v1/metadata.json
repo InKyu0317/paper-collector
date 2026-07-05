@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2409.13200v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Spin Dynamics in Hybrid Halide Perovskites -- Effect of Dynamical and Permanent Symmetry Breaking",
+  "authors": [
+    {
+      "name": "Kejun Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Junqing Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Uyen N. Huynh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rikard Bodin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mayank Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Multunas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jacopo Simoni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ravishankar Sundararaman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeev Valy Verdany",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuan Ping",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2409.13200v1",
+  "published": "2024-09-20T04:04:32+00:00",
+  "abstract": "The hybrid organic-inorganic halide perovskite (HOIP), for example MAPbBr3, exhibits extended spin lifetime and apparent spin lifetime anisotropy in experiments. The underlying mechanisms of these phenomena remain illusive. By utilizing our first-principles densitymatrix dynamics approach with quantum scatterings including electron-phonon and electronelectron interactions and self-consistent spinorbit coupling, we present temperature- and magnetic field-dependent spin lifetimes in hybrid perovskites, in agreement with experimental observations. For centrosymmetric hybrid perovskite MAPbBr3, the experimentally observed spin lifetime anisotropy is mainly attributed to the dynamical Rashba effect arising from the interaction between organic and inorganic components and the rotation of the organic cation. For noncentrosymmetric perovskite, such as MPSnBr3, we found persistent spin helix texture at the conduction band minimum, which significantly enhances the spin lifetime anisotropy. Our study provides theoretical insight to spin dynamics in HOIP and strategies for controlling and optimizing spin transport.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.13200v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2409.13200v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.13200v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-05T03:14:51.800440+00:00",
+  "updated_at": "",
+  "extra": {}
+}

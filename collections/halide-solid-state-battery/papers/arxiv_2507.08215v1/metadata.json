@@ -1,0 +1,40 @@
+{
+  "paper_id": "arxiv_2507.08215v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Corner-Sharing PS$_4$-BS$_4$ Modes Facilitate Fast Ion Conduction in Lithium Thioborophosphate Iodide Glassy Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Yun An",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.08215v1",
+  "published": "2025-07-10T23:21:41+00:00",
+  "abstract": "Glassy solid electrolytes (GSEs), with their amorphous nature and the absence of grain boundaries, make them highly attractive for applications in all-solid-state lithium batteries (ASSLBs), a leading candidate for next-generation energy storage technologies. A recently developed lithium thioborophosphate iodide GSE, composed of 30Li$_2$S-25B$_2$S$_3$-45LiI-5P$_2$S$_5$ (LBPSI), has demonstrated excellent room-temperature ionic conductivity and low activation energy. Despite this exciting finding, the underlying mechanism behind this ultrafast ion transport remains ambiguous. Here, we accurately fine-tune the foundational MACE-MP-0 model and perform large-scale machine learning molecular dynamics simulations to investigate the structural and ion dynamics in LBPSI GSE. Our results reveal that B$_2$S$_3$ glass formers primarily form multi-bridged B$_x$S$_y$ long-chain networks that impede Li$^+$ conduction. In contrast, P$_2$S$_5$ gives rise to mono-tetrahedral PS$_4$$^{3-}$ and di-tetrahedral P$_2$S$_7$$^{4-}$ tetrahedra, which engage in distinctive corner-sharing modes with BS$_4$$^{5-}$ tetrahedra, effectively disrupting the B$_x$S$_y$ chains and enhancing Li$^+$ mobility. Furthermore, the polyhedral anion rotations of PS$_4$$^{3-}$ and BS$_4$$^{5-}$ in the corner-sharing PS$_4$-BS$_4$ motifs may further promote fast Li$^+$ conduction.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.08215v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.08215v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.08215v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-05T03:14:38.600516+00:00",
+  "updated_at": "",
+  "extra": {}
+}

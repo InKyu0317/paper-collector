@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2401.02359v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of Ca doping on Li ion conductivity of Ge and Ta doped garnet LLZO",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.02359v1",
+  "published": "2024-01-04T16:58:45+00:00",
+  "abstract": "The series Li6.55+xGe0.05La3-xCaxZr1.75Ta0.25O12 ( x= 0, 0.05, 0.10, 0.15, 0.20 ) was prepared by conventional solid state reaction method with the sintering temperature of 10500C for 7.30 hr by substituting Ca at the La site to increase the Li ion conductivity. The synergistic effects of Ca incorporation on Li6.55Ge0.05La3Zr1.75Ta0.25O12 were studied using various structural and electrochemical analyses. X-ray diffraction, scanning electron microscopy, and Impedance analysis were used to determine the crystal structure, morphology, and AC conductivity of the prepared ceramic samples, respectively. The highest conductivity of 9.95 x 10-4 S/cm was obtained for a 0.05 Ca ceramic sample with minimum activation energy of 0.23 eV. The DC polarization measurements confirmed the dominance of ionic conduction in 0.05 Ca ceramic. The results obtained make the 0.05 Ca ceramic sample a promising candidate as solid electrolytes for all solid state Li-ion batteries (ASSLIBs).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.02359v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.02359v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.02359v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-05T03:14:41.655263+00:00",
+  "updated_at": "",
+  "extra": {}
+}
