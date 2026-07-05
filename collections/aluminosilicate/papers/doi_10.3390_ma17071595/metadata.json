@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_ma17071595",
+  "collection": "aluminosilicate",
+  "title": "Structural Causes of Brittleness Changes in Aluminosilicate Glasses with Different Cooling Rates",
+  "authors": [
+    {
+      "name": "Liqiang Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, China"
+    },
+    {
+      "name": "Shimin Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2013-4260",
+      "affiliation": "State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, China"
+    },
+    {
+      "name": "Fushun Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Hebei Building Materials Vocational and Technical College, Qinhuangdao 066004, China"
+    },
+    {
+      "name": "Lianjie Tong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, China"
+    },
+    {
+      "name": "Shiqing Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6727-0003",
+      "affiliation": "State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao 066004, China"
+    }
+  ],
+  "doi": "10.3390/ma17071595",
+  "url": "https://doi.org/10.3390/ma17071595",
+  "published": null,
+  "abstract": "<jats:p>Numerous sources have already demonstrated that varying annealing rates can result in distinct toughness and brittleness in glass. To determine the underlying mechanisms driving this phenomenon, molecular dynamic (MD) simulations were employed to investigate the microstructure of aluminosilicate glasses under different cooling rates, and then uniaxial stretching was performed on them under controlled conditions. Results indicated that compared with short-range structure, cooling rate has a greater influence on the medium-range structure in glass, and it remarkably affects the volume of voids. Both factors play a crucial role in determining the brittleness of the glass. The former adjusts network connectivity to influence force transmission by manipulating the levels of bridging oxygen (BO) and non-bridging oxygen (NBO), and the latter accomplishes the objective of influencing brittleness by modifying the environmental conditions that affect the changes in BO and NBO content. The variation in the void environment results in differences in the strategies of the changes in BO and NBO content during glass stress. These findings stem from the excellent response of BO and NBO to the characteristic points of stress–strain curves during stretching. This paper holds importance in understanding the reasons behind the effect of cooling rates on glass brittleness and in enhancing our understanding of the ductile/brittle transition (DTB) in glass.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma17071595",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma17071595/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-07-05T03:09:46.184809+00:00",
+  "updated_at": "",
+  "extra": {}
+}

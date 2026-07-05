@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_app15031094",
+  "collection": "aluminosilicate",
+  "title": "The Development of a Novel Aluminosilicate Catalyst Fabricated via a 3D Printing Mold for Biodiesel Production at Room Temperature",
+  "authors": [
+    {
+      "name": "Selene Díaz-González",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3275-3408",
+      "affiliation": "Inorganic Chemistry Department, University of La Laguna, Avda. Astrofísico Fco. Sánchez s/n, 38200 La Laguna, Spain"
+    },
+    {
+      "name": "Karina Elvira Rodríguez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6192-0407",
+      "affiliation": "Chemical Engineering Department, University of La Laguna, Avda. Astrofísico Fco. Sánchez s/n, 38200 La Laguna, Spain"
+    },
+    {
+      "name": "Laura Díaz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0310-3729",
+      "affiliation": "Chemical Engineering Department, University of La Laguna, Avda. Astrofísico Fco. Sánchez s/n, 38200 La Laguna, Spain"
+    }
+  ],
+  "doi": "10.3390/app15031094",
+  "url": "https://doi.org/10.3390/app15031094",
+  "published": null,
+  "abstract": "<jats:p>Biodiesel production has gained attention as a sustainable alternative to fossil fuels, but challenges related to catalyst recovery and energy consumption remain. In this study, a novel lithium-impregnated aluminosilicate catalyst (LiSA) was developed using a 3D-printed mold, providing precise control over its structure to optimize performance. The structured catalyst featured a cylindrical shape with multiple circular channels, enhancing fluid dynamics and reactant interaction in a fixed-bed reactor. Catalyst characterization by SEM, TGA, XRD, and ICP-MS confirmed high thermal stability and uniform pore distribution. Jatropha curcas oil was used as feedstock, with diethyl ether (DEE) acting as a cosolvent to improve methanol solubility and enable transesterification at room temperature. The process achieved a high fatty acid methyl ester (FAME) yield, averaging 97.1% over 508 min of continuous operation, demonstrating the catalyst’s stability and sustained activity. By reducing mass transfer limitations and energy demands, this approach highlights the potential of 3D-printed catalysts to advance sustainable biodiesel production, offering a scalable and efficient pathway for green energy technologies.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/app15031094",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_app15031094/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Applied Sciences",
+  "publisher": "",
+  "issn": "2076-3417",
+  "quartile": "",
+  "added_at": "2026-07-05T03:09:46.185497+00:00",
+  "updated_at": "",
+  "extra": {}
+}
