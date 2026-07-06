@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_ma16051863",
+  "collection": "aluminosilicate",
+  "title": "3D Off-Lattice Coarse-Grained Monte Carlo Simulations for Nucleation of Alkaline Aluminosilicate Gels",
+  "authors": [
+    {
+      "name": "Mohammadreza Izadifar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8153-4834",
+      "affiliation": "Institute of Construction and Building Materials, Technical University of Darmstadt, Franziska-Braun-Str. 3, 64287 Darmstadt, Germany"
+    },
+    {
+      "name": "Nicolas Castrillon Valencia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0001-5643-4399",
+      "affiliation": "Institute of Construction and Building Materials, Technical University of Darmstadt, Franziska-Braun-Str. 3, 64287 Darmstadt, Germany"
+    },
+    {
+      "name": "Peng Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-7396-2132",
+      "affiliation": "Institute of Construction and Building Materials, Technical University of Darmstadt, Franziska-Braun-Str. 3, 64287 Darmstadt, Germany"
+    },
+    {
+      "name": "Neven Ukrainczyk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4122-0547",
+      "affiliation": "Institute of Construction and Building Materials, Technical University of Darmstadt, Franziska-Braun-Str. 3, 64287 Darmstadt, Germany"
+    },
+    {
+      "name": "Eduardus Koenders",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8664-2554",
+      "affiliation": "Institute of Construction and Building Materials, Technical University of Darmstadt, Franziska-Braun-Str. 3, 64287 Darmstadt, Germany"
+    }
+  ],
+  "doi": "10.3390/ma16051863",
+  "url": "https://doi.org/10.3390/ma16051863",
+  "published": null,
+  "abstract": "<jats:p>This work presents a 3D off-lattice coarse-grained Monte Carlo (CGMC) approach to simulate the nucleation of alkaline aluminosilicate gels, their nanostructure particle size, and their pore size distribution. In this model, four monomer species are coarse-grained with different particle sizes. The novelty is extending the previous on-lattice approach from White et al. (2012 and 2020) by implementing a full off-lattice numerical implementation to consider tetrahedral geometrical constraints when aggregating the particles into clusters. Aggregation of the dissolved silicate and aluminate monomers was simulated until reaching the equilibrium condition of 16.46% and 17.04% in particle number, respectively. The cluster size formation was analyzed as a function of iteration step evolution. The obtained equilibrated nano-structure was digitized to obtain the pore size distribution and this was compared with the on-lattice CGMC and measurement results from White et al. The observed difference highlighted the importance of the developed off-lattice CGMC approach to better describe the nanostructure of aluminosilicate gels.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma16051863",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma16051863/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 20,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-07-06T03:14:05.883802+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3389_fmats.2023.1089216",
+  "collection": "aluminosilicate",
+  "title": "Density functional modeling of the binding energies between aluminosilicate oligomers and different metal cations",
+  "authors": [
+    {
+      "name": "Kai Gong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Kengran Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Claire E. White",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.3389/fmats.2023.1089216",
+  "url": "https://doi.org/10.3389/fmats.2023.1089216",
+  "published": null,
+  "abstract": "<jats:p>Interactions between negatively charged aluminosilicate species and positively charged metal cations are critical to many important engineering processes and applications, including sustainable cements and aluminosilicate glasses. In an effort to probe these interactions, here we have calculated the pair-wise interaction energies (i.e., binding energies) between aluminosilicate dimer/trimer and 17 different metal cations M<jats:sup>n+</jats:sup> (M<jats:sup>n+</jats:sup> = Li<jats:sup>+</jats:sup>, Na<jats:sup>+</jats:sup>, K<jats:sup>+</jats:sup>, Cu<jats:sup>+</jats:sup>, Cu<jats:sup>2+</jats:sup>, Co<jats:sup>2+</jats:sup>, Zn<jats:sup>2+</jats:sup>, Ni<jats:sup>2+</jats:sup>, Mg<jats:sup>2+</jats:sup>, Ca<jats:sup>2+</jats:sup>, Ti<jats:sup>2+</jats:sup>, Fe<jats:sup>2+</jats:sup>, Fe<jats:sup>3+</jats:sup>, Co<jats:sup>3+</jats:sup>, Cr<jats:sup>3+</jats:sup>, Ti<jats:sup>4+</jats:sup> and Cr<jats:sup>6+</jats:sup>) using a density functional theory (DFT) approach. Analysis of the DFT-optimized structural representations for the clusters (dimer/trimer + M<jats:sup>n+</jats:sup>) shows that their structural attributes (e.g., interatomic distances) are generally consistent with literature observations on aluminosilicate glasses. The DFT-derived binding energies are seen to vary considerably depending on the type of cations (i.e., charge and ionic radii) and aluminosilicate species (i.e., dimer or trimer). A survey of the literature reveals that the difference in the calculated binding energies between different M<jats:sup>n+</jats:sup> can be used to explain many literature observations associated with the impact of metal cations on materials properties (e.g., glass corrosion, mineral dissolution, and ionic transport). Analysis of all the DFT-derived binding energies reveals that the correlation between these energy values and the ionic potential and field strength of the metal cations are well captured by 2nd order polynomial functions (<jats:italic>R</jats:italic><jats:sup><jats:italic>2</jats:italic></jats:sup> values of 0.99–1.00 are achieved for regressions). Given that the ionic potential and field strength of a given metal cation can be readily estimated using well-tabulated ionic radii available in the literature, these simple polynomial functions would enable rapid estimation of the binding energies of a much wider range of cations with the aluminosilicate dimer/trimer, providing guidance on the design and optimization of sustainable cements and aluminosilicate glasses and their associated applications. Finally, the limitations associated with using these simple model systems to model complex interactions are also discussed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3389/fmats.2023.1089216",
+  "pdf_path": "aluminosilicate/papers/doi_10.3389_fmats.2023.1089216/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 21,
+  "journal": "Frontiers in Materials",
+  "publisher": "",
+  "issn": "2296-8016",
+  "quartile": "",
+  "added_at": "2026-07-06T03:14:05.882975+00:00",
+  "updated_at": "",
+  "extra": {}
+}
