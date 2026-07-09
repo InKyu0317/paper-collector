@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2021-012149mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Reactivity and Evolution of Ionic Solid-Electrolyte-Interphases in Battery Electrolytes",
+  "authors": [
+    {
+      "name": "Rui Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8826-2456",
+      "affiliation": ""
+    },
+    {
+      "name": "Dongniu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Lucia Zuin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Betar M. Gallant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4586-2769",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2021-012149mtgabs",
+  "url": "https://doi.org/10.1149/ma2021-012149mtgabs",
+  "published": "2021-5-30",
+  "abstract": "<jats:p>  \tThe instability of the solid electrolyte interphase (SEI) on the lithium (Li) metal anode is a major challenge towards improving the Coulombic efficiency (CE) and cycle life of Li batteries. In classical SEI models with mosaic and layered structures, ionic phases (e.g., Li<jats:sub>2</jats:sub>O and LiF) are enriched closest to the Li|SEI interface, while the outer SEI are highly dependent on electrolytes and typically assigned to less-reduced species, such as semi-carbonates and organic Li salts.<jats:sup>1, 2 </jats:sup>The formation of SEI on Li is often interpreted as a consequence of reactivity between Li metal and electrolytes; however, there remains a lack of understanding about the interplay between electrolytes and specific SEI phases once they are formed. Some recent computational studies have shed light on the chemical reactivity between thin (~1 nm) single-phase inorganic SEI (Li<jats:sub>2</jats:sub>O, LiOH, and Li<jats:sub>2</jats:sub>CO<jats:sub>3</jats:sub>) on Li metal and DME electrolytes containing LiTFSI or LiFSI salts, using ab initio molecular dynamics (AIMD) calculations;<jats:sup>3, 4</jats:sup> experimental insights are still much-needed.</jats:p>\n               <jats:p>Herein, we study two ionic SEI phases, Li<jats:sub>2</jats:sub>O (Fig. 1a-b) and LiF (Fig. 1c-d), that are nearly ubiquitously found across many native SEIs, and investigate their stability at the SEI|electrolyte interface. We find, by using a combination of electrochemical impedance spectroscopy (EIS), X-ray photoelectron spectroscopy (XPS) and non-destructive X-ray absorption near-edge spectroscopy (XANES), that the ionic SEI|electrolyte interfaces can undergo significant chemical evolution as a function of electrolyte. As shown in Fig. 1a, distinctive lower-frequency semicircles emerged in the Nyquist plots of EIS when 1 M LiTFSI EC/DEC and 1 M LiPF<jats:sub>6</jats:sub> EC/DEC were used, indicating significant changes at the interface between the ionic Li<jats:sub>2</jats:sub>O SEI and carbonate-based electrolytes, especially in the presence of LiPF<jats:sub>6</jats:sub> salt. The surface atomic concentration of F also increased significantly from 4 at.% in 1 M LiTFSI DOL/DME to 44 at.% in 1 M LiPF<jats:sub>6</jats:sub> EC/DEC, suggesting that a F-rich Li<jats:sub>2</jats:sub>O|electrolyte interface leads to an additional charge transfer barrier. Non-destructive Li K-edge XANES of the Li<jats:sub>2</jats:sub>O SEI soaked in 1 M LiPF<jats:sub>6</jats:sub> EC/DEC electrolyte displayed a dominant LiF peak at 62.3 eV with an evident blue shift compared with the standard LiF peak at 62.0 eV (Fig. 1b),<jats:sup>5</jats:sup> which could be attributed to the solvation of F-rich species at the interface by organic phases from carbonates decomposition, forming an “organic/F-rich” outer SEI layer. Similar organic/F-rich outer SEI was also observed on the LiF SEI soaked in 1 M LiPF<jats:sub>6</jats:sub>EC/DEC electrolyte, as evidenced by EIS (Fig. 1c), XPS (Fig. 1d) and XANES results. The organic/F-rich outer SEI induced by reactivity between ionic SEI phases and carbonate-based electrolytes can significantly exacerbate the subsequent plating overpotentials. Our experimental results suggest that electrolyte solvent and salt selection is of great importance to optimize transport in ionic-rich Li interfaces, which can have important implications ultimately for SEI stability and thus CE.</jats:p>\n               <jats:p>\n                  <jats:bold>Figure 1.</jats:bold> (a) Nyquist plot of EIS spectra of Li|Li<jats:sub>2</jats:sub>O SEI in the three different electrolytes, where the thickness <jats:italic>L</jats:italic> and conductivity <jats:italic>σ</jats:italic> of the Li<jats:sub>2</jats:sub>O SEI were acquired by fitting the higher-frequency semi-circle (or the sole semi-circle in the case of DOL/DME).<jats:sup>6</jats:sup> (b) Li K-edge XANES fluorescence yield (FLY) of Li|Li<jats:sub>2</jats:sub>O interface after soaking in EC/DEC solvent or 1 M LiPF<jats:sub>6</jats:sub> EC/DEC electrolyte for 20 hours. (c) Nyquist plot of EIS spectra of Li|LiF SEI in the three different electrolytes. (d) C1s and F1s XPS of the surface layer on Li|LiF SEI after soaking in each electrolyte.</jats:p>\n               <jats:p>\n                  <jats:bold>References:</jats:bold>\n               </jats:p>\n               <jats:p>1. E. Peled, D. Golodnitsky, and G. Ardel, <jats:italic>J. Electrochem. Soc.,</jats:italic> \n                  <jats:bold>144</jats:bold> (8), L208-L210 (1997).</jats:p>\n               <jats:p>2. A. Schechter, D. Aurbach, and H. Cohen <jats:italic>Langmuir,</jats:italic> \n                  <jats:bold>15</jats:bold> (9), 3334-3342 (1999).</jats:p>\n               <jats:p>3. E. P. Kamphaus, S. Angarita-Gomez, X. P. Qin, M. H. Shao, M. Engelhard, K. T. Mueller, V. Murugesan, and P. B. Balbuena, <jats:italic>ACS Appl. Mater. Interfaces,</jats:italic> \n                  <jats:bold>11</jats:bold> (34), 31467-31476 (2019).</jats:p>\n               <jats:p>4. E. P. Kamphaus, S. A. Gomez, X. Qin, M. Shao, and P. B. Balbuena, <jats:italic>ChemPhysChem,</jats:italic> \n                  <jats:bold>21</jats:bold> (12), 1310-1317 (2020).</jats:p>\n               <jats:p>5. D. Wang and L. Zuin, <jats:italic>J. Power Sources,</jats:italic> \n                  <jats:bold>337</jats:bold>, 100-109 (2017).</jats:p>\n               <jats:p>6. R. Guo and B. M. Gallant, <jats:italic>Chem. Mater.,</jats:italic> \n                  <jats:bold>32</jats:bold> (13), 5525-5533 (2020).</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n                     <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"149fig1.jpg\" xlink:type=\"simple\"/>\n                  </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2021-012149mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2021-012149mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2021-012149mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-09T03:05:17.435257+00:00",
+  "updated_at": "",
+  "extra": {}
+}

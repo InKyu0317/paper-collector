@@ -1,0 +1,57 @@
+{
+  "paper_id": "doi_10.1063_5.0187729",
+  "collection": "halide-solid-state-battery",
+  "title": "Rotational dynamics, ionic conductivity, and glass formation in a ZnCl2-based deep eutectic solvent",
+  "authors": [
+    {
+      "name": "A. Schulz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "P. Lunkenheimer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Loidl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0187729",
+  "url": "http://arxiv.org/abs/2311.09360v1",
+  "published": "2023-11-15T20:45:46+00:00",
+  "abstract": "Glass formation and reorientational motions are widespread, but often-neglected features of deep eutectic solvents, although both can be relevant for the technically important ionic conductivity at room temperature. Here we investigate these properties for two mixtures of ethylene glycol and ZnCl2, which were recently considered as superior electrolyte materials for application in zinc-ion batteries. For this purpose, we employed dielectric spectroscopy performed in a broad temperature range, extending from the supercooled state at low temperatures up to the liquid phase around room temperature and beyond. We find evidence for a relaxation process arising from dipolar reorientation dynamics, which reveals the clear signatures of glassy freezing. This freezing also governs the temperature dependence of the ionic dc conductivity. We compare the obtained results with those for deep eutectic solvents that are formed by the same hydrogen-bond donor, ethylene glycol, but by two different salts, choline chloride and lithium triflate. The four materials reveal significantly different ionic and reorientational dynamics. Moreover, we find varying degrees of decoupling of rotational dipolar and translational ionic motions, which partly can be described by a fractional Debye-Stokes-Einstein relation. The typical glass-forming properties of these solvents strongly affect their room-temperature conductivity.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2311.09360v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0187729/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2311.09360v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-09T03:05:14.377015+00:00",
+  "updated_at": "",
+  "extra": {}
+}

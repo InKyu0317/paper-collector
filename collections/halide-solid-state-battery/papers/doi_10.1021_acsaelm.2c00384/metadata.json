@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi_10.1021_acsaelm.2c00384",
+  "collection": "halide-solid-state-battery",
+  "title": "Gadolinium halide monolayers: a fertile family of two-dimensional 4f magnets",
+  "authors": [
+    {
+      "name": "Haipeng You",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ning Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoyan Yao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuai Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaelm.2c00384",
+  "url": "http://arxiv.org/abs/2205.08666v1",
+  "published": "2022-05-18T00:17:12+00:00",
+  "abstract": "Two-dimensional (2D) magnets have great potentials for applications in next-generation information devices. Since the recent experimental discovery of intrinsic 2D magnetism in monolayer CrI$_3$ and few-layer Cr$_2$Ge$_2$Te$_6$, intensive studies have been stimulated in pursuing more 2D magnets and revealing their intriguing physical properties. In comparison to the magnetism based on $3d$ electrons, $4f$ electrons can provide larger magnetic moments and stronger spin-orbit coupling, but have been much less studied in the 2D forms. Only in very recent years, some exciting results have been obtained in this area. In this mini-review, we will introduce some recent progress in 2D Gd halides from a theoretical aspect. It is noteworthy that $4f$ and $5d$ orbitals of Gd both play key roles in these materials. For Gd$X_2$ ($X$=I, Br, Cl and F) monolayers and related Janus monolayers, robust ferromagnetism with large exchanges comes from the $4f^7$+$5d^1$ hybridization of Gd$^{2+}$. The spatially expanded $5d$ electrons act as a bridge to couple localized $4f$ spins. For Gd$X_3$ monolayers, the intercalation of metal atoms can dope electrons into Gd's $5d$ orbitals, which leads to numerous intriguing physical properties, such as ferroelasticity, ferromagnetism, and anisotropic conductance. In brief, Gd halides establish an effective strategy to take advantage of $f$-electron magnetism in 2D materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "cond-mat.str-el"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.08666v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaelm.2c00384/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.08666v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-09T03:05:21.011215+00:00",
+  "updated_at": "",
+  "extra": {}
+}
