@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2022.114768",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of temperature variations on the behavior of a two-terminal organic–inorganic halide perovskite rewritable memristor for neuromorphic operations",
+  "authors": [
+    {
+      "name": "Grigorii V. Nenashev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0803-1755",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrey N. Aleshin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Igor P. Shcherbakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Vasily N. Petrov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2022.114768",
+  "url": "https://doi.org/10.1016/j.ssc.2022.114768",
+  "published": "2022-6",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2022.114768",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2022.114768/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 11,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-07-10T03:12:25.840762+00:00",
+  "updated_at": "",
+  "extra": {}
+}

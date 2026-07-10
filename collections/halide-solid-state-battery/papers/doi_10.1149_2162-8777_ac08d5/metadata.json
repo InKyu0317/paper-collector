@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac08d5",
+  "collection": "halide-solid-state-battery",
+  "title": "Magneto-Optical Conductivity of Graphene: Signatures of a Uniform Y-Shaped Kekule Lattice Distortion",
+  "authors": [
+    {
+      "name": "Yawar Mohammadi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9407-2942",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac08d5",
+  "url": "https://doi.org/10.1149/2162-8777/ac08d5",
+  "published": "2021-6-1",
+  "abstract": "<jats:p>Recent experiments have revealed Y-shaped Kekulé lattice distortions in the honeycomb lattice on a graphene-copper superlattice[Nat. Phys. 12 (2016) 950]. In this paper the effects of such lattice distortions on the magneto-optical properties of graphene are investigated within Kubo linear-response formalism. It is found that the Y-shaped Kekulé lattice distortion lifts the valley degeneracy of all Landau levels except zero-energy mode, leading to six categories of absorption peaks in the optical absorption spectra with a distinct optical selection rule. Particular attention is paid to the absorption frequency, peak intensity of each category and its redistribution as the chemical potential is varied. Their main features are found to be different from those in undistorted graphene having their origin in the Kekulé lattice distortion. The optical response of the Y-shaped Kekulé-patterned graphene to left- and right-handed circular light is also discussed in details. The present results also suggest that magneto-optical measurements will allow to determine the Kekulé bond-texture amplitude.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac08d5",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac08d5/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac08d5/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-07-10T03:12:25.840183+00:00",
+  "updated_at": "",
+  "extra": {}
+}

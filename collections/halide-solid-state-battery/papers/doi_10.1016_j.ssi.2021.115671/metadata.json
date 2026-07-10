@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.ssi.2021.115671",
+  "collection": "halide-solid-state-battery",
+  "title": "Review on the synthesis and doping strategies in enhancing the Na ion conductivity of Na3Zr2Si2PO12 (NASICON) based solid electrolytes",
+  "authors": [
+    {
+      "name": "Y. Bhaskara Rao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "K. Kamala Bharathi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "L.N. Patro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssi.2021.115671",
+  "url": "https://doi.org/10.1016/j.ssi.2021.115671",
+  "published": "2021-8",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssi.2021.115671",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssi.2021.115671/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 78,
+  "journal": "Solid State Ionics",
+  "publisher": "",
+  "issn": "0167-2738",
+  "quartile": "",
+  "added_at": "2026-07-10T03:12:25.840520+00:00",
+  "updated_at": "",
+  "extra": {}
+}

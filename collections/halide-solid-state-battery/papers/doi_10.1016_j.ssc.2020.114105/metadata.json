@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2020.114105",
+  "collection": "halide-solid-state-battery",
+  "title": "Metallic conductivity of the heterointerface between LaFeO3 and SrTiO3",
+  "authors": [
+    {
+      "name": "Hiroaki Nishikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7753-3866",
+      "affiliation": ""
+    },
+    {
+      "name": "Fumiya Itani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Tadao Kawaguchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Hidekazu Tanaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nobuyuki Iwata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2020.114105",
+  "url": "https://doi.org/10.1016/j.ssc.2020.114105",
+  "published": "2021-1",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2020.114105",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2020.114105/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-07-10T03:12:25.484598+00:00",
+  "updated_at": "",
+  "extra": {}
+}

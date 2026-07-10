@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-01462454mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Revealing Kinetic Limitations in Halide All-Solid-State Batteries Using Synchrotron-Based Spectromicroscopy",
+  "authors": [
+    {
+      "name": "Sixu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7458-0296",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-01462454mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-01462454mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tLithium-ion batteries (LIBs), as the core technologies enabling electric vehicles EV adoption, stand out as the most promising energy storage systems, thanks to their high operating voltages and efficiency compared to alternative technologies. However, the advancement of conventional LIBs has faced obstacles due to two major challenges: high safety risks of using flammable and toxic liquid electrolytes and limited energy densities.[1] To address these limitations, all-solid-state lithium-ion batteries (ASSLIBs) have emerged as a transformative solution, offering the potential to overcome these challenges and paving the way for the next generation of EVs. Among the various types of solid-state electrolytes (SSEs) developed, halide-based SSEs have demonstrated exceptional performance. They offer high lithium-ion conductivity, reaching values around 10<jats:sup>-3</jats:sup> S/cm, along with enhanced interfacial stability. These properties contribute to stable cycling performance, making halide-based SSEs a critical component in advancing ASSLIBs.[2] However, halide-based ASSLIBs still face some key challenges hindering their application in EVs. For example, the rate capability of halide-based ASSLIBs still falls far below the requirements of fast-charging EVs (full-charged in 15 min). In addition to the effect of Li-ion conductivity in SSEs, Li-ion and electron transfer kinetics at the cathode interface and in cathode materials are also critically important for the high-rate capability of halide-based ASSLIBs. In this talk, I will first review our previous studies on cathode interface in inorganic ASSLIBs.[3-7] After that, I will introduce our most recent research on unveiling the kinetic limitation of cathode interfaces in halide-based ASSLIBs by synchrotron-based spectromicroscopy. Our research suggests that poor Li-ion and electron transfer kinetics at the cathode/SSE interface and in the cathode bulk structure are the key limitation for the low capacity of halide-based ASSLIBs under high-rate charge-discharge cycles.</jats:p>\n               <jats:p>References</jats:p>\n               <jats:p>[1] H. Li, Joule, 3 (2019) 911-914.</jats:p>\n               <jats:p>[2] S. Randau, D.A. Weber, O. Kötz, R. Koerver, P. Braun, A. Weber, E. Ivers-Tiffée, T. Adermann, J. Kulisch, W.G. Zeier, Nature Energy, 5 (2020) 259-270.</jats:p>\n               <jats:p>[3] S. Deng, X. Li, Z. Ren, W. Li, J. Luo, J. Liang, J. Liang, M.N. Banis, M. Li, Y. Zhao, Energy Storage Materials, 27 (2020) 117-123.</jats:p>\n               <jats:p>[4] S. Deng, Y. Sun, X. Li, Z. Ren, J. Liang, K. Doyle-Davis, J. Liang, W. Li, M. Norouzi Banis, Q. Sun, ACS Energy Letters, 5 (2020) 1243-1251.</jats:p>\n               <jats:p>[5] S. Deng, Q. Sun, M. Li, K. Adair, C. Yu, J. Li, W. Li, J. Fu, X. Li, R. Li, Energy Storage Materials, 35 (2021) 661-668.</jats:p>\n               <jats:p>[6] S. Deng, M. Jiang, N. Chen, W. Li, M. Zheng, W. Chen, R. Li, H. Huang, J. Wang, C.V. Singh, Advanced Functional Materials, 32 (2022) 2205594.</jats:p>\n               <jats:p>[7] S. Deng, M. Jiang, A. Rao, X. Lin, K. Doyle‐Davis, J. Liang, C. Yu, R. Li, S. Zhao, L. Zhang, Advanced Functional Materials, 32 (2022) 2200767.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-01462454mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-01462454mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-01462454mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-10T03:12:23.118182+00:00",
+  "updated_at": "",
+  "extra": {}
+}
