@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1134_s1063783425604114",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of a Doping Gradient on the Performance of HTL-Free Mixed-Halide Perovskite Solar Cells: A Simulation Study",
+  "authors": [
+    {
+      "name": "Ameer Humza Awan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Muhammad Shakaib",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0699-1987",
+      "affiliation": ""
+    },
+    {
+      "name": "Muhammad Ehtesham ul Haque",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1134/s1063783425604114",
+  "url": "https://doi.org/10.1134/s1063783425604114",
+  "published": "2026-4",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1134/s1063783425604114",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1134_s1063783425604114/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1063783425604114.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Physics of the Solid State",
+  "publisher": "",
+  "issn": "1063-7834",
+  "quartile": "",
+  "added_at": "2026-07-11T03:12:04.061159+00:00",
+  "updated_at": "",
+  "extra": {}
+}

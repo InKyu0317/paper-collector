@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2025-023530mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Comparative Study of Sulfide and Halide Solid Electrolytes in Ni-Rich Composite Cathodes for All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Subin Ahn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Won-Sub Yoon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-023530mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-023530mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    All-solid-state batteries (ASSBs) have emerged as promising next-generation energy storage systems due to their enhanced safety, enabled by replacing flammable liquid electrolytes with non-flammable solid electrolytes. However, interfacial challenges, arising from complex chemo-mechanical interactions between cathode active materials and solid electrolytes (SEs), hinder the commercialization of ASSBs. Since degradation in ASSBs is strongly influenced by the SEs used in composite cathodes, understanding SE-dependent degradation mechanisms is crucial. In this study, we investigate the degradation mechanisms of LiNi\n                    <jats:sub>0.8</jats:sub>\n                    Co\n                    <jats:sub>0.1</jats:sub>\n                    Mn\n                    <jats:sub>0.1</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    (NCM) composite cathodes with either the sulfide-based Li\n                    <jats:sub>6</jats:sub>\n                    PS\n                    <jats:sub>5</jats:sub>\n                    Cl (LPSCl) or the halide-based Li\n                    <jats:sub>2</jats:sub>\n                    ZrCl\n                    <jats:sub>6</jats:sub>\n                    (LZC) SEs from the initial cycle to prolonged cycling. A combination of electrochemical techniques, synchrotron X-ray-based analyses, and electron microscopy is employed. In the NCM-LPSCl cathode, capacity loss occurs primarily in the initial cycle due to interfacial side reactions, such as LPSCl oxidation and Ni reduction at the NCM surface. The reaction products, including P\n                    <jats:sub>2</jats:sub>\n                    S\n                    <jats:sub>5</jats:sub>\n                    , S, SO\n                    <jats:sub>x</jats:sub>\n                    , and PO\n                    <jats:sub>x</jats:sub>\n                    species, form resistive interphases at the interface. In contrast, the chemically stable NCM-LZC cathode exhibits a higher initial capacity due to the absence of such side reactions. However, during prolonged cycling, high capacity utilization of the NCM-LZC cathode induces significant lattice strain, generating mechanical stress at the solid interface. This strain promotes the formation of voids and cracks within the composite cathode, leading to physical contact loss and continuous capacity fading. Our findings highlight distinct degradation factors in each system: resistive interphases in the NCM-LPSCl cathode, and mechanical contact loss in the NCM-LZC cathode. Further details will be discussed at the meeting.\n                  </jats:p>\n                  <jats:p>\n                    <jats:inline-formula/>\n                  </jats:p>\n                  <jats:p>Figure 1</jats:p>\n                  <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-023530mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-023530mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-023530mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-11T03:12:00.626970+00:00",
+  "updated_at": "",
+  "extra": {}
+}
