@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1021_acs.chemmater.3c02201",
+  "collection": "halide-solid-state-battery",
+  "title": "Lone-Pair Stereochemistry Induces Ferroelectric Distortion and the Rashba Effect in Inorganic Halide Perovskites",
+  "authors": [
+    {
+      "name": "Michael W. Swift",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John L. Lyons",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.chemmater.3c02201",
+  "url": "http://arxiv.org/abs/2308.02481v1",
+  "published": "2023-08-04T17:51:10+00:00",
+  "abstract": "The lone-pair s states of germanium, tin, and lead underlie many of the unconventional properties of the inorganic metal halide perovskites. Dynamic stereochemical expression of the lone pairs is well established for perovskites based on all three metals, but previously only the germanium perovskites were thought to express the lone pair crystallographically. In this work, we use advanced first-principles calculations with a hybrid functional and spin-orbit coupling to predict stable monoclinic polar phases of $\\mathrm{CsSnI}_3$ and $\\mathrm{CsSnBr}_3$, which exhibit a ferroelectric distortion driven by stereochemical expression of the tin lone pair. We also predict similar metastable ferroelectric phases of $\\mathrm{CsPbI}_3$ and $\\mathrm{CsPbBr}_3$. In addition to ferroelectricity, these phases exhibit the Rashba effect. Spin splitting in both the conduction and valence bands suggests that nanostructures based on these phases could host bright ground-state excitons. Finally, we discuss paths toward experimental realization of these phases via electric fields and tensile strain.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2308.02481v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.chemmater.3c02201/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2308.02481v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-12T03:14:57.570222+00:00",
+  "updated_at": "",
+  "extra": {}
+}

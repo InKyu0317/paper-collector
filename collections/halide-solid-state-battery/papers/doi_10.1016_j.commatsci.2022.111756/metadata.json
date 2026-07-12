@@ -1,0 +1,39 @@
+{
+  "paper_id": "doi_10.1016_j.commatsci.2022.111756",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of rigid body motion in phase-field models of solid-state sintering",
+  "authors": [
+    {
+      "name": "Marco Seiz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.commatsci.2022.111756",
+  "url": "http://arxiv.org/abs/2302.01045v1",
+  "published": "2023-02-02T12:19:30+00:00",
+  "abstract": "In the last two decades, many phase-field models for solid-state sintering have been published. Two groups of models have emerged, with and without the contribution of rigid body motion. This paper first describes the previously published phase-field model with an advection term driven by rigid body motion. The model is then used to investigate the differences between models with and without rigid body motion in new benchmark geometries exhibiting markedly different behavior. Sensitivity studies concerning the parameters of the rigid-body motion model are conducted and their effects on equilibrium and kinetic properties explored. In particular, it is shown by simulations that a shrinkage rate independent of system size requires the inclusion of an advection term. Finally, the reason behind this behavior is explored and implications for diffusion-only models are drawn.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.01045v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.commatsci.2022.111756/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.01045v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-12T03:15:00.590377+00:00",
+  "updated_at": "",
+  "extra": {}
+}

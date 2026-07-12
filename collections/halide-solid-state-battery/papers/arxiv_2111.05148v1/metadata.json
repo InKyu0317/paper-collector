@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2111.05148v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Turbulent shear flow of solids",
+  "authors": [
+    {
+      "name": "Y. Beygelzimer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. E. Filippov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "R. Kulagin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Y. Estrin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2111.05148v1",
+  "published": "2021-11-09T13:46:03+00:00",
+  "abstract": "The term \"solid-state turbulence\" may sound like an oxymoron, but in fact it is not. In this article we demonstrate that solid-state turbulence may emerge owing to a defining property of the solid state: the ability of a solid to retain its shape. We consider shear flow of layers of solids with different stiffness and show that the stiffer ones may spontaneously decompose into a set of blocks. This breakdown of isometry is a key to plasticity of solids and is fundamental for the occurrence of solid-state turbulence. To visualise the piecewise isometric transformations of the blocky structure in a turbulent flow regime, we use a heuristic model based on discretisation of a continuum into interacting \"particles\". The outcomes of the numerical experiments conducted support the occurrence of pulsations of velocity and pressure in plastically deforming solids and the emergence of vortices characteristic of classical turbulence. This phenomenon may have important practical implications for solid-state mixing as an ecologically beneficial alternative to conventional metallurgical processing routes.",
+  "keywords": [
+    "physics.flu-dyn",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.05148v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2111.05148v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.05148v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-12T03:14:54.482343+00:00",
+  "updated_at": "",
+  "extra": {}
+}

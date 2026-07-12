@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1088_1674-1056_ac9221",
+  "collection": "halide-solid-state-battery",
+  "title": "Understanding the battery safety improvement enabled by a quasi-solid-state battery design",
+  "authors": [
+    {
+      "name": "Luyu Gan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rusong Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiqian Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Hong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1674-1056/ac9221",
+  "url": "https://doi.org/10.1088/1674-1056/ac9221",
+  "published": "2022-11-1",
+  "abstract": "<jats:p>The rapid development of lithium-ion batteries (LIBs) is faced with challenge of its safety bottleneck, calling for design and chemistry innovations. Among the proposed strategies, the development of solid-state batteries (SSBs) seems the most promising solution, but to date no practical SSB has been in large-scale application. Practical safety performance of SSBs is also challenged. In this article, a brief review on LIB safety issue is made and the safety short boards of LIBs are emphasized. A systematic safety design in quasi-SSB chemistry is proposed to conquer the intrinsic safety weak points of LIBs and the effects are accessed based on existing studies. It is believed that a systematic and targeted solution in SSB chemistry design can effectively improve the battery safety, promoting larger-scale application of LIBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1674-1056/ac9221",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1088_1674-1056_ac9221/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1674-1056/ac9221/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 19,
+  "journal": "Chinese Physics B",
+  "publisher": "",
+  "issn": "1674-1056",
+  "quartile": "",
+  "added_at": "2026-07-12T03:14:46.200708+00:00",
+  "updated_at": "",
+  "extra": {}
+}

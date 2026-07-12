@@ -1,0 +1,95 @@
+{
+  "paper_id": "doi_10.1021_acs.nanolett.4c02885",
+  "collection": "halide-solid-state-battery",
+  "title": "Optical Cooling of Dot-in-crystal Halide Perovskites: Challenges of Nonlinear Exciton Recombination",
+  "authors": [
+    {
+      "name": "Yasuhiro Yamada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takeru Oki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takeshi Morita",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takumi Yamada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mitsuki Fukuda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuhei Ichikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kazunobu Kojima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yoshihiko Kanemitsu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.nanolett.4c02885",
+  "url": "http://arxiv.org/abs/2406.10641v1",
+  "published": "2024-06-15T14:02:59+00:00",
+  "abstract": "Highly efficient anti-Stokes (AS) photoluminescence (PL) is observed from halide perovskite quantum dots (QDs) due to their strong electron-phonon interactions. The AS PL is particularly intriguing as it suggests the potential for semiconductor optical cooling if the external quantum efficiency approaches 100%. However, the PL quantum efficiency in QDs is primarily dominated by multiparticle nonradiative Auger recombination processes under intense photoexcitation, which impose limits on the optical cooling gain. Here, we investigate the Auger recombination of dot-in-crystal perovskites. We quantitatively estimate the maximum optical cooling gain and the corresponding excitation intensity. We further conducted optical cooling experiments and demonstrate a maximum photo-cooling of approximately 9 K from room temperature. Additionally, we confirmed that increasing the excitation intensity leads to a transition from photo-cooling to photo-heating. These observations are consistent with our time-resolved measurements, offering insights into the potential and limitations of optical cooling in semiconductor QDs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.10641v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.nanolett.4c02885/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.10641v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-12T03:14:50.594883+00:00",
+  "updated_at": "",
+  "extra": {}
+}
