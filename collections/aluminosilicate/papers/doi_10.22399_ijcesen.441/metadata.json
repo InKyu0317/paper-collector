@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.22399_ijcesen.441",
+  "collection": "aluminosilicate",
+  "title": "Exploring the Radiation Shielding Efficiency of High-Density Aluminosilicate Glasses and Low-Calcium SCMs",
+  "authors": [
+    {
+      "name": "Hessa ALKARRANI",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Duygu Şen Baykal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ghada ALMISNED",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "H.O. TEKIN",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.22399/ijcesen.441",
+  "url": "https://doi.org/10.22399/ijcesen.441",
+  "published": null,
+  "abstract": "<jats:p>A lot of work is now going into making low-calcium supplementary cementitious materials (SCMs) and aluminosilicate glasses so that they can be used as radiation shielding materials. These materials demonstrate superior performance in several aspects as compared to conventional concrete. The present investigation focuses on the radiation shielding characteristics of the evaluated materials, specifically their capacity to reduce the intensity of gamma rays and neutrons. Regarded for their exceptional density and ability to include heavy metal oxides, aluminosilicate glasses have remarkable shielding characteristics, especially when designed at the molecular scale. An evaluation of the performance of these materials in comparison to traditional concrete is carried out using Phy-X/PSD software. The goal is to determine the most important shielding properties, such as the mass attenuation coefficient, the linear attenuation coefficient, and the half-value layer. Our study findings suggest that some aluminosilicate glasses, such as GM, consistently demonstrate exceptional photon and neutron attenuation efficiency. The observation that GM performs better than other materials in tests like effective atomic number, rapid neutron removal cross section, and energy absorption accumulation factor supports this claim. There is evidence that using low-calcium glass-crystal materials (SCMs) with aluminosilicate glasses not only improves radiation protection but also makes solutions work better when space or weight are limited. The present investigation validates that these materials exhibit superior performance compared to conventional concrete in challenging environments such as nuclear waste storage, where safety is of utmost significance.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.22399/ijcesen.441",
+  "pdf_path": "aluminosilicate/papers/doi_10.22399_ijcesen.441/paper.pdf",
+  "pdf_url": "https://www.ijcesen.com/index.php/ijcesen/article/download/441/336",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "International Journal of Computational and Experimental Science and Engineering",
+  "publisher": "",
+  "issn": "2149-9144",
+  "quartile": "",
+  "added_at": "2026-07-12T03:11:59.340329+00:00",
+  "updated_at": "",
+  "extra": {}
+}
