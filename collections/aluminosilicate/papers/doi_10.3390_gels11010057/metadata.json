@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.3390_gels11010057",
+  "collection": "aluminosilicate",
+  "title": "Microstructural Analysis and Radiological Characterization of Alkali-Activated Materials Based on Aluminosilicate Waste and Metakaolin",
+  "authors": [
+    {
+      "name": "Nataša Mladenović Nikolić",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8814-0734",
+      "affiliation": "Department of Materials, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Aleksandar Kandić",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Nuclear and Plasma Physics, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Jelena Potočnik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Atomic Physics, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Nemanja Latas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Atomic Physics, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Marija Ivanović",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1152-4171",
+      "affiliation": "Department of Materials, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Snežana Nenadović",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4846-8801",
+      "affiliation": "Department of Materials, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    },
+    {
+      "name": "Ljiljana Kljajević",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4678-0420",
+      "affiliation": "Department of Materials, “Vinča” Institute of Nuclear Sciences—National Institute of the Republic of Serbia, University of Belgrade, 11000 Belgrade, Serbia"
+    }
+  ],
+  "doi": "10.3390/gels11010057",
+  "url": "https://doi.org/10.3390/gels11010057",
+  "published": null,
+  "abstract": "<jats:p>The formation of an aluminosilicate gel structure made of alkali-activated materials (AAMs) was conducted through an alkali-activation reaction of the solid precursors (fly ash, metakaolin, and wood ash). Fly and wood ash are by-products of the burning process of coal and wood, respectively. Alkali-activated materials of aluminosilicate origin, made from the different ashes, fly and wood, are very attractive research targets and can be applied in various technological fields due to their thermal stability, resistance to thermal shock, high porosity, high sustainability, and finally, low energy loss during production. In this paper, we evaluate physico-chemical properties, microstructure, and radiological environmental impacts when wastes that contain elevated levels of naturally occurring radionuclides (NORs) such as fly ash and wood ash are made into “green cements” such as AAMs. The determination of radionuclide content was performed by means of gamma-ray spectrometry. Results showed that the AAMs have a lower value in the activity concentration of radionuclides than raw materials. The external absorbed gamma dose rate was 74.7–107.3 nGy/h, and the external radiation hazard index values were in range of 0.445–0.628 Bq/kg. The results of the activity concentration measurements for alkali-activated materials indicate the potential of their safe application in building construction. In terms of the structural characterizations, the obtained alkali-activated materials were examined using XRD, DRIFT, FESEM, and TEM analyses.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/gels11010057",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_gels11010057/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "Gels",
+  "publisher": "",
+  "issn": "2310-2861",
+  "quartile": "",
+  "added_at": "2026-07-13T03:04:05.022481+00:00",
+  "updated_at": "",
+  "extra": {}
+}
