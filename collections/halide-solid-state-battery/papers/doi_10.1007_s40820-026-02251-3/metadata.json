@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s40820-026-02251-3",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide-Based Solid Electrolytes for Advanced All-Solid-State Batteries: Design, Interfaces, and Electrochemical Performance",
+  "authors": [
+    {
+      "name": "Shivaraju Guddehalli Chandrappa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Gerardo Morell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ram S. Katiyar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s40820-026-02251-3",
+  "url": "https://doi.org/10.1007/s40820-026-02251-3",
+  "published": "2026-12",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Halide-based solid electrolytes (HSEs) have garnered substantial interest for all-solid-state batteries (ASSBs) due to their wide electrochemical windows, moderate-to-high room-temperature ionic conductivity, and enhanced air stability over traditional sulfide and oxide-based SEs. This review consolidates recent advances in HSEs, focusing on the link between structure, compositions, and materials properties that influence the transport of lithium-ion (Li-ion) and post-lithium-ion (P-Li-ion) and their stability at the interface. Based on the chemistry of their central metal, HSEs are divided into five classes; key factors influencing ionic conductivity are examined. Nevertheless, despite these benefits, many challenges remain, including interfacial instability, the trade-off between ionic conductivity and electrochemical stability, mechanical challenges, and material costs. The main synthesis methods, mechanochemical, co-melting, and wet-chemical, are investigated for phase formation, scalability, and defect control. The link between synthesis, microstructure, and device-level performance metrics, including critical current density, area-specific resistance, and cycle life, is examined. The strategies, involving bilayer and dual-electrolyte design as well as interface engineering, are analyzed to reduce interfacial resistance and dendrite growth. The applications of HSE in Li-ion and P-Li-ion systems are examined. This review offers a detailed framework and delineates potential research paths to advance scalable, high-performance HSEs for next-generation ASSBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s40820-026-02251-3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s40820-026-02251-3/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40820-026-02251-3.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Nano-Micro Letters",
+  "publisher": "",
+  "issn": "2311-6706",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:33.481061+00:00",
+  "updated_at": "",
+  "extra": {}
+}

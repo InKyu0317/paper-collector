@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1016_j.solidstatesciences.2023.107247",
+  "collection": "halide-solid-state-battery",
+  "title": "Surface conductivity in SmB6",
+  "authors": [
+    {
+      "name": "V.V. Glushkov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4739-5524",
+      "affiliation": ""
+    },
+    {
+      "name": "V.S. Zhurkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A.D. Bozhko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "V.V. Voronov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "V.B. Filipov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "S. Gabáni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "K. Flachbart",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "N. Yu Shitsevalova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.solidstatesciences.2023.107247",
+  "url": "https://doi.org/10.1016/j.solidstatesciences.2023.107247",
+  "published": "2023-8",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.solidstatesciences.2023.107247",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.solidstatesciences.2023.107247/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Solid State Sciences",
+  "publisher": "",
+  "issn": "1293-2558",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:53.480298+00:00",
+  "updated_at": "",
+  "extra": {}
+}

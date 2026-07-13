@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1016_j.flatc.2025.100938",
+  "collection": "halide-solid-state-battery",
+  "title": "Phase engineering of MoS$_2$ monolayers: A pathway to enhanced lithium-polysulfide battery performance",
+  "authors": [
+    {
+      "name": "J. W. González",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "E. Flórez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "R. A. Gallardo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "J. D. Correa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.flatc.2025.100938",
+  "url": "http://arxiv.org/abs/2505.16779v2",
+  "published": "2025-05-22T15:20:48+00:00",
+  "abstract": "This study explores the potential of MoS$_2$ polymorphs, specifically the semiconducting 2H phase and the metallic 1T$^\\prime$ phase, as anchoring materials to enhance the electrochemical performance of lithium-sulfur (Li--S) batteries. Using density functional theory calculations, we show that 1T$^\\prime$-MoS$_2$ exhibits stronger Li--S interactions, greater charge transfer, and enhanced catalytic activity compared to its 2H counterpart, effectively suppressing polysulfide dissolution and facilitating redox reactions. The reversible 2H$\\leftrightarrow$1T$^\\prime$ transition offers a tunable design space for balancing conductivity and structural stability. These findings position hybrid MoS$_2$ architectures as promising platforms for next-generation Li--S batteries with improved energy density, cycling stability, and rate capability.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.16779v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.flatc.2025.100938/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.16779v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:53.479655+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2306.10483v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Study of Ge Doped Garnet Type Li$_7$La$_3$Zr$_2$O$_{12}$ as Solid Electrolyte for Li-ion Battery Application",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2306.10483v1",
+  "published": "2023-06-18T05:47:46+00:00",
+  "abstract": "Li$_{7-4x}$Ge$_x$La$_3$Zr$_2$O$_{12}$ has been synthesized using the conventional solid-state reaction method by substituting Germanium (Ge) at the Li site, which increases the Li-ion vacancies and leads to an increase in conductivity with $x$ varying from 0.05-0.20. The formation of cubic phase is confirmed by using XRD analysis. The surface morphology and elemental distribution have been studied using SEM characterization which gives the average particle size of the sample. The densities of the samples were calculated. For the confirmation of functional groups present within the sample, IR spectroscopy has been studied. The modulus and ac conductivity studies have also been studied. A complex impedance study has been done in the frequency range 20Hz-20MHz. Increase in ionic conductivity by one order has been observed in the sample with $x=0.10$. The minimum value of 0.56 eV activation energy is associated with the highest conductivity value of 7.23 x 10$^{-6}$ S/cm at room temperature. Thus increment in ionic conductivity at room temperature makes this material a promising solid electrolyte for future sustainable energy storage devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2306.10483v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2306.10483v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2306.10483v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:50.378228+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi_10.1103_9dxs-35z7",
+  "collection": "halide-solid-state-battery",
+  "title": "Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals",
+  "authors": [
+    {
+      "name": "Rikuya Ishikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kyohei Takae",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rei Kurita",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/9dxs-35z7",
+  "url": "http://arxiv.org/abs/2505.00362v2",
+  "published": "2025-05-01T07:22:14+00:00",
+  "abstract": "Efficient and safe energy storage technologies are essential for realizing a sustainable and electrified society. Among the key challenges, the design of superionic conductors for all-solid-state batteries often faces a fundamental trade-off between stability and ionic conductivity. Random substitutional crystals, where atomic species are randomly distributed throughout a crystal lattice, present a promising route to overcome this trade-off. Although the importance of cooperative motion in ion conduction has been pointed out, there is a lack of understanding of the relationship between mesoscale structural organization and macroscopic conductivity, limiting the rational design of optimal compositions. Here, we systematically investigate the ionic conductivity of rock salt random substitutional ionic crystals Li$_x$Pb$_{1-2x}$Bi$_x$Te as a function of Li concentration $x$ using molecular dynamics simulations. We find that ionic conductivity increases sharply once the $x$ exceeds a critical threshold, without disrupting the underlying crystal structure. Strikingly, this threshold aligns with the site-percolation threshold predicted by percolation theory. Our findings establish ion percolation as a universal design principle that reconciles the trade-off between conductivity and stability, offering a simple and broadly applicable strategy for the development of robust, high-performance solid electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.00362v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_9dxs-35z7/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.00362v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:38.034753+00:00",
+  "updated_at": "",
+  "extra": {}
+}

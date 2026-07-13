@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2511.07194v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX$_3$ (X = Cl, Br, I)",
+  "authors": [
+    {
+      "name": "Kristoffer Eggestad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Benjamin A. D. Williamson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sverre M. Selbach",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.07194v1",
+  "published": "2025-11-10T15:25:55+00:00",
+  "abstract": "Among all-inorganic halide perovskites, the only known ferroelectrics are the family of CsGeX$_3$ (X = Cl, Br, I). Here, we study their ferroelectric domain walls (DWs) and common point defects by density functional theory (DFT) calculations and investigate the interplay between DWs and defects. The most stable defects are V$_{\\text{X}}$ and V$_{\\text{Cs}}$ and the former shows low migration barriers and high mobility. In contrast to oxide ferroelectrics, the affinity between point defects and DWs is negligible, reflecting the subtle structural distortions at CsGeX$_3$ DWs. Concomitantly, the formation energies and migration energy barriers of CsGeX$_3$ DWs are small compared to oxides, and neither V$_{\\text{X}}$ nor V$_{\\text{Cs}}$ pin migrating DWs. The band gap invariance across DWs and the lack of affinity towards intrinsic charged point defects imply that conducting DWs for nanoelectronics may be challenging to realise in CsGeX$_3$. However, shallow $p$-type defect levels and low hole effective masses suggest that high $p$-type conductivity may be achievable in nominally ferroelectric CsGeX$_3$. The low DW migration energy barriers and insignificant DW pinning by point defects make CsGeX$_3$ promising materials as robust soft ferroelectrics for high-frequency switching applications with low energy dissipation.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.07194v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.07194v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.07194v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-13T03:12:43.787592+00:00",
+  "updated_at": "",
+  "extra": {}
+}
