@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1021_acsaem.1c01208",
+  "collection": "halide-solid-state-battery",
+  "title": "Hydride Conductivity in Nitride Hydrides",
+  "authors": [
+    {
+      "name": "Andrew J. E. Rowberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chris G. Van de Walle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaem.1c01208",
+  "url": "http://arxiv.org/abs/2105.04657v1",
+  "published": "2021-05-10T20:26:36+00:00",
+  "abstract": "Nitride hydrides are a largely unexplored class of materials with promising applications in solid-state hydrogen fuel cells. Here, we use first-principles calculations to characterize defects and ionic mobility in Sr$_2$LiH$_2$N (SLHN), a nitride hydride with high hydride conductivity. Calculating defect formation energies, we find that SLHN contains high concentrations of hydrogen interstitials (H$_i$). H$_i^-$ migrates with very low energetic barriers, which, together with its low formation energy, implies that SLHN will have excellent hydride kinetics, potentially surpassing those of other known hydride electrolytes. Oxygen contamination is a concern, meaning that encapsulation will be critical. By direct analogy to the La/Sr-based oxyhydrides, which have similar crystal structures, we also investigate the La-based nitride hydride La$_2$LiHN$_2$ but find that it will be significantly less conductive, and thus not as technologically useful. Our findings buttress the exploration of SLHN and similar nitride hydrides for use in solid-state hydrogen fuel cells.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2105.04657v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaem.1c01208/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2105.04657v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:04:09.418728+00:00",
+  "updated_at": "",
+  "extra": {}
+}

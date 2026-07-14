@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1109_mssc.2022.3164853",
+  "collection": "halide-solid-state-battery",
+  "title": "Wireless Communication in Battery Management Systems: Cord-cutting for gen-EV",
+  "authors": [
+    {
+      "name": "Brett Warneke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "IC design engineer with Analog Devices, Union City, California, USA"
+    },
+    {
+      "name": "Gerd Trampitsch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "IC design engineer with Analog Devices, Munich, Germany"
+    },
+    {
+      "name": "Mark Lemkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Technical staff, Lyte Technologies, Inc., Mountain View, California, USA"
+    },
+    {
+      "name": "Thor Juneau",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "IC design engineer with Analog Devices, Union City, California, USA"
+    },
+    {
+      "name": "Lance Doherty",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "System Architect with Analog Devices, Boston, Massachusetts, USA"
+    }
+  ],
+  "doi": "10.1109/mssc.2022.3164853",
+  "url": "https://doi.org/10.1109/mssc.2022.3164853",
+  "published": "2022",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/mssc.2022.3164853",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_mssc.2022.3164853/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "IEEE Solid-State Circuits Magazine",
+  "publisher": "",
+  "issn": "1943-0582",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:56.317631+00:00",
+  "updated_at": "",
+  "extra": {}
+}

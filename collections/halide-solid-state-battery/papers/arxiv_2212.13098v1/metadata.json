@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2212.13098v1",
+  "collection": "halide-solid-state-battery",
+  "title": "E-beam-enhanced solid-state mechanical amorphization of alpha-quartz: Reducing deformation barrier via localized excess electrons as mobile anions",
+  "authors": [
+    {
+      "name": "Sung-Gyu Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wonseok Jeong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hwangsun Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeongin Paeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seungwu Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Heung Nam Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "In-Suk Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2212.13098v1",
+  "published": "2022-12-26T11:49:26+00:00",
+  "abstract": "Under hydrostatic pressure, alpha-quartz undergoes solid-state mechanical amorphization wherein the interpenetration of SiO4 tetrahedra occurs and the material loses crystallinity. This phase transformation requires a high hydrostatic pressure of 14 GPa because the repulsive forces resulting from the ionic nature of the Si-O bonds prevent the severe distortion of the atomic configuration. Herein, we experimentally and computationally demonstrate that e-beam irradiation changes the nature of the interatomic bonds in alpha-quartz and enhances the solid-state mechanical amorphization at nanoscale. Specifically, during in situ uniaxial compression, a larger permanent deformation occurs in alpha-quartz micropillars compressed during e-beam irradiation than in those without e-beam irradiation. Microstructural analysis reveals that the large permanent deformation under e-beam irradiation originates from the enhanced mechanical amorphization of alpha-quartz and the subsequent viscoplastic deformation of the amorphized region. Further, atomic-scale simulations suggest that the delocalized excess electrons introduced by e-beam irradiation move to highly distorted atomic configurations and alleviate the repulsive force, thus reducing the barrier to the solid-state mechanical amorphization. These findings deepen our understanding of electron-matter interactions and can be extended to new glass forming and processing technologies at nano- and microscale.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2212.13098v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2212.13098v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2212.13098v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:53.142434+00:00",
+  "updated_at": "",
+  "extra": {}
+}

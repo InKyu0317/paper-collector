@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1016_j.ssnmr.2021.101763",
+  "collection": "halide-solid-state-battery",
+  "title": "Dynamic Nuclear Polarization in battery materials",
+  "authors": [
+    {
+      "name": "Shira Haber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Michal Leskes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7172-9689",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssnmr.2021.101763",
+  "url": "https://doi.org/10.1016/j.ssnmr.2021.101763",
+  "published": "2022-2",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssnmr.2021.101763",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssnmr.2021.101763/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 35,
+  "journal": "Solid State Nuclear Magnetic Resonance",
+  "publisher": "",
+  "issn": "0926-2040",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:56.317092+00:00",
+  "updated_at": "",
+  "extra": {}
+}

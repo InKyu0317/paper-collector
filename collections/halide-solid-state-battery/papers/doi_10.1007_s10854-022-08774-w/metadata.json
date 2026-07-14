@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1007_s10854-022-08774-w",
+  "collection": "halide-solid-state-battery",
+  "title": "High-sensitive MIS structures with silicon nanocrystals grown via solid-state dewetting of silicon-on-insulator for solar cell and photodetector applications",
+  "authors": [
+    {
+      "name": "Mansour Aouassa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "IM2NP"
+    },
+    {
+      "name": "Saud Algarni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "IM2NP"
+    },
+    {
+      "name": "Ibrahim Althobaiti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "IM2NP"
+    },
+    {
+      "name": "Luc Favre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "IM2NP"
+    },
+    {
+      "name": "Isabelle Berbezier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10854-022-08774-w",
+  "url": "http://arxiv.org/abs/2302.08195v1",
+  "published": "2023-02-16T10:23:56+00:00",
+  "abstract": "This work reports an original method for the fabrication of Metal-Isulator-Semiconductor (MIS) structures with silicon nanocrystals (Si NCs) based active layers embedded in the insulating SiO 2 oxide, for high performance solar cell and photodetector applications. The Si NCs are produced via the in situ solid-state dewetting of ultra-pure amorphous silicon-oninsulator (a-SOI) grown by solid source molecular beam epitaxy (SSMBE). The size and density of Si NCs are precisely tuned by varying the deposited thickness of silicon. The morphological characterization carried out by using atomic force microscopy (AFM) and scanning electron microscopy (SEM) shows that the Si NCs have homogeneous size with welldefined spherical shape and densities up to ~10 12 /cm 2 (inversely proportional to the square of nominal a-Si thickness). The structural investigations by high resolution transmission electron microscopy (HR-TEM) show that the ultra-small Si NCs (with mean diameter ~7 nm) are monocrystalline and free of structural defects. The electrical measurements performed by current versus voltage (I-V) and photocurrent spectroscopies on the Si-NCs based MIS structures prove the efficiency of Si NCs to enhance the electrical conduction in MIS structures and to increase (x10 times) the photocurrent (i.e. at bias voltage V =-1 V) via the photogeneration of additional electron-hole pairs in the MIS structures. These results evidence that the Si NCs obtained by the combination of MBE growth and solid-state dewetting are perfectly suitable for the development of novel high performance optoelectronic devices compatible with the CMOS technology.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.08195v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10854-022-08774-w/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.08195v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:04:13.300636+00:00",
+  "updated_at": "",
+  "extra": {}
+}

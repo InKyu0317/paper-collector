@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_batteries10010024",
+  "collection": "halide-solid-state-battery",
+  "title": "An Industrial Perspective and Intellectual Property Landscape on Solid-State Battery Technology with a Focus on Solid-State Electrolyte Chemistries",
+  "authors": [
+    {
+      "name": "Zouina Karkar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8712-8231",
+      "affiliation": "National Research Council of Canada, Energy, Mining and Environment Research Centre, 1200 Montreal Road, Ottawa, ON K1A 0R6, Canada"
+    },
+    {
+      "name": "Mohamed S. E. Houache",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "National Research Council of Canada, Energy, Mining and Environment Research Centre, 1200 Montreal Road, Ottawa, ON K1A 0R6, Canada"
+    },
+    {
+      "name": "Chae-Ho Yim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7321-1288",
+      "affiliation": "National Research Council of Canada, Energy, Mining and Environment Research Centre, 1200 Montreal Road, Ottawa, ON K1A 0R6, Canada"
+    },
+    {
+      "name": "Yaser Abu-Lebdeh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "National Research Council of Canada, Energy, Mining and Environment Research Centre, 1200 Montreal Road, Ottawa, ON K1A 0R6, Canada"
+    }
+  ],
+  "doi": "10.3390/batteries10010024",
+  "url": "https://doi.org/10.3390/batteries10010024",
+  "published": null,
+  "abstract": "<jats:p>This review focuses on the promising technology of solid-state batteries (SSBs) that utilize lithium metal and solid electrolytes. SSBs offer significant advantages in terms of high energy density and enhanced safety. This review categorizes solid electrolytes into four classes: polymer, oxide, hybrid, and sulfide solid electrolytes. Each class has its own unique characteristics and benefits. By exploring these different classes, this review aims to shed light on the diversity of materials and their contributions to the advancement of SSB technology. In order to gain insights into the latest technological developments and identify potential avenues for accelerating the progress of SSBs, this review examines the intellectual property landscape related to solid electrolytes. Thus, this review focuses on the recent SSB technology patent filed by the main companies in this area, chosen based on their contribution and influence in the field of batteries. The analysis of the patent application was performed through the Espacenet database. The number of patents related to SSBs from Toyota, Samsung, and LG is very important; they represent more than 3400 patents, the equivalent of 2/3 of the world’s patent production in the field of SSBs. In addition to focusing on these three famous companies, we also focused on 15 other companies by analyzing a hundred patents. The objective of this review is to provide a comprehensive overview of the strategies employed by various companies in the field of solid-state battery technologies, bridging the gap between applied and academic research. Some of the technologies presented in this review have already been commercialized and, certainly, an acceleration in SSB industrialization will be seen in the years to come.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/batteries10010024",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_batteries10010024/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 32,
+  "journal": "Batteries",
+  "publisher": "",
+  "issn": "2313-0105",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:56.317324+00:00",
+  "updated_at": "",
+  "extra": {}
+}

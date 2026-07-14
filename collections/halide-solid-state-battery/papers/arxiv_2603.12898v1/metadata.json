@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2603.12898v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Neutron-enhanced ion transport in cathode coating of Li-ion batteries",
+  "authors": [
+    {
+      "name": "Ha M. Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carson D. Ziemke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David Stalla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bikash Saha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Narendirakumar Narayanan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastián Amaya-Roncancio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Wexler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John Gahl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yangchuan Xing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas W. Heitmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.12898v1",
+  "published": "2026-03-13T11:06:35+00:00",
+  "abstract": "Polycrystalline solid-state ionic conductors (PolySSICs) are key energy materials for all-solid-state Li-ion batteries (LIBs). However, achieving room-temperature ionic conductivity comparable to that of liquid electrolytes ($σ\\sim 10^{-2}-10\\,\\mathrm{S\\cdot cm^{-1}}$) remains a major challenge. Here, we experimentally demonstrate that thermal neutron irradiation provides an effective strategy for engineering ion transport in a model PolySSIC, LiBO$_2$, a promising electrode coating material for LIBs. High-flux ($\\sim 10^{9}$ neutrons$\\cdot$cm$^{-2}\\cdot$s$^{-1}$) thermal neutrons ($\\sim 25$ meV), delivered at Beam Port E of the University of Missouri Research Reactor (MURR), selectively transmute the strong neutron absorbers $^{10}\\mathrm{B}$ and $^{6}\\mathrm{Li}$ at their natural abundances ($\\sim19.9\\%$ and $\\sim7.5\\%$). This process generates lattice vacancies within polycrystalline grains while preserving long-range crystallographic order. In addition, $γ$ photons produced during $^{10}$B transmutation release electrons that suppress atomic displacement and partially neutralize the space charge associated with positively charged oxygen vacancies at grain boundaries. As a result, the ionic conductivity increases by nearly $20\\%$ in grains and more than $80\\%$ at grain boundaries. These results validate theoretical predictions and demonstrate a controllable strategy for enhancing ion transport in PolySSICs for solid ionic devices, including LIBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.12898v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.12898v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.12898v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:49.082307+00:00",
+  "updated_at": "",
+  "extra": {}
+}

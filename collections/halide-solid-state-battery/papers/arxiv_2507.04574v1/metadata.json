@@ -1,0 +1,88 @@
+{
+  "paper_id": "arxiv_2507.04574v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Deciphering the interplay between wetting and chemo-mechanical fracture in lithium-ion battery cathode materials",
+  "authors": [
+    {
+      "name": "Wan-Xin Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis J. Carrillo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnab Maji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiang-Long Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joseph Handy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sarbajit Banerjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bai-Xiang Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.04574v1",
+  "published": "2025-07-06T23:13:24+00:00",
+  "abstract": "Crack growth in lithium-ion battery electrodes is typically detrimental and undesirable. However, recent experiments suggest that stabilized fracture of cathode active materials in liquid electrolytes can increase electrochemically active surfaces, shorten diffusion pathway, enhance (de)lithiation and improve overall capacity. To decipher the fundamental couplings between electrolyte wetting and fracture evolution and evaluate their influences on macroscopic battery performance, we conducted an integrated experiment-simulation study on $α$-V2O5 single crystals and polycrystalline NCM as model cathode materials. Despite synthesis challenges, single-crystal $α$-V2O5 offers clearer fundamental insights than polycrystalline counterparts with grain-boundary complexities. Fracture patterns and lithiation heterogeneities on the samples were mapped using advanced scanning techniques after chemical (de)lithiation cycles, exhibiting excellent agreements with simulations by the developed multiphysics model. Results reveal a mutually reinforcing interplay between wetting and fracture: (i) electrolyte infiltration at fracture surfaces enhances (de)lithiation and compositional heterogeneity; (ii) wetting influences fracture dynamics, including fracture modes, propagation distance and directionality. The validated modelling framework is further applied to simulations on polycrystalline NCM particles under constant-current (dis)charging, highlighting the critical role of wetting in promoting fracture and improving overall capacity. This work bridges fundamental understanding of wetting-fracture coupling with practical implications for battery performance optimization via controlled fracture engineering.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.04574v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.04574v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.04574v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:04:01.460601+00:00",
+  "updated_at": "",
+  "extra": {}
+}

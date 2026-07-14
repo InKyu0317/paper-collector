@@ -1,0 +1,58 @@
+{
+  "paper_id": "doi_10.1021_acs.jpcb.4c00412",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic conductivity of a lithium-doped deep eutectic solvent: Glass formation and rotation-translation coupling",
+  "authors": [
+    {
+      "name": "A. Schulz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "P. Lunkenheimer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Loidl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpcb.4c00412",
+  "url": "http://arxiv.org/abs/2401.12186v2",
+  "published": "2024-01-22T18:26:39+00:00",
+  "abstract": "Deep eutectic solvents with admixed lithium salts are considered as electrolytes in electrochemical devices like batteries or supercapacitors. Compared to eutectic mixtures of hydrogen-bond donors and lithium salts, their raw-material costs are significantly lower. Not much is known about the glassy freezing and rotation-translation coupling of such systems. Here we investigate these phenomena by applying dielectric spectroscopy to the widely studied deep eutectic solvent glyceline, to which 1 and 5 mol% LiCl were added. Our studies cover a wide temperature range, including the deeply supercooled state. The temperature dependences of the detected dipolar reorientation dynamics and of the ionic dc conductivity reveal the signatures of glassy freezing. In comparison to pure glyceline, lithium admixture leads to a reduction of ionic conductivity, which is accompanied by a slowing down of the rotational dipolar motions. However, this reduction is much smaller than for DESs, where one main component is a lithium salt, which we trace back to the smaller glass-transition temperatures of the lithium-doped DESs. In contrast to pure glyceline, the ionic and dipolar dynamics become increasingly decoupled at low temperatures and obey a fractional Debye-Stokes-Einstein relation as previously found in other glass-forming liquids. The obtained results demonstrate the relevance of decoupling effects and of the glass transition for the enhancement of the technically relevant ionic conductivity in such lithium-doped DESs.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.12186v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpcb.4c00412/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.12186v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-14T03:03:56.316405+00:00",
+  "updated_at": "",
+  "extra": {}
+}
