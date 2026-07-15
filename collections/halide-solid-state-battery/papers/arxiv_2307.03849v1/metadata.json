@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2307.03849v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Physics of band-filling correction in defect calculations of solid-state materials",
+  "authors": [
+    {
+      "name": "Harshan Reddy Gopidi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lovelesh Vashist",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oleksandr I. Malyi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.03849v1",
+  "published": "2023-07-07T21:40:29+00:00",
+  "abstract": "In solid-state physics/chemistry, a precise understanding of defect formation and its impact on the electronic properties of wide-bandgap insulators is a cornerstone of modern semiconductor technology. However, complexities arise in the electronic structure theory of defect formation when the latter triggers partial occupation of the conduction/valence band, necessitating accurate post-process correction to the energy calculations. Herein, we dissect these complexities, focusing specifically on the post-process band-filling corrections, a crucial element that often demands thorough treatment in defect formation studies. We recognize the importance of these corrections in maintaining the accuracy of electronic properties predictions in wide-bandgap insulators and their role in reinforcing the importance of a reliable common reference state for defect formation energy calculations. We explored solutions such as aligning deep states and electrostatic potentials, both of which have been used in previous works, showing the effect of band alignment on defect formation energy. Our findings demonstrate that the impact of defect formation on electronic structure (even deep states) can be significantly dependent on the supercell size. We also show that within band-filling calculations, one needs to account for the possible change of electronic structure induced by defect formation, which requires sufficient convergence of electronic structure with supercell size. Thus, this work emphasizes the critical steps to predict defect formation energy better and paves the way for future research to overcome these challenges and advance the field with more efficient and reliable predictive models.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.03849v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.03849v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.03849v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:27.272927+00:00",
+  "updated_at": "",
+  "extra": {}
+}

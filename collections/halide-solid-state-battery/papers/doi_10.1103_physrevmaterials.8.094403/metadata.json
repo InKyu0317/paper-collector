@@ -1,0 +1,143 @@
+{
+  "paper_id": "doi_10.1103_physrevmaterials.8.094403",
+  "collection": "halide-solid-state-battery",
+  "title": "Lead-free room-temperature ferroelectric thermal conductivity switch using anisotropies in thermal conductivities",
+  "authors": [
+    {
+      "name": "Lucile Féger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "Carlos Escorihuela-Sayalero",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Departament de Física, Universitat Politècnica de Catalunya, Campus Nord B4-B5, Barcelona, Spain"
+    },
+    {
+      "name": "Jean-Michel Rampnoux",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Université de Bordeaux, CNRS, LOMA, UMR 5798, Talence, France"
+    },
+    {
+      "name": "Kyriaki Kontou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1, CETHIL UMR5008, Villeurbanne, France"
+    },
+    {
+      "name": "Micka Bah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "Jorge Íñiguez-González",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Department of Physics and Materials Science, University of Luxembourg, Belvaux, Luxembourg"
+    },
+    {
+      "name": "Claudio Cazorla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Departament de Física, Universitat Politècnica de Catalunya, Campus Nord B4-B5, Barcelona, Spain"
+    },
+    {
+      "name": "Isabelle Monot-Laffez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "Sarah Douri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1, CETHIL UMR5008, Villeurbanne, France, Laboratoire National de Métrologie et d'Essais"
+    },
+    {
+      "name": "Stéphane Grauby",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Université de Bordeaux, CNRS, LOMA, UMR 5798, Talence, France"
+    },
+    {
+      "name": "Riccardo Rurali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus UAB, Bellaterra, Spain"
+    },
+    {
+      "name": "Stefan Dilhaire",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Université de Bordeaux, CNRS, LOMA, UMR 5798, Talence, France"
+    },
+    {
+      "name": "Séverine Gomès",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ Lyon, CNRS, INSA-Lyon, Université Claude Bernard Lyon 1, CETHIL UMR5008, Villeurbanne, France"
+    },
+    {
+      "name": "Guillaume F. Nataf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    }
+  ],
+  "doi": "10.1103/PhysRevMaterials.8.094403",
+  "url": "http://arxiv.org/abs/2409.05216v1",
+  "published": "2024-09-08T20:10:39+00:00",
+  "abstract": "Materials with on-demand control of thermal conductivity are the prerequisites to build thermal conductivity switches, where the thermal conductivity can be turned ON and OFF. However, the ideal switch, while required to develop novel approaches to solid-state refrigeration, energy harvesting, and even phononic circuits, is still missing. It should consist of an active material only, be environment friendly, and operate near room temperature with a reversible, fast, and large switching ratio. Here, we first predict by ab initio electronic structure calculations that ferroelectric domains in barium titanate exhibit anisotropic thermal conductivities. We confirm this prediction by combining frequency-domain thermoreflectance and scanning thermal microscopy measurements on a single crystal of barium titanate. We then use this gained knowledge to propose a lead-free thermal conductivity switch without inactive material, operating reversibly with an electric field. At room temperature, we find a switching ratio of 1.6 $\\pm$ 0.3, exceeding the performances of state-of-the-art materials suggested for thermal conductivity switches.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.05216v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevmaterials.8.094403/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.05216v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:13.444927+00:00",
+  "updated_at": "",
+  "extra": {}
+}

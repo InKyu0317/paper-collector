@@ -1,0 +1,127 @@
+{
+  "paper_id": "doi_10.1038_s41467-025-67333-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Accelerated Discovery of Crystalline Materials with Record Ultralow Lattice Thermal Conductivity via a Universal Descriptor",
+  "authors": [
+    {
+      "name": "Xingchen Shen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiongzhi Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael Marek Koza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Petr Levinsky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiri Hejtmanek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Philippe Boullay",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bernard Raveau",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinghui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pierric Lemoine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christophe Candolfi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emmanuel Guilmeau",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-025-67333-z",
+  "url": "http://arxiv.org/abs/2511.21172v2",
+  "published": "2025-11-26T08:38:01+00:00",
+  "abstract": "Ultralow glass-like lattice thermal conductivity in crystalline materials is crucial for enhancing energy conversion efficiency in thermoelectrics and thermal insulators. We introduce a universal descriptor for thermal conductivity that relies only on the atomic number in the primitive cell and the sound velocity, enabling fast and scalable materials screening. Coupled with high-throughput workflows and universal machine learning potentials, we identify the candidate materials with ultralow thermal conductivity from over 25, 000 materials. We further validate this approach by experimentally confirming record-low thermal conductivity values of 0.15-0.16 W/m/K from 170 to 400 K in the halide metal CsAg2I3. Combining inelastic neutron scattering with first-principles calculations, we attribute the ultralow thermal conductivity to the intrinsically small sound velocity, strong anharmonicity, and structural complexity. Our work illustrates how a universal descriptor, combined with high-throughput screening, machine-learning potential and experiment, enables the efficient discovery of materials with ultralow thermal conductivity.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.21172v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-025-67333-z/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.21172v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:24.248940+00:00",
+  "updated_at": "",
+  "extra": {}
+}

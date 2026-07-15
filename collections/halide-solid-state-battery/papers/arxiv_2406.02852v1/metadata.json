@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2406.02852v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Isolated anions induced high ionic conductivity",
+  "authors": [
+    {
+      "name": "Qifan Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jing Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuqi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiao Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruijuan Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2406.02852v1",
+  "published": "2024-06-05T02:01:31+00:00",
+  "abstract": "One of the key materials in solid-state lithium batteries is fast ion conductors. However, the Li+ ion transport in inorganic crystals involves complex factors, making it a mystery to find and design ion conductors with low migration barriers. In this work, a distinctive structural characteristic involving isolated anions has been discovered to enhance high ionic conductivity in crystals. It is an effective way to create a smooth energy potential landscape and construct local pathways for lithium ion migration. By adjusting the spacing and arrangement of the isolated anions, these local pathways can connect with each other, leading to high ion conductivity. By designing different space groups and local environments of the Se2- anions in the Li8SiSe6 composition, combined with the ion transport properties obtained from AIMD simulations, we define isolated anions and find that local environment with higher point group symmetry promotes the formation of cage-like local transport channels. Additionally, the appropriate distance between neighboring isolated anions can create coplanar connections between adjacent cage-like channels. Furthermore, different types of isolated anions can be used to control the distribution of cage-like channels in the lattice. Based on the structural characteristic of isolated anions, we discovered compounds with isolated N3-, Cl-, I-, and S2- features from the crystal structure databases. The confirmation of ion transport in these structures validates the proposed design method of using isolated anions as structural features for fast ion conductors and leads to the discovery of several new fast ion conductor materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.02852v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2406.02852v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.02852v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:08.886368+00:00",
+  "updated_at": "",
+  "extra": {}
+}

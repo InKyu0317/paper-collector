@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1109_mssc.2021.3088967",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultralow-Power Receivers: Overcoming Battery Limitations to Facilitate Self-Powered Operation",
+  "authors": [
+    {
+      "name": "David D. Wentzloff",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abdullah Alghaihab",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jaeho Im",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Omar Abdelatty",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Trevor Odelberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1109/mssc.2021.3088967",
+  "url": "https://doi.org/10.1109/mssc.2021.3088967",
+  "published": "2021",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/mssc.2021.3088967",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_mssc.2021.3088967/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "IEEE Solid-State Circuits Magazine",
+  "publisher": "",
+  "issn": "1943-0582",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:10.418912+00:00",
+  "updated_at": "",
+  "extra": {}
+}

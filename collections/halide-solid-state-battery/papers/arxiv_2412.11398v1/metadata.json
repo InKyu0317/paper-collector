@@ -1,0 +1,96 @@
+{
+  "paper_id": "arxiv_2412.11398v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Superionic Ionic Conductor Discovery via Multiscale Topological Learning",
+  "authors": [
+    {
+      "name": "Dong Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bingxu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shunning Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wentao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kai Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongli Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guo-Wei Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feng Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.11398v1",
+  "published": "2024-12-16T02:53:03+00:00",
+  "abstract": "Lithium superionic conductors (LSICs) are crucial for next-generation solid-state batteries, offering exceptional ionic conductivity and enhanced safety for renewable energy and electric vehicles. However, their discovery is extremely challenging due to the vast chemical space, limited labeled data, and the understanding of complex structure-function relationships required for optimizing ion transport. This study introduces a multiscale topological learning (MTL) framework, integrating algebraic topology and unsupervised learning to tackle these challenges efficiently. By modeling lithium-only and lithium-free substructures, the framework extracts multiscale topological features and introduces two topological screening metrics-cycle density and minimum connectivity distance-to ensure structural connectivity and ion diffusion compatibility. Promising candidates are clustered via unsupervised algorithms to identify those resembling known superionic conductors. For final refinement, candidates that pass chemical screening undergo ab initio molecular dynamics simulations for validation. This approach led to the discovery of 14 novel LSICs, four of which have been independently validated in recent experiments. This success accelerates the identification of LSICs and demonstrates broad adaptability, offering a scalable tool for addressing complex materials discovery challenges.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.11398v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.11398v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.11398v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:01.119899+00:00",
+  "updated_at": "",
+  "extra": {}
+}

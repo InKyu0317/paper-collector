@@ -1,0 +1,123 @@
+{
+  "paper_id": "arxiv_2401.12663v1",
+  "collection": "halide-solid-state-battery",
+  "title": "How do ionic superdiscs self-assemble in nanopores?",
+  "authors": [
+    {
+      "name": "Zhuoqing Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aileen R. Raab",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohamed A. Kolmangadi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mark Busch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marco Grunwald",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Demel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Florian Bertram",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andriy V. Kityk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andreas Schoenhals",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sabine Laschat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick Huber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.12663v1",
+  "published": "2024-01-23T11:16:39+00:00",
+  "abstract": "Discotic ionic liquid crystals (DILCs) consist of self-assembled superdiscs of cations and anions that spontaneously stack in linear columns with high one-dimensional ionic and electronic charge mobility, making them prominent model systems for functional soft matter. Unfortunately, a homogeneous alignment of DILCs on the macroscale is often not achievable, which significantly limits their applicability. Infiltration into nanoporous solid scaffolds can in principle overcome this drawback. However, due to the extreme experimental challenges to scrutinise liquid crystalline order in extreme spatial confinement, little is known about the structures of DILCs in nanopores. Here, we present temperature-dependent high-resolution optical birefringence measurement and 3D reciprocal space mapping based on synchrotron-based X-ray scattering to investigate the thermotropic phase behaviour of dopamine-based ionic liquid crystals confined in cylindrical channels of 180~nm diameter in macroscopic anodic aluminum oxide (AAO) membranes. As a function of the membranes' hydrophilicity and thus the molecular anchoring to the pore walls (edge-on or face-on) and the variation of the hydrophilic-hydrophobic balance between the aromatic cores and the alkyl side chain motifs of the superdiscs by tailored chemical synthesis, we find a particularly rich phase behaviour, which is not present in the bulk state. It is governed by a complex interplay of liquid crystalline elastic energies (bending and splay deformations), polar interactions and pure geometric confinement, and includes textural transitions between radial and axial alignment of the columns with respect to the long nanochannel axis.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "physics.app-ph",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.12663v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.12663v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.12663v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-15T03:04:04.936570+00:00",
+  "updated_at": "",
+  "extra": {}
+}
