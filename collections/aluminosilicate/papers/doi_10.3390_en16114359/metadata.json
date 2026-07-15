@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.3390_en16114359",
+  "collection": "aluminosilicate",
+  "title": "Aluminosilicate Clay Minerals: Kaolin, Bentonite, and Halloysite as Fuel Additives for Thermal Conversion of Biomass and Waste",
+  "authors": [
+    {
+      "name": "Izabella Maj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1802-1208",
+      "affiliation": "Department of Power Engineering and Turbomachinery, Faculty of Energy and Environmental Engineering, Silesian University of Technology, 44-100 Gliwice, Poland"
+    },
+    {
+      "name": "Krzysztof Matus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4015-5600",
+      "affiliation": "Materials Research Laboratory, Faculty of Mechanical Engineering, Silesian University of Technology, 44-100 Gliwice, Poland"
+    }
+  ],
+  "doi": "10.3390/en16114359",
+  "url": "https://doi.org/10.3390/en16114359",
+  "published": null,
+  "abstract": "<jats:p>The current focus on renewable energy sources and the circular economy favors the thermal conversion of low-quality fuels, such as biomass and waste. However, the main limitation of their usability in the power sector is the risk of slagging, fouling, ash deposition, and high-temperature corrosion. These problems may be avoided or significantly mitigated by the application of aluminosilicate clay minerals as fuel additives. In this paper, the three most commonly occurring aluminosilicates are reviewed: kaolin, halloysite, and bentonite. Their application has been proven to minimize combustion-related problems by bonding alkalis in high-melting compounds, thus increasing ash melting temperatures, reducing ash deposition tendencies, and decreasing the particulate matter emission. Due to excellent sorption properties, aluminosilicates are also expected to fix heavy metals in ash and therefore decrease their emissions into the atmosphere. The application of aluminosilicates as fuel additives may be a key factor that increases the attractiveness of biomass and other low-quality fuels for the power sector.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/en16114359",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_en16114359/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 26,
+  "journal": "Energies",
+  "publisher": "",
+  "issn": "1996-1073",
+  "quartile": "",
+  "added_at": "2026-07-15T03:01:14.533417+00:00",
+  "updated_at": "",
+  "extra": {}
+}
