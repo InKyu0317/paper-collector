@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.15330_pcss.25.1.185-190",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermal conductivity of GeBiTe solid solutions",
+  "authors": [
+    {
+      "name": "О.М. Matkivskyi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "V.R. Balan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "М.О. Halushchak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "І.B. Dadiak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "G.D. Mateik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "І.V. Horichok",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.15330/pcss.25.1.185-190",
+  "url": "https://doi.org/10.15330/pcss.25.1.185-190",
+  "published": null,
+  "abstract": "<jats:p>The paper calculates the electronic and lattice components of thermal conductivity coefficients for GeBiTe solid solutions. The calculation was carried out using two different models of the band structure of GeTe, which differ in the relative location of the zones of heavy and light holes. The first of the models is generally accepted for A4B6 compounds and assumes the location of the zone of light holes above the zone of heavy ones in the energy spectrum. Another model, obtained on the basis of DFT calculation, predicts the location of the zone of light holes below the zone of heavy ones. A significant difference was established in the numerical values of the electronic and lattice components of the thermal conductivity coefficients, depending on the adopted model. The influence of other calculation parameters on the investigated values was analyzed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15330/pcss.25.1.185-190",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.15330_pcss.25.1.185-190/paper.pdf",
+  "pdf_url": "https://journals.pnu.edu.ua/index.php/pcss/article/download/7824/8029",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Physics and Chemistry of Solid State",
+  "publisher": "",
+  "issn": "2309-8589",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:47.605870+00:00",
+  "updated_at": "",
+  "extra": {}
+}

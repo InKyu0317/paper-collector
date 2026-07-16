@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1103_physrevapplied.18.034065",
+  "collection": "halide-solid-state-battery",
+  "title": "Tuning the dynamics of chiral domain walls of ferrimagnetic films with the magneto-ionic effect",
+  "authors": [
+    {
+      "name": "Cristina Balan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jose Pena Garcia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aymen Fassatoui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jan Vogel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dayane de Souza Chaves",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marlio Bonfim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jean-Pascal Rueff",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laurent Ranno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefania Pizzini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevApplied.18.034065",
+  "url": "http://arxiv.org/abs/2205.03158v1",
+  "published": "2022-05-06T11:54:02+00:00",
+  "abstract": "The manipulation of magnetism with a gate voltage is expected to lead the way towards the realization of energy-efficient spintronics devices and high-performance magnetic memories. Exploiting magneto-ionic effects under micro-patterned electrodes in solid-state devices adds the possibility to modify magnetic properties locally, in a non-volatile and reversible way. Tuning magnetic anisotropy, magnetization and Dzyaloshinskii-Moriya interaction allows modifying at will the dynamics of non trivial magnetic textures such as skyrmions and chiral domain walls in magnetic race tracks. In this work, we illustrate efficient magneto-ionic effects in a ferrimagnetic Pt/Co/Tb stack using a ZrO2 thin layer as a solid state ionic conductor. When a thin layer of terbium is deposited on top of cobalt, it acquires a magnetic moment that aligns antiparallel to that of cobalt, reducing the effective magnetization. Below the micro-patterned electrodes, the voltage-driven migration of oxygen ions in a ZrO2 towards the ferrimagnetic stack partially oxidizes the Tb layer, leading to the local variation not only of the spontaneous magnetization, but also of the effective magnetic anisotropy and of the Dzyaloshinskii-Moriya interaction. This leads to a huge increase of the domain wall velocity, which varies from 10 m/s in the pristine state to 250 m/s after gating. This non-volatile and reversible tuning of the domain wall dynamics may lead to applications to reprogrammable magnetic memories or other spintronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.03158v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevapplied.18.034065/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.03158v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:01.555453+00:00",
+  "updated_at": "",
+  "extra": {}
+}

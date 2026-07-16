@@ -1,0 +1,120 @@
+{
+  "paper_id": "doi_10.1063_5.0221366",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-State Reactions at Niobium-Germanium Interfaces in Hybrid Superconductor-Semiconductor Devices",
+  "authors": [
+    {
+      "name": "Bernardo Langa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Deepak Sapkota",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ivan Lainez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Richard Haight",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bernadeta Srijanto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Leonard Feldman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hussein Hijazi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangyu Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lifang Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Moon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kasra Sardashti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0221366",
+  "url": "http://arxiv.org/abs/2405.20517v1",
+  "published": "2024-05-30T22:18:54+00:00",
+  "abstract": "Hybrid Superconductor-Semiconductor (S-Sm) materials systems are promising candidates for quantum computing applications. Their integration into superconducting electronics has enabled on-demand voltage tunability at millikelvin temperatures. Ge quantum wells (Ge QWs) have been among the semiconducting platforms interfaced with superconducting Al to realize voltage tunable Josephson junctions. Here, we explore Nb as a superconducting material in direct contact with Ge channels by focusing on the solid-state reactions at the Nb/Ge interfaces. We employ Nb evaporation at cryogenic temperatures (100 K) to establish a baseline structure with atomically and chemically abrupt Nb/Ge interfaces. By conducting systematic photoelectron spectroscopy and transport measurements on Nb/Ge samples across varying annealing temperatures, we elucidated the influence of Ge out-diffusion on the ultimate performance of superconducting electronics. This study underlines the need for low-temperature growth to minimize chemical intermixing and band bending at the Nb/Ge interfaces.",
+  "keywords": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.20517v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0221366/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.20517v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:34.392672+00:00",
+  "updated_at": "",
+  "extra": {}
+}

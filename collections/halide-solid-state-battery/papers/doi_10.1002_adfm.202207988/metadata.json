@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1002_adfm.202207988",
+  "collection": "halide-solid-state-battery",
+  "title": "Magnetic properties of layered hybrid organic-inorganic metal-halide perovskites: transition metal, organic cation and perovskite phase effects",
+  "authors": [
+    {
+      "name": "Yaiza Asensio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergio Marras",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Davide Spirito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marco Gobbi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mihail Ipatov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fèlix Casanova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aurelio Mateo-Alonso",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis E. Hueso",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Beatriz Martín-García",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/adfm.202207988",
+  "url": "http://arxiv.org/abs/2404.13403v1",
+  "published": "2024-04-20T15:06:49+00:00",
+  "abstract": "Understanding the structural and magnetic properties in layered hybrid organic-inorganic metal halide perovskites (HOIPs) is key for their design and integration in spin-electronic devices. Here, we have conducted a systematic study on ten compounds to understand the effect of the transition metal (Cu$^{2+}$, Mn$^{2+}$, Co$^{2+}$), organic spacer (alkyl- and aryl-ammonium) and perovskite phase (Ruddlesden-Popper and Dion-Jacobson) on the properties of these materials. Temperature-dependent Raman measurements show that the crystals' structural phase transitions are triggered by the motional freedom of the organic cations as well as by the flexibility of the inorganic metal-halide lattice. In the case of Cu$^{2+}$ HOIPs, an increase of the in-plane anisotropy and a reduction of the octahedra interlayer distance is found to change the behavior of the HOIP from that of a 2D ferromagnet to that of a quasi-3D antiferromagnet. Mn$^{2+}$ HOIPs show inherent antiferromagnetic octahedra intralayer interactions and a phenomenologically rich magnetism, presenting spin-canting, spin-flop transitions and metamagnetism controlled by the crystal anisotropy. Co$^{2+}$ crystals with non-linked tetrahedra show a dominant paramagnetic behavior irrespective of the organic spacer and the perovskite phase. This work demonstrates that the chemical flexibility of HOIPs can be exploited to develop novel layered magnetic materials with tailored magnetic properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.13403v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adfm.202207988/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.13403v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:29.538401+00:00",
+  "updated_at": "",
+  "extra": {}
+}

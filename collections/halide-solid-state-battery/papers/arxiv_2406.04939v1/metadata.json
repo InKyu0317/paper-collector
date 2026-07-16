@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2406.04939v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Designing Strain-less Electrode Materials: Computational Analysis of Volume Variations in Li-ion and Na-ion Batteries",
+  "authors": [
+    {
+      "name": "Maxime Maréchal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Romain Berthelot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick Rozier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthieu Saubanère",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2406.04939v1",
+  "published": "2024-06-07T13:46:42+00:00",
+  "abstract": "Mechanical degradation in electrode materials during successive electrochemical cycling is critical for battery lifetime and aging properties. A common strategy to mitigate electrode mechanical degradation is to suppress the volume variation induced by Li/Na intercalation/deintercalation, thereby designing strain-less electrodes. In this study, we investigate the electrochemically-induced volume variation in layered and spinel compounds used in Li-ion and Na-ion battery electrode materials through density functional theory computations. Specifically, we propose to decompose the volume variation into electronic, ionic, and structural contributions. Based on this analysis, we suggest methods to separately influence or control each contribution through strategies such as chemical substitution, doping, and polymorphism. Altogether, we conclude that volume variations can be controlled by designing either mechanically hard or compact electrode materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.04939v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2406.04939v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.04939v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:10.011838+00:00",
+  "updated_at": "",
+  "extra": {}
+}

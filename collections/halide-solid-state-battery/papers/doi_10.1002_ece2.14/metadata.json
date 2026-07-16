@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1002_ece2.14",
+  "collection": "halide-solid-state-battery",
+  "title": "Electrothermal model of all‐solid‐state lithium battery with composite solid‐state electrolyte",
+  "authors": [
+    {
+      "name": "Zhao Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Graduate School of Science and Technology Hirosaki University  Hirosaki Japan"
+    },
+    {
+      "name": "Shang Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Graduate School of Science and Technology Hirosaki University  Hirosaki Japan"
+    },
+    {
+      "name": "Pairuzha Xiaokaiti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Frontier Laboratories Ltd.  Fukushima Japan"
+    },
+    {
+      "name": "Juan Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Graduate School of Science and Technology Hirosaki University  Hirosaki Japan"
+    },
+    {
+      "name": "Hongxin You",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Dalian University of Technology  Dalian Liaoning China"
+    },
+    {
+      "name": "Abuliti Abudula",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Graduate School of Science and Technology Hirosaki University  Hirosaki Japan"
+    },
+    {
+      "name": "Guoqing Guan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5875-3596",
+      "affiliation": "Graduate School of Science and Technology Hirosaki University  Hirosaki Japan"
+    }
+  ],
+  "doi": "10.1002/ece2.14",
+  "url": "https://doi.org/10.1002/ece2.14",
+  "published": "2023-12",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>For secondary batteries, thermal runaway has become the main issue, and how to solve it is full of challenges. In this work, a universal thermal model for lithium ion batteries (LIBs) was proposed, which was validated by using commercially available 18650 batteries as well as testing the electrochemical parameters of a Poly(ethylene oxide)(PEO)–bis(trifluoromethane)sulfonimide lithium salt(LiTFSI)–Li<jats:sub>2</jats:sub>MnO<jats:sub>3</jats:sub>(LMO) (PLL) composite solid‐state electrolyte (CSSE), while a computational model was developed for all‐solid‐state LIBs (ASSLIBs) based on PLL CSSE. The simulation results show that the maximum temperature of ASSLIBs based on PLL CSSE and commercial standards are both significantly lower than the thermal runaway temperature of solid‐state electrolyte. However, as the temperature of the battery varies greatly under different operating conditions, it will cause great difficulties in the control of other ancillary components and even finally lead to certain safety issues. Therefore, from the perspective of performance and practical application, the CSSE should be improved toward improving the ionic conductivity at low temperatures to have more commercial prospects, and lower interfacial impedance and a higher lithium ion migration number would also be beneficial for optimizing the thermal behavior of ASSLIBs to achieve better commercial prospects.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/ece2.14",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_ece2.14/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 27,
+  "journal": "EcoEnergy",
+  "publisher": "",
+  "issn": "2835-9380",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:14.789284+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acs.chemmater.1c01992",
+  "collection": "halide-solid-state-battery",
+  "title": "Searching Ternary Oxides and Chalcogenides as Positive Electrodes for Calcium Batteries",
+  "authors": [
+    {
+      "name": "Wang Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juefan Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gopalakrishnan Sai Gautam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pieremanuele Canepa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.chemmater.1c01992",
+  "url": "http://arxiv.org/abs/2107.01365v1",
+  "published": "2021-07-03T07:43:53+00:00",
+  "abstract": "The identification of alternatives to the Lithium-ion battery architecture remains a crucial priority in the diversification of energy storage technologies. Accompanied by the low reduction potential of $\\mathrm{Ca^{2+}/Ca}$, -2.87 V vs. SHE, metal-anode-based rechargeable Calcium (Ca) batteries appear competitive in terms of energy densities. However, the development of Ca-batteries lacks high-energy density intercalation cathode materials. Using first-principles methodologies, we screen a large chemical space for potential Ca-based cathode chemistries, with composition of $\\mathrm{Ca_iTM_jZ_k}$, where TM is a 1$^{st}$ or 2$^{nd}$ row transition metal and $\\mathrm{Z}$ is oxygen, sulfur, selenium or tellurium. 10 materials are selected and their Ca intercalation properties are investigated. We identify two previously unreported promising electrode compositions: the post-spinel $\\mathrm{CaV_2O_4}$ and the layered $\\mathrm{CaNb_2O_4}$, with Ca migration barriers of $\\sim$654 meV and $\\sim$785 meV, respectively. Finally, we analyse the geometrical features of the Ca migration pathways across the 10 materials studied and provide an updated set of design rules for the identification of good ionic conductors, especially with large mobile cations.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.01365v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.chemmater.1c01992/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.01365v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:06.915829+00:00",
+  "updated_at": "",
+  "extra": {}
+}

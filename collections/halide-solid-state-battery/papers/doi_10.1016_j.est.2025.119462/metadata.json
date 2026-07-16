@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1016_j.est.2025.119462",
+  "collection": "halide-solid-state-battery",
+  "title": "Mechanisms and Stability of Li Dynamics in Amorphous Li-Ti-P-S-Based Mixed Ionic-Electronic Conductors: A Machine Learning Molecular Dynamics Study",
+  "authors": [
+    {
+      "name": "Selva Chandrasekaran Selvaraj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daiwei Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Donghai Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anh T. Ngo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.est.2025.119462",
+  "url": "http://arxiv.org/abs/2506.11199v2",
+  "published": "2025-06-12T18:00:25+00:00",
+  "abstract": "Mixed ionic-electronic conductors (MIECs) exhibit both high ionic and electronic conductivity to improve the battery performance. In this work, we investigate the mechanism and stability of transport channels in our recently developed MIEC material, amorphous Ti-doped lithium phosphorus sulfide (LPS), using molecular dynamics (MD) simulations with a 99\\% accurate machine-learning force field (MLFF) trained on \\textit{ab-initio} MD data. The achieved MLFF helps efficient large-scale MD simulations on LPS with three Ti concentrations (10\\%, 20\\%, and 30\\%) and six temperatures (25$^\\mathrm{o}$C to 225$^\\mathrm{o}$C) to calculate ionic conductivity, activation energy, Li-ion transport mechanism, and configurational entropy. Results show that ionic conductivities and activation energies are consistent with our recent experimental values. Moreover, Li-ion transport occurs via free-volume diffusion facilitated by the formation of disordered Li-S polyhedra. The enhanced stability of transport channels at 10\\% and 20\\% Ti doping, compared to 0\\% and 30\\%, is observed by analyzing the vibrational and configurational entropy of these disordered Li-S polyhedra. Overall, this study highlights the utility of MLFF-based large-scale MD simulations in explaining the transport mechanism and the stability of Li-ion in Ti-doped LPS electrolyte with significant computational efficiency.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2506.11199v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.est.2025.119462/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2506.11199v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:14.788824+00:00",
+  "updated_at": "",
+  "extra": {}
+}

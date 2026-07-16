@@ -1,0 +1,56 @@
+{
+  "paper_id": "doi_10.1103_physrevmaterials.8.125402",
+  "collection": "halide-solid-state-battery",
+  "title": "Modulation of Point Defect Properties Near Surfaces in Metal Halide Perovskites",
+  "authors": [
+    {
+      "name": "Bilal Ahmad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Md Salman Rabbi Limon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeeshan Ahmad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevMaterials.8.125402",
+  "url": "http://arxiv.org/abs/2407.02249v1",
+  "published": "2024-07-02T13:13:30+00:00",
+  "abstract": "It is now widely recognized that surface and interfacial defects exhibit distinct behavior compared to bulk defects in metal halide perovskites. However, the transition from bulk to surface behavior and the spatial extent of the surface's influence are not well understood. To address this, we conducted first-principles calculations on iodine vacancies and interstitial defects in methylammonium lead iodide and cesium lead iodide at various depths from the surface, enabling us to map out depth-dependent behavior. We find that the defect formation energy follows a saturating exponential curve as the defect moves away from the surface to the bulk. Using first-principles calculated defect formation energies, we quantify the extent of the surface's influence by calculating the decay length associated with each defect. The difference between the surface and bulk defect formation energy is found to be as high as 1.12 eV for the negatively charged iodine vacancy in methylammonium lead iodide, leading to the enrichment of the surface with defects. Through analysis of defective structures, we find that the differences in the bulk and surface defect properties are a consequence of different bond lengths and in some cases, even changes in bonding and coordination environments. Finally, we determine how the defect transition levels change as a function of the layer index, which could contribute to increased non-radiative recombination. Our findings pave the way for a systematic treatment of non-radiative losses in perovskite solar cells that incorporate spatially dependent defect densities and transition levels.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2407.02249v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevmaterials.8.125402/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2407.02249v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-16T03:05:45.183030+00:00",
+  "updated_at": "",
+  "extra": {}
+}
