@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_buildings11060239",
+  "collection": "aluminosilicate",
+  "title": "Effect of an Aluminosilicate Disperse Additive on Behaviors of Autoclave Silicate Materials",
+  "authors": [
+    {
+      "name": "Viktoriya Nelubova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Belgorod State Technological University Named after V.G. Shukhov, 308012 Belgorod, Russia"
+    },
+    {
+      "name": "Valeria Strokova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6895-4511",
+      "affiliation": "Belgorod State Technological University Named after V.G. Shukhov, 308012 Belgorod, Russia"
+    },
+    {
+      "name": "Roman Fediuk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2279-1240",
+      "affiliation": "Polytechnic Institute, Far Eastern Federal University, 690922 Vladivostok, Russia"
+    },
+    {
+      "name": "Mugahed Amran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4434-6295",
+      "affiliation": "Department of Civil Engineering, College of Engineering, Prince Sattam Bin Abdulaziz University, Alkharj 11942, Saudi Arabia"
+    },
+    {
+      "name": "Nikolai Vatin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1196-8004",
+      "affiliation": "Peter the Great St. Petersburg Polytechnic University, 195251 St. Petersburg, Russia"
+    },
+    {
+      "name": "Yuriy Vasilev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Moscow Automobile and Road Construction University, 125319 Moscow, Russia"
+    }
+  ],
+  "doi": "10.3390/buildings11060239",
+  "url": "https://doi.org/10.3390/buildings11060239",
+  "published": null,
+  "abstract": "<jats:p>In this research, a phase formation in CaO–SiO2–Al2O3–H2O binding system under hydrothermal conditions was studied. The novelty of this article lies in the quantitative full-profile X-ray diffraction (XRD) analysis used to determine kinetics of mineral formation in the binder system “lime–granite mineral modifier (GMM)”. The formation of a polymineral system is described in detail, as well as quantitative relationships between mineral composition of newly formed phases and the binding mixture ratios were determined. Phenomenological model of mineral formation in a “lime–GMM” system under hydrothermal conditions was proposed. The results obtained allow the demonstration of this binding system as a binder that is characterized by superposition of hydration and geopolymerization. The properties (strength, density, water absorption, porosity) of compressed autoclave-hardened materials with the addition of a granite modifier introduced instead of part of the sand as an aggregate have been studied. The maximum increase in strength (more than 50%) is observed at a modifier content of 15%. This is due to the formation of a rational composition of neoplasms, the compaction of the structure of the pressed products and the optimization of their pore space, which is confirmed by the data of X-ray diffraction analysis, scanning electron microscopy and the method of gas adsorption.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/buildings11060239",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_buildings11060239/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Buildings",
+  "publisher": "",
+  "issn": "2075-5309",
+  "quartile": "",
+  "added_at": "2026-07-16T03:01:42.308184+00:00",
+  "updated_at": "",
+  "extra": {}
+}

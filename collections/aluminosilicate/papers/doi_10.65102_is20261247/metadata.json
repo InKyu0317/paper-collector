@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.65102_is20261247",
+  "collection": "aluminosilicate",
+  "title": "Polishing Process Optimization of Aluminosilicate Glass Based on Response Surface Method",
+  "authors": [
+    {
+      "name": "Peng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.65102/is20261247",
+  "url": "https://doi.org/10.65102/is20261247",
+  "published": "2026-6-10",
+  "abstract": "<jats:p>In order to optimize the polishing rate and surface quality of chemical mechanical polishing of aluminosilicate glass by adjusting the process parameters, the response surface method was used to determine the optimal process of polishing pressure, slurry flow rate and polishing plate speed. The results show that the influence of polishing pressure, polishing disc speed and polishing liquid flow rate on the material removal rate decreases in turn. The influence of polishing pressure, slurry flow rate and polishing disc speed on the roughness decreases in turn. The optimum process parameters are polishing pressure of 3.6 kg, polishing liquid flow of 71 mL / min and polishing disc speed of 110 r / min. The experimental results show that the measured material removal rate under this condition is 196.306 nm / min, and the surface roughness of the polished glass is as low as 1.260 nm, which realizes the joint optimization of polishing rate and surface quality.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.65102/is20261247",
+  "pdf_path": "aluminosilicate/papers/doi_10.65102_is20261247/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Ingegneria Sismica",
+  "publisher": "",
+  "issn": "0393-1420",
+  "quartile": "",
+  "added_at": "2026-07-16T03:01:32.063052+00:00",
+  "updated_at": "",
+  "extra": {}
+}
