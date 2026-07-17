@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2505.01890v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Towards Sustainable Energy Storage: Evaluating Polymer Electrolytes for Zinc Ion Batteries",
+  "authors": [
+    {
+      "name": "Roya Rajabi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shichen Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Booker Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jamil Khan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kevin Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.01890v1",
+  "published": "2025-05-03T18:47:14+00:00",
+  "abstract": "Polymer electrolytes present a promising solution to the challenges posed by aqueous electrolytes in energy storage systems, offering the flexibility needed for wearable electronics. Despite the increasing interest in polymer electrolyte-based zinc ion batteries (ZIBs), their development is still in its early stages due to various challenges. In this study, we fabricated three promising polymer electrolytes: CSAM (carboxyl methyl chitosan with acrylamide monomer), PAM (polyacrylamide monomer hydrogel electrolyte), and p-PBI (Phosphoric acid (PA)-doped polybenzimidazole) with Zn(ClO4)2 and Zn(OTf)2, for their application in zinc ion batteries. Our results demonstrated that PAM hydrogel electrolyte exhibited very low LDH formation after a long cycle, demonstrating effective protection for zinc foil, and the high mechanical stability of the p-PBI membrane provided prolonged durability against short circuits through the formation of LDH. The presence of carboxyl groups in CSAM and the formation of O-H bonding facilitated ion movement, resulting in enhanced ionic conductivity, and preventing dendrite formation. Incorporating these hydrogels with high-performance zinc salts, such as zinc triflate (Zn(OTf)2), resulted in impressive stability, with the symmetric cell demonstrating over 4000 hours of uniform and stable voltage profile under 1 mA/cm2 and low overpotential of around 53 mV cycling with CSAM. The full-cell battery with PBI-T membrane showed the highest durability and capacity compared to CSAM-T and PAM-T, due to the greater availability of free protons for storing zinc in the cathode.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "eess.SY"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.01890v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.01890v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.01890v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-17T03:11:49.487186+00:00",
+  "updated_at": "",
+  "extra": {}
+}

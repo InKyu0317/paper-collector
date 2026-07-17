@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2601.15845v1",
+  "collection": "halide-solid-state-battery",
+  "title": "NASICON solid-electrolyte modification and analysis using ion and neutron beams",
+  "authors": [
+    {
+      "name": "Giovanni Ceccio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiri Vacik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mykhailo Drozdenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Romana Miksova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ivan Mastronardo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dejan Prokop",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Benedetta Brancato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eva Stepanovska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia D'Urso",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Leone Frusteri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.15845v1",
+  "published": "2026-01-22T10:51:33+00:00",
+  "abstract": "Solid electrolytes (SEs) for sodium-based superionic conductors (NaSICON) are widely recognized for their excellent ionic conductivity and application in sodium based energy storage systems. While considerable effort has been made to develop thin electrolytes for all-solid-state batteries (ASSBs) for lithium ions, only a few sodium-based SEs have been successfully fabricated as thin films. These thin films are particularly desirable for their reduced electrical resistance, which typically increases with the thickness of the SE. By reducing the thickness of the SEs to the nanometer scale, their ionic conductivity can be significantly enhanced. In this study, the NASICON composite was initially prepared in the form of pellets using the mixed oxide technique with a planetary ball mill and synthesized by the solid-state method at 1250 °C. The resulting pellets were used as sputtering targets in a low-energy ion facility to prepare continuous and uniform NASICON nanofilms. To explore the effect of ion implantation on the electrical properties of NASICON, the prepared films were bombarded with Ni ions at 1.1 MeV and varying fluences, using the Tandetron accelerator at the CANAM infrastructure (NPI Řež). The electrical properties of both the synthesized and implanted films were analyzed through electrochemical impedance spectroscopy (EIS). The results, describing the impact of irradiation on NASICON's properties, are presented here.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.15845v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2601.15845v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.15845v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-17T03:11:45.562179+00:00",
+  "updated_at": "",
+  "extra": {}
+}
