@@ -1,0 +1,104 @@
+{
+  "paper_id": "arxiv_2503.14878v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Chemical Foundation Model Guided Design of High Ionic Conductivity Electrolyte Formulations",
+  "authors": [
+    {
+      "name": "Murtaza Zohair",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vidushi Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eduardo A. Soares",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Khanh Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maxwell Giammona",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linda Sundberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andy Tek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emilio A. V. Vital",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Young-Hye La",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2503.14878v2",
+  "published": "2025-03-19T04:14:19+00:00",
+  "abstract": "Designing optimal formulations is a major challenge in developing electrolytes for the next generation of rechargeable batteries due to the vast combinatorial design space and complex interplay between multiple constituents. Machine learning (ML) offers a powerful tool to uncover underlying chemical design rules and accelerate the process of formulation discovery. In this work, we present an approach to design new formulations that can achieve target performance, using a generalizable chemical foundation model. The chemical foundation model is fine-tuned on an experimental dataset of 13,666 ionic conductivity values curated from the lithium-ion battery literature. The fine-tuned model is used to discover 7 novel high conductivity electrolyte formulations through generative screening, improving the conductivity of LiFSI and LiDFOB based electrolytes by 82% and 172%, respectively. These findings highlight a generalizable workflow that is highly adaptable to the discovery of chemical mixtures with tailored properties to address challenges in energy storage and beyond.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.14878v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2503.14878v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.14878v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:24.602493+00:00",
+  "updated_at": "",
+  "extra": {}
+}

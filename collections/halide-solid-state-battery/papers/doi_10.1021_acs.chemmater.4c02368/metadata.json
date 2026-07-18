@@ -1,0 +1,65 @@
+{
+  "paper_id": "doi_10.1021_acs.chemmater.4c02368",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine Learning Based Prediction of Proton Conductivity in Metal-Organic Frameworks",
+  "authors": [
+    {
+      "name": "Seunghee Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Byeong Gwan Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dae Woon Lim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jihan Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.chemmater.4c02368",
+  "url": "http://arxiv.org/abs/2407.09514v3",
+  "published": "2024-06-18T07:02:40+00:00",
+  "abstract": "Recently, metal-organic frameworks (MOFs) have demonstrated their potential as solid-state electrolytes in proton exchange membrane fuel cells. However, the number of MOFs reported to exhibit proton conductivity remains limited, and the mechanisms underlying this phenomenon are not fully elucidated, complicating the design of proton-conductive MOFs. In response, we developed a comprehensive database of proton-conductive MOFs and applied machine learning techniques to predict their proton conductivity. Our approach included the construction of both descriptor-based and transformer-based models. Notably, the transformer-based transfer learning (Freeze) model performed the best with a mean absolute error (MAE) of 0.91, suggesting that the proton conductivity of MOFs can be estimated within one order of magnitude using this model. Additionally, we employed feature importance and principal component analysis to explore the factors influencing proton conductivity. The insights gained from our database and machine learning model are expected to facilitate the targeted design of proton-conductive MOFs.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.LG",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2407.09514v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.chemmater.4c02368/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2407.09514v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:44.959181+00:00",
+  "updated_at": "",
+  "extra": {}
+}

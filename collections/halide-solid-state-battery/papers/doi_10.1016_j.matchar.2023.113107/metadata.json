@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.1016_j.matchar.2023.113107",
+  "collection": "halide-solid-state-battery",
+  "title": "3D microstructure characterization of Cu 25Cr solid state sintered alloy using X-ray computed tomography and machine learning assisted segmentation",
+  "authors": [
+    {
+      "name": "Lucas Varoto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SIMaP, SE"
+    },
+    {
+      "name": "Jean-Jacques Blandin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SIMaP"
+    },
+    {
+      "name": "Pierre Lhuissier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SIMaP"
+    },
+    {
+      "name": "Sophie Roure",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SE"
+    },
+    {
+      "name": "Anthony Papillon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SE"
+    },
+    {
+      "name": "Mélissa Chosson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SE"
+    },
+    {
+      "name": "Guilhem Martin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "SIMaP"
+    }
+  ],
+  "doi": "10.1016/j.matchar.2023.113107",
+  "url": "http://arxiv.org/abs/2311.13904v1",
+  "published": "2023-11-23T10:37:57+00:00",
+  "abstract": "Cu-Cr-based alloys with Cr content from 5 to 50 wt.% are widely used as electrical contacts for vacuum interrupters for medium voltage applications because of their excellent combination of mechanical, thermal, and electrical conductivity. Cu-Cr electrical contacts are usually processed by sintering or casting processes. For solid-state sintered Cu-Cr materials, the physical properties vary as a function of the Cr content, phase morphology and porosity volume fraction. Some studies have investigated the effect of the microstructural characteristics of Cu-Cr alloys with different Cr content and morphology on their properties. However, the porosity characterization and Cr spatial distribution and how they affect these alloys' physical properties are not as well documented. In this study, we report an in-depth 3D characterization of the porosity and Cr-phase of solid-state sintered Cu-25Cr alloys with three final relative densities using X-ray Computed Tomography (XCT). An image analysis algorithm assisted by a machine learning-based segmentation method has been specifically developed. Results show that for Cu-25Cr solid sintered alloys there are mainly two types of pores, pores located at the Cu/Cr interfaces, and pores within the Cu matrix. The interfacial porosity represents the larger volume fraction, over 75% of the total porosity for all cases, forming a large network of interconnected pores. With the increase of final density, the Cu-matrix becomes nearly fully dense while interfacial pores still represent the largest fraction decreases in size and volume. These interfacial pores networks are believed to be formed due to poor filling and packing of Cu around the percolated Cr-phase. These observations might be helpful to optimize the functional properties of Cu-Cr sintered alloys.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2311.13904v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.matchar.2023.113107/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2311.13904v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:48.623961+00:00",
+  "updated_at": "",
+  "extra": {}
+}

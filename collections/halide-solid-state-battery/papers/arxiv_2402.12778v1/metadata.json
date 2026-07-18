@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2402.12778v1",
+  "collection": "halide-solid-state-battery",
+  "title": "First-Principle Characterization of Structural, Electronic, and Optical Properties of Tin-Halide Monomers",
+  "authors": [
+    {
+      "name": "Freerk Schütt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ana M. Valencia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Caterina Cocchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.12778v1",
+  "published": "2024-02-20T07:33:22+00:00",
+  "abstract": "The growing interest in tin-halide semiconductors for photovoltaic applications demands an in-depth knowledge of the fundamental properties of its constituents, starting from the smallest monomers entering the initial stages of formation. In this first-principles work based on time-dependent density-functional theory, we investigate the structural, electronic, and optical properties of tin-halide molecules SnX$_n^{2-n}$, with $n=1,2,3,4$ and X = Cl, Br, I, simulating these compounds in vacuo as well as in an implicit solvent. We find that structural properties are very sensitive to the halogen species while the charge distribution is also affected by stoichiometry. The ionicity of the Sn-X bond is confirmed by the Bader charge analysis albeit charge displacement plots point to more complex metal-halide coordination. Particular focus is posed on the neutral molecules SnX$_2$, for which electronic and optical properties are discussed in detail. Band gaps and absorption onset decrease with increasing size of the halogen species and despite general common features, each molecule displays peculiar optical signatures. Our results are elaborated in the context of experimental and theoretical literature, including the more widely studied lead-halide analogs, aiming to contribute with microscopic insight to a better understanding of tin-halide perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.12778v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.12778v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.12778v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:27.643392+00:00",
+  "updated_at": "",
+  "extra": {}
+}

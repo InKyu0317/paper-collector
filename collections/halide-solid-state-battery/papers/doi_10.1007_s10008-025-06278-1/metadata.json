@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1007_s10008-025-06278-1",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic diffusion in post-lithium batteries",
+  "authors": [
+    {
+      "name": "Vasileios Balaouras",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nikolaos Kelaidis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Aspassia Daskalopulu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Navaratnarajah Kuganathan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander Chroneos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2558-495X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-025-06278-1",
+  "url": "https://doi.org/10.1007/s10008-025-06278-1",
+  "published": "2025-9",
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Although lithium-ion batteries are the mainstream choice for batteries, they raise sustainability, safety, and economic concerns that need to be addressed. Lithium resources might be inadequate for the ever-increasing demand, so alternative, relatively abundant and sustainable materials for battery applications are sought. Alternative ionic species, such as sodium-ion, magnesium-ion, and calcium-ion oxides are being explored as next-generation electrode and electrolyte materials beyond lithium-ion technology. Sodium, magnesium, and calcium are far more abundant than lithium, they are cheaper and more sustainable. However, the replacement of lithium with these larger cations does not come without challenges. A major limitation that must be overcome is that they exhibit reduced diffusion kinetics in comparison to lithium. This is of critical importance for the cathode and electrolyte and, hence, the overall performance of the battery. To facilitate faster diffusion coefficients for these larger cations, it is important to accommodate them in appropriate crystal lattices. Furthermore, kinetics can be accelerated using defect engineering strategies. Atomistic simulation is an efficient way to accelerate progress in the quest for efficient post-lithium battery materials. In this review, we discuss recent advances, including the deployment of artificial intelligence (AI) techniques, in the investigation of sodium-ion, magnesium-ion, and calcium-ion oxides for energy storage applications.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-025-06278-1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-025-06278-1/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-025-06278-1.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:33.328758+00:00",
+  "updated_at": "",
+  "extra": {}
+}

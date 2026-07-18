@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2211.08225v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultrafast crystallization and sintering of Li1.5Al0.5Ge1.5(PO4)3 glass and its impact on ion conduction",
+  "authors": [
+    {
+      "name": "Antonino Curcio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Antonio Gianfranco Sabato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marc Nuñez Eroles",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Carlos GonzalezRosillo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alex Morata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Albert Tarancónb",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Francesco Ciucci",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2211.08225v1",
+  "published": "2022-11-15T15:47:31+00:00",
+  "abstract": "Li1.5Al0.5Ge1.5(PO4)3 (LAGP) is among the most promising solid electrolytes for the next generation all-solid-state lithium batteries. However, preparing LAGP electrolytes is timeand energy-intensive. In this work, LAGP glassy powders were sintered and crystallized in 180 seconds by ultrafast high-temperature sintering (UHS) under conditions attractive for continuous industrial processes (i.e., ambient pressure and atmosphere). The fast heating rates characteristic of UHS significantly delay crystallization, potentially decoupling crystallization and sintering. Furthermore, EIS characterizations reveal that LAGP sintered and crystallized by UHS has an ionic conductivity of 1.15 10-4 S/cm, slightly lower than conventionally annealed samples (1.75 10-4 S/cm). The lower conductivity can be attributed to poorer intergrain contact. To overcome this issue, additives such as B2O3 and Li3BO3 are used, resulting in 2 and 5 times higher grain boundary conductivity for LAGP+1 wt B2O3 and LAGP+1 wt Li3BO3, respectively, compared to LAGP. Overall, this work provides insights into unraveling the impact of UHS sintering on the LAGP Li+ conduction mechanism.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2211.08225v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2211.08225v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2211.08225v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:39.488074+00:00",
+  "updated_at": "",
+  "extra": {}
+}

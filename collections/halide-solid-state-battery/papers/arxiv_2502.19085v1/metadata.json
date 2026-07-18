@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2502.19085v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Quantifying local heterogeneities in the 3D morphology of X-PVMPT battery electrodes based on FIB-SEM measurements",
+  "authors": [
+    {
+      "name": "L. Dodell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Neumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Osenberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Hilger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "G. Studer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "B. Esser",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "I. Manke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "V. Schmidt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2502.19085v1",
+  "published": "2025-02-26T12:29:03+00:00",
+  "abstract": "Organic electrode-active materials (OAMs) not only enable a variety of charge and storage mechanisms, but are also safer for the environment and of lower cost compared to materials in commonly used lithium-ion batteries. Cross-linked Poly(3)-vinyl-N-methylphenothiazine (X-PVMPT) is a p-type OAM which shows high performance and enables fast and reversible energy storage in different battery configurations. The performance of an OAM does not only depend on its molecular or polymer structure, but also on the structure of the composite electrode. The porous nanostructure of an electrode composed of X-PVMPT, a conductive carbon additive and binder is investigated by statistical image analysis, based on 3D image data obtained by focused-ion beam scanning-electron microscopy (FIB-SEM) measurements. Univariate probability distributions of relevant morphological descriptors as well as bivariate distributions of pairs of such descriptors are parametrically modelled, among others, by utilization of copulas in the latter case. These models are then used for quantifying local heterogeneities of X-PVMPT considered in this paper. Furthermore, it is shown that the nanostructure changes when traversing from bottom to top face of the electrode, which influences its performance. While the observed short transportation paths trough the solid phase are beneficial in terms of electrical conductivity, the pathways through the pore phase influencing the effective ionic diffusivity are--in comparison--rather long.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2502.19085v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2502.19085v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2502.19085v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:36.448597+00:00",
+  "updated_at": "",
+  "extra": {}
+}

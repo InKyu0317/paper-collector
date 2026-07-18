@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.1063_5.0061899",
+  "collection": "halide-solid-state-battery",
+  "title": "Recombination and localization: unfolding the pathways behind conductivity losses in Cs2AgBiBr6 thin films",
+  "authors": [
+    {
+      "name": "Huygen J. Jöbsis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Valentina M. Caselli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sven H. C. Askes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Erik C. Garnett",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tom J. Savenije",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Freddy T. Rabouw",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eline M. Hutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0061899",
+  "url": "http://arxiv.org/abs/2107.01852v1",
+  "published": "2021-07-05T08:14:03+00:00",
+  "abstract": "Cs2AgBiBr6 (CABB) has been proposed as a promising non-toxic alternative to lead halide perovskites. However, low charge carrier collection efficiencies remain an obstacle for the incorporation of this material in optoelectronic applications. In this work, we study the optoelectronic properties of CABB thin films using steady state and transient absorption and reflectance spectroscopy. We find that optical measurements on such thin films are distorted as a consequence of multiple reflections within the film. Moreover, we discuss the pathways behind conductivity loss in these thin films, using a combination of microsecond transient absorption and time-resolved microwave conductivity spectroscopy. We demonstrate that a combined effect of carrier loss and localization results in the conductivity loss in CABB thin films. Moreover, we find that the charge carrier diffusion length and sample thickness are of the same order. This suggests that the materials surface is an important contributor to charge carrier loss.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.01852v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0061899/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.01852v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:52.079210+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,57 @@
+{
+  "paper_id": "doi_10.1063_5.0055493",
+  "collection": "halide-solid-state-battery",
+  "title": "Lithium-salt-based deep eutectic solvents: Importance of glass formation and rotation-translation coupling for the ionic charge transport",
+  "authors": [
+    {
+      "name": "A. Schulz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "P. Lunkenheimer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Loidl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0055493",
+  "url": "http://arxiv.org/abs/2104.14604v2",
+  "published": "2021-04-29T18:44:30+00:00",
+  "abstract": "Lithium-salt-based deep eutectic solvents, where the only cation is Li+, are promising candidates as electrolytes in electrochemical energy-storage devices like batteries. We have performed broadband dielectric spectroscopy on three such systems, covering a broad temperature and dynamic range that extends from the low-viscosity liquid around room temperature down to the glassy state approaching the glass-transition temperature. We detect a relaxational process that can be ascribed to dipolar reorientational dynamics and exhibits the clear signatures of glassy freezing. We find that the temperature dependence of the ionic dc conductivity and its room-temperature value also are governed by the glassy dynamics of these systems, depending, e.g., on the glass-transition temperature and fragility. Compared to the previously investigated corresponding systems, containing choline chloride instead of a lithium salt, both the reorientational and ionic dynamics are significantly reduced due to variations of the glass-transition temperature and the higher ionic potential of the lithium ions. These lithium-based deep eutectic solvents partly exhibit significant decoupling of the dipolar reorientational and the ionic translational dynamics and approximately follow a fractional Debye-Stokes-Einstein relation, leading to an enhancement of the dc conductivity, especially at low temperatures. The presented results clearly reveal the importance of decoupling effects and of the typical glass-forming properties of these systems for the technically relevant room-temperature conductivity.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2104.14604v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0055493/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2104.14604v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:14.441707+00:00",
+  "updated_at": "",
+  "extra": {}
+}

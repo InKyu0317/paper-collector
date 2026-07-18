@@ -1,0 +1,151 @@
+{
+  "paper_id": "arxiv_2502.20903v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Stabilization of interfaces for double-cation halide perovskites with AVA2FAPb2I7 additives",
+  "authors": [
+    {
+      "name": "Lev O. Luchnikov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ekaterina A. Ilicheva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Victor A. Voronov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Prokhor A. Alekseev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mikhail S. Dunaevskiy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladislav Kalinichenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladimir Ivanov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandra Furasova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daria A. Krupanova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ekaterina V. Tekshina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergey A. Kozyukhin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dmitry S. Muratov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria I. Voronova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Danila S. Saranin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eugene I. Terukov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2502.20903v1",
+  "published": "2025-02-28T10:01:02+00:00",
+  "abstract": "The use of mixed cation absorber composition was considered as an efficient strategy to mitigate the degradation effects in halide perovskite solar cells. Despite the reports about partial stabilization at elevated temperatures, unfavorable phase transition after thermocycling and electric field-driven corrosion remains critical bottlenecks of perovskite thin-films semiconductors. In this work, we developed stabilized heterostructures based on CsFAPbI3, modified with mechanically synthesized quasi-2D perovskite incorporating the 5-ammonium valeric acid cation (AVA2FAPb2I7). We found that integration of AVA2FAPb2I7 into grain boundaries boosts phase resilience under harsh thermocycling from -10 up to 100 C and suppresses transitions, as well as decomposition to PbI2. The rapid oxidation of metal contacts in the multi-layer stacks with non-passivated CsFAPbI3 was effectively suppressed in the fabricated heterostructure. A comprehensive interface study of the copper electrode contact revealed that the incorporation of AVA2FAPb2I7 stabilized the lead and iodine states and suppressed contamination of FA cation in ambient conditions. Meanwhile, the metal-perovskite interface remained predominantly in the Cu(0)-Cu(I) state. The observed stabilization in perovskite heterostructure was attributed to an increased activation energy for delta-phase accumulation at the grain boundaries combined with reduced ionic diffusion. The obtained results opened important highlights for the mechanisms of the improved phase stability after thermal cycling and mitigation of the interface corrosion and under an applied electric field.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2502.20903v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2502.20903v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2502.20903v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-18T03:08:20.907175+00:00",
+  "updated_at": "",
+  "extra": {}
+}
