@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1002_pssb.202100359",
+  "collection": "halide-solid-state-battery",
+  "title": "Formation of lead halide perovskite precursors in solution: Insight from electronic-structure theory",
+  "authors": [
+    {
+      "name": "Richard Schier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Conesa Rodriguez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ana M. Valencia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Caterina Cocchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/pssb.202100359",
+  "url": "http://arxiv.org/abs/2107.04307v2",
+  "published": "2021-07-09T08:39:49+00:00",
+  "abstract": "Understanding the formation of lead halide (LH) perovskite solution precursors is crucial to gain insight into the evolution of these materials to thin films for solar cells. Using density-functional theory in conjunction with the polarizable continuum model, we investigate 18 complexes with chemical formula PbX$_2$M$_4$, where X = Cl, Br, I and M are common solvent molecules. Through the analysis of structural properties, binding energies, and charge distributions, we clarify the role of halogen species and solvent molecules in the formation of LH perovskite precursors. We find that interatomic distances are critically affected by the halogen species, while the energetic stability is driven by the solvent coordination to the backbones. Regardless of the solvent, lead iodide complexes are more strongly bound than the others. Based on the charge distribution analysis, we find that all solvent molecules bind covalently with the LH backbones and that Pb-I and Pb-Br bonds lose ionicity in solution. Our results contribute to clarify the physical properties of LH perovskite solution precursors and offer a valuable starting point for further investigations on their crystalline intermediates.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.04307v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_pssb.202100359/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.04307v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:23.649374+00:00",
+  "updated_at": "",
+  "extra": {}
+}

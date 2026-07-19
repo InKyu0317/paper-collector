@@ -1,0 +1,103 @@
+{
+  "paper_id": "doi_10.1103_physrevb.108.144104",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of ferroelastic domain walls on thermal conductivity",
+  "authors": [
+    {
+      "name": "P. Limelette",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "M. El Kamily",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "H. Aramberri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg"
+    },
+    {
+      "name": "F. Giovannelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "M. Royo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus UAB, Bellaterra, Spain"
+    },
+    {
+      "name": "R. Rurali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institut de Ciència de Materials de Barcelona, ICMAB-CSIC, Campus UAB, Bellaterra, Spain"
+    },
+    {
+      "name": "I. Monot-Laffez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    },
+    {
+      "name": "J. Íñiguez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Materials Research and Technology Department, Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg, Department of Physics and Materials Science, University of Luxembourg, Belvaux, Luxembourg"
+    },
+    {
+      "name": "G. F. Nataf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN UMR7347, CNRS, University of Tours, INSA Centre Val de Loire, Tours, France"
+    }
+  ],
+  "doi": "10.1103/PhysRevB.108.144104",
+  "url": "http://arxiv.org/abs/2310.13305v1",
+  "published": "2023-10-20T06:38:45+00:00",
+  "abstract": "Enabling on-demand control of heat flow is key for the development of next-generation electronic devices, solid-state heat pumps, and thermal logic. However, precise and agile tuning of the relevant microscopic material parameters for adjusting thermal conductivities remains elusive. Here, we study several single crystals of lanthanum aluminate (LaAlO$_{3}$) with different domain structures and show that ferroelastic domain walls behave as boundaries that act like efficient controllers to govern thermal conductivity. At low temperature (3 K), we demonstrate a fivefold reduction in thermal conductivity induced by domain walls orthogonal to the heat flow and a twofold reduction when they are parallel to the heat flow. Atomistic calculations fully support this experimental observation. By breaking down phonon scattering mechanisms, we also analyze the temperature dependence of the thermal conductivity to derive a quantitative relation between thermal conductivity variations and domain wall organization and density.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.13305v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.108.144104/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.13305v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:36.974795+00:00",
+  "updated_at": "",
+  "extra": {}
+}

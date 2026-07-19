@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2307.02870v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Morphology-Dependent Influences on the Performance of Battery Cells with a Hierarchically Structured Positive Electrode",
+  "authors": [
+    {
+      "name": "Johanna Naumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicole Bohn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oleg Birkholz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthias Neumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marcus Müller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joachim R. Binder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marc Kamlah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.02870v1",
+  "published": "2023-07-06T09:14:33+00:00",
+  "abstract": "The rising demand for high-performing batteries requires new technological concepts. To facilitate fast charge and discharge, hierarchically structured electrodes offer short diffusion paths in the active material. However, there are still gaps in understanding the influences on the cell performance of such electrodes. Here, we employed a cell model to demonstrate that the morphology of the hierarchically structured electrode determines which electrochemical processes dictate the cell performance. The potentially limiting processes include electronic conductivity within the porous secondary particles, solid diffusion within the primary particles, and ionic transport in the electrolyte surrounding the secondary particles. Our insights enable a goal-oriented tailoring of hierarchically structured electrodes for high-power applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.02870v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.02870v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.02870v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:40.113078+00:00",
+  "updated_at": "",
+  "extra": {}
+}

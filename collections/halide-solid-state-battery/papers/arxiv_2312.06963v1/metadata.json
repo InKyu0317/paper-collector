@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2312.06963v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhanced ionic conductivity through crystallization of glass-Li$_3$PS$_4$ by machine learning molecular dynamics simulations",
+  "authors": [
+    {
+      "name": "Koji Shimizu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Parth Bahuguna",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shigeo Mori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akitoshi Hayashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Satoshi Watanabe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2312.06963v1",
+  "published": "2023-12-12T03:48:57+00:00",
+  "abstract": "Understanding the atomistic mechanism of ion conduction in solid electrolytes is critical for the advancement of all-solid-state batteries. Glass-ceramics, which undergo crystallization from a glass state, frequently exhibit unique properties including enhanced ionic conductivities compared to both the original crystalline and glass forms. Despite these distinctive features, specific details regarding the behavior of ion conduction in glass-ceramics, particularly concerning conduction pathways, remain elusive. In this study, we demonstrate the crystallization process of glass-Li$_3$PS$_4$ through molecular dynamics simulations employing machine learning interatomic potentials constructed from first principles calculation data. Our analyses of Li conduction using the obtained partially crystallized structures reveal that the diffusion barriers of Li decrease as the crystallinity in Li$_3$PS$_4$ glass-ceramics increases. Furthermore, Li displacements predominantly occur in the precipitated crystalline portion, suggesting that percolation conduction plays a significant role in enhanced Li conduction. These findings provide valuable insights for the future utilization of glass-ceramic materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2312.06963v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2312.06963v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2312.06963v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:27.820247+00:00",
+  "updated_at": "",
+  "extra": {}
+}

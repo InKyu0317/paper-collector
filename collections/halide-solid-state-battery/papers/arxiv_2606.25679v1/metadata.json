@@ -1,0 +1,121 @@
+{
+  "paper_id": "arxiv_2606.25679v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Rate Programmable Ionic-Redox Switching with Tunable Volatility in CuCrP2S6",
+  "authors": [
+    {
+      "name": "Suzanne Lancaster",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Francesco Calavalle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mayank Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lucia Olano-Vegas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Garen Avedissian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tanweer Ahmed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marco Gobbi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Beatriz Martin-Garcia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Beatrice Fraboni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Casanova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis E. Hueso",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2606.25679v1",
+  "published": "2026-06-24T10:46:36+00:00",
+  "abstract": "Metal thiophosphates are emerging as a multifunctional material platform for neuromorphic electronics due to their accessible polar phases and ion dynamics on biologically relevant timescales. While resistive switching in these materials is frequently attributed to ferroelectric or antiferroelectric polarization, the intrinsic role of ion dynamics remains underexplored. Here, we isolate and demonstrate purely ion-driven resistive switching in paraelectric CuCrP2S6. Robust and reproducible resistive switching is observed in the absence of measurable ferroelectricity. The conductance can be tuned through both voltage amplitude and sweep rate, revealing a rate dependence characteristic of ion dynamics. The resulting resistance states exhibit controllable volatility, where switching rate determines the decay time constant of the readout current, attributed to ionic relaxation. Using either inert or reactive electrodes, we observe electrical evidence of solid-state redox activity associated with the interfacial reduction of native Cu+ ions, enabling controlled formation of filamentary conduction pathways. Analysis of this process allows extraction of the Cu+ diffusion coefficient, providing quantitative insight into the underlying transport kinetics. The understanding of ionic-redox based resistive switching in CuCrP2S6 is crucial for unleashing its full potential as a material platform for dual- or multi-mode operation.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2606.25679v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2606.25679v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2606.25679v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:30.888500+00:00",
+  "updated_at": "",
+  "extra": {}
+}

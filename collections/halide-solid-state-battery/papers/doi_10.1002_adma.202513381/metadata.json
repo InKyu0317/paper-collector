@@ -1,0 +1,111 @@
+{
+  "paper_id": "doi_10.1002_adma.202513381",
+  "collection": "halide-solid-state-battery",
+  "title": "Incipient ionic conductors: Ion-constrained lattices achieving superionic-like thermal conductivity by extreme anharmonicity",
+  "authors": [
+    {
+      "name": "Yongheng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chunqiu Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bin Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cong Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xingang Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daisuke Ishikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Taishun Manjo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Caofeng Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alfred Q. R. Baron",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiawang Hong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/adma.202513381",
+  "url": "http://arxiv.org/abs/2507.03358v2",
+  "published": "2025-07-04T07:45:59+00:00",
+  "abstract": "Phonon liquid-like thermal conduction in the solid state enables superionic conductors to serve as efficient thermoelectric device candidates. While liquid-like motion of ions effectively suppresses thermal conductivity (κ), their high mobility concurrently triggers material degradation due to undesirable ion migration and consequent metal deposition, making it still a challenge to balancing low κand high stability. Here, we report a superionic-like thermal transport alongside restricted long-range ion migration in CsCu_2I_3 with incipient ionic conduction, using synchrotron X-ray diffraction, inelastic X-ray scattering, and machine-learning potential-based simulations. We reveal that the Cu ions exhibit confined migration between CuI_4 tetrahedra at high temperatures, displaying extreme anharmonicity of dominated phonons beyond conventional rattling and comparable to that in superionic conductorsl. Consequently, a glass-like κ(~0.3 W m^{-1} K^{-1} at 300 K) following the relationship of κ~ T^{0.17}, was achieved along the x-direction, where Cu ion migration is three oders of magnitude lower than in superionic conductors. These results highlight the advantage of incipient ionic conductors in simultaneously maintaining both low κand high stability, elucidate the thermal transport mechanism via ion migration constraints, and pave an effective pathway toward ultralow thermal conductivity in ionic conductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.03358v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adma.202513381/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.03358v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-19T03:05:33.946602+00:00",
+  "updated_at": "",
+  "extra": {}
+}
