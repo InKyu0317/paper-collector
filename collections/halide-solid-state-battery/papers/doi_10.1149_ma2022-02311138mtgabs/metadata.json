@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2022-02311138mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) ALD Coatings for Li-Ion Battery and All-Solid-State Battery Applications",
+  "authors": [
+    {
+      "name": "David Kitsche",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7001-1256",
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandr Kondrakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1465-2854",
+      "affiliation": ""
+    },
+    {
+      "name": "Jürgen Janek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9221-4756",
+      "affiliation": ""
+    },
+    {
+      "name": "Torsten Brezesinski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4336-263X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-02311138mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-02311138mtgabs",
+  "published": "2022-10-9",
+  "abstract": "<jats:p>  \tLithium-ion batteries (LIBs) are essential for modern life, and their improvement is crucial for the more widespread adoption of electric vehicles.<jats:sup>[1]</jats:sup> Layered lithium transition metal oxides, such as LiNi<jats:sub>x</jats:sub>Co<jats:sub>y</jats:sub>Mn<jats:sub>z</jats:sub>O<jats:sub>2</jats:sub> (often referred to as NCM or NMC), are among the most widely used cathode active materials (CAMs) for automotive applications, owing to their technological maturity and high energy density. However, they typically require a surface coating for stabilizing interfaces, both in liquid-electrolyte based LIBs and in solid-state battery (SSB) environments. For the preparation of protective CAM coatings, atomic layer deposition (ALD) stands out with its ability to produce conformal films on complex substrates.</jats:p>\n               <jats:p>This presentation encompasses several examples of successful improvements in cycling performance of Ni-rich NCM CAMs in LIBs and SSBs by ALD of binary oxides. The low-temperature deposition of Al<jats:sub>x</jats:sub>O<jats:sub>y</jats:sub> onto ready-to-use cathode sheets will be discussed.<jats:sup>[2]</jats:sup> ALD or ALD-related surface protection enables increased stability by suppressing detrimental surface corrosion and metal leaching (side reactions) in LIBs.<jats:sup>[2,3]</jats:sup> Moreover, we report about the application of ALD coatings to Ni-rich NCM CAMs in SSBs with lithium thiophosphate solid electrolytes. Specifically, the effect that both HfO<jats:sub>2</jats:sub> and ZrO<jats:sub>2</jats:sub> have on the cell cyclability will be shown, with emphasis placed on the role of post annealing.<jats:sup>[4]</jats:sup>\n               </jats:p>\n               <jats:p>[1] Goodenough et al. J. Am. Chem. Soc. 2013, 135, 1167.</jats:p>\n               <jats:p>[2] Neudeck et al. Sci. Rep. 2019, 9, 5328.</jats:p>\n               <jats:p>[3] Neudeck et al. Chem. Commun. 2019, 55, 2174.</jats:p>\n               <jats:p>[4] Kitsche et al. ACS Appl. Energy Mater. 2021, 4, 7338.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-02311138mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-02311138mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-02311138mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:28.072805+00:00",
+  "updated_at": "",
+  "extra": {}
+}

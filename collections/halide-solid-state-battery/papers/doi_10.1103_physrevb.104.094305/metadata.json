@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1103_physrevb.104.094305",
+  "collection": "halide-solid-state-battery",
+  "title": "Microscopic dynamics of lithium diffusion in single crystal of the solid-state electrolyte La$_{2/3-x}$Li$_{3x}$TiO$_{3}$ ($x=0.13$) studied by quasielastic neutron scattering",
+  "authors": [
+    {
+      "name": "Masato Matsuura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yasuyuki Fujiwara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiroki Moriwake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Koji Ohara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yukinobu Kawakita",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.104.094305",
+  "url": "http://arxiv.org/abs/2109.14941v1",
+  "published": "2021-09-30T09:13:48+00:00",
+  "abstract": "Quasielastic neutron scattering (QENS) measurements combined with first principles based moleculardynamics calculations were conducted to study the dynamics of Li$^+$ ions in a solid-state electrolyte La$_{2/3-x}$Li$_{3x}$TiO$_{3}$ (LLTO) with $x=0.13$. By using a large $^7$Li-enriched single crystal sample, a QENS signal was clearly observed along the three principal axes [110], [111], and [001] at a temperature ($T$) of 600 K. Wave vector dependence of the linewidth of the QENS signal along each direction was explained well using the Chudley-Elliot model for jumps between the A sites of the perovskite lattice through the bottleneck square, which was also supported by molecular dynamics calculations. At $T=600$ K, the estimated self-diffusion coefficient of Li$^+$ ($D_{Li}$) in the $ab$ plane [$D^{ab}_{Li}=(6.8\\pm0.5)\\times 10^{-6}$ cm$^2$/s] was slightly larger than that along the $c$ axis [$D^{c}_{Li}=(4.4\\pm0.3)\\times 10^{-6}$ cm$^2$/s], suggesting quasi-isotropic diffusion, that is, the three-dimensional diffusion of Li$^+$ ions. The decrease in $D_{Li}$ with decreasing $T$ was reasonably explained by a thermal activation process with the activation energy determined from ionic-conductivity measurements. Furthermore, the estimated values of the self-diffusion coefficient of Li$^+$ ions are comparable to those in the sulfide-based Li$^+$ ion conductor, Li$_{7}$P$_{3}$S$_{11}$, although its ionic conductivity is 10 times larger than that for LLTO. The obtained microscopic information on Li$^+$ diffusion in LLTO clarifies how to understand the Li conduction mechanism in LLTO and Li$_{7}$P$_{3}$S$_{11}$ in a unified manner and can provide a way to increase the Li$^+$ ionic conductivity in oxide-based solid electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2109.14941v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.104.094305/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2109.14941v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:51:04.621261+00:00",
+  "updated_at": "",
+  "extra": {}
+}

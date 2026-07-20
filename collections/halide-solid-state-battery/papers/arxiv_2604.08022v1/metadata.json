@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2604.08022v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Tailoring the Optoelectronic, Photocatalytic, Thermoelectric and Thermodynamic Properties of Halides Li2InBiX6 (X = Cl, Br, I) for Energy Conversion: A DFT Study",
+  "authors": [
+    {
+      "name": "Huda A. Alburaih",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sikander Azam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "N. A. Noor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Laref",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sohail Mumtaz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.08022v1",
+  "published": "2026-04-09T09:21:17+00:00",
+  "abstract": "Double perovskite halides are emerging as promising materials for a wide range of applications, particularly in renewable energy technologies such as solar cell devices, thereby contributing to addressing global energy demands. In this work, the structural, electronic, optical, dielectric, thermoelectric, and photocatalytic properties of Li2InBiX6 (X = Cl, Br, I) halides are systematically investigated using density functional theory. The calculated formation energies confirm the thermodynamic stability of these compounds in the cubic phase. The studied materials exhibit semiconducting behavior with direct bandgaps of 1.7 eV, 1.3 eV, and 1.1 eV for Li2InBiCl6, Li2InBiBr6, and Li2InBiI6, respectively. The complex dielectric function is analyzed to explore their optical response, revealing strong absorption in the infrared and visible regions, indicating suitability for optoelectronic applications. Thermoelectric properties, including the Seebeck coefficient, electrical conductivity, and figure of merit (ZT), are evaluated over a temperature range of 30 to 800 K. The relatively small bandgaps contribute to enhanced thermoelectric performance, reflected in improved power factors. Furthermore, photocatalytic analysis indicates that Li2InBiX6 compounds are suitable candidates for water oxidation reactions within the pH range of 0 to 7. Overall, the combined thermoelectric and optical performance highlights these double perovskite halides as promising materials for future energy conversion applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.08022v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.08022v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.08022v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:35.234791+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1103_physrevb.103.134517",
+  "collection": "halide-solid-state-battery",
+  "title": "Chemical physics of superconductivity in layered yttrium carbide halides from first principles",
+  "authors": [
+    {
+      "name": "Ryosuke Akashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ryotaro Arita",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "K. Tanaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "J. S. Tse",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.103.134517",
+  "url": "http://arxiv.org/abs/2103.05312v1",
+  "published": "2021-03-09T09:30:04+00:00",
+  "abstract": "We perform a thorough first-principles study on superconductivity in yttrium carbide halide Y$_2$$X_2$C$_2$ ($X$=Cl, Br, I) whose maximum transition temperature ($T_{\\rm c}$) amounts to $\\sim$10 K. A detailed analysis on the optimized crystal structures reveals that the Y$_2$C$_2$ blocks are compressed uniaxially upon the halogen substitution from Cl, Br to I, contrary to the monotonic expansion of the lattice vectors. With a nonempirical method based on the density functional theory for superconductors within the conventional phonon mechanism, we successfully reproduce the halogen dependence of $T_{\\rm c}$. Anomalously enhanced coupling of one C$_2$ libration mode is observed in Y$_2$I$_2$C$_2$, which imply possible departure from the conventional pairing picture. Utilizing the Wannier representation of the electron-phonon coupling, we show that the halogen electronic orbitals and ionic vibrations scarcely contribute to the superconducting pairing. The halogen dependence of this system is hence an indirect effect of the halogen ions through the uniaxial compressive force on the superconducting Y$_2$C$_2$ blocks. We thus establish a quantitatively reliable picture of the superconducting physics of this system, extracting a unique effect of the atomic substitution which is potentially applicable to other superconductors.",
+  "keywords": [
+    "cond-mat.supr-con",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2103.05312v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.103.134517/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2103.05312v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:21.363342+00:00",
+  "updated_at": "",
+  "extra": {}
+}

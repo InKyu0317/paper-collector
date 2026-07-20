@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2511.10278v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Probing the Liquid Solid Interfaces of 2D SnSe MXene Battery Anodes at the Nanoscale",
+  "authors": [
+    {
+      "name": "Lukas Worch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kavin Arunasalam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Neil Mulcahy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Syeda Ramin Jannat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James Douglas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baptiste Gault",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Valeria Nicolosi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michele Shelly Conroy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.10278v1",
+  "published": "2025-11-13T13:05:57+00:00",
+  "abstract": "Understanding degradation processes in lithium ion batteries is essential for improving long term performance and advancing sustainable energy technologies. Tin selenide (SnSe) has emerged as a promising anode material due to the high theoretical capacity of tin. Unlike conventional intercalation based electrodes, SnSe undergoes conversion and alloying reactions with lithium to form Li4.4Sn, Sn, and Li2Se, enabling high lithium storage but inducing large volume changes that cause mechanical instability and capacity fading. Embedding SnSe nanoparticles within a Ti3C2Tx MXene framework offers a strategy to mitigate these effects by enhancing conductivity and structural resilience. Here, cryogenic focused ion beam (cryo FIB) slice and view revealed progressive material redistribution and morphological transformation during cycling, underscoring the need for site specific chemical analysis. Cryogenic atom probe tomography (cryo APT) of selected regions provided high spatial and chemical resolution while preserving beam sensitive phases, uncovering nanoscale degradation mechanisms including phase transformations, partial dissolution of active material, and, importantly, the first direct evidence of copper corrosion and copper ion migration from the current collector into the electrode. The observation of copper redistribution demonstrates that current collector degradation contributes directly to chemical contamination and capacity fading in composite electrodes. Together, cryo FIB and cryo APT provide a powerful workflow for elucidating electrode degradation in reactive, beam sensitive systems, offering critical insights for designing more durable and stable next generation battery materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.10278v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.10278v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.10278v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:45.281843+00:00",
+  "updated_at": "",
+  "extra": {}
+}

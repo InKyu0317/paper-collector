@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.15330_pcss.22.2.321-327",
+  "collection": "halide-solid-state-battery",
+  "title": "Optimized photoacoustic gas-microphone cell for semiconductor materials thermal conductivity monitoring",
+  "authors": [
+    {
+      "name": "P.O. Lishchuk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.15330/pcss.22.2.321-327",
+  "url": "https://doi.org/10.15330/pcss.22.2.321-327",
+  "published": null,
+  "abstract": "<jats:p>An approach for examination of semiconductor materials thermal conductivity based on the photoacoustical (PA) experimental results has been considered. Attention is drawn to the importance of PA cell design and normalization procedure that must be carried out in order to remove the parasitic signal caused by the PA cell effects as well as a contribution from the electronic components. The proposed technique makes it possible to quickly and reliably diagnose the thermal conductivity of various semiconductors materials for a better understanding of the heat transfer there for various technological applications. To test the methodology, thermal conductivity of monocrystalline silicon with different doping level was considered. The obtained dependence of thermal conductivity on the doping level is in a good agreement with well-known literature data. Thus, the results obtained in this work are important from a practical point of view.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15330/pcss.22.2.321-327",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.15330_pcss.22.2.321-327/paper.pdf",
+  "pdf_url": "https://journals.pnu.edu.ua/index.php/pcss/article/download/4792/5519",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Physics and Chemistry of Solid State",
+  "publisher": "",
+  "issn": "2309-8589",
+  "quartile": "",
+  "added_at": "2026-07-20T03:51:07.777948+00:00",
+  "updated_at": "",
+  "extra": {}
+}

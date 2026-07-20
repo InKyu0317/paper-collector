@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1007_s10008-024-05843-4",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid–electrolyte interphase formation during Li metal deposition in LiN(SO2F)2-based solvate ionic liquids",
+  "authors": [
+    {
+      "name": "Ryoichi Tatara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8148-5294",
+      "affiliation": ""
+    },
+    {
+      "name": "Kohei Ikeda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Kazuhide Ueno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4684-5717",
+      "affiliation": ""
+    },
+    {
+      "name": "Masayoshi Watanabe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4092-6150",
+      "affiliation": ""
+    },
+    {
+      "name": "Kaoru Dokko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9622-4345",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-024-05843-4",
+  "url": "https://doi.org/10.1007/s10008-024-05843-4",
+  "published": "2024-12",
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Solvate ionic liquids (SILs) are promising electrolytes for Li metal batteries. In this study, Li plating-stripping reactions in SILs were investigated using electrochemical quartz crystal microbalance measurements and X-ray photoelectron spectroscopy (XPS). SILs were prepared by mixing Li salt and glyme (triglyme or tetraglyme) in a 1:1 molar ratio. During the Li plating-stripping reaction, a reversible mass change was observed in LiN(SO<jats:sub>2</jats:sub>F)<jats:sub>2</jats:sub> (LiFSA) based SILs. In contrast, a considerably higher mass change than the theoretical value calculated from the Faraday current was observed in the LiN(SO<jats:sub>2</jats:sub>CF<jats:sub>3</jats:sub>)<jats:sub>2</jats:sub> (LiTFSA) based SILs, owing to the accumulation of decomposition products of electrolytes on the electrode surface. XPS depth profiling for the deposited Li suggested the formation of thin solid-electrolyte interphase (SEI) in the LiFSA-based SILs while considerably thicker SEI was formed in the LiTFSA-based SILs. The SEI formed in LiFSA-based SILs effectively suppressed the decomposition of electrolytes. Thus, LiFSA-based SILs are favorable for achieving highly reversible charge–discharge of Li electrodes in Li metal batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-024-05843-4",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-024-05843-4/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-024-05843-4.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:31.441461+00:00",
+  "updated_at": "",
+  "extra": {}
+}

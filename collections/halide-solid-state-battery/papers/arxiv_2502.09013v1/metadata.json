@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2502.09013v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploration of Zeolites as High-Performance Electrode Protective Layers for Alkali-Metal Batteries",
+  "authors": [
+    {
+      "name": "Lina Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guangfu Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2502.09013v1",
+  "published": "2025-02-13T07:01:36+00:00",
+  "abstract": "The electrode-electrolyte interfaces play pivotal roles in alkali-metal batteries, necessitating superior electrochemical stability, excellent electrical insulation, and high ionic conductivity. This study proposes using zeolites as interfacial protective layers owing to their inherently high stability with both alkali metals and high-voltage cathodes, as well as exceptionally wide bandgaps that minimize electron transport. To further pinpoint zeolites with rapid ionic diffusivity among their versatile structures, we devise a universal approach to explore diffusion dynamics in arbitrary structures. Through first-principles calculations, we identify the diffusion networks of Li+, Na+, and K+ in twenty-two, seventeen, and four zeolites, respectively. Eventually, we predict five, seven, and three zeolites as suitable interfacial protective layer for lithium-, sodium-, and potassium-metal batteries, respectively, each characterized by a diffusion barrier below 0.3 eV. This research automates the exploration of diffusion dynamics in complex materials and underscores the significant potential of zeolites as interfacial protective layers in alkali-metal batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2502.09013v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2502.09013v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2502.09013v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:17.369857+00:00",
+  "updated_at": "",
+  "extra": {}
+}

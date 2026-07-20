@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2501.09047v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Microsecond Bias Polarity Switching Reveals Hidden Charge Dynamics at Halide Perovskite Interfaces",
+  "authors": [
+    {
+      "name": "Marián Betušiak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Roman Grill",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eduard Belas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Petr Praus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mykola Brynza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mariselvam Karuppaiya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mahshid Ahmadi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jonghee Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Artem Musiienko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2501.09047v2",
+  "published": "2025-01-15T10:24:38+00:00",
+  "abstract": "We present a time-domain technique based on rapid bias polarity switching (BiPS) to probe charge transport and near-surface defects in halide perovskite single crystals. The method exploits interfacial extraction barriers, which cause carrier accumulation and subsequent release after bias reversal. BiPS combines surface sensitivity (200 nm-2 $μ$m) with millimeter-scale reach, enabling reconstruction of internal field profiles, detection of bulk space charge down to $10^9$ cm$^{-3}$, and resolution of microsecond-millisecond trap dynamics. In our setup the surface-state detection limit is $10^9$ cm$^{-2}$, and could be further improved by optimized illumination and readout. Applied to melt-grown CsPbBr$_3$ (Cr/Cr) and solution-grown MAPbBr$_3$ (Cr/SnO$_2$/Cr), BiPS reveals interfacial barriers that drive hole accumulation and defect filling. CsPbBr$_3$ shows long-lived space charge ($\\sim 3\\times 10^{11}$ cm$^{-3}$) and $\\sim 250\\times$ faster hole extraction than MAPbBr$_3$, while trap analysis yields capture times of 1-100 $μ$s, detrapping times of 20 $μ$s-3 ms, and activation energies of 300-500 meV. BiPS thus provides direct access to buried interfacial processes, disentangles electronic and ionic contributions, and offers a robust platform for evaluating contacts and guiding defect engineering in perovskite optoelectronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.09047v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2501.09047v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.09047v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-20T03:50:24.595296+00:00",
+  "updated_at": "",
+  "extra": {}
+}
