@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2409.01846v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Achieving ultra-high anisotropy in thermal conductivity of plastic crystal through megapascal pressure of hot pressing",
+  "authors": [
+    {
+      "name": "Zhipeng Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mingzhi Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yangjun Qin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guangzu Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nuo Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2409.01846v1",
+  "published": "2024-09-03T12:47:56+00:00",
+  "abstract": "Plastic crystals, owing to their exceptional properties, are gradually finding applications in solid-state refrigeration and ferroelectric fields. However, their inherently low thermal conductivity restricts their utilization in electronic devices. This study demonstrates that applying megapascal pressure of hot pressing can enhance the thermal conductivity of plastic crystal films. Most importantly, it induces significant anisotropy in thermal conductivity. Such anisotropy in thermal conductivity is beneficial for specialized thermal management applications, such as directing heat flow paths in electronic devices. In this study, [(CH3)4N][FeCl4] PCs films were prepared by hot pressing. At a pressure of 16 MPa, the ratio of in-plane to cross-plane thermal conductivity in the film reaches a remarkable 5.5. This is attributed to the preferential orientation along the (002) crystal plane induced by uniaxial pressure, leading to the formation of a layered structure and the creation of a flat and dense film. Furthermore, according to molecular dynamics simulations, the thermal conductivity along the [100] and [010] directions (parallel to the (002) crystal plane) is higher than in other directions. Therefore, significant modulation of anisotropy in thermal conductivity is achieved in [(CH3)4N][FeCl4] films by applying uniaxial hot pressing pressure. This phenomenon has the potential to greatly broaden the application of plastic crystals in the field of flexible electronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.atom-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.01846v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2409.01846v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.01846v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:45.991637+00:00",
+  "updated_at": "",
+  "extra": {}
+}

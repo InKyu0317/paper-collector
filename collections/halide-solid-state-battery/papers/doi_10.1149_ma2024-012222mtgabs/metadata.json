@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2024-012222mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Development of High-Performance Cathodes for Inorganic Halide All-Solid-State Li-Ion Batteries",
+  "authors": [
+    {
+      "name": "Sixu Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7458-0296",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-012222mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-012222mtgabs",
+  "published": "2024-8-9",
+  "abstract": "<jats:p>  \tElectric vehicles (EVs), representing the future of transportation, are predicted to be one of the ultimate solutions to eliminate greenhouse gas emissions. Li-ion batteries (LIBs), as the most promising sustainable energy devices, are critical for the development of EVs because of their higher operating voltages compared to other energy storage technologies. However, the development of conventional LIBs touched the ceiling because of three main challenges. (1) The use of flammable and toxic liquid electrolytes brings high safety risks. (2) The limited energy density of LIBs cannot satisfy the requirement for long-range EVs. (3) The increasing market demand for LIBs will cause resource shortage and rise of cost.[1] Accordingly, all-solid-state Li-ion batteries (ASSLIBs) have recently emerged as promising alternative batteries for next-generation EVs because of their ability to overcome the drawbacks of conventional LIBs. Among the developed solid-state electrolytes (SSEs), inorganic SSEs (e.g., sulfide SSEs, halide SSEs) have high Li<jats:sup>+</jats:sup> conductivity at 10<jats:sup>-3</jats:sup> S cm<jats:sup>-1</jats:sup> and improved interfacial stability, demonstrating stable cycling performance in ASSLIBs.[2] However, inorganic ASSLIBs still face some key challenges hindering their application in EVs. For example, the rate capability of inorganic ASSLIBs still falls far below the requirements of fast-charging EVs (full-charged in 15 min). In addition to the effect of Li<jats:sup>+</jats:sup> conductivity in SSEs, Li<jats:sup>+</jats:sup>/e<jats:sup>-</jats:sup> transfer kinetics at the cathode interface and in cathode materials are also critically important for the high-rate capability of inorganic ASSLIBs. In this talk, I will first review our previous studies on cathode interface in inorganic ASSLIBs.[3-7] After that, I will introduce our most recent research on unveiling the kinetic limitation of cathode interfaces in inorganic ASSLIBs by synchrotron-based spectromicroscopy. Our research suggests that poor Li<jats:sup>+</jats:sup>/e<jats:sup>-</jats:sup> transfer kinetics at the cathode/SSE interface and in the cathode bulk structure are the key limitation for the low capacity of inorganic ASSLIBs under high-rate charge-discharge cycles.</jats:p>\n               <jats:p>References</jats:p>\n               <jats:p>[1] H. Li, Joule, 3 (2019) 911-914.</jats:p>\n               <jats:p>[2] S. Randau, D.A. Weber, O. Kötz, R. Koerver, P. Braun, A. Weber, E. Ivers-Tiffée, T. Adermann, J. Kulisch, W.G. Zeier, Nature Energy, 5 (2020) 259-270.</jats:p>\n               <jats:p>[3] S. Deng, X. Li, Z. Ren, W. Li, J. Luo, J. Liang, J. Liang, M.N. Banis, M. Li, Y. Zhao, Energy Storage Materials, 27 (2020) 117-123.</jats:p>\n               <jats:p>[4] S. Deng, Y. Sun, X. Li, Z. Ren, J. Liang, K. Doyle-Davis, J. Liang, W. Li, M. Norouzi Banis, Q. Sun, ACS Energy Letters, 5 (2020) 1243-1251.</jats:p>\n               <jats:p>[5] S. Deng, Q. Sun, M. Li, K. Adair, C. Yu, J. Li, W. Li, J. Fu, X. Li, R. Li, Energy Storage Materials, 35 (2021) 661-668.</jats:p>\n               <jats:p>[6] S. Deng, M. Jiang, N. Chen, W. Li, M. Zheng, W. Chen, R. Li, H. Huang, J. Wang, C.V. Singh, Advanced Functional Materials, 32 (2022) 2205594.</jats:p>\n               <jats:p>[7] S. Deng, M. Jiang, A. Rao, X. Lin, K. Doyle‐Davis, J. Liang, C. Yu, R. Li, S. Zhao, L. Zhang, Advanced Functional Materials, 32 (2022) 2200767.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-012222mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-012222mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-012222mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:38.915669+00:00",
+  "updated_at": "",
+  "extra": {}
+}

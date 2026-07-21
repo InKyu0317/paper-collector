@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1039_d1ta09628a",
+  "collection": "halide-solid-state-battery",
+  "title": "Mixed ionic and electronic conducting binders containing PEDOT:PSS and organic ionic plastic crystals toward carbon-free solid-state battery cathodes",
+  "authors": [
+    {
+      "name": "Rafael del Olmo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "POLYMAT, University of the Basque Country UPV/EHU Joxe Mari Korta Center, Tolosa 72, Donostia-San Sebastián 200018, Spain"
+    },
+    {
+      "name": "Tiago C. Mendes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute for Frontier Materials (IFM), Deakin University, Burwood, Victoria 3125, Australia"
+    },
+    {
+      "name": "Maria Forsyth",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "POLYMAT, University of the Basque Country UPV/EHU Joxe Mari Korta Center, Tolosa 72, Donostia-San Sebastián 200018, Spain"
+    },
+    {
+      "name": "Nerea Casado",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0799-5111",
+      "affiliation": "POLYMAT, University of the Basque Country UPV/EHU Joxe Mari Korta Center, Tolosa 72, Donostia-San Sebastián 200018, Spain"
+    }
+  ],
+  "doi": "10.1039/d1ta09628a",
+  "url": "https://doi.org/10.1039/d1ta09628a",
+  "published": null,
+  "abstract": "<jats:p>\n                    PEDOT:PSS was combined with OIPCs (C\n                    <jats:sub>2</jats:sub>\n                    mpyrFSI and C\n                    <jats:sub>2</jats:sub>\n                    mpyrTFSI) which gave high ionic and electronic conductivities and when employed for the first time in a solid-state Li|LiFePO\n                    <jats:sub>4</jats:sub>\n                    cell as an OMIEC binder it showed an outstanding performance.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d1ta09628a",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d1ta09628a/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 61,
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "",
+  "issn": "2050-7488",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:19.371967+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,112 @@
+{
+  "paper_id": "arxiv_2208.03245v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Are Weakly Coordinating Anions Really the Holy Grail of Ternary Solid Polymer Electrolytes Plasticized by Ionic Liquids? Coordinating Anions to the Rescue of the Lithium Ion Mobility",
+  "authors": [
+    {
+      "name": "Jan-Philipp Hoffknecht",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alina Wettstein",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jaschar Atik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Krause",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johannes Thienenkamp",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gunther Brunklaus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Winter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Diddo Diddens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andreas Heuer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elie Paillard",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2208.03245v1",
+  "published": "2022-08-05T15:58:38+00:00",
+  "abstract": "Lithium salts with low coordinating anions like bis(trifluoromethanesulfonyl)imide (TFSI) have been the state-of-the-art for PEO-based 'dry' polymer electrolytes for three decades. Plasticizing PEO with TFSI-based ionic liquids (ILs) to form ternary solid polymer electrolytes (TSPEs) increases conductivity and Li$^+$ diffusivity. However, the Li$^+$ transport mechanism is unaffected compared to their 'dry' counterpart and essentially coupled to the dynamics of the polymer host matrix, which limits Li$^+$ transport improvement. Thus, a paradigm shift is hereby suggested: The utilization of more coordinating anions such as trifluoromethanesulfonyl-N-cyanoamide (TFSAM), able to compete with PEO for Li$^+$ solvation to accelerate the Li$^+$ transport and reach higher Li$^+$ transference number. The Li-TFSAM interaction in binary and ternary TFSAM-based electrolytes was probed by experimental methods and discussed in the context of recent computational results. In PEO-based TSPEs, TFSAM drastically accelerates the Li$^+$ transport (increased Li$^+$ transference number by 600$\\%$ and Li$^+$ conductivity by 200-300$\\%$) and computer simulations reveal that lithium dynamics are effectively re-coupled from polymer to anion dynamics. Finally, this concept of coordinating anions in TSPEs was successfully applied in LFP$||$Li metal cells leading to enhanced capacity retention (86$\\%$ after 300 cycles) and an improved rate performance at 2C.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2208.03245v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2208.03245v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2208.03245v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:15.136393+00:00",
+  "updated_at": "",
+  "extra": {}
+}

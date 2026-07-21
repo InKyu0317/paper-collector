@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2605.03673v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Beyond lead halide perovskites: visible light photovoltaics with phase engineered bismuth-based oxide double-perovskites, Bi2MCrO6 (M = Fe, Mn)",
+  "authors": [
+    {
+      "name": "N P Vikas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ranjit K Pradhan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Somdutta Mukherjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Udai P Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Biplab K Patra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ravi P Srivastava",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Amritendu Roy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2605.03673v1",
+  "published": "2026-05-05T12:11:55+00:00",
+  "abstract": "Lead poisoning and notorious ambient instability in lead-based halide perovskites pave the way for the exploration of alternative materials for affordable and efficient solar cell fabrication. An important prerequisite to this end is the optoelectronic evaluation of the proposed material. Here we report, optoelectronic characterization of Bi2FeCrO6 (BFCO) and Bi2MnCrO6 (BMCO) thin films vis-à-vis performance of photovoltaic cells. Solution-deposited thin films (350-450 nm) of the above compositions demonstrate a double-perovskite structure with monoclinic P21/c symmetry, albeit with mixed cation valences and deep-level defects. A thorough optoelectronic evaluation exhibits large optical absorption in the visible range (α ~ 104 -105 cm-1), and high carrier density, ~1017-20 cm-3. Ultraviolet photoelectron spectroscopy measurement allowed determination of the positions of the band-edges (valence band maximum and conduction band minimum), required for the selection of carrier transport layers. In its first, BMCO-based FTO/SnO2/BMCO/Spiro-OMeTAD/Ag solar cell produced a maximum 3.56% conversion efficiency. Using numerical simulation, we predict that with suitable defect control, the above conversion efficiency can increase significantly.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2605.03673v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2605.03673v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2605.03673v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:50.006147+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2506.14401v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A Spintronic Battery with Reversible Modulation of Spin Polarization through Li Charge/Discharge: A First Principles Computational Modelling Case Study for an Antiperovskite System",
+  "authors": [
+    {
+      "name": "Sk Mujaffer Hossain",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vinila Bedekara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Priyanka Yadavb",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ram Janay Chudhary",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Satishchandra Ogale",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2506.14401v1",
+  "published": "2025-06-17T11:02:41+00:00",
+  "abstract": "A key notion defining the progress of the emergent fields of modern electronics, renewable energy, and smart systems is charge storage, which is primarily embodied in various battery chemistries and systems. In addition to the charge property, the electron also has the spin property, which is exploited in the field of spintronics to access novel magnetically controlled device actions that are not accessible to conventional electronics. An interesting question is whether the two can be fruitfully integrated into a single device concept to expand the horizon of device design and applications. Herein, we present a combined experimental and theoretical study of virgin and lithiated conducting intermetallic anti-perovskite with nominal stoichiometry represented as LixFe3SnC (x = 1, 2, 3, 4) to establish the principle of reversible and concurrent charge and spin polarization storage that can be aptly christened as Iono-Spintronics, representing a notion of a spintronic battery. The experimental results, however, showed that lithiation turns the system into a biphasic state comprised of tin-lithium alloy (due to the high affinity of Sn for Li) along with lithiated Fe3C. The process exhibits multiple cyclability (rechargeability).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2506.14401v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2506.14401v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2506.14401v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:42.707352+00:00",
+  "updated_at": "",
+  "extra": {}
+}

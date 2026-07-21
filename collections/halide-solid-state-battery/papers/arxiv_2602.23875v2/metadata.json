@@ -1,0 +1,104 @@
+{
+  "paper_id": "arxiv_2602.23875v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermodynamic effects of solid electrolyte interphase formation from solvation and ionic association in water-in-salt electrolytes",
+  "authors": [
+    {
+      "name": "Daniel M. Markiewitz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael McEldrew",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Conor M. E. Phelan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qianlu Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jasper Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Robert S. Weatherup",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rosa M. Espinosa-Marzal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Z. Bazant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zachary A. H. Goodwin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.23875v2",
+  "published": "2026-02-27T10:17:29+00:00",
+  "abstract": "Water-in-Salt-Electrolytes (WiSEs) are a promising class of next-generation electrolytes. Unlike classical dilute electrolytes or more conventional battery electrolytes, WiSEs are characterised by their super-concentrated salt concentration with only a small amount of water, which gives rise to their expanded electrochemical stability window (ESW). The expansion of the ESW is, in part, due to the formation of an inorganic solid electrolyte interphase (SEI) that passivates the anode; this principle is also important in graphite and Li-metal anodes, and beyond Li-ion technologies. The solvation and ionic associations are key descriptors in understanding the expansion of the ESW. Specifically, as reactions which lead to the SEI (or cathode electrolyte interphase, CEI) must occur at the electrode-electrolyte interface, the distribution of reactants and their various solvation environments are critical. This distribution near the interface is referred to as the electrical double layer (EDL), in the absence of reactions. Here we further develop and analyse a recently proposed thermodynamic theory of hydration and ionic associations in the EDL of WiSEs. We parameterize this theory from bulk molecular dynamics simulations and benchmark it against EDL simulations, finding good qualitative agreement. Using this thermodynamic theory, we rationalise changes in the ESW through: changes in the activity in the bulk electrolyte through the Nernst equation, which directly changes the stability of the electrolytes; and thermodynamic changes to the kinetics of these reactions, from the Butler-Volmer equation and coupled ion electron transfer kinetics, through the concentration of reactant species in the Helmholtz layer.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.23875v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.23875v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.23875v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:11.314797+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,109 @@
+{
+  "paper_id": "doi_10.1007_s40820-025-01760-x",
+  "collection": "halide-solid-state-battery",
+  "title": "Indium-MOF as Multifunctional Promoter to Remove Ionic Conductivity and Electrochemical Stability Constraints on Fluoropolymer Electrolytes for All-Solid-State Lithium Metal Battery",
+  "authors": [
+    {
+      "name": "Xiong Xiong Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Long Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Haotian Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Cancan Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Mufan Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Min Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yuan Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zeyuan Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yaping Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "ZhengMing Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s40820-025-01760-x",
+  "url": "https://doi.org/10.1007/s40820-025-01760-x",
+  "published": "2025-12",
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Fluoropolymers promise all-solid-state lithium metal batteries (ASLMBs) but suffer from two critical challenges. The first is the trade-off between ionic conductivity (<jats:italic>σ</jats:italic>) and lithium anode reactions, closely related to high-content residual solvents. The second, usually consciously overlooked, is the fluoropolymer’s inherent instability against alkaline lithium anodes. Here, we propose indium-based metal–organic frameworks (In-MOFs) as a multifunctional promoter to simultaneously address these two challenges, using poly(vinylidene fluoride–hexafluoropropylene) (PVH) as the typical fluoropolymer. In-MOF plays a trio: (1) adsorbing and converting free residual solvents into bonded states to prevent their side reactions with lithium anodes while retaining their advantages on Li<jats:sup>+</jats:sup> transport; (2) forming inorganic-rich solid electrolyte interphase layers to prevent PVH from reacting with lithium anodes and promote uniform lithium deposition without dendrite growth; (3) reducing PVH crystallinity and promoting Li-salt dissociation. Therefore, the resulting PVH/In-MOF (PVH-IM) showcases excellent electrochemical stability against lithium anodes, delivering a 5550 h cycling at 0.2 mA cm<jats:sup>−2</jats:sup> with a remarkable cumulative lithium deposition capacity of 1110 mAh cm<jats:sup>−2</jats:sup>. It also exhibits an ultrahigh <jats:italic>σ</jats:italic> of 1.23 × 10<jats:sup>−3</jats:sup> S cm<jats:sup>−1</jats:sup> at 25 °C. Moreover, all-solid-state LiFePO<jats:sub>4</jats:sub>|PVH-IM|Li full cells show outstanding rate capability and cyclability (80.0% capacity retention after 280 cycles at 0.5C), demonstrating high potential for practical ASLMBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s40820-025-01760-x",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s40820-025-01760-x/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40820-025-01760-x.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 34,
+  "journal": "Nano-Micro Letters",
+  "publisher": "",
+  "issn": "2311-6706",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:37.882522+00:00",
+  "updated_at": "",
+  "extra": {}
+}

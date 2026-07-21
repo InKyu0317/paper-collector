@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1002_bte2.20240004",
+  "collection": "halide-solid-state-battery",
+  "title": "Lithium spreading layer consisting of nickel particles enables stable cycling of aluminum anode in all‐solid‐state battery",
+  "authors": [
+    {
+      "name": "Jingjing Chai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo People's Republic of China"
+    },
+    {
+      "name": "Libo Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo People's Republic of China"
+    },
+    {
+      "name": "Zhendong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1750-1050",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo People's Republic of China"
+    },
+    {
+      "name": "Zhe Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9675-6296",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo People's Republic of China"
+    },
+    {
+      "name": "Xiayin Yao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2224-4247",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences Ningbo People's Republic of China"
+    }
+  ],
+  "doi": "10.1002/bte2.20240004",
+  "url": "https://doi.org/10.1002/bte2.20240004",
+  "published": "2024-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Developing promising substitutes of lithium (Li) metal anode that suffers from a serious interfacial instability against the solid electrolyte (SE) is a formidable challenge for the all‐solid‐state battery. Aluminum (Al), a highly potential candidate owing to its high specific capacity and relatively low working potential, however, cannot withstand stable cycling in all‐solid‐state battery due to the fast structural collapse caused by the solid/solid contact at the Al/SE interface. Herein, a Li spreading layer consisting of metallic nickel (Ni) particles at the Al surface is proposed to raise the performance of Al anode in all‐solid‐state battery. Owing to the immiscibility between Ni and Li solid phases, this Li spreading layer can enable a uniform distribution of Li atoms over the electrode surface followed by a stable Li–Al alloying/dealloying processes, suppressing the stress deformation at the Al/SE interface and significantly improving the cycling performance of Al anode in all‐solid‐state battery. The modified Al anode not only outperforms the bare Al significantly, but also exhibits superior cyclability and rate ability compared with the Li anode. This work provides an efficient strategy to promote the application of Al anode in all‐solid‐state battery, and is expected to be generalized for other alloy anodes.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.20240004",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.20240004/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:50.006502+00:00",
+  "updated_at": "",
+  "extra": {}
+}

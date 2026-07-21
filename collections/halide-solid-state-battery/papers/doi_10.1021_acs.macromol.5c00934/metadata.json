@@ -1,0 +1,96 @@
+{
+  "paper_id": "doi_10.1021_acs.macromol.5c00934",
+  "collection": "halide-solid-state-battery",
+  "title": "IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films",
+  "authors": [
+    {
+      "name": "Joan Montes de Oca",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruilin Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gervasio Zaldivar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ge Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhongyang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shrayesh N. Patel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paul F. Nealey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan J. de Pablo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.macromol.5c00934",
+  "url": "http://arxiv.org/abs/2504.05179v1",
+  "published": "2025-04-07T15:26:53+00:00",
+  "abstract": "Anion exchange membranes (AEMs) are promising candidates for replacing proton exchange membranes (PEMs) in electrochemical devices such as fuel cells, electrolyzers, batteries, and osmotic energy extraction systems. However, optimizing the AEM design requires a deeper understanding of the ionic conduction mechanism in the hydrated polymer matrix. This study investigates this mechanism by seeking to understand the relationship between ion exchange capacity (IEC), water absorption, and ionic conductivity in polynorbornene-based thin films. We combine experimental measurements with computational simulations using a newly developed minimal model of the polymer film. Our model is able to reproduce key experimental observations, including water sorption isotherms and ion conduction behavior as a function of relative humidity, and successfully captures the relationship between them. By comparing experimental data with computational results, we explain the commonly reported correlation between conductivity and hydration level and show how the correlation between these variables is affected by the charge density and temperature of the material. Our research advances our understanding of the physical mechanisms that govern the performance of the polyelectrolyte membrane, which is essential for the development of more efficient, stable, and environmentally friendly electrochemical systems.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.05179v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.macromol.5c00934/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.05179v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-21T03:06:18.521801+00:00",
+  "updated_at": "",
+  "extra": {}
+}
