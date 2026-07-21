@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_ma14112959",
+  "collection": "aluminosilicate",
+  "title": "Insight into the Interaction between Water and Ion-Exchanged Aluminosilicate Glass by Nanoindentation",
+  "authors": [
+    {
+      "name": "Xiaoyu Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    },
+    {
+      "name": "Liangbao Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    },
+    {
+      "name": "Jiaxi Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    },
+    {
+      "name": "Minbo Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    },
+    {
+      "name": "Jiaming Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    },
+    {
+      "name": "Yue Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Transparent Materials, Beijing Institute of Aeronautical Materials, Beijing 100095, China"
+    }
+  ],
+  "doi": "10.3390/ma14112959",
+  "url": "https://doi.org/10.3390/ma14112959",
+  "published": null,
+  "abstract": "<jats:p>This work aims to explore the interaction between water and ion-exchanged aluminosilicate glass. The surface mechanical properties of ion-exchanged glasses after different hydration durations are investigated. The compressive stress and depth of stress layer are determined with a surface stress meter on the basis of photo-elasticity theory. The hardness and Young’s modulus are tested through nanoindentation. Infrared spectroscopy is used to determine the variation in surface structures of the glass samples. The results show that hydration has obvious effects on the hardness and Young’s modulus of the raw and ion-exchanged glasses. The hardness and Young’s modulus decrease to different extents after different hydration times, and the Young’s modulus shows some recovery with the prolonging of hydration time. The ion-exchanged glasses are more resistant to hydration. The tin side is more resistant to hydration than the air side. The results are expected to serve as reference for better understanding the hydration process of ion-exchanged glass.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma14112959",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma14112959/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-07-21T03:02:16.740465+00:00",
+  "updated_at": "",
+  "extra": {}
+}

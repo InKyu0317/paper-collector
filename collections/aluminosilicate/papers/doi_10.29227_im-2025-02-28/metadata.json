@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.29227_im-2025-02-28",
+  "collection": "aluminosilicate",
+  "title": "Transformation of Vietnamese Kaolin into Zeolite Y – Templated Mesoporous Aluminosilicate for Efficient Catalysis in Polyolefin – Hydrocarbon Co-Pyrolysis",
+  "authors": [
+    {
+      "name": "NGO Ha Son",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "NGUYEN Thi Linh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "CONG Ngoc Thang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "LE Van Duong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.29227/im-2025-02-28",
+  "url": "https://doi.org/10.29227/im-2025-02-28",
+  "published": null,
+  "abstract": "<jats:p>This study presents the first successful transformation of Vietnamese kaolin into a hierarchical mesostructured aluminosilicate catalyst, MAS(Y), via a sustainable two - step synthesis. Unlike conventional methods relying on high - purity chemicals, this appro ach employs thermally activated local kaolin and glass water to generate reactive aluminosilicate species, eliminating the need for petrochemical - derived precursors. The MAS(Y) material integrates ordered mesopores templated by CTABr with embedded zeolite Y domains, as confirmed by SAXS, TEM, and XRD analyses. It ex hibits a high specific surface area (971 m²/g), narrow pore size distribution (~3.2 nm), and thermal stability exceeding 900 °C. The NH₃ - TPD profile demonstrates the coexistence of weak (207.8 °C) and strong acid sites (447.0 °C, 510.4 °C), attributed to s urface silanol groups and framework Al³⁺ within zeolitic motifs. When applied in the catalytic co - pyrolysis of waste polypropylene (PP) with vacuum gas oil (VGO), MAS(Y) achieved liquid product yields exceeding 80%. Notably, the C₅ – C₁₂ and C₁₃ – C₁₈ hydrocar bon fractions peaked at PP/VGO ratios of 3:7 and 5:5, respectively. This work establishes a cost - effective and environmentally compatible pathway for upcycling abundant Vietnamese kaolin into high - performance acid catalysts, offering strong prospects for p lastic waste valorization and advanced refinery applications.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.29227/im-2025-02-28",
+  "pdf_path": "aluminosilicate/papers/doi_10.29227_im-2025-02-28/paper.pdf",
+  "pdf_url": "https://inz-min.online/index.php/im/article/download/1338/2534",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Inżynieria Mineralna",
+  "publisher": "",
+  "issn": "1640-4920",
+  "quartile": "",
+  "added_at": "2026-07-21T03:02:16.739598+00:00",
+  "updated_at": "",
+  "extra": {}
+}
