@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2507.05626v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Uncovering coupled ionic-polaronic dynamics and interfacial enhancement in Li$_x$FePO$_4$",
+  "authors": [
+    {
+      "name": "Fengyu Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuxiang Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruoyu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhicheng Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.05626v1",
+  "published": "2025-07-08T03:10:41+00:00",
+  "abstract": "Understanding and controlling coupled ionic-polaronic dynamics is crucial for optimizing electrochemical performance in battery materials. However, studying such coupled dynamics remains challenging due to the intricate interplay between Li-ion configurations, polaron charge ordering, and lattice vibrations. Here, we develop a fine-tuned machine-learned force field (MLFF) for Li$_x$FePO$_4$ that captures coupled ion-polaron behavior. Our simulations reveal picosecond-scale polaron flips occurring orders of magnitude faster than Li-ion migration, featuring strong correlation to Li configurations. Notably, polaron charge fluctuations are further enhanced at Li-rich/Li-poor phase boundaries, suggesting a potential interfacial electronic conduction mechanism. These results demonstrate the capability of fine-tuned MLFFs to resolve complex coupled transport and provide insight into emergent ionic-polaronic dynamics in multivalent battery cathodes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.05626v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.05626v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.05626v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:10.589346+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2309.06065v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Electronic structure and optoelectronic properties of halide double perovskites: Fundamental insights and design of a theoretical workflow",
+  "authors": [
+    {
+      "name": "Mayank Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Susmita Jana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "B. R. K. Nanda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2309.06065v1",
+  "published": "2023-09-12T09:05:14+00:00",
+  "abstract": "Like single perovskites, halide double perovskites (HDP) have truly emerged as efficient optoelectronic materials since they display superior stability and are free of toxicity. However, challenges still exist due to either wide and indirect bandgaps or parity-forbidden transitions in many of them. The lack of understanding in chemical bonding and the formation of parity-driven valence and conduction band edge states have hindered the design of optoelectronically efficient HDPs. In this study, we have developed a theoretical workflow using a multi-integrated approach involving ab-initio density functional theory (DFT) calculations, model Hamiltonian studies, and molecular orbital picture leading to momentum matrix element (MME) estimation. This workflow gives us detailed insight into chemical bonding and parity-driven optical transition between edge states. In the process, we have developed a band-projected molecular orbital picture (B-MOP) connecting free atomic orbital states obtained at the Hartree-Fock level and orbital-resolved DFT bands. From the B-MOP, we show that the nearest neighbor cation-anion interaction determines the position of atom-resolved band states, while the second neighbor cation-cation interactions determine the shape and width of band dispersion and, thereby, MME. The latter is critical to quantify the optical absorption coefficient. Considering both B-MOP and MME, we demonstrate a mechanism of tailoring bandgap and optical absorptions through chemical doping at the cation sites. Furthermore, the cause of bandgap bowing, a common occurrence in doped HDPs, is explained by ascribing it to chemical effect and structural distortion.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2309.06065v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2309.06065v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2309.06065v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:37.914839+00:00",
+  "updated_at": "",
+  "extra": {}
+}

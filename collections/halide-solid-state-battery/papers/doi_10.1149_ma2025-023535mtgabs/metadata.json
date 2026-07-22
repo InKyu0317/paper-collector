@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2025-023535mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Interlayer Design for Halide Electrolytes in All-Solid-State Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Zeyi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Chunsheng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-023535mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-023535mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    All-solid-state lithium-metal batteries (ASSLMBs) are promising for the electrification of transportation due to their high safety and high energy density. Lithium sulfide electrolytes are the most promising electrolytes due to their high ductility for processing and high ionic conductivity. However, the lithium sulfide electrolyte also suffers low anodic stability (&lt;2.1V) limiting it to pair high voltage cathode. Halide electrolytes are also ductile and have a high anodic stability of &gt;4.1V and high ionic conductivity. However, they suffer low cathodic stability and form an electronic conductive interphase with a critical current density (CCD) of almost zero. In this study, we synthesized Li\n                    <jats:sub>3</jats:sub>\n                    YbCl\n                    <jats:sub>6</jats:sub>\n                    and Li\n                    <jats:sub>3</jats:sub>\n                    LuCl\n                    <jats:sub>6</jats:sub>\n                    ,\n                    <jats:sub/>\n                    which are kinetically stable halide electrolytes (KSHE) that form an electrically insulating solid electrolyte interphase (SEI) with lithium metal. These KSHEs also exhibit a thermodynamic oxidation potential of 4.3 V. However, the SEI between the lithium anode and KSHE is composed of poorly ionic conductive LiCl, resulting in significantly high applied interphase overpotential (AIOP) and the formation of lithium dendrites. Based on critical overpotential criteria, we designed a PI\n                    <jats:sub>3</jats:sub>\n                    interlayer that transforms into Li\n                    <jats:sub>6</jats:sub>\n                    PI\n                    <jats:sub>3</jats:sub>\n                    upon contact with lithium. Li\n                    <jats:sub>6</jats:sub>\n                    PI\n                    <jats:sub>3</jats:sub>\n                    exhibits a high critical interphase overpotential (CIOP) of 114 mV, a high ionic conductivity of 6.2 × 10\n                    <jats:sup>-4</jats:sup>\n                    S cm\n                    <jats:sup>-1</jats:sup>\n                    , and a low electronic conductivity of 3.6 × 10\n                    <jats:sup>-9</jats:sup>\n                    S cm\n                    <jats:sup>-1</jats:sup>\n                    . These properties reduce the interface resistance of the Li/Li\n                    <jats:sub>3</jats:sub>\n                    YbCl\n                    <jats:sub>6</jats:sub>\n                    /Li cell from 833 Ω to 34 Ω. The incorporation of Li\n                    <jats:sub>6</jats:sub>\n                    PI\n                    <jats:sub>3</jats:sub>\n                    allows the Li//Li cell using unstable Li\n                    <jats:sub>3</jats:sub>\n                    LuCl\n                    <jats:sub>6</jats:sub>\n                    halide solid electrolytes to achieve a CCD of 1.0 mA cm\n                    <jats:sup>-2</jats:sup>\n                    and enable that with Li\n                    <jats:sub>3</jats:sub>\n                    YbCl\n                    <jats:sub>6</jats:sub>\n                    halide solid electrolytes to cycle stably for 200 hours without short-circuiting. The Li//LiCoO\n                    <jats:sub>2</jats:sub>\n                    full cells using a PI\n                    <jats:sub>3</jats:sub>\n                    -coated halide Li\n                    <jats:sub>3</jats:sub>\n                    LuCl\n                    <jats:sub>6</jats:sub>\n                    solid electrolyte provide a high specific capacity of 140.6 mAh g\n                    <jats:sup>-1</jats:sup>\n                    , and could stably cycle for 220 cycles with a capacity retention of 86.5% at a charge/discharge rate of 0.4C rate at 30\n                    <jats:sup>o</jats:sup>\n                    C. At 45\n                    <jats:sup>o</jats:sup>\n                    C, PI\n                    <jats:sub>3</jats:sub>\n                    -coated Li\n                    <jats:sub>3</jats:sub>\n                    LuCl\n                    <jats:sub>6</jats:sub>\n                    enables the Li//LiNi\n                    <jats:sub>0.8</jats:sub>\n                    Co\n                    <jats:sub>0.15</jats:sub>\n                    Al\n                    <jats:sub>0.05</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    cell with a loading of 1.3 mAh cm\n                    <jats:sup>−2</jats:sup>\n                    to deliver a high discharge-specific capacity of 200.8 mAh g\n                    <jats:sup>−1</jats:sup>\n                    in the third cycle and maintain a high discharge capacity of 170 mAh g\n                    <jats:sup>−1</jats:sup>\n                    after 75 cycles. The interlayer design for halide electrolytes provides opportunities to develop safe and high-energy ASSLMBs.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-023535mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-023535mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-023535mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:11.505701+00:00",
+  "updated_at": "",
+  "extra": {}
+}

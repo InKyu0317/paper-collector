@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1039_d5ta07245j",
+  "collection": "halide-solid-state-battery",
+  "title": "Accelerating solid-state battery design: predicting ionic conductivity with machine learning potentials",
+  "authors": [
+    {
+      "name": "Ailian Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    },
+    {
+      "name": "Xiaoyan Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0007-9084-9815",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    },
+    {
+      "name": "Panfeng Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    },
+    {
+      "name": "Jinzhe Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    },
+    {
+      "name": "Zhongwei Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    },
+    {
+      "name": "P. Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6318-1051",
+      "affiliation": "School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China"
+    }
+  ],
+  "doi": "10.1039/d5ta07245j",
+  "url": "https://doi.org/10.1039/d5ta07245j",
+  "published": null,
+  "abstract": "<jats:p>Achieving high ionic conductivity in solid-state electrolytes (SSEs) is critical for next-generation batteries, yet exploring the vast chemical space is hindered by the computational expense of first-principles methods.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d5ta07245j",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d5ta07245j/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "",
+  "issn": "2050-7488",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:45.028119+00:00",
+  "updated_at": "",
+  "extra": {}
+}

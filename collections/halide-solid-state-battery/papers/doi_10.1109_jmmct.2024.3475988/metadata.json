@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1109_jmmct.2024.3475988",
+  "collection": "halide-solid-state-battery",
+  "title": "Expediting Ionic Conductivity Prediction of Solid-State Battery Electrodes Using Machine Learning",
+  "authors": [
+    {
+      "name": "Mai Le",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0004-8211-9597",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA"
+    },
+    {
+      "name": "Alan Yao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Glenda Dawson High School, Pearland, TX, USA"
+    },
+    {
+      "name": "Amie Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Highland Park High School, Dallas, TX, USA"
+    },
+    {
+      "name": "Hieu Le",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2510-073X",
+      "affiliation": "Texas A&amp;M University, College Station, TX, USA"
+    },
+    {
+      "name": "Zhaoyang Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA"
+    },
+    {
+      "name": "Xuqing Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3243-1492",
+      "affiliation": "Department of Information Science Technology, University of Houston, Houston, TX, USA"
+    },
+    {
+      "name": "Lihong Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2308-1053",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA"
+    },
+    {
+      "name": "Jiefu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9940-7043",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Houston, Houston, TX, USA"
+    }
+  ],
+  "doi": "10.1109/jmmct.2024.3475988",
+  "url": "https://doi.org/10.1109/jmmct.2024.3475988",
+  "published": "2024",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/jmmct.2024.3475988",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_jmmct.2024.3475988/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+  "publisher": "",
+  "issn": "2379-8815",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:11.506391+00:00",
+  "updated_at": "",
+  "extra": {}
+}

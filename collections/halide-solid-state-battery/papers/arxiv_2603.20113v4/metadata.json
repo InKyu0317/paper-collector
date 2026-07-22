@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2603.20113v4",
+  "collection": "halide-solid-state-battery",
+  "title": "An Analytical Model of Critical and Subcritical Alkali Metal Dendrite Growth in Ceramic Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Ansgar Lowack",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.20113v4",
+  "published": "2026-03-20T16:37:08+00:00",
+  "abstract": "In solid-state batteries, ceramic solid electrolytes are penetrated by dendrites when plating above a critical current density $J_\\mathrm{crit}$. A dendrite will propagate by metal deposition at a pre-existing dendrite tip if the mechanical energy required to crack the ceramic open is less than the electrical energy (Joule heating) wasted by forcing the current to detour around the dendrite to the flat electrode surface. Based on this principle of minimal power dissipation, a dependence of $J_\\mathrm{crit}\\propto c_\\mathrm{max}^{3/2}$ is derived. $c_\\mathrm{max}$ is the length of the longest preexisting, sufficiently thin interfacial defect. Furthermore, the theory is expanded to include electrochemical stress-corrosion-cracking at dendrite tips due to residual electron conduction of the solid electrolyte. The resulting subcritical dendrite growth follows the same defect dependence. Consequentially, scattering of dendrite growth between samples must follow a Weibull-distribution, similar to the tensile strength of ceramic components but at smaller Weibull-modulus.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.20113v4",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.20113v4/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.20113v4",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:41.015246+00:00",
+  "updated_at": "",
+  "extra": {}
+}

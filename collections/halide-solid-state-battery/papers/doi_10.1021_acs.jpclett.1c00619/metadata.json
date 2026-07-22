@@ -1,0 +1,144 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.1c00619",
+  "collection": "halide-solid-state-battery",
+  "title": "Limits to Electrical Mobility in Lead-Halide Perovskite Semiconductors",
+  "authors": [
+    {
+      "name": "Chelsea Q. Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiali Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Samuel Poncé",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jay B. Patel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Adam D. Wright",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Timothy W. Crothers",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mathias Uller Rothmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juliane Borchert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rebecca L. Milot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hans Kraus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qianqian Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feliciano Giustino",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laura M. Herz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael B. Johnston",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.1c00619",
+  "url": "http://arxiv.org/abs/2109.05055v1",
+  "published": "2021-09-10T18:34:40+00:00",
+  "abstract": "Semiconducting polycrystalline thin films are cheap to produce and can be deposited on flexible substrates, yet high-performance electronic devices usually utilize single-crystal semiconductors, owing to their superior electrical mobilities and longer diffusion lengths. Here we show that the electrical performance of polycrystalline films of metal-halide perovskites (MHPs) approaches that of single crystals at room temperature. Combining temperature-dependent terahertz conductivity measurements and ab initio calculations we uncover a complete picture of the origins of charge scattering in single crystals and polycrystalline films of CH$_3$NH$_3$PbI$_3$. We show that Fröhlich scattering of charge carriers with multiple phonon modes is the dominant mechanism limiting mobility, with grain-boundary scattering further reducing mobility in polycrystalline films. We reconcile the large discrepancy in charge diffusion lengths between single crystals and films by considering photon reabsorption. Thus, polycrystalline films of MHPs offer great promise for devices beyond solar cells, including transistors and modulators.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2109.05055v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.1c00619/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2109.05055v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:45.027593+00:00",
+  "updated_at": "",
+  "extra": {}
+}

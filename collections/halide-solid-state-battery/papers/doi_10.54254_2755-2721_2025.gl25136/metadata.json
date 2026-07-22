@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.54254_2755-2721_2025.gl25136",
+  "collection": "halide-solid-state-battery",
+  "title": "Advances and Challenges in Solid-State Battery Technology",
+  "authors": [
+    {
+      "name": "Mobei Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Electrical and Control Engineering,North China University of Technology, Beijing, China, 100144"
+    }
+  ],
+  "doi": "10.54254/2755-2721/2025.gl25136",
+  "url": "https://doi.org/10.54254/2755-2721/2025.gl25136",
+  "published": null,
+  "abstract": "<jats:p>Solid-state battery (SSB) technology has emerged as a promising solution to the safety and energy density limitations of conventional lithium-ion batteries. This review provides a comprehensive overview of recent advances in SSBs, focusing on the development of solid electrolytes, interface engineering strategies, dendrite suppression mechanisms, and scalable manufacturing approaches. In particular, sulfide-based and oxide-based electrolytes are examined for their high ionic conductivity, electrochemical stability, and compatibility with high-energy-density electrode materials. Furthermore, the paper highlights critical challenges such as lithium dendrite formation, interfacial degradation, limited ionic mobility at room temperature, and high production costs. Strategies to mitigate these issues, including surface coatings, composite electrolyte design, and novel fabrication methods, are discussed in detail. The future direction of SSB development is expected to revolve around the discovery of novel solid-state materials with enhanced performance, advanced interfacial modification techniques, and industrial-scale manufacturing innovations. Ultimately, this review aims to provide researchers and industry stakeholders with an up-to-date and structured understanding of the current state, technical bottlenecks, and promising pathways for realizing commercial-grade solid-state batteries for electric vehicles, portable electronics, and grid-scale energy storage.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.54254/2755-2721/2025.gl25136",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.54254_2755-2721_2025.gl25136/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Applied and Computational Engineering",
+  "publisher": "",
+  "issn": "2755-2721",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:11.506965+00:00",
+  "updated_at": "",
+  "extra": {}
+}

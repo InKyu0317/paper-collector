@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1039_d4ta02426e",
+  "collection": "halide-solid-state-battery",
+  "title": "Fluoride Frameworks as Potential Calcium Battery Cathodes",
+  "authors": [
+    {
+      "name": "Dereje Bekele Tekliye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gopalakrishnan Sai Gautam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D4TA02426E",
+  "url": "http://arxiv.org/abs/2404.05820v1",
+  "published": "2024-04-08T18:58:36+00:00",
+  "abstract": "Calcium batteries (CBs) are potential next-generation energy storage devices, offering a promising alternative to lithium-ion batteries due to their theoretically high energy density, better safety, and lower costs associated with the natural abundance of calcium. However, the limited availability of positive electrode (cathode) materials has constrained the development of CBs so far. Given the similar ionic radii of Na$^+$ and Ca$^{2+}$, structures that are effective at reversibly intercalating Na$^+$ may be able to reversibly intercalate Ca$^{2+}$ as well. In this context, transition metal fluorides (TMFs) exhibiting weberite and perovskite structures that are known for intercalating Na$^+$ form an interesting set of possible CB cathode frameworks. Thus, we use first principles calculations to explore weberite and perovskite TMFs as CB cathodes, of compositions Ca\\textsubscript{x}M\\textsubscript{2}F\\textsubscript{7} and Ca\\textsubscrpt{x}MF\\textsubscript{3}, respectively, where M = Ti, V, Cr, Mn, Fe, Co, or Ni. We systematically evaluate key cathode properties, including ground state structure, average Ca-intercalation voltage, thermodynamic stability (at 0 K), theoretical capacity, and Ca$^{2+}$ migration barriers. Importantly, we identify Ca\\textsubscript{x}Cr\\textsubscript{2}F\\textsubscript{7} and Ca\\textsubscript{x}Mn\\textsubscript{2}F\\textsubscript{7} weberite frameworks as promising Ca-cathodes. Our study not only unveils potential CB cathodes but also paves the way for further advancement in TMF-based intercalation cathodes, diversifying the chemical space for next-generation energy storage systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.05820v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d4ta02426e/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.05820v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-22T03:06:04.679088+00:00",
+  "updated_at": "",
+  "extra": {}
+}
