@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1680_jmacr.24.00058",
+  "collection": "aluminosilicate",
+  "title": "Performance of alkali-activated aluminosilicate geopolymer mortar under exposure to acid, sulfate and high temperature",
+  "authors": [
+    {
+      "name": "Manali Rathee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "PhD student, Department of Civil Engineering, Indian Institute of Technology, Jammu, India (corresponding author: )"
+    },
+    {
+      "name": "Anurag Misra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Professor, Department of Civil Engineering, Indian Institute of Technology, Jammu, India"
+    }
+  ],
+  "doi": "10.1680/jmacr.24.00058",
+  "url": "https://doi.org/10.1680/jmacr.24.00058",
+  "published": "2025-2-1",
+  "abstract": "<jats:p> Alkali-activated aluminosilicate geopolymers have the potential to reduce the carbon dioxide footprint of the construction industry. Several materials combinations have been explored for the production of alkali-activated aluminosilicate mortars (AAAMs), but there remains a need to understand their resistance to chemical attack and elevated temperatures in order to ensure long-term durability. In this work, AAAMs were prepared using fly ash (FA) and ground granulated blast-furnace slag (GGBS) without heat curing. Compressive strength and mass changes were evaluated after chemical attack and high-temperature exposure (200–1000°C) and compared with those of Portland cement mortar (PCM). Compared with the PCM, the FA/GGBS-based AAAM showed better resistance to chemical attack and high-temperature exposure. After 180 days of acid exposure, the PCM showed a mass loss of 5.06% and a compressive strength loss of 85%; for the AAAM, these losses were 2.88% and 71%, respectively. Sulfate exposure led to a mass gain of 55.77% for PCM and 27.35% for AAAM, with compressive strength losses of 55.77% for PCM and 27.35% for AAAM. Exposure to 1000°C resulted in a compressive strength loss of 68% for PCM and 45% for AAAM. To substantiate the results, X-ray diffraction and Fourier transformation infrared spectroscopy were used to study changes in the bonding behaviour of calcium aluminosilicate hydrate and sodium aluminosilicate hydrate when exposed to chemical attack and elevated temperature. </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1680/jmacr.24.00058",
+  "pdf_path": "aluminosilicate/papers/doi_10.1680_jmacr.24.00058/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Magazine of Concrete Research",
+  "publisher": "",
+  "issn": "0024-9831",
+  "quartile": "",
+  "added_at": "2026-07-22T03:02:24.104576+00:00",
+  "updated_at": "",
+  "extra": {}
+}
