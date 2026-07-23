@@ -1,0 +1,133 @@
+{
+  "paper_id": "doi_10.1126_sciadv.abq6261",
+  "collection": "halide-solid-state-battery",
+  "title": "Tailoring electronic-ionic local environment for solid-state Li-O\n            <sub>2</sub>\n            battery by engineering crystal structure",
+  "authors": [
+    {
+      "name": "Xue Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5868-6429",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Yajie Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Qingsong Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Xueyan Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Hanwen An",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Nan Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Yifan Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Chuankai Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Hua Huo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Ying Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory of Functional Inorganic Material Chemistry, Ministry of Education, School of Chemistry and Materials Science, Heilongjiang University, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Yujin Tong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4084-7711",
+      "affiliation": "Faculty of Physics, Duisburg-Essen University, D-47057 Duisburg, Germany."
+    },
+    {
+      "name": "Fanpeng Kong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2711-6102",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    },
+    {
+      "name": "Jiajun Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3643-157X",
+      "affiliation": "MIIT Key Laboratory of Critical Materials Technology for New Energy Conversion and Storage, School of Chemistry and Chemical Engineering, Harbin Institute of Technology, Harbin 150001, P. R. China."
+    }
+  ],
+  "doi": "10.1126/sciadv.abq6261",
+  "url": "https://doi.org/10.1126/sciadv.abq6261",
+  "published": "2022-9-2",
+  "abstract": "<jats:p>\n            Solid-state Li-O\n            <jats:sub>2</jats:sub>\n            batteries (SSLOBs) have attracted considerable attention because of their high energy density and superior safety. However, their sluggish kinetics have severely impeded their practical application. Despite efforts to design highly efficient catalysts, efficient oxygen reaction evolution at gas-solid interfaces and fast transport pathways in solid-state electrodes remain challenging. Here, we develop a dual electronic-ionic microenvironment to substantially enhance oxygen electrolysis in solid-state batteries. By designing a lithium-decorative catalyst with an engineering crystal structure, the coordinatively unsaturated sites and high concentration of defects alleviate the limitations of electronic-ionic transport in solid interfaces and create a balanced gas-solid microenvironment for solid-state oxygen electrolysis. This strategy facilitates oxygen reduction reaction, mediates the transport of reaction species, and promotes the decomposition of the discharge products, contributing to a high specific capacity with a stable cycling life. Our work provides previously unknown insight into structure-property relationships in solid-state electrolysis for SSLOBs.\n          </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1126/sciadv.abq6261",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1126_sciadv.abq6261/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 49,
+  "journal": "Science Advances",
+  "publisher": "",
+  "issn": "2375-2548",
+  "quartile": "",
+  "added_at": "2026-07-23T03:04:27.105972+00:00",
+  "updated_at": "",
+  "extra": {}
+}
