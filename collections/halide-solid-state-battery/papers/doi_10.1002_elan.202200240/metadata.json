@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1002_elan.202200240",
+  "collection": "halide-solid-state-battery",
+  "title": "Design and Fabrication of PEO‐HPMC@Ht Composite Solid‐state Electrolytes in All‐solid‐state Lithium Battery",
+  "authors": [
+    {
+      "name": "Tao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    },
+    {
+      "name": "Xin Pei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    },
+    {
+      "name": "Zheng Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    },
+    {
+      "name": "Li‐ting Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    },
+    {
+      "name": "Yu Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    },
+    {
+      "name": "Gang He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9457-7959",
+      "affiliation": "Faculty of Materials Science and Chemistry China University of Geosciences  Wuhan 430074 China"
+    }
+  ],
+  "doi": "10.1002/elan.202200240",
+  "url": "https://doi.org/10.1002/elan.202200240",
+  "published": "2023-3",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>All‐solid electrolyte instead of frequently‐used inflammable electrolyte can enhance the security and energy density of batteries effectively. However, the low ionic conductivity lead to increased lithium dendrites and increased resistance of the cell at 30 °C. In this work, non‐toxic and low‐cost hydroxypropyl methylcellulose (HPMC) was introduced simultaneously with non‐polluting hectorite (Ht) into polyoxyethylene (PEO) to obtain novel composite solid‐state electrolytes (CSEs). The optimized CSEs has a high ionic conductivity (1.1×10<jats:sup>−3</jats:sup> S/cm) at 30 °C. This work demonstrates that the novel PEO‐HPMC@Ht CSEs are extremely promising.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/elan.202200240",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_elan.202200240/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/elan.202200240",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Electroanalysis",
+  "publisher": "",
+  "issn": "1040-0397",
+  "quartile": "",
+  "added_at": "2026-07-24T03:10:27.315136+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.65890_dmp.lnmr.impact26.118",
+  "collection": "halide-solid-state-battery",
+  "title": "EV Battery Technologies and Battery Management in India:  Evolution and the Way to a Solid-State Future",
+  "authors": [
+    {
+      "name": "Sandeep Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sunil Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Anshul Kumar Bharalia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.65890/dmp.lnmr.impact26.118",
+  "url": "https://doi.org/10.65890/dmp.lnmr.impact26.118",
+  "published": null,
+  "abstract": "<jats:p>The technological development of electric vehicle batteries has deeply influenced the course of sustainable mobility. LIBs have traditionally been the main energy source within the EV industry due to their favourable energy density, reliability, and manufacturing maturity. However, limitations such as thermal instability, resource dependency, and safety concerns have driven the development of SSBs. SSBs, which use solid electrolytes rather than liquid ones, offer better safety, longer lifespans, and higher energy densities. This review provides an overall analysis of EV battery evolution from LIBs to SSBs, highlighting the key factors for consideration: electrochemical characteristics, materials development, interface engineering, and control integration via advanced Battery Management Systems. Further, the paper discusses India's strategic role in the global transition to electric mobility, with an emphasis on national policies and industrial development, as well as localised research initiatives. Such a synthesis of global and Indian perspectives identifies how India can emerge as a major stakeholder in solid-state innovation through industrial localization, policy incentives, and research-driven manufacturing.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.65890/dmp.lnmr.impact26.118",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.65890_dmp.lnmr.impact26.118/paper.pdf",
+  "pdf_url": "https://digitalmanuscriptpedia.com/conferences/index.php/DMP-LNMR/article/download/118/116",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "DMPedia Lecture Notes in Multidisciplinary Research",
+  "publisher": "",
+  "issn": "3139-468X",
+  "quartile": "",
+  "added_at": "2026-07-24T03:12:01.339318+00:00",
+  "updated_at": "",
+  "extra": {}
+}

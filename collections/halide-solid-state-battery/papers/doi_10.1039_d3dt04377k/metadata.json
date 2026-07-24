@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1039_d3dt04377k",
+  "collection": "halide-solid-state-battery",
+  "title": "Morphology-controlled synthesis of novel nanostructured Li\n                    <sub>4</sub>\n                    P\n                    <sub>2</sub>\n                    O\n                    <sub>7</sub>\n                    with enhanced Li-ion conductivity for all-solid-state battery applications",
+  "authors": [
+    {
+      "name": "Hany El-Shinawi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4743-5576",
+      "affiliation": "Department of Chemistry, Mansoura University, Mansoura, 35516, Egypt"
+    },
+    {
+      "name": "Edmund J. Cussen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2899-6888",
+      "affiliation": "Department of Materials Science and Engineering, University of Sheffield, Sir Robert Hadfield Building, Sheffield, S1 3JD, UK"
+    },
+    {
+      "name": "Serena A. Cussen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9303-4220",
+      "affiliation": "Department of Materials Science and Engineering, University of Sheffield, Sir Robert Hadfield Building, Sheffield, S1 3JD, UK"
+    }
+  ],
+  "doi": "10.1039/d3dt04377k",
+  "url": "https://doi.org/10.1039/d3dt04377k",
+  "published": null,
+  "abstract": "<jats:p>\n                    Li\n                    <jats:sub>4</jats:sub>\n                    P\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>7</jats:sub>\n                    is synthesized in a new tailored nanostructured morphology that could be densified by cold-pressing, offering a solid-electrolyte phase of enhanced Li-ion conductivity and phase stability at high voltages (&gt;5 V\n                    <jats:italic>vs.</jats:italic>\n                    Li\n                    <jats:sup>+</jats:sup>\n                    /Li).\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d3dt04377k",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d3dt04377k/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Dalton Transactions",
+  "publisher": "",
+  "issn": "1477-9226",
+  "quartile": "",
+  "added_at": "2026-07-24T03:12:01.339734+00:00",
+  "updated_at": "",
+  "extra": {}
+}
