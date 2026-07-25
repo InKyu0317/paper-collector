@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1111_ijag.70003",
+  "collection": "aluminosilicate",
+  "title": "Experimental investigation of fifth oxide effects on calcium–magnesium–aluminosilicate glass properties",
+  "authors": [
+    {
+      "name": "Clark A. Luckhardt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7047-7782",
+      "affiliation": "Department of Materials Science and Engineering University of Virigina  Charlottesville Virginia USA"
+    },
+    {
+      "name": "Elizabeth J. Opila",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5540-7084",
+      "affiliation": "Department of Materials Science and Engineering University of Virigina  Charlottesville Virginia USA"
+    }
+  ],
+  "doi": "10.1111/ijag.70003",
+  "url": "https://doi.org/10.1111/ijag.70003",
+  "published": "2025-10",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Molten calcium–magnesium–aluminosilicate (CMAS) containing debris is a leading threat to hot‐section components in air‐ingesting turbine engines. This study investigated common natural‐forming and coating‐derived oxide additions to CMXAS glasses—where X denotes a fifth oxide constituent. Glass property relationships are elucidated by cation size effects and allow inferences to glass structure to be made. Iron oxide content, Group IV metal, and rare‐earth metal cations—including one dual cation addition (Y\n                    <jats:sup>3+</jats:sup>\n                    and Yb\n                    <jats:sup>3+</jats:sup>\n                    )—effects on CMAS viscosity, coefficient of thermal expansion (CTE), softening temperature, and glass transition temperature were explored. The baseline material, nominally a 33 CaO–9 MgO–13 AlO\n                    <jats:sub>1.5</jats:sub>\n                    –45 SiO\n                    <jats:sub>2</jats:sub>\n                    (single cation oxide mol%) CMAS, was synthesized from constituent oxide powders. Natural‐forming additions consistently operated as network modifiers. However, coating‐derived additions behaving as network modifiers in the molten liquid state were found to behave as network formers in the condensed amorphous state. Fe\n                    <jats:sup>3+</jats:sup>\n                    additions were shown to have the greatest effect of all additions on glass properties, exhibiting the greatest propensity for CMAS attack. Trends observed between dilatometric CMXAS glass properties allow for CMXAS properties to be inferred should one property (CTE,\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>d</jats:sub>\n                    ,\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>g</jats:sub>\n                    ) be known. Coating performance should consider the effect of coating constituent on CMAS viscosity and CTE, dissolution, and precipitation behaviors.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/ijag.70003",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_ijag.70003/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "International Journal of Applied Glass Science",
+  "publisher": "",
+  "issn": "2041-1286",
+  "quartile": "",
+  "added_at": "2026-07-25T03:08:09.818911+00:00",
+  "updated_at": "",
+  "extra": {}
+}
