@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_eem2.70184",
+  "collection": "halide-solid-state-battery",
+  "title": "Liquid‐Phase Synthesis of Halide Solid Electrolytes for All‐Solid‐State Batteries Using Organic Solvents",
+  "authors": [
+    {
+      "name": "Hirotada Gamo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5817-9985",
+      "affiliation": "Department of Energy and Environment, Research Institute of Electrochemical Energy National Institute of Advanced Industrial Science and Technology (AIST)  1‐8‐31 Midorigaoka Ikeda 563‐8577 Japan"
+    },
+    {
+      "name": "Mitsunori Kitta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy and Environment, Research Institute of Electrochemical Energy National Institute of Advanced Industrial Science and Technology (AIST)  1‐8‐31 Midorigaoka Ikeda 563‐8577 Japan"
+    },
+    {
+      "name": "Nobuhiko Takeichi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy and Environment, Research Institute of Electrochemical Energy National Institute of Advanced Industrial Science and Technology (AIST)  1‐8‐31 Midorigaoka Ikeda 563‐8577 Japan"
+    }
+  ],
+  "doi": "10.1002/eem2.70184",
+  "url": "https://doi.org/10.1002/eem2.70184",
+  "published": "2026-5",
+  "abstract": "<jats:p>\n                    Halide solid electrolytes (SEs) show high ionic conductivity and good compatibility with cathode active materials, providing long‐life all‐solid‐state lithium‐ion batteries (ASSLIBs). Liquid‐phase synthesis technology is a feasible option for the large‐scale manufacturing of halide SEs. However, no leading liquid‐phase synthesis method for halide SEs has been developed because of a limited understanding of the solvent effect on the formation of halide SEs. Herein, a scalable and universal liquid‐phase synthesis method for halide SEs using organic solvents is reported. The Li\n                    <jats:sub>\n                      3−\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    YCl\n                    <jats:sub>\n                      6−\n                      <jats:italic>x</jats:italic>\n                    </jats:sub>\n                    SEs synthesized via pyridine transform trigonal structure to metastable orthorhombic structure as the Li concentration decreases, forming a highly pure orthorhombic phase with an ionic conductivity of 1.3 × 10\n                    <jats:sup>−4</jats:sup>\n                     S cm\n                    <jats:sup>−1</jats:sup>\n                    at 25 °C in the composition of\n                    <jats:italic>x</jats:italic>\n                     = 1. Spectroscopic analysis indicates that pyridine acts as a reducing ligand, stabilizing the orthorhombic Li\n                    <jats:sub>2</jats:sub>\n                    YCl\n                    <jats:sub>5</jats:sub>\n                    by modulating the valence state of yttrium ions. Additionally, the developed synthesis method is extended to the synthesis of bromide SEs with high ionic conductivity. ASSLIBs using LiNi\n                    <jats:sub>0.8</jats:sub>\n                    Co\n                    <jats:sub>0.1</jats:sub>\n                    Mn\n                    <jats:sub>0.1</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    ‐Li\n                    <jats:sub>2</jats:sub>\n                    YCl\n                    <jats:sub>5</jats:sub>\n                    cathode composites demonstrate good cycling stability for 100 cycles. The liquid‐phase synthesis technology reported here opens opportunities for the practical manufacturing of halide‐based ASSLIBs.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/eem2.70184",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_eem2.70184/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/eem2.70184",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ENERGY &amp; ENVIRONMENTAL MATERIALS",
+  "publisher": "",
+  "issn": "2575-0356",
+  "quartile": "",
+  "added_at": "2026-07-25T03:11:04.695048+00:00",
+  "updated_at": "",
+  "extra": {}
+}

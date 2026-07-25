@@ -1,0 +1,119 @@
+{
+  "paper_id": "arxiv_2410.02535v1",
+  "collection": "halide-solid-state-battery",
+  "title": "The Origin of Enhanced Conductivity and Structure Change in Defective Li4Ti5O12 or Blue-LTO : a study combined theoretical and experimental perspectives",
+  "authors": [
+    {
+      "name": "Yute Chan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cristina Grosu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthias Kick",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peter Jakes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefan Seidlmayer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Gigl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Werner Egger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruediger-A. Eichel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Josef Granwehr",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christoph Hugenschmidt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christoph Scheurer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2410.02535v1",
+  "published": "2024-10-03T14:41:52+00:00",
+  "abstract": "The spinel Li4Ti5O12 (LTO) has emerged as a promising anode material for the next generation of all-solid-state Li-ion batteries (ASSB), primarily due to its characteristic \"zero strain\" charge/discharge behavior and exceptional cycling stability, which significantly prolongs battery lifespan. Pristine LTO, however, is hindered by poor ionic and electronic conductivity. By employing tailored sintering protocols that create oxygen vacancies, a high-performing, blue LTO material is achieved. It has been proposed that the increased electronic conductivity could stem from vacancy-induced polarons. Yet, detailed insights into polaron stability, distribution, and dynamics within both the LTO bulk and surface have remained elusive due to limited information on structural changes. Utilizing Positron Annihilation Lifetime Spectroscopy (PALS) and Coincidence Doppler Broadening Spectroscopy (CDBS), in conjunction with Two Component Density Functional Theory (TCDFT) with the on-site Hubbard U correction, enables us to probe the depth profile of defect species introduced by sintering in a reductive environment. Our research provides direct evidence of oxygen vacancy formation within the subsurface region, an inference drawn from the observation of \\ch{Ti^{3+}}. Our investigation into Li16d vacancy formation within the bulk region uncovers the interactions between mobile species, namely Li-ions and polarons. Furthermore, we delve into the polaron stability on the LTO surface, offering an explanation for the superior performance of the (100) facet exposed LTO nanoparticle, as compared to its (111) exposed counterpart.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.02535v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2410.02535v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.02535v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-25T03:11:27.727783+00:00",
+  "updated_at": "",
+  "extra": {}
+}

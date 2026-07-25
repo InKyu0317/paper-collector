@@ -1,0 +1,40 @@
+{
+  "paper_id": "doi_10.1039_d5ta01732g",
+  "collection": "halide-solid-state-battery",
+  "title": "A unified and consistent electrical double layer model for treatment of core and space charge layer in solid electrolytes",
+  "authors": [
+    {
+      "name": "Zeeshan Ahmad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D5TA01732G",
+  "url": "http://arxiv.org/abs/2412.17750v1",
+  "published": "2024-12-23T18:03:38+00:00",
+  "abstract": "The electrical double layer (EDL) is fundamental to the operation of devices for electrochemical energy storage and conversion. Existing models of EDL in solid electrolytes focus predominantly on the space charge layer and lack a complete treatment of the core layer which is an integral part of the EDL. The core layer exhibits significant variations in defect properties, such as defect formation energy (DFE), which influence the ionic charge carrier distribution in the space charge layer. In this work, we develop a general framework for treating both the core and space charge layer in solid electrolytes under dilute and concentrated regimes. We incorporate functional forms of the DFE variation in the core layer and defect-defect interactions that are consistent with previous first-principles simulations of solid electrolytes at surfaces and interfaces. Our simulations reveal that the core layer significantly impacts the potential distribution and defect concentrations in the solid electrolyte. In addition, the core contributes substantially to the conductivity when the surface DFE is much lower than the bulk DFE. Our model paves the way for accurate calculations of properties such as capacitance and ionic conductivity of solid-solid interfaces required for enhancing and optimizing the performance of solid-state electrochemical devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.17750v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d5ta01732g/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.17750v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-25T03:11:12.560502+00:00",
+  "updated_at": "",
+  "extra": {}
+}

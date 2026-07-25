@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2401.01675v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Tuning Einstein Oscillator Frequencies of Cation Rattlers: A Molecular Dynamics Study of the Lattice Thermal Conductivity of CsPbBr$_3$",
+  "authors": [
+    {
+      "name": "Jonathan Lahnsteiner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Max Rang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Menno Bokdam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2401.01675v1",
+  "published": "2024-01-03T11:20:20+00:00",
+  "abstract": "The pure CsPbBr$_3$ perovskite is an archetypal example of a strongly anharmonic crystal that poses a major challenge for computational methods to describe its thermodynamic properties. Its lattice dynamics exhibits characteristics of a phonon liquid: mode coupling, low lifetimes and `rattlers'. To study the thermal conduction in this crystal, including the effect of dynamic disorder introduced by the Cs rattlers, we apply large-scale molecular dynamics (MD) simulations combined with machine-learning interatomic potentials. We simulate its ultra-low lattice thermal conductivity in the cubic phase and obtain phonon spectra by measuring velocity autocorrelation functions. The thermal conductivity at 500 K is computed to be $0.53\\pm0.04\\frac{\\rm W}{\\rm m K}$, which is similar to that of demineralized water under normal indoor conditions. MD based insight into the heat transport mechanism of halide perovskites is presented. In the analysis the Cs cations are interpreted as damped Einstein oscillators. The phonon bandstructure of a system with artificially raised Cs masses demonstrates an increased interference of the Cs rattling with the acoustic phonon modes. We show that the thermal conductivity of the CsPbBr$_3$ perovskite can still be slightly decreased by tuning the cation rattling frequency into the range of the low lying acoustic mode",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.01675v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2401.01675v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.01675v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-25T03:11:09.541164+00:00",
+  "updated_at": "",
+  "extra": {}
+}
