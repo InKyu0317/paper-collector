@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_bte2.70102",
+  "collection": "halide-solid-state-battery",
+  "title": "Beyond Lattice Softness: The Polarizability of Anion‐Cluster and Paddle‐Wheel Effect in Solid‐State Electrolyte",
+  "authors": [
+    {
+      "name": "Shipeng Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-4254-0957",
+      "affiliation": "Department of Chemistry City University of Hong Kong  Hong Kong SAR China"
+    },
+    {
+      "name": "Yuqin Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering University of Maryland  College Park USA"
+    },
+    {
+      "name": "Tong Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4621-8799",
+      "affiliation": "Department of Chemistry City University of Hong Kong  Hong Kong SAR China"
+    }
+  ],
+  "doi": "10.1002/bte2.70102",
+  "url": "https://doi.org/10.1002/bte2.70102",
+  "published": "2026-3",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The polarizability of anionic frameworks has emerged as a powerful yet under‑recognized descriptor for understanding ion transport in solid‑state electrolytes. Recent studies reveal that polarizable anions and tetrahedral clusters, such as PS\n                    <jats:sub>4</jats:sub>\n                    , govern lattice softness, phonon responses, and electron‑cloud deformation, collectively shaping the energy landscape for cation migration. In this Perspective, we revisit the role of anionic polarizability across sulfide, halide, oxide, and mixed‑anion systems, highlighting how local tetrahedral dynamics complement global lattice effects. We further propose that the widely debated paddle‑wheel effect may, in essence, originate from the intrinsic polarizability‑driven vibrational and rotational behavior of anion clusters. By synthesizing emerging experimental and computational insights, this work outlines a unified framework linking anion‑cluster polarizability to ion‑transport mechanisms. Such a viewpoint aims to guide the rational design of solid electrolytes that balance structural stability, lattice responsiveness, and high ionic conductivity for next‑generation solid‑state batteries.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.70102",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.70102/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/bte2.70102",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-07-26T03:09:03.906023+00:00",
+  "updated_at": "",
+  "extra": {}
+}

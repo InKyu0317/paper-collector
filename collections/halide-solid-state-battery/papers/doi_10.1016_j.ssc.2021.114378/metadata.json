@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2021.114378",
+  "collection": "halide-solid-state-battery",
+  "title": "Strain tuned low thermal conductivity in Indium Antimonide (InSb) through increase in anharmonic phonon scattering - A first-principles study",
+  "authors": [
+    {
+      "name": "Rajmohan Muthaiah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2065-9710",
+      "affiliation": ""
+    },
+    {
+      "name": "Fatema Tarannum",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jivtesh Garg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2021.114378",
+  "url": "https://doi.org/10.1016/j.ssc.2021.114378",
+  "published": "2021-8",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2021.114378",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2021.114378/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-07-26T03:09:06.363363+00:00",
+  "updated_at": "",
+  "extra": {}
+}
