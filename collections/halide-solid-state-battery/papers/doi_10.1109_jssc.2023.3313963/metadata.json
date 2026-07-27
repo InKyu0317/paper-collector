@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1109_jssc.2023.3313963",
+  "collection": "halide-solid-state-battery",
+  "title": "A Dual-Inductor Ladder Buck Converter for Li-Ion Battery-Operated Sub-Volt SoCs",
+  "authors": [
+    {
+      "name": "Arindam Mishra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0187-0177",
+      "affiliation": "Department of Electrical Engineering (ESAT), ADVISE Research Group, Katholieke Universiteit (KU) Leuven, Geel, Belgium"
+    },
+    {
+      "name": "Wei Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2302-5406",
+      "affiliation": "Department of Electrical Engineering (ESAT), ADVISE Research Group, Katholieke Universiteit (KU) Leuven, Geel, Belgium"
+    },
+    {
+      "name": "Bernhard Wicht",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0066-2955",
+      "affiliation": "Institute of Microelectronic Systems, Leibniz University Hannover, Hanover, Germany"
+    },
+    {
+      "name": "Valentijn De Smedt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6385-253X",
+      "affiliation": "Department of Electrical Engineering (ESAT), ADVISE Research Group, Katholieke Universiteit (KU) Leuven, Geel, Belgium"
+    }
+  ],
+  "doi": "10.1109/jssc.2023.3313963",
+  "url": "https://doi.org/10.1109/jssc.2023.3313963",
+  "published": "2024-2",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/jssc.2023.3313963",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_jssc.2023.3313963/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "IEEE Journal of Solid-State Circuits",
+  "publisher": "",
+  "issn": "0018-9200",
+  "quartile": "",
+  "added_at": "2026-07-27T03:09:33.701549+00:00",
+  "updated_at": "",
+  "extra": {}
+}
