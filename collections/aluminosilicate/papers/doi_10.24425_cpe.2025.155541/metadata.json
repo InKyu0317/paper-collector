@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.24425_cpe.2025.155541",
+  "collection": "aluminosilicate",
+  "title": "Reduction of biofouling rate of water filters exposed to Escherichia coli by incorporating aluminosilicate-Ag composite particles into melt-blown media",
+  "authors": [
+    {
+      "name": "Andrzej Krasiński",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4947-3557",
+      "affiliation": "Warsaw University of Technology, Faculty of Chemical and Process Engineering, Waryńskiego 1, 00-645 Warsaw, Poland"
+    },
+    {
+      "name": "Michał Stor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1122-0562",
+      "affiliation": "Warsaw University of Technology, Faculty of Chemical and Process Engineering, Waryńskiego 1, 00-645 Warsaw, Poland"
+    },
+    {
+      "name": "Karolina Kryszczyńska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Warsaw University of Technology, Faculty of Chemical and Process Engineering, Waryńskiego 1, 00-645 Warsaw, Poland"
+    },
+    {
+      "name": "Silvia Scalese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6371-6714",
+      "affiliation": "Institute for Microelectronics and Microsystems – National Research Council (CNR-IMM), Ottava strada 5, Zona Industriale, 95121 Catania, Italy"
+    }
+  ],
+  "doi": "10.24425/cpe.2025.155541",
+  "url": "https://doi.org/10.24425/cpe.2025.155541",
+  "published": null,
+  "abstract": "<jats:p>In this work, a preparation method of composite particles having bacteriostatic properties, which were subsequently incorporated into polymer filter media, is presented. The novel reliable method of antibacterial filter testing is proposed. The procedure of depositing silver nanoparticles on a support made of aluminosilicates was developed. The antibacterial properties, both bactericidal and bacteriostatic, against Escherichia Coli, commonly encountered in water, were verified in experiments. Maintaining thermal stability of additives and their antibacterial characteristics at high temperatures, relevant for the melt-blown processing, was also confirmed. The practical outcome of the research was incorporating composite particles into polymer fibers to reduce the rate of pressure drop (dP) increase after a long time of operation, which is often observed for water filters exposed to microorganisms. When compared to unmodified polypropylene structures, the time of reaching the terminal dP value in test conditions was increased by up to 80% and 185% for the filter media with an addition of raw mineral and composite particles, respectively. The results of water analysis confirmed the reduction of bacteria concentration and the stability of additive – neither particles incorporated into the fibers nor silver ions were detected downstream of the filter.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.24425/cpe.2025.155541",
+  "pdf_path": "aluminosilicate/papers/doi_10.24425_cpe.2025.155541/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Chemical and Process Engineering: New Frontiers",
+  "publisher": "",
+  "issn": "2300-1925",
+  "quartile": "",
+  "added_at": "2026-07-27T03:09:10.861102+00:00",
+  "updated_at": "",
+  "extra": {}
+}
