@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac4d81",
+  "collection": "halide-solid-state-battery",
+  "title": "Inverted Planar Perovskite Solar Cells with High Electrical Conductivity and Efficiency by KBr-Doped PEDOT:PSS",
+  "authors": [
+    {
+      "name": "Yuhan Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0476-3075",
+      "affiliation": ""
+    },
+    {
+      "name": "Guofan Duan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac4d81",
+  "url": "https://doi.org/10.1149/2162-8777/ac4d81",
+  "published": "2022-2-1",
+  "abstract": "<jats:p>The photovoltaic performance of inverted perovskite solar cells (PSCs) is highly determined by the conductivity and charge transfer efficiency of the hole transport layer (HTL). In order to further strengthen the overall role of HTL, herein, Potassium bromide (KBr) is utilized into poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS) to improve its own conductivity and interfacial charge transfer. The champion power conversion efficiency (PCE) of the PSCs based on KBr doped HTL is 18.43% with negligible hysteresis, which is higher than the control device with 15.82%. In all photovoltaic parameters, the higher open-circuit voltage and the significantly improved fill factor are particularly prominent. The dual effect of KBr is involved. KBr not only tune the electronic property of PEDOT:PSS, but also makes it have better hole mobility. Beside the changes in HTL, the perovskite film shows a favorable crystal orientation for hole transport on modified HTL, resulting in a compact and smooth film. In this work, KBr is added to PEDOT:PSS with inverted perovskite devices, which provides a simple and efficient method for the commercialization of high-efficiency PSCs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac4d81",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac4d81/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac4d81/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-07-28T03:05:24.740225+00:00",
+  "updated_at": "",
+  "extra": {}
+}

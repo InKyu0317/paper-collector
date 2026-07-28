@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.26902_jsc_id126498",
+  "collection": "halide-solid-state-battery",
+  "title": "Synthesis of Garnet-type Solid Electrolyte for All-Solid-State Battery Application",
+  "authors": [
+    {
+      "name": "A.K. Mishra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "N. Shaikh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Y.K. Patel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "I. Mukhopadhyay",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.26902/jsc_id126498",
+  "url": "https://doi.org/10.26902/jsc_id126498",
+  "published": "2024",
+  "abstract": "<jats:p>The Ga-doped Li7La3Zr2O12 (LLZO) Solid State Electrolyte (SSE) has been synthesized via solid-state reaction. The structural study of the SSE was conducted with the help of X-ray diffraction and the Rietveld method. The SSE crystallizes in the Li6.25Ga0.15La2.90Zr2O12 phase with cubic space group number 220 and unit cell parameter 13.02081 Å, and La2Zr2O7 impurity phase with cubic space group number 227 and unit cell parameter 10.79475 Å. Obtained lattice planes in the refinement were confirmed with the help of TEM. The core of the Li-ion migration channel has been defined as the loop formed by the Li32, Li1, Li2, and Li22 sites with minimal Li...Li distance and occupational disorganization of the Ga-doped LLZO SSE. The electron density plots of the Li6.25Ga0.15La2.90Zr2O12 phase have shown maximum distribution of electrons inside the unit cell for lanthanum atoms. XPS confirmed the presence of all the precursors i.e., Li, La, Zr, Ga, and O in the synthesized compound. The elemental composition was confirmed with the help of EDX. In the direct current charge-discharge behavior of the Li symmetric cell no voltage breakdown was observed even at 6 mAcm‑2 current density and after 400 charge/discharge cycles for over 200 hours.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.26902/jsc_id126498",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.26902_jsc_id126498/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Журнал структурной химии",
+  "publisher": "",
+  "issn": "0136-7463",
+  "quartile": "",
+  "added_at": "2026-07-28T03:05:22.872162+00:00",
+  "updated_at": "",
+  "extra": {}
+}

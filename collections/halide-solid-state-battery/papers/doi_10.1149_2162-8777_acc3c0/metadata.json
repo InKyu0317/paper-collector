@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_acc3c0",
+  "collection": "halide-solid-state-battery",
+  "title": "Dielectric, Conductivity and Modulus Properties of Au/ZnO/p-InP (MOS) Capacitor",
+  "authors": [
+    {
+      "name": "F. Z. Acar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "R. Ertugrul Uyar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. Tataroglu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/acc3c0",
+  "url": "https://doi.org/10.1149/2162-8777/acc3c0",
+  "published": "2023-3-1",
+  "abstract": "<jats:p>Dielectric, conductivity and modulus properties of MOS capacitor with zinc oxide (ZnO) interlayer produced via RF magnetron sputtering were investigated by using admittance spectroscopy measurements. Frequency and temperature dependence of the complex dielectric permittivity (<jats:italic>ε</jats:italic>* = <jats:italic>ε</jats:italic>′-i<jats:italic>ε</jats:italic>″), dielectric loss factor (tan <jats:italic>δ</jats:italic>), ac conductivity (<jats:italic>σ</jats:italic>\n                  <jats:sub>ac</jats:sub>) and complex electric modulus (M*=M”+iM’) were studied in temperature interval of 100–400 K for two frequencies (100 kHz and 500 kHz). While the dielectric constant (<jats:italic>ε</jats:italic>′) and loss (<jats:italic>ε</jats:italic>′) value increase as the temperature rises, their values decrease as the frequency rises. The increase in <jats:italic>ε</jats:italic>′ and <jats:italic>ε</jats:italic>′ is explained by thermal activation of charge carriers. Also, the <jats:italic>σ</jats:italic>\n                  <jats:sub>ac</jats:sub> value increases both frequency and temperature increase. The thermal activation energy (E<jats:sub>a</jats:sub>) were determined from slope of Arrhenius plot.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/acc3c0",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_acc3c0/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/acc3c0/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 13,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-07-28T03:05:25.796885+00:00",
+  "updated_at": "",
+  "extra": {}
+}
