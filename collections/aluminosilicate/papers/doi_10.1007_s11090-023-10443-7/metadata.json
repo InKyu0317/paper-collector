@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1007_s11090-023-10443-7",
+  "collection": "aluminosilicate",
+  "title": "Reaction Mechanisms and Plasma-Catalyst Interaction in Plasma-Assisted Oxidation of n-Butane: A Data-Driven Approach",
+  "authors": [
+    {
+      "name": "D. Reiser",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. von Keudell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-023-10443-7",
+  "url": "https://doi.org/10.1007/s11090-023-10443-7",
+  "published": "2024-3",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Experimental investigations of n-butane oxidation under atmospheric-pressure plasma conditions and in He-dilution have provided detailed information on the power-dependence of the conversion of <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\text {C}_{4}\\text {H}_{10}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:msub>\n                      <mml:mtext>C</mml:mtext>\n                      <mml:mn>4</mml:mn>\n                    </mml:msub>\n                    <mml:msub>\n                      <mml:mtext>H</mml:mtext>\n                      <mml:mn>10</mml:mn>\n                    </mml:msub>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula> into CO and <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\text {CO}_{2}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CO</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> at 450 K surface temperature. The rf-plasma discharge has been equipped with a <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\text {MnO}_{2}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>MnO</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula>-catalyst, and a significant impact on the reaction chain due to the presence of the catalyst surface could be observed. We report on ongoing data-based model development. Recently, a reaction kinetic model has been published, which agrees well with the experimental data (Stewig et al. in Plasma Sources Sci Technol 32:105006, 2023). However, that model could not clearly identify the main mechanisms in the interaction of plasma and catalyst. We show that various models can be found that explain the data similarly well. Detailed sensitivity analysis shows that only a maximum of three parameters can be identified in all the models considered for the currently limited data. Despite this limitation, we intend to continue the data analysis using more general models and introduce possible surface effects. Such unified models simultaneously describe the experimental data from both measurements with and without catalyst using a single set of physical parameters. To evaluate the hypotheses, we present numerical results for certain ranges of experimental parameters, which, in a subsequent experimental verification, allows to exclude or confirm one or another model.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-023-10443-7",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-023-10443-7/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-023-10443-7.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-07-28T03:06:33.681260+00:00",
+  "updated_at": "",
+  "extra": {}
+}
