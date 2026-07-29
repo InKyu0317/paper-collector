@@ -1,0 +1,175 @@
+{
+  "paper_id": "arxiv_2412.04633v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Surface molecular engineering to enable processing of sulfide solid electrolytes in humid ambient air",
+  "authors": [
+    {
+      "name": "Mengchen Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jessica J. Hong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elias Sebti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ke Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shijie Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tyler Pennebaker",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeyu Hui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qiushi Miao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ershuang Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nimrod Harpak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sicen Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jianbin Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeong Woo Oh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Min-Sang Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jian Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Raphaële J. Clément",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ping Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.04633v1",
+  "published": "2024-12-05T22:03:26+00:00",
+  "abstract": "Sulfide solid state electrolytes are promising candidates to realize all solid state batteries due to their superior ionic conductivity and excellent ductility. However, their hypersensitivity to moisture requires processing environments that are not compatible with todays lithium ion battery manufacturing infrastructure. Herein, we present a reversible surface modification strategy that enables the processability of sulfide SSEs under humid ambient air. We demonstrate that a long chain alkyl thiol, undecanethiol, is chemically compatible with the electrolyte with negligible impact on its ion conductivity. Importantly, the thiol modification extends the amount of time that the sulfide SSE can be exposed to air with 33 percent relative humidity with limited degradation of its structure while retaining a conductivity of above 1 mS per cm for up to 2 days, a more than 100 fold improvement in protection time over competing approaches. Experimental and computational results reveal that the thiol group anchors to the SSE surface, while the hydrophobic hydrocarbon tail provides protection by repelling water. The modified Li6PS5Cl SSE maintains its function after exposure to ambient humidity when implemented in a Li0.5In LiNi0.8Co0.1Mn0.1O2 ASSB. The proposed protection strategy based on surface molecular interactions represents a major step forward towards cost competitive and energy efficient sulfide SSE manufacturing for ASSB applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.04633v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.04633v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.04633v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:53.054482+00:00",
+  "updated_at": "",
+  "extra": {}
+}

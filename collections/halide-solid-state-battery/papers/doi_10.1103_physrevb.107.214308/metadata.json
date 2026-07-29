@@ -1,0 +1,105 @@
+{
+  "paper_id": "doi_10.1103_physrevb.107.214308",
+  "collection": "halide-solid-state-battery",
+  "title": "The role of high-order anharmonicity and off-diagonal terms in thermal conductivity: a case study of multi-phase CsPbBr3",
+  "authors": [
+    {
+      "name": "Xiaoying Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhibin Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guimei Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jie Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lei Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangdong Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baowen Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.107.214308",
+  "url": "http://arxiv.org/abs/2306.06847v1",
+  "published": "2023-06-12T03:40:59+00:00",
+  "abstract": "We investigate the influence of three- and four-phonon scattering, perturbative anharmonic phonon renormalization, and off-diagonal terms of coherent phonons on the thermal conductivity of CsPbBr3 phase change perovskite, by using advanced implementations and first-principles simulations. Our study spans a wide temperature range covering the entire structural spectrum. Notably, we demonstrate that the interactions between acoustic and optical phonons result in contrasting trends of phonon frequency shifts for the high-lying optical phonons in orthorhombic and cubic CsPbBr3 as temperature varies. Our findings highlight the significance of wave-like tunneling of coherent phonons in ultralow and glass-like thermal conductivity in halide perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2306.06847v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.107.214308/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2306.06847v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:36.457583+00:00",
+  "updated_at": "",
+  "extra": {}
+}

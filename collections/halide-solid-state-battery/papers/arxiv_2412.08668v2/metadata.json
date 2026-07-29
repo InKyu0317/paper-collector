@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2412.08668v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Heat Transport in Ionic Liquids",
+  "authors": [
+    {
+      "name": "Cillian Cockrell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandra Dragović",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.08668v2",
+  "published": "2024-12-10T15:36:26+00:00",
+  "abstract": "Heat transfer in liquids is a very challenging problem as it combines the competing effect of high frequency oscillations, which dominate liquid heat capacity, and diffusive motion, which enables transport macroscopic flow. This issue is compounded by the relatively junior state of dynamical theories of liquid thermodynamics. Nevertheless, molten salts are playing an increasingly important role in industrial and energy applications and there is a pressing need to understand the mechanisms behind their irreversible transport processes. Here we use molecular dynamics simulations to investigate the heat transport of three different molten salts: LiCl, KCl, and the eutectic point of their mixture. While all simulations consider the properties of the liquid within the frame of its centre of mass, we calculate different susceptibilities which implicitly include and explicitly exclude the heat carried by partial mass currents within this frame. We find that, while the heat advected by partial mass currents in the mixture increases with increasing temperature, the heat transferred by collective vibrational motion (phonons) decreases with increasing temperature. This causes a maximum in the heat conductance with temperature in the mixtures only - in pure salts each contribution decreases monotonically with temperature. We attribute this anomaly to the extra freedom afforded to ionic motion in mixtures - in pure salts the motion of cations and anions is bound due to conservation of linear momentum. In mixtures, a coherent but diffusive collective motion is enabled by the release of Li ions from this condition by the introduction of a third species. We tentatively ascribe this coherent collective motion to the ``diffusive\" phonons that have been used to explain a similar anomaly in the thermal conductivity of solids.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.08668v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.08668v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.08668v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:14.890016+00:00",
+  "updated_at": "",
+  "extra": {}
+}

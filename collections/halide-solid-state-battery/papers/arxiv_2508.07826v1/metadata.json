@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2508.07826v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Impact of Ce Substitution on Structural and Electrochemical Properties of Ga Doped Garnet Li7La3Zr2O12 Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Muktai Aote",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. V. Deshpande",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vaibhav Sirsulwar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Priya Padaganur",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": " Neha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abhishek Pradhan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2508.07826v1",
+  "published": "2025-08-11T10:19:03+00:00",
+  "abstract": "In order to replace conventional liquid electrolytes, solid electrolyte should possess high ionic conductivity. In this study, the effects of Ga-Ce co-doping on the garnet Li7La3Zr2O12 solid electrolyte have been investigated. The series Li6.4Ga0.2La3Zr2-xCexO12 has been prepared with varying content of Ce from 0 to 0.30 atoms per formula unit (a.p.f.u.) by sintering at 1050^0C. Various structural characterizations namely X-diffraction, Scanning Electron Microscopy (SEM), density measurements were carried out. The electrochemical analysis suggested that, the sample with 0.10 a.p.f.u. of Ce offered the highest room temperature ionic conductivity of 4 x 10-4 S/cm with the minimum activation energy of 0.29 eV. Moreover, DC conductivity measurement proved the predominant ionic conduction in the prepared samples making it suitable for the application in all solid state Li-ion batteries (ASSLIBs).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.07826v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2508.07826v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.07826v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:19.294329+00:00",
+  "updated_at": "",
+  "extra": {}
+}

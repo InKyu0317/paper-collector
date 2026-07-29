@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2501.02515v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Orbital Order Triggered Out-of-Plane Ferroelectricity in Magnetic Transition Metal di-halide Monolayers",
+  "authors": [
+    {
+      "name": "Xiao-Feng Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xu He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rui Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongjun Xiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jin-Zhu Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2501.02515v1",
+  "published": "2025-01-05T12:02:59+00:00",
+  "abstract": "Although multiferroics have undergone extensive examination for several decades, the occurrence of ferroelectricity induced by orbital order is only scarcely documented. In this study, we propose the existence of spontaneous ferroelectric states featuring a finite out-of-plane polarization in monolayer compounds of magnetic transition metal di-halides. Our first principles analysis reveals that partially occupied d-orbital states within octahedra exhibit a preference for spatial orbital order within a two-dimensional lattice. The absence of inversion symmetry, arising from orbital order, serves as the driving force introducing additional electric polarization along the out-of-plane direction. Unlike previous reported orbital orders arising from metal states in lattice, the non-colinear ones we studied in this work relate to the transition between two insulator states. The resultant asymmetric Jahn-Teller distortions are accompanied as the consequence producing additional ionic polarization. Importantly, our findings indicate that this mechanism is not confined to a specific material but is a shared characteristic among a series of monolayer transition metal magnetic di-halides, proposing an innovative form of intrinsic two-dimensional multiferroic physics.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.02515v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2501.02515v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.02515v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:22.769742+00:00",
+  "updated_at": "",
+  "extra": {}
+}

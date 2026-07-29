@@ -1,0 +1,88 @@
+{
+  "paper_id": "doi_10.1021_acsanm.0c02601",
+  "collection": "halide-solid-state-battery",
+  "title": "Topological Defects and Unique Stacking Disorders in Honeycomb Layered Oxide $\\rm K_2Ni_2TeO_6$ Nanomaterials: Implications for Rechargeable Batteries",
+  "authors": [
+    {
+      "name": "Titus Masese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yoshinobu Miyazaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Godwill Mbiti Kanyolo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Teruo Takahashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Miyu Ito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiroshi Senoh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomohiro Saito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsanm.0c02601",
+  "url": "http://arxiv.org/abs/2110.09233v1",
+  "published": "2021-10-12T13:38:34+00:00",
+  "abstract": "Endowed with a multitude of exquisite properties such as rich electrochemistry, superb topology and eccentric electromagnetic phenomena, honeycomb layered oxides have risen to the top echelons of science with applications in diverse fields ranging from condensed matter physics, solid-state chemistry, materials science, solid-state ionics to electrochemistry. However, these oxides are vastly underutilised as their underlying atomistic mechanisms remain unexplored. Therefore, in this study, atomic-resolution imaging on pristine $\\rm K_2Ni_2TeO_6$ along multiple zone axes was conducted using spherical aberration-corrected scanning transmission electron microscopy (Cs-corrected STEM) to reveal hitherto unreported nanoscale topological defects and curvature which can be associated with various phase transitions. Furthermore, we discover the coexistence of a stacking variant with P3-type sequence alongside the well-reported P2-type stacking sequence in such honeycomb layered oxides. Our findings have the potential to inspire further experimental and theoretical studies into the role of stacking and topology in the functionality of honeycomb layered oxides, for instance, as high-performance electrode materials for rechargeable batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "source": "arxiv",
+  "source_id": "2110.09233v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsanm.0c02601/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2110.09233v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-29T03:05:40.347499+00:00",
+  "updated_at": "",
+  "extra": {}
+}
