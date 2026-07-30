@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2402.08516v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Electric field dependent thermal conductivity of relaxor ferroelectric PMN-33PT through changes in the phonon spectrum",
+  "authors": [
+    {
+      "name": "Delaram Rashadfar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Brandi L. Wooten",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joseph P. Heremans",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.08516v2",
+  "published": "2024-02-13T15:13:36+00:00",
+  "abstract": "In ferroelectric materials, an electric field has been shown to change the phonon dispersion sufficiently to alter the lattice thermal conductivity, opening the possibility that a heat gradient could drive a polarization flux, and technologically, also opening a pathway towards voltage-driven, all solid-state heat switching. In this report, we confirm the validity of the theory originally developed for Pb(Zr,Ti)O_3 (PZT) on the ferroelectric relaxor 0.67Pb[Mg_(1/3)Nb_(2/3)]O_3-0.33PbTiO_3 (PMN-33PT). In the theory, the change in sound velocity and thermal conductivity with electric field relates to the piezoelectric coefficients and the Gruneisen parameter. It predicts that in PMN-33PT the effect should be an order of magnitude larger, and of opposite sign as in PZT; this is confirmed here experimentally. The effects are measured on samples never poled before and on samples that underwent multiple field sweep cycles and passed through two phase transitions with change in temperature. The thermal conductivity changes are linked to variations in the piezoelectric coefficients and can be as large as 8-11% at room temperature and above. To date, this is the only means of heat conduction modulation that utilizes changes in the phonon spectrum. While this technology is in its infancy, it offers another path to future active thermal conduction control.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.08516v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.08516v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.08516v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:30.705287+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,39 @@
+{
+  "paper_id": "doi_10.1103_physrevb.108.045130",
+  "collection": "halide-solid-state-battery",
+  "title": "Towards understanding the electronic structure of the simpler members of two-dimensional halide-perovskites",
+  "authors": [
+    {
+      "name": "Efstratios Manousakis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.108.045130",
+  "url": "http://arxiv.org/abs/2307.09464v1",
+  "published": "2023-07-18T17:46:36+00:00",
+  "abstract": "In this paper we analyze the band-structure of two-dimensional (2D) halide perovskites by considering structures related to the simpler case of the series, (BA)$_2$PbI$_4$, in which PbI$_4$ layers are intercalated with butylammonium (BA=CH$_3$(CH$_2$)$_3$NH$_3$) organic ligands. We use density-functional-theory (DFT) based calculations and tight-binding (TB) models aiming to discover a simple description of the bands in the vicinity of the valence-band maximum and the conduction-band minimum. We find that the atomic orbitals of the butylammonium chains have negligible contribution to the Bloch states which form the conduction and valence bands in near the Fermi energy. Our calculations reveal a rather universal, i.e., independent of the intercalating BA, rigid-band picture characteristic of the layered perovskite ``matrix''. Besides demonstrating the above conclusion, the main goal of this paper is to find accurate TB models which capture the essential features of the DFT bands near the Fermi energy. First, we ignore electron hopping along the $c$-axis and the octahedral distortions and this increased symmetry halves the Bravais-lattice unit-cell size and the Brillouin zone unfolds to a 45$^{\\circ}$ rotated square and this allows some analytical handling of the 2D TB-Hamiltonian. The Pb $6s$ and I $5s$ orbitals are far away from the Fermi level and, thus, we integrate them out to obtain an effective model which only includes hybridized Pb $6p$ and I $5p$ states. Our TB-based treatment a) provides a good quantitative description of the DFT band-structure, b) helps us conceptualize the complex electronic structure in the family of these materials in a simple way and c) yields the one-body part to be combined with appropriately screened electron interaction to describe many-body effects, such as excitonic bound-states.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.09464v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.108.045130/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.09464v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:34.931070+00:00",
+  "updated_at": "",
+  "extra": {}
+}

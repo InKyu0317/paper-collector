@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2504.10684v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Grain Boundary Space Charge Engineering of Solid Oxide Electrolytes: Model Thin Film Study",
+  "authors": [
+    {
+      "name": "Thomas Defferriere",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yong Beom Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Colin Gilgenbach",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James M. LeBeau",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "WooChul Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Harry L. Tuller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2504.10684v1",
+  "published": "2025-04-14T20:15:33+00:00",
+  "abstract": "Grain boundaries (GB) profoundly influence the electrical properties of polycrystalline ionic solids. Yet, precise control of their transport characteristics has remained elusive, thereby limiting the performance of solid-state electrochemical devices. Here, we demonstrate unprecedented manipulation of space charge controlled ionic grain boundary resistance (up to 12 orders of magnitude) in metal oxide thin films. We exploit the orders of magnitude higher grain boundary diffusivities of substrate cation elements (i.e. Al from $Al_2O_3$ and Mg from MgO) relative to the bulk to modify the grain boundary chemistry, and thereby GB core charge, in a model oxygen ion conducting polycrystalline thin film solid electrolyte, Gd-doped $CeO_2$. This approach, confirmed jointly by TEM imaging and by extracting the respective GB and bulk diffusivities from measured SIMS profiles, enabled us to selectively control the chemistry of the GBs, while minimally modifying grain (bulk) chemistry or film microstructure, thereby ruling out potential effects of microstructure, strain or secondary phases. Broad tuning of GB space charge potentials is achieved by manipulating GB core charge density by over an order of magnitude, thereby providing a powerful tool for systematic studies of grain boundary phenomena across various functional materials. The implications of such control are far-reaching in achieving new functionality, improving efficiency and longevity of solid-state electrochemical devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.10684v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2504.10684v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.10684v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:21.702720+00:00",
+  "updated_at": "",
+  "extra": {}
+}

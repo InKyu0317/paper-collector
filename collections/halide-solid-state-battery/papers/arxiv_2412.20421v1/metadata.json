@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2412.20421v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Insulator and Electrode Materials Marginally Influence Carbonized Layer Conductivity in Metalized-Film Capacitors",
+  "authors": [
+    {
+      "name": "Vitaly V. Chaban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nadezhda Andreeva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.20421v1",
+  "published": "2024-12-29T10:06:38+00:00",
+  "abstract": "Capacitor self-healing is a generalized term to describe physical and chemical processes restoring the functionalities of a dielectric capacitor after an electrical breakdown. The efficacy of self-healing depends on the elemental composition of a metalized-film capacitor. We report atomistic simulations of self-healing from a chemical perspective proving the impossibility of tuning the electrical conductivity of the soot by finding an interplay of various polymers and electrodes. All investigated soot samples turn out to possess carbon-rich semiconducting skeletons with numerous unsaturated C-C covalent bonds. They exhibit electrical conductivities of the same order of magnitude, irrespective of initial chemical compositions and properties of the chosen insulating polymers. Upon reporting the new results, we discuss less evident approaches to diminish the soot conductivity. We conclude that the quality of capacitor self-healing can be assessed by counting gaseous by-products of electrical breakdown or evaluating the volume of the solid-state semiconducting counterpart.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.20421v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.20421v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.20421v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:27.651017+00:00",
+  "updated_at": "",
+  "extra": {}
+}

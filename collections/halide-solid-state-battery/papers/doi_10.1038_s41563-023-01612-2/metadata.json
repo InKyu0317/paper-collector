@@ -1,0 +1,161 @@
+{
+  "paper_id": "doi_10.1038_s41563-023-01612-2",
+  "collection": "halide-solid-state-battery",
+  "title": "Li iontronics in single-crystalline T-Nb2O5 thin films with vertical ionic transport channels",
+  "authors": [
+    {
+      "name": "Hyeon Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Quentin Jacquet",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhen Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Farheen N. Sayed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arpit Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aaron M. Schankler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arvin Kakekhani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Holger L. Meyerheim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jae-Chun Jeon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jucheol Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sang Yeol Nam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kent J. Griffith",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laura Simonelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrew M. Rappe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Clare P. Grey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stuart S. P. Parkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41563-023-01612-2",
+  "url": "http://arxiv.org/abs/2203.03232v2",
+  "published": "2022-03-07T09:41:50+00:00",
+  "abstract": "The niobium oxide polymorph T-Nb2O5 has been extensively investigated in its bulk form especially for applications in fast-charging batteries and electrochemical (pseudo)capacitors. Its crystal structure that has two-dimensional (2D) layers with very low steric hindrance allows for fast Li-ion migration. However, since its discovery in 1941, the growth of single-crystalline thin films and its electronic applications have not yet been realized, likely due to its large orthorhombic unit cell along with the existence of many polymorphs. Here we demonstrate the epitaxial growth of single-crystalline T-Nb2O5 thin films, critically with the ionic transport channels oriented perpendicular to the film's surface. These vertical 2D channels enable fast Li-ion migration which we show gives rise to a colossal insulator-metal transition where the resistivity drops by eleven orders of magnitude due to the population of the initially empty Nb 4d0 states by electrons. Moreover, we reveal multiple unexplored phase transitions with distinct crystal and electronic structures over a wide range of Li-ion concentrations by comprehensive in situ experiments and theoretical calculations, that allow for the reversible and repeatable manipulation of these phases and their distinct electronic properties. This work paves the way to the exploration of novel thin films with ionic channels and their potential applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2203.03232v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41563-023-01612-2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2203.03232v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:18.491541+00:00",
+  "updated_at": "",
+  "extra": {}
+}

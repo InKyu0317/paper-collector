@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acsaelm.3c01662",
+  "collection": "halide-solid-state-battery",
+  "title": "Giant Magnetothermal Conductivity Switching in Semimetallic WSi$_{2}$ Single Crystals",
+  "authors": [
+    {
+      "name": "Karl G. Koster",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jackson Hise",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joseph P. Heremans",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joshua E. Goldberger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaelm.3c01662",
+  "url": "http://arxiv.org/abs/2310.14467v1",
+  "published": "2023-10-23T00:47:36+00:00",
+  "abstract": "Materials able to rapidly switch between thermally conductive states by external stimuli such as electric or magnetic fields can be used as all-solid-state thermal switches and open a myriad of applications in heat management, power generation and cooling. Here, we show that the large magnetoresistance that occurs in the highly conducting semimetal $α$-WSi$_{2}$ single crystals leads to dramatically large changes in thermal conductivity at temperatures <100 K. At temperatures <20 K, where electron-phonon scattering is minimized, the thermal conductivity switching ratio between zero field and a 9T applied field can be >7. We extract the electronic and lattice components of the from the thermal conductivity measurements and show that the Lorenz number for this material approximates the theoretical value of L$_{0}$. From the heat capacity and thermal diffusivity, the speed of thermal conductivity switching is estimated to range from 1 x 10$^{-4}$ seconds at 5 K to 0.2 seconds at 100 K for a 5-mm long sample. This work shows that WSi$_{2}$, a highly conducting multi-carrier semimetal, is a promising thermal switch component for low-temperature applications such cyclical adiabatic demagnetization cooling, a technique that would enable replacing $^{3}$He-based refrigerators.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.14467v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaelm.3c01662/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.14467v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-30T03:05:37.963023+00:00",
+  "updated_at": "",
+  "extra": {}
+}
