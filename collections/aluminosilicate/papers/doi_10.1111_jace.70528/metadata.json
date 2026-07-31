@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1111_jace.70528",
+  "collection": "aluminosilicate",
+  "title": "Multicomponent Rare‐Earth Monosilicate Reactions With Calcium‐Magnesium Aluminosilicate",
+  "authors": [
+    {
+      "name": "Cameron K. Miller",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering University of Virginia  Charlottesville Virginia USA"
+    },
+    {
+      "name": "Elizabeth J. Opila",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering University of Virginia  Charlottesville Virginia USA"
+    }
+  ],
+  "doi": "10.1111/jace.70528",
+  "url": "https://doi.org/10.1111/jace.70528",
+  "published": "2026-2",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>High‐temperature reactions of multicomponent rare‐earth monosilicates (REMS) with calcium‐magnesium aluminosilicate (CMAS) were investigated at 1300°C for 24 h. Three compositional series were tested, each ranging from 1‐cation to 4‐cation REMS, with cations selected to interrogate compositional effects on CMAS reactivity. The final members of these series were (LaNdGdDy)MS, (YDyYbLu)MS, and (YErYbLu)MS. Two additional 5‐cation compositions were also tested, (YNdDyYbLu)MS and (YNdErYbLu)MS. Although commonly dubbed “high entropy” rare‐earth monosilicates (HEREMS), no evidence was found to support the notion that entropy stabilization plays a role in CMAS reactions. Of all samples tested in this work, pure LuMS reacted least with CMAS. Multicomponent REMS reacted with CMAS to form multicomponent apatite reaction products, which contained the same relative rare‐earth composition as the starting REMS. It is proposed that the enthalpic stability of these multicomponent rare‐earth apatites, determined by the rare‐earth elements present, dictates the CMAS reactivity of multicomponent REMS.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.70528",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.70528/paper.pdf",
+  "pdf_url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/jace.70528",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-07-31T03:09:09.518959+00:00",
+  "updated_at": "",
+  "extra": {}
+}

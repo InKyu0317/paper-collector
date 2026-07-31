@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.36306_konjes.982692",
+  "collection": "aluminosilicate",
+  "title": "MESOPOROUS ALUMINOSILICATE SUPPORTED CATALYSTS IN ALTERNATIVE FUEL HYDROGEN PRODUCTION",
+  "authors": [
+    {
+      "name": "Ahmat Ibrahim SALEH",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4128-5033",
+      "affiliation": "GAZI UNIVERSITY"
+    },
+    {
+      "name": "Emine KAYA EKİNCİ",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0958-1513",
+      "affiliation": "Gazi University, Chemical Engineering Department"
+    },
+    {
+      "name": "Birce PEKMEZCİ",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9051-2354",
+      "affiliation": "GAZI UNIVERSITY"
+    },
+    {
+      "name": "Nuray OKTAR",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8980-7457",
+      "affiliation": "GAZI UNIVERSITY"
+    }
+  ],
+  "doi": "10.36306/konjes.982692",
+  "url": "https://doi.org/10.36306/konjes.982692",
+  "published": null,
+  "abstract": "<jats:p xml:lang=\"en\">In the present study, Ni-containing mesoporous aluminosilicate (Al2(SiO2)3) supported catalysts, which are resistant to carbon formation, were developed for hydrogen production from acetic acid. Commercial aluminosilicate (Al2(SiO2)3) was used as catalyst support. Furthermore, to improve the catalyst stability, Mg, La, Ce, Ca, Ru metals, and Ni (5% by mass) were incorporated by the wet impregnation method into the catalyst supports’ structure. The synthesized catalysts were characterized to define their physical and chemical properties. N2 adsorption-desorption results reveal that the resulting isotherm behavior of all the prepared catalysts is consistent with type IV isotherm with plate-like wall structures. The catalytic activity test of the prepared catalysts was investigated at a reaction temperature of 750 C and a feed molar ratio of 1/2.5 (AA/H2O) in a packed bed continuous reactor system. Activity test results showed that catalyst composition has profound effects on product distribution. Hydrogen-rich syngas was produced over 5Ni-3Ru@Al2(SiO2)3 and 5Ni-3CeO2@Al2(SiO2)3 (about % 44 and % 46, respectively) catalysts.  However, the addition of MgO over the 5Ni@Al2(SiO2)3 catalyst strongly influenced the selectivity of hydrogen. Syngas, which contains an equimolar amount of H2, and CO is a quite important feedstock for the Fischer-Tropsch process (about 35% each), was obtained with the 5Ni-3MgO@Al2(SiO2)3 catalyst.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.36306/konjes.982692",
+  "pdf_path": "aluminosilicate/papers/doi_10.36306_konjes.982692/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Konya Journal of Engineering Sciences",
+  "publisher": "",
+  "issn": "2667-8055",
+  "quartile": "",
+  "added_at": "2026-07-31T03:09:08.960410+00:00",
+  "updated_at": "",
+  "extra": {}
+}

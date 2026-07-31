@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1088_1361-6595_ae1c6b",
+  "collection": "aluminosilicate",
+  "title": "Heated supersonic plasma flow reactor for spectroscopic studies of plasma chemistry and plasma assisted combustion",
+  "authors": [
+    {
+      "name": "L-T Ting",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-9384-3035",
+      "affiliation": ""
+    },
+    {
+      "name": "C Mays",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "T Dundore",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "M Young",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "S Raskar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4715-3146",
+      "affiliation": ""
+    },
+    {
+      "name": "I V Adamovich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6311-3940",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1361-6595/ae1c6b",
+  "url": "https://doi.org/10.1088/1361-6595/ae1c6b",
+  "published": "2025-11-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    A high-pressure heated plasma flow reactor excited by a ns pulse discharge, followed by a rapid supersonic expansion via a contoured nozzle, is used for time-resolved measurements of the products of plasma chemical reactions. The expansion is used to freeze the plasma-induced chemical reactions and reduce the absorption linewidth, as well as the range of rotational states populated, to facilitate the detection of the reaction products by mid-IR laser absorption spectroscopy. The feasibility of this approach is demonstrated by the measurements of CO product in plasma-excited CO\n                    <jats:sub>2</jats:sub>\n                    –Ar, CH\n                    <jats:sub>4</jats:sub>\n                    –O\n                    <jats:sub>2</jats:sub>\n                    –Ar, C\n                    <jats:sub>2</jats:sub>\n                    H\n                    <jats:sub>4</jats:sub>\n                    –O\n                    <jats:sub>2</jats:sub>\n                    –Ar, and C\n                    <jats:sub>4</jats:sub>\n                    H\n                    <jats:sub>10</jats:sub>\n                    –O\n                    <jats:sub>2</jats:sub>\n                    –Ar mixtures, to quantify the effect of CO\n                    <jats:sub>2</jats:sub>\n                    dissociation and fuel oxidation in the plasma. In the experiment, a flow of the reactants passes through a thermal storage section, heated in a tube furnace to the plenum temperature of up to\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>0</jats:sub>\n                    = 600–700 K, at a pressure of\n                    <jats:italic>P</jats:italic>\n                    <jats:sub>0</jats:sub>\n                    = 300 Torr. The heated flow is excited in a diffuse ns pulse discharge operated in burst mode. Downstream of the discharge excitation section, the flow expands through a Mach 4 nozzle into a supersonic test section, with optical access provided via the ports in the side walls. Absorption by CO in the test section is measured by a tunable quantum cascade mid-IR laser at the sampling rate of 100 kHz. The time-resolved flow temperature and the CO number density are inferred from the absorption line shape. The results are compared with the kinetic modeling predictions, quantifying the effect of the mixture composition, discharge burst duration, pulse repetition rate, and plenum temperature on the kinetics of plasma chemical reactions.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1361-6595/ae1c6b",
+  "pdf_path": "aluminosilicate/papers/doi_10.1088_1361-6595_ae1c6b/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6595/ae1c6b/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Plasma Sources Science and Technology",
+  "publisher": "",
+  "issn": "0963-0252",
+  "quartile": "",
+  "added_at": "2026-07-31T03:09:08.960057+00:00",
+  "updated_at": "",
+  "extra": {}
+}
