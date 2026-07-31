@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.37665_ppwayok26370",
+  "collection": "halide-solid-state-battery",
+  "title": "Recent Developments and Challenges in Battery Safety with Solid State Technology",
+  "authors": [
+    {
+      "name": "Sierra Freitas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Thayer School of Engineering, Dartmouth College, 15 Thayer Drive, Hanover, New Hampshire 03755, USA"
+    },
+    {
+      "name": "Weiyang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Thayer School of Engineering, Dartmouth College, 15 Thayer Drive, Hanover, New Hampshire 03755, USA"
+    }
+  ],
+  "doi": "10.37665/ppwayok26370",
+  "url": "https://doi.org/10.37665/ppwayok26370",
+  "published": "2024-1",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In recent years, there has been a noteworthy shift from conventional lithium-ion batteries using liquid electrolytes to solid-state batteries. Solid-state technology’s improved safety profile drives this shift due to the capability of solid-state electrolytes to reduce the risk of thermal runaway, leakage, and flammability. Furthermore, solid-state batteries present intrinsic resistance to dendrite formation, improved long-term stability, and reduced safety concerns. Recent advancements in using lithium and sodium solid-state technologies have been the foundation of a key innovation in this field. Lithium solid-state batteries exhibit the potential for higher energy density, faster charging, and longer cycle life. However, the high cost and the increased demand for lithium batteries raise concerns over environmental impacts and the availability of materials. Sodium solid-state batteries have the potential to be more sustainable and cost-effective as sodium is more naturally abundant. However, sodium batteries face challenges with lower energy densities and slower rate capabilities compared to the lithium system. Moreover, there is hesitation towards this technology as, in general, solid-state batteries face disadvantages in unstable cyclability, elevated operating temperature, mechanical weakness, and high interfacial electrode-electrolyte impedance. The scientific foundations of solid-state batteries and their improved effectiveness are solutions for the next generation of electric vehicles and grid-scale energy storage. Furthermore, an overview of ongoing research conducted at Dartmouth will be highlighted, including the utilization of solid composite electrolytes and the integration of high-performance sodium metal electrodes.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.37665/ppwayok26370",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.37665_ppwayok26370/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Pan Pacific Symposium",
+  "publisher": "",
+  "issn": "3067-851X",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:28.421870+00:00",
+  "updated_at": "",
+  "extra": {}
+}

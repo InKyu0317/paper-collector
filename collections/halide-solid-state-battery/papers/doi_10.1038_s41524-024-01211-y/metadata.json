@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1038_s41524-024-01211-y",
+  "collection": "halide-solid-state-battery",
+  "title": "Unravelling Ultralow Thermal Conductivity in Double Perovskite Cs2AgBiBr6: Dominant Wave-like Phonon Tunnelling, Strong Quartic Anharmonicity and Lattice Instability",
+  "authors": [
+    {
+      "name": "Jiongzhi Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Changpeng Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chongjia Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Geoffroy Hautier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruiqiang Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baoling Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41524-024-01211-y",
+  "url": "http://arxiv.org/abs/2301.12273v5",
+  "published": "2023-01-28T19:11:38+00:00",
+  "abstract": "In this work, we investigate the microscopic mechanisms of anharmonic lattice dynamics and thermal transport in lead-free halide double perovskite Cs2AgBiBr6 from first principles. We combine self-consistent phonon calculations with bubble diagram correction and a unified theory of lattice thermal transport that considers both the particle-like phonon propagation and wave-like tunnelling of phonons. An ultra-low thermal conductivity at room temperature (~0.21 Wm-1K-1) is predicted with weak temperature dependence(~T-0.45), in sharp contrast to the conventional ~T-1 dependence. Particularly, the vibrational properties of Cs2AgBiBr6 are featured by strong anharmonicity and wave-like tunnelling of phonons. Anharmonic phonon renormalization from both the cubic and quartic anharmonicities are found essential in precisely predicting the phase transition temperature in Cs2AgBiBr6 while the negative phonon energy shifts induced by cubic anharmonicity has a significant influence on particle-like phonon propagation. Further, the contribution of the wave-like tunnelling to the total thermal conductivity surpasses that of the particle-like propagation above around 340 K, indicating the breakdown of the phonon gas picture conventionally used in the Peierls-Boltzmann Transport Equation. Importantly, further including four-phonon scatterings is required in achieving the dominance of wave-like tunnelling, as compared to the dominant particle-like propagation channel when considering only three-phonon scatterings. Our work highlights the importance of lattice anharmonicity and wave-like tunnelling of phonons in the thermal transport in lead-free halide double perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.12273v5",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41524-024-01211-y/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.12273v5",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:48.463313+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,119 @@
+{
+  "paper_id": "doi_10.1021_acs.jpcc.6c00006",
+  "collection": "halide-solid-state-battery",
+  "title": "Atomic-Scale Mechanisms of Li-Ion Transport Mediated by Li10GeP2S12 in Composite Solid Polyethylene Oxide Electrolytes",
+  "authors": [
+    {
+      "name": "Syed Mustafa Shah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Musawenkosi K. Ncube",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohammed Lemaalem",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Selva Chandrasekaran Selvaraj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Naveen K. Dandu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alireza Kondori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gayoon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Adel Azaribeni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohammad Asadi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anh T. Ngo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Larry A. Curtiss",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpcc.6c00006",
+  "url": "http://arxiv.org/abs/2601.00112v2",
+  "published": "2025-12-31T21:09:22+00:00",
+  "abstract": "Polymer electrolytes incorporating Li$_{10}$GeP$_{2}$S$_{12}$ (LGPS) nanoparticles show promise for solid-state lithium batteries owing to their enhanced ionic conductivity, though the governing mechanisms remain unclear. We combine molecular dynamics (MD) simulations, experimental ionic conductivity measurements, and density functional theory (DFT) calculations to elucidate the effect of LGPS loading on polyethylene oxide (PEO) structure and Li-ion transport. MD and experimental results agree up to 10\\% LGPS, showing a volcano-shaped conductivity trend driven by polymer segmental dynamics and interfacial effects. Beyond 10\\%, experiments reveal additional conductivity enhancement unexplained by MD, suggesting a distinct transport regime. DFT calculations indicate that Li-ion migration at the PEO|LGPS interface proceeds via vacancy-mediated hopping, with low barriers favored by S-rich interfacial sites and hindered by Ge. These findings link interfacial chemistry and microstructure to Li-ion dynamics, offering guidelines for designing high-performance composite polymer electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.00112v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpcc.6c00006/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.00112v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:42.150239+00:00",
+  "updated_at": "",
+  "extra": {}
+}

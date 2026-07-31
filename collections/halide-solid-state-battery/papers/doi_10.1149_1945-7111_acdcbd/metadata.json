@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_1945-7111_acdcbd",
+  "collection": "halide-solid-state-battery",
+  "title": "Super Ionic Li\n                    <sub>3–2x</sub>\n                    M\n                    <sub>x</sub>\n                    (OH)\n                    <sub>1-y</sub>\n                    N\n                    <sub>y</sub>\n                    Cl (M=Ca, W, N=F) Halide Hydroxide as an Anti-Perovskite Electrolyte for Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Mahya Nangir",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abouzar Massoudi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4203-7376",
+      "affiliation": ""
+    },
+    {
+      "name": "Hamid Omidvar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/1945-7111/acdcbd",
+  "url": "https://doi.org/10.1149/1945-7111/acdcbd",
+  "published": "2023-8-1",
+  "abstract": "<jats:p>\n                    Lithium halide hydroxide (Li\n                    <jats:sub>2</jats:sub>\n                    OHX) as a new class of low-cost, lightweight solid electrolyte (SSE) shows promising lithium-ion conductivity for advanced solid-state batteries. Here, using solid-state synthesis and extensive materials characterization, the impurity-free Li\n                    <jats:sub>3–2x</jats:sub>\n                    M\n                    <jats:sub>x</jats:sub>\n                    (OH)\n                    <jats:sub>1-y</jats:sub>\n                    N\n                    <jats:sub>y</jats:sub>\n                    Cl (M=Ca, W, N=F) are reported, having\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:msub>\n                          <mml:mrow>\n                            <mml:mi>σ</mml:mi>\n                          </mml:mrow>\n                          <mml:mrow>\n                            <mml:mi mathvariant=\"italic\">gb</mml:mi>\n                          </mml:mrow>\n                        </mml:msub>\n                        <mml:mo>=</mml:mo>\n                        <mml:mn>23.7</mml:mn>\n                      </mml:math>\n                    </jats:inline-formula>\n                    mS cm\n                    <jats:sup>−1</jats:sup>\n                    and\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:msub>\n                          <mml:mi mathvariant=\"italic\">σ</mml:mi>\n                          <mml:msub>\n                            <mml:mi>b</mml:mi>\n                            <mml:mspace width=\"0.25em\"/>\n                          </mml:msub>\n                        </mml:msub>\n                        <mml:mo>=</mml:mo>\n                        <mml:mn>9.6</mml:mn>\n                      </mml:math>\n                    </jats:inline-formula>\n                    mS cm\n                    <jats:sup>−1</jats:sup>\n                    at 140 °C for\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mi>x</mml:mi>\n                        <mml:mo>=</mml:mo>\n                        <mml:mi>y</mml:mi>\n                        <mml:mo>=</mml:mo>\n                        <mml:mn>0</mml:mn>\n                        <mml:mo>.</mml:mo>\n                      </mml:math>\n                    </jats:inline-formula>\n                    Substituted smaller anionic dopants, such as\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:msup>\n                          <mml:mrow>\n                            <mml:mi mathvariant=\"normal\">F</mml:mi>\n                          </mml:mrow>\n                          <mml:mo>−</mml:mo>\n                        </mml:msup>\n                        <mml:mo>,</mml:mo>\n                      </mml:math>\n                    </jats:inline-formula>\n                    facilitate the movement of Li ions within the anti-perovskite framework through rotational disordering in local coordination, resulting in the highest ion conductivity of 0.28 mS cm\n                    <jats:sup>−1</jats:sup>\n                    at 25 °C. Using a strong combination of XRD, FTIR, pH, elemental EDS analysis, and calculated activation energies, it is demonstrated that the presence of H in these SSEs yields significantly higher Li\n                    <jats:sup>+</jats:sup>\n                    -ionic conductivity. Rotation of an OH-group in enlarged Cl-O-Cl triangular in the synthesized SSEs and their fully defected/ disordered structures enhance Li-ion conductivity.\n                  </jats:p>\n                  <jats:p>\n                    <jats:inline-formula/>\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/1945-7111/acdcbd",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_1945-7111_acdcbd/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/1945-7111/acdcbd/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "",
+  "issn": "0013-4651",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:30.287930+00:00",
+  "updated_at": "",
+  "extra": {}
+}

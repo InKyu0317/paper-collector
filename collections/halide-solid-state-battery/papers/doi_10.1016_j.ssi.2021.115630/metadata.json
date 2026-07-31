@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1016_j.ssi.2021.115630",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of water incorporation on the ionic conduction properties of the solid electrolyte material RbTiO.(HO)",
+  "authors": [
+    {
+      "name": "Sofia de Sousa Coutinho",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "David Bérardan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillaume Lang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rémi Federicci",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Paola Giura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Keevin Beneut",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nita Dragoe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Stéphane Holé",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Brigitte Leridon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssi.2021.115630",
+  "url": "https://doi.org/10.1016/j.ssi.2021.115630",
+  "published": "2021-6",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssi.2021.115630",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssi.2021.115630/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Solid State Ionics",
+  "publisher": "",
+  "issn": "0167-2738",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:28.125255+00:00",
+  "updated_at": "",
+  "extra": {}
+}

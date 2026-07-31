@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2210.06854v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Gauge Invariance of the Thermal Conductivity in the Quantum Regime",
+  "authors": [
+    {
+      "name": "Axel Hübner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Santiago Rigamonti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia Draxl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2210.06854v1",
+  "published": "2022-10-13T09:04:33+00:00",
+  "abstract": "The widely used linear-response (LR) theory of thermal conduction in the quantum regime rests on the yet unproven assumption, that the thermal conductivity is invariant with respect to the gauge of the energy density of the system. This assumption manifests itself clearly in, e.g., Hardy's formulation of the heat-flux operator [Phys. Rev. 132, 168 (1963)]. In this work, we rigorously prove this assumption. Our proof, being valid for the nuclear and electronic subsystems, not only puts the state-of-the-art theory on solid grounds, but also enables going beyond the scope of the widely-used Boltzmann transport equation (BTE) within the LR framework for many-body systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.06854v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2210.06854v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.06854v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-07-31T03:11:51.552635+00:00",
+  "updated_at": "",
+  "extra": {}
+}
