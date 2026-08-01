@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1149_ma2023-02291484mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Forming Artificial Solid-Electrolyte-Interfaces between Lithium Metal Anodes and Halide and Sulfide Solid Electrolytes in All-Solid-State-Batteries Via Spatial-Atomic-Layer-Deposition",
+  "authors": [
+    {
+      "name": "Ulas Kudu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Diana Chaykina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nico Huijssen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Auke Kronemeijer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Mahmoud Ameen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-02291484mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-02291484mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tIncreasing need in energy density and safety of current lithium-ion batteries has resulted in a search for next generation battery technologies<jats:sup>1,2</jats:sup>. All-solid-state-batteries (ASSBs) could answer these needs owing to the use electrode materials with higher capacities and potential difference, and by replacing flammable liquid electrolytes with solid electrolytes<jats:sup>3,4</jats:sup>. ASSBs using inorganic sulfide and halide solid electrolytes in particular have drawn a lot of attention as the electrolytes have very high RT ionic conductivities (&gt;10<jats:sup>-3</jats:sup> S.cm<jats:sup>-1</jats:sup>)<jats:sup>5–7</jats:sup>. Nevertheless, they suffer from issues related to electro-chemical and chemo-mechanical stabilities at electrode – electrolyte interfaces<jats:sup>7,8</jats:sup>. One promising approach to mitigate this issue is depositing an artificial solid-electrolyte-interface (SEI) layer via atomic-layer-deposition (ALD)<jats:sup>9–11</jats:sup>. In this work, we deposited a variety of artificial layers with different thicknesses and chemistries on the lithium metal anode using spatial ALD. We characterized the bonding within the thin film layer using X-ray photoelectron spectroscopy, and evaluated the stabilizing effect of the artificial SEI layer using electrochemical impedance spectroscopy and galvanostatic lithium plating and stripping methods. We compared the growth of lithium dendrites within the solid electrolyte pellets post-mortem analysis via scanning electron microscopy.</jats:p>\n               <jats:p>\n                  <jats:list list-type=\"roman-lower\">\n                     <jats:list-item>\n                        <jats:p>J. Janek and W. G. Zeier, <jats:italic>Nat. </jats:italic>\n                           <jats:italic>Energy</jats:italic> (2023) https://www.nature.com/articles/s41560-023-01208-9.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>Q. Wang, L. Jiang, Y. Yu, and J. Sun, <jats:italic>Nano Energy</jats:italic>, <jats:bold>55</jats:bold>, 93–114 (2019) https://doi.org/10.1016/j.nanoen.2018.10.035.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>J. B. Goodenough and M. H. Braga, <jats:italic>Dalt. Trans.</jats:italic> (2017) http://xlink.rsc.org/?DOI=C7DT03026F.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>J. Janek and W. G. Zeier, <jats:italic>Nat. Energy</jats:italic>, <jats:bold>1</jats:bold>, 16141 (2016) http://www.nature.com/articles/nenergy2016141.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>R. Schlem et al., <jats:italic>Adv. Energy Mater.</jats:italic>, <jats:bold>11</jats:bold>, 2101022 (2021) https://onlinelibrary.wiley.com/doi/10.1002/aenm.202101022.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>S. Ohno et al., <jats:italic>Prog. </jats:italic>\n                           <jats:italic>Energy</jats:italic>, <jats:bold>2</jats:bold>, 022001 (2020) https://iopscience.iop.org/article/10.1088/2516-1083/ab73dd.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>T. Koç, F. Marchini, G. Rousse, R. Dugas, and J. M. Tarascon, <jats:italic>ACS Appl. Energy Mater.</jats:italic>, <jats:bold>4</jats:bold>, 13575–13585 (2021).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>Y. He, C. Lu, S. Liu, W. Zheng, and J. Luo, <jats:italic>Adv. Energy Mater.</jats:italic>, <jats:bold>9</jats:bold>, 1–40 (2019).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>L. Han, C. Te Hsieh, B. Chandra Mallick, J. Li, and Y. Ashraf Gandomi, <jats:italic>Nanoscale Adv.</jats:italic>, <jats:bold>3</jats:bold>, 2728–2740 (2021).</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>J. Liu and X. Sun, <jats:italic>Nanotechnology</jats:italic>, <jats:bold>26</jats:bold>, 24001 (2015) http://dx.doi.org/10.1088/0957-4484/26/2/024001.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p>Y. Jiang et al., <jats:italic>Energy Storage Mater.</jats:italic>, <jats:bold>28</jats:bold>, 17–26 (2020) https://doi.org/10.1016/j.ensm.2020.01.019.</jats:p>\n                     </jats:list-item>\n                  </jats:list>\n               </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-02291484mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-02291484mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-02291484mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-01T03:07:43.208110+00:00",
+  "updated_at": "",
+  "extra": {}
+}

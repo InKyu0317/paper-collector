@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_batteries10010021",
+  "collection": "halide-solid-state-battery",
+  "title": "In Situ/Operando Techniques for Unraveling Mechanisms of Ionic Transport in Solid-State Lithium Indium Halide Electrolyte",
+  "authors": [
+    {
+      "name": "Farzaneh Bahmani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Materials Engineering and Science Program, South Dakota Mines, Rapid City, SD 57701, USA"
+    },
+    {
+      "name": "Collin Rodmyre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Materials Engineering and Science Program, South Dakota Mines, Rapid City, SD 57701, USA"
+    },
+    {
+      "name": "Karen Ly",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Materials Engineering and Science Program, South Dakota Mines, Rapid City, SD 57701, USA"
+    },
+    {
+      "name": "Paul Mack",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Thermo Fisher Scientific, East Grinstead RH19 1UB, West Sussex, UK"
+    },
+    {
+      "name": "Alevtina White Smirnova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Materials Engineering and Science Program, South Dakota Mines, Rapid City, SD 57701, USA"
+    }
+  ],
+  "doi": "10.3390/batteries10010021",
+  "url": "https://doi.org/10.3390/batteries10010021",
+  "published": null,
+  "abstract": "<jats:p>Over the past years, lithium-ion solid-state batteries have demonstrated significant advancements regarding such properties as safety, long-term endurance, and energy density. Solid-state electrolytes based on lithium halides offer new opportunities due to their unique features such as a broad electrochemical stability window, high lithium-ion conductivity, and elasticity at close to melting point temperatures that could enhance lithium-ion transport at interfaces. A comparative study of lithium indium halide (Li3InCl6) electrolytes synthesized through a mechano-thermal method with varying optimization parameters revealed a significant effect of temperature and pressure on lithium-ion transport. An analysis of Electrochemical Impedance Spectroscopy (EIS) data within the temperature range of 25–100 °C revealed that the optimized Li3InCl6 electrolyte reveals high ionic conductivity, reaching 1.0 mS cm−1 at room temperature. Herein, we present the utilization of in situ/operando X-ray Photoelectron Spectroscopy (XPS) and in situ X-ray powder diffraction (XRD) to investigate the temperature-dependent behavior of the Li3InCl6 electrolyte. Confirmed by these methods, significant changes in the Li3InCl6 ionic conductivity at 70 °C were observed due to phase transformation. The observed behavior provides critical information for practical applications of the Li3InCl6 solid-state electrolyte in a broad temperature range, contributing to the enhancement of lithium-ion solid-state batteries through their improved morphology, chemical interactions, and structural integrity.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/batteries10010021",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_batteries10010021/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Batteries",
+  "publisher": "",
+  "issn": "2313-0105",
+  "quartile": "",
+  "added_at": "2026-08-01T03:07:42.711211+00:00",
+  "updated_at": "",
+  "extra": {}
+}
