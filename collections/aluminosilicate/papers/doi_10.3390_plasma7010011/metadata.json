@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_plasma7010011",
+  "collection": "aluminosilicate",
+  "title": "Plasma-Driven Sciences: Exploring Complex Interactions at Plasma Boundaries",
+  "authors": [
+    {
+      "name": "Kenji Ishikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8288-6620",
+      "affiliation": "Center for Low-Temperature Plasma Sciences, Nagoya University, Nagoya 454-8601, Japan"
+    },
+    {
+      "name": "Kazunori Koga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9214-7493",
+      "affiliation": "Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka 819-0395, Japan"
+    },
+    {
+      "name": "Noriyasu Ohno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7826-0046",
+      "affiliation": "Center for Low-Temperature Plasma Sciences, Nagoya University, Nagoya 454-8601, Japan"
+    }
+  ],
+  "doi": "10.3390/plasma7010011",
+  "url": "https://doi.org/10.3390/plasma7010011",
+  "published": null,
+  "abstract": "<jats:p>Plasma-driven science is defined as the artificial control of physical plasma-driven phenomena based on complex interactions between nonequilibrium open systems. Recently, peculiar phenomena related to physical plasma have been discovered in plasma boundary regions, either naturally or artificially. Because laboratory plasma can be produced under nominal conditions around atmospheric pressure and room temperature, phenomena related to the interaction of plasma with liquid solutions and living organisms at the plasma boundaries are emerging. Currently, the relationships between these complex interactions should be solved using science-based data-driven approaches; these approaches require a reliable and comprehensive database of dynamic changes in the chemical networks of elementary reactions. Consequently, the elucidation of the mechanisms governing plasma-driven phenomena and the discovery of the latent actions behind these plasma-driven phenomena will be realized through plasma-driven science.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/plasma7010011",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_plasma7010011/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 16,
+  "journal": "Plasma",
+  "publisher": "",
+  "issn": "2571-6182",
+  "quartile": "",
+  "added_at": "2026-08-02T03:10:20.307628+00:00",
+  "updated_at": "",
+  "extra": {}
+}
