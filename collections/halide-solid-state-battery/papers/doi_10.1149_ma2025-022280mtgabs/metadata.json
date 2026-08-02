@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2025-022280mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "<i>(Battery Division Student Research Award Sponsored by Mercedes-Benz Research &amp; Development)</i>\n                    Unveiling Lithium Superionic Conduction in Halide Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Kisuk Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Seungju Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Joohyeon Noh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Chanwoong Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-022280mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-022280mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    Lithium-metal-halides have recently been revisited as promising solid electrolyte candidates that can address the interfacial instability issues found in sulfide- and oxide-based solid electrolytes. Although early studies on halide-based solid electrolytes reported poor ionic conductivities (typically &lt; ~10\n                    <jats:sup>−</jats:sup>\n                    <jats:sup>6</jats:sup>\n                    S cm\n                    <jats:sup>−</jats:sup>\n                    <jats:sup>1</jats:sup>\n                    ) as a major bottleneck, recent breakthroughs have demonstrated that ionic conductivity can be significantly improved by identifying appropriate synthetic routes and introducing a wide range of halide-based Li\n                    <jats:sub>3</jats:sub>\n                    MX\n                    <jats:sub>6</jats:sub>\n                    compounds (M = Y, Er, or In, X = Cl, Br, or I). While previous studies have investigated lithium diffusion pathways within these structures, a comprehensive understanding of the significant variations in ionic conductivity remain elusive, hindering the rational design of halide superionic conductors.\n                  </jats:p>\n                  <jats:p>\n                    Herein, we employ first-principles calculations and experiments to investigate the conduction mechanism and to propose and validate design strategies for enhancing ionic conductivity, using Li\n                    <jats:sub>3</jats:sub>\n                    YCl\n                    <jats:sub>6</jats:sub>\n                    as a model system. We identify the key factors affecting the lithium superionic conduction in halide solid electrolytes (\n                    <jats:italic>i.e.</jats:italic>\n                    , percolating network and interlayer distance) and further reveal their inverse correlation, governed by the order/disorder of the constituting cations. Based on these findings, we elucidate the origin of conductivity variations and propose a universal design criterion for halide superionic conductors. This strategy achieves a remarkable increase in ionic conductivity, recording the highest value reported for this material family. Furthermore, we investigate the diffusion mechanisms in other halide solid electrolyte structures, establishing general design rules for novel halide superionic conductors.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-022280mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-022280mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-022280mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-02T03:07:54.099388+00:00",
+  "updated_at": "",
+  "extra": {}
+}

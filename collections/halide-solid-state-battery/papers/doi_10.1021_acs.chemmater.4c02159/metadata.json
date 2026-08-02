@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1021_acs.chemmater.4c02159",
+  "collection": "halide-solid-state-battery",
+  "title": "Compatibility of Halide Electrolytes in Solid-State Li–S Battery Cathodes",
+  "authors": [
+    {
+      "name": "Shoma Yanagihara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan"
+    },
+    {
+      "name": "Jan Huebner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Multidisciplinary Research for Applied Materials, Tohoku University, 2-1-1 Katahira, Aoba, Sendai, Miyagi 980-8577, Japan"
+    },
+    {
+      "name": "Zheng Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan"
+    },
+    {
+      "name": "Atsushi Inoishi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga, Fukuoka 816-8580, Japan"
+    },
+    {
+      "name": "Hirofumi Akamatsu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2867-2127",
+      "affiliation": "Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan"
+    },
+    {
+      "name": "Katsuro Hayashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4413-6511",
+      "affiliation": "Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan"
+    },
+    {
+      "name": "Saneyuki Ohno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8192-996X",
+      "affiliation": "Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan"
+    }
+  ],
+  "doi": "10.1021/acs.chemmater.4c02159",
+  "url": "https://doi.org/10.1021/acs.chemmater.4c02159",
+  "published": "2025-1-14",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1021/acs.chemmater.4c02159",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.chemmater.4c02159/paper.pdf",
+  "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.4c02159",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 22,
+  "journal": "Chemistry of Materials",
+  "publisher": "",
+  "issn": "0897-4756",
+  "quartile": "",
+  "added_at": "2026-08-02T03:07:54.540434+00:00",
+  "updated_at": "",
+  "extra": {}
+}

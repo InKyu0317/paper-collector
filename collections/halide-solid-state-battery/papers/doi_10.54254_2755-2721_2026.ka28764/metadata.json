@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.54254_2755-2721_2026.ka28764",
+  "collection": "halide-solid-state-battery",
+  "title": "Analysis of Solid-state Battery Principles and Basic Paths",
+  "authors": [
+    {
+      "name": "Hongyu Zou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Beijing university of chemical technology"
+    }
+  ],
+  "doi": "10.54254/2755-2721/2026.ka28764",
+  "url": "https://doi.org/10.54254/2755-2721/2026.ka28764",
+  "published": null,
+  "abstract": "<jats:p>Solid-state batteries (SSBs) replace the liquid electrolyte in liquid batteries with solid-state electrolytes, which effectively improve energy density, safety, and service life. Currently, solid-state electrolytes mainly include three types: oxide-based electrolytes, sulfide-based electrolytes, and polymer-based electrolytes. The challenges they face include interface impedance, dendrite growth, and cost issues. In the future, it is expected that by enhancing material performance, improving interface stability, and optimizing preparation processes to reduce costs, solid-state batteries will be widely applied in fields such as electric vehicles and energy storage systems. This paper adopts a literature review method to study the principle of solid-state batteries and the development status and challenges of the three major technical routes (oxide, sulfide, and polymer). By analyzing material properties and interface issues, it proposes directions for improving performance and reducing costs, which holds guiding significance for the future development of solid-state batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.54254/2755-2721/2026.ka28764",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.54254_2755-2721_2026.ka28764/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Applied and Computational Engineering",
+  "publisher": "",
+  "issn": "2755-2721",
+  "quartile": "",
+  "added_at": "2026-08-02T03:07:53.143037+00:00",
+  "updated_at": "",
+  "extra": {}
+}
