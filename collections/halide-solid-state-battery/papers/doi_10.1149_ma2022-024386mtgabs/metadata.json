@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1149_ma2022-024386mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Interfacial and Charge-Transport Impedances of NCM Composite Cathodes with Halide Solid Electrolytes for All-Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Jonghyeok Yun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Hyohyun Cha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Siwon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Beomsu Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jong-Won Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-024386mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-024386mtgabs",
+  "published": "2022-10-9",
+  "abstract": "<jats:p>  \tAll-solid-state batteries (ASSBs) offer a fundamental solution to mitigate the safety and reliability issues of conventional lithium-ion batteries utilizing flammable liquid electrolytes. However, interfacial resistances between the cathode materials and solid electrolytes, which originate from poor solid-solid contacts and detrimental interfacial reactions, limit the electrochemical performances of ASSBs. Recently, various approaches have been developed to realize high-capacity composite cathodes with improved cycling stability. For example, single-crystal LiNi<jats:sub>0.8</jats:sub>Co<jats:sub>0.1</jats:sub>Mn<jats:sub>0.1</jats:sub>O<jats:sub>2</jats:sub> (NCM811) has been reported to mitigate the capacity fading resulting from cracking of commonly adopted multi-crystal NCM811. Also, halide-type solid electrolytes are reported to exhibit high Li-ion conductivity and electrochemical stability with NCM. In this work, we systematically study the interfacial and charge-transport impedances of NCM composite cathodes with halide solid electrolytes. The composite cathodes comprising single- or multi-crystal NCM811 and Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl or Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> (and conductive agents) are fabricated to characterize their electrochemical impedance behaviors. In particular, we analyze the evolution of the interfacial and charge-transport impedances during charge–discharge cycling based on a multi-rail transmission line model combined with interfacial reactions. In addition, we investigate the chemical, electrochemical, and mechanical degradations of composite cathodes using various analytical tools to elucidate performance-determining factors of ASSBs.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-024386mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-024386mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-024386mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-03T03:13:16.212726+00:00",
+  "updated_at": "",
+  "extra": {}
+}

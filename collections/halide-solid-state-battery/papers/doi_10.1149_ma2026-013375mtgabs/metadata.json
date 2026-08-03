@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2026-013375mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Lithium Niobium Halide LiX−NbCl\n                    <sub>5</sub>\n                    (X = Cl, Br) Glass-Ceramic Solid Electrolytes for Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Jensheer Shamsudeen Seenath",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "BELLA, Institute of Nanotechnology, KIT"
+    },
+    {
+      "name": "Florian Strauss",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Karlsruhe Institute of Technology"
+    },
+    {
+      "name": "Aleksandr Kondrakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1465-2854",
+      "affiliation": "Karlsruhe Institute of Technology"
+    },
+    {
+      "name": "Torsten Brezesinski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4336-263X",
+      "affiliation": "Karlsruhe Institute of Technology"
+    }
+  ],
+  "doi": "10.1149/ma2026-013375mtgabs",
+  "url": "https://doi.org/10.1149/ma2026-013375mtgabs",
+  "published": "2026-7-7",
+  "abstract": "<jats:p>\n                    Recent advances in electrochemical energy systems increasingly highlight solid-state batteries (SSBs) as a viable pathway toward safer, higher-energy rechargeable batteries beyond conventional liquid-electrolyte lithium-ion technologies.\n                    <jats:sup>1, 2</jats:sup>\n                    Central to this transition is the development of solid electrolytes that simultaneously offer high ionic conductivity, mechanical compliance, and interfacial stability against high-voltage cathodes and lithium-based anodes.\n                    <jats:sup>3-5</jats:sup>\n                    Halide solid electrolytes have recently emerged as promising candidates due to their wide electrochemical stability windows, mechanical softness, and favorable compatibility with layered oxide cathodes.\n                    <jats:sup>6, 7</jats:sup>\n                  </jats:p>\n                  <jats:p>In this work, we report a systematic investigation of lithium niobium halide glass-ceramic solid electrolytes, LiX–NbCl₅ (X = F, Cl, Br, I), with a focus on LiNbCl₆ and LiNbCl₅Br. Advanced structural characterization using synchrotron X-ray diffraction, total scattering, and high-resolution transmission electron microscopy reveals predominantly amorphous structures with uniformly dispersed nanocrystalline domains. These materials exhibit high room-temperature ionic conductivities (&gt;3.5 mS cm⁻¹), low activation energies (~0.28 eV), and low activation volumes, indicative of facile lithium transport and mechanical softness. When integrated as catholytes in solid-state battery cells employing LiNbO₃-coated Ni-rich layered oxide cathodes, both electrolytes deliver high initial Coulombic efficiencies (&gt;90%) and discharge capacities exceeding 200 mAh g⁻¹. However, long-term cycling is influenced by interfacial degradation associated with gas evolution. Using differential electrochemical mass spectrometry, we demonstrate for the first time that lithium niobium chloride electrolytes release gaseous chlorine near the end of charge. Importantly, partial bromine substitution suppresses chlorine evolution, reduces interfacial resistance growth, and significantly improves cycling stability. These results establish halide substitution as an effective strategy to enhance interphase stability in soft halide electrolytes without compromising ionic conductivity, while also identifying gas evolution as an important and previously overlooked design consideration for halide-based solid electrolytes in next-generation SSBs.</jats:p>\n                  <jats:p>\n                    <jats:bold>References</jats:bold>\n                  </jats:p>\n                  <jats:p>\n                    (1) Janek, J.; Zeier, W. G. A solid future for battery development.\n                    <jats:italic>Nature Energy</jats:italic>\n                    <jats:bold>2016</jats:bold>\n                    ,\n                    <jats:italic>1</jats:italic>\n                    (9), 16141. DOI: Artn 1614110.1038/Nenergy.2016.141.\n                  </jats:p>\n                  <jats:p>\n                    (2) Janek, J.; Zeier, W. G. Challenges in speeding up solid-state battery development.\n                    <jats:italic>Nature Energy</jats:italic>\n                    <jats:bold>2023</jats:bold>\n                    ,\n                    <jats:italic>8</jats:italic>\n                    (3), 230-240. DOI: 10.1038/s41560-023-01208-9.\n                  </jats:p>\n                  <jats:p>\n                    (3) Famprikis, T.; Canepa, P.; Dawson, J. A.; Islam, M. S.; Masquelier, C. Fundamentals of inorganic solid-state electrolytes for batteries.\n                    <jats:italic>Nat Mater</jats:italic>\n                    <jats:bold>2019</jats:bold>\n                    ,\n                    <jats:italic>18</jats:italic>\n                    (12), 1278-1291. DOI: 10.1038/s41563-019-0431-3 From NLM PubMed-not-MEDLINE.\n                  </jats:p>\n                  <jats:p>\n                    (4) Wang, Y.; Richards, W. D.; Ong, S. P.; Miara, L. J.; Kim, J. C.; Mo, Y.; Ceder, G. Design principles for solid-state lithium superionic conductors.\n                    <jats:italic>Nat Mater</jats:italic>\n                    <jats:bold>2015</jats:bold>\n                    ,\n                    <jats:italic>14</jats:italic>\n                    (10), 1026-1031. DOI: 10.1038/nmat4369 From NLM PubMed-not-MEDLINE.\n                  </jats:p>\n                  <jats:p>\n                    (5) Zhao, Q.; Stalin, S.; Zhao, C.-Z.; Archer, L. A. Designing solid-state electrolytes for safe, energy-dense batteries.\n                    <jats:italic>Nature Reviews Materials</jats:italic>\n                    <jats:bold>2020</jats:bold>\n                    ,\n                    <jats:italic>5</jats:italic>\n                    (3), 229-252. DOI: 10.1038/s41578-019-0165-5.\n                  </jats:p>\n                  <jats:p>\n                    (6) Newnham, J. A.; Squires, A. G.; Kraft, M. A.; Scanlon, D. O.; Zeier, W. G. Progress and Challenges in LiMOCl4 and NaMOCl4 (M = Nb, Ta) Oxyhalide Solid Electrolytes for Solid‐State Batteries.\n                    <jats:italic>Advanced Energy Materials</jats:italic>\n                    <jats:bold>2025</jats:bold>\n                    ,\n                    <jats:italic>15</jats:italic>\n                    (43), e04067. DOI: 10.1002/aenm.202504067.\n                  </jats:p>\n                  <jats:p>\n                    (7) Li, X. N.; Liang, J. W.; Yang, X. F.; Adair, K. R.; Wang, C. H.; Zhao, F. P.; Sun, X. L. Progress and perspectives on halide lithium conductors for all-solid-state lithium batteries.\n                    <jats:italic>Energy &amp; Environmental Science</jats:italic>\n                    <jats:bold>2020</jats:bold>\n                    ,\n                    <jats:italic>13</jats:italic>\n                    (5), 1429-1461, 10.1039/C9EE03828K. DOI: 10.1039/c9ee03828k.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2026-013375mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2026-013375mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2026-013375mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-03T03:13:13.601678+00:00",
+  "updated_at": "",
+  "extra": {}
+}
