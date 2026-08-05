@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.15587_1729-4061.2025.346699",
+  "collection": "aluminosilicate",
+  "title": "Designing and determining the physical-chemical properties of lithium aluminosilicate glass-ceramic materials for armor protection",
+  "authors": [
+    {
+      "name": "Sviatoslav Riabinin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2972-8540",
+      "affiliation": "National Technical University \"Kharkiv Polytechnic Institute\""
+    },
+    {
+      "name": "Artem Zakharov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0120-8263",
+      "affiliation": "National Technical University \"Kharkiv Polytechnic Institute\""
+    },
+    {
+      "name": "Mykyta Maistat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1875-3946",
+      "affiliation": "National Technical University \"Kharkiv Polytechnic Institute\""
+    },
+    {
+      "name": "Stanislav Lihezin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1097-1594",
+      "affiliation": "National Technical University \"Kharkiv Polytechnic Institute\""
+    }
+  ],
+  "doi": "10.15587/1729-4061.2025.346699",
+  "url": "https://doi.org/10.15587/1729-4061.2025.346699",
+  "published": null,
+  "abstract": "<jats:p>This study investigates spodumene glassy materials in the R2O-RO-RO2-R2O3-Li2O-CaO-P2O5-SiO2 system.\nThe task addressed is to obtain lightweight glassy materials with high microhardness and resistance to cracking, while maintaining a low apparent density and moderate energy consumption during manufacture. DTA/DSC, XRD, and optical microscopy were used to examine the structure and phase composition of samples obtained by one- and two-stage heat treatment.\nBased on the research results, a series of compositions were developed; the structural characteristics of the glass matrix were determined for them. The resulting data show that the low-temperature two-stage heat treatment (nucleation at 530°C, crystallization at 850…900°C) contributes to the formation of a fine-grained structure, in which β-spodumene predominates (80…85 vol.%). Compared to the single-step process, HV and H increased by 9…20%, K1C by 20…31%, and E by 25%. This effect can be explained by metastable micro liquefaction and early nucleation, leading to the formation of highly dense, fine-grained prismatic β-spodumene grains that inhibit crack propagation.\nThe choice of oxides and composition of nucleators (TiO2, ZrO2) is crucial. The introduction of fluorides and small amounts of rare-earth oxides reduces the melt viscosity and nucleation temperature. The addition of P2O5 promotes localized micro liquefaction of the fine-grained morphology of the target phase. These factors reconstruct the glassy phase and contribute to mechanical strengthening, distributing stresses more evenly within the finely dispersed crystalline matrix.\nThe practical significance of this study is that the obtained spodumene-containing composite materials have both high mechanical properties (HV = 7.9…9.2 GPa; K1C = 1.8…3.4 MPa·m0.5) and a reasonably low apparent density (ρ = 2370…2450 kg/m3) compared to other protective materials. These materials are suitable for the manufacture of lightweight individual bulletproof composite components.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15587/1729-4061.2025.346699",
+  "pdf_path": "aluminosilicate/papers/doi_10.15587_1729-4061.2025.346699/paper.pdf",
+  "pdf_url": "https://journals.uran.ua/eejet/article/download/346699/336477",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Eastern-European Journal of Enterprise Technologies",
+  "publisher": "",
+  "issn": "1729-4061",
+  "quartile": "",
+  "added_at": "2026-08-05T03:06:50.981901+00:00",
+  "updated_at": "",
+  "extra": {}
+}

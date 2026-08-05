@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1007_s11090-026-10685-1",
+  "collection": "aluminosilicate",
+  "title": "From Arc to Filamentary Plasma: Airflow-Controlled Regime Transition in Atmospheric Pressure DC Gliding Arc Discharge",
+  "authors": [
+    {
+      "name": "Ferhat Bozduman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2669-021X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-026-10685-1",
+  "url": "https://doi.org/10.1007/s11090-026-10685-1",
+  "published": "2026-9",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Gliding arc discharge (GAD) plasmas operated in atmospheric air exhibit complex transitions between thermal arc and non-thermal filamentary modes, which significantly affect their physicochemical properties. In this study, the effect of airflow on the plasma regime transition in atmospheric direct current (DC) gliding arc discharge was experimentally investigated. The plasma was generated using copper wire electrodes with a fixed 6 mm spacing, and the airflow rate was controlled by varying the voltage of a DC snail fan. Electrical properties were analyzed using a high-voltage probe, current measurements, and oscilloscope diagnostics, while plasma emission was studied using optical emission spectroscopy. The results reveal a clear transition from a stable arc regime at low airflow to a non-thermal filamentary regime at higher airflow rates. The optical emission spectra are dominated by a nitrogen-second positive system with strong emission at 337 nm and weaker first negative system bands around 391 nm. The electron temperature was determined using the intensity ratios of these emissions. The vibrational temperature was determined using a Boltzmann plot method based on N₂ emission bands at 337, 357, and 380 nm. Additionally, the reduced electric field (E/N) decreased with increasing airflow due to simultaneous decreases in discharge voltage and gas temperature variations. A plasma regime map relating airflow velocity and discharge voltage was constructed, revealing three distinct regions: arc, transition, and filamentous regimes. These findings demonstrate that airflow plays a crucial role in controlling the electrical properties, excitation dynamics, and discharge structure of atmospheric DC GAD plasmas.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-026-10685-1",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-026-10685-1/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-026-10685-1.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-05T03:06:47.738636+00:00",
+  "updated_at": "",
+  "extra": {}
+}
