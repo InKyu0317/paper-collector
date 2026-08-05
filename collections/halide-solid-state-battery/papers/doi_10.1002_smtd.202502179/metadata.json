@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1002_smtd.202502179",
+  "collection": "halide-solid-state-battery",
+  "title": "Interfacial Stability and Design Strategies for Halide Solid Electrolytes in High‐Voltage All‐Solid‐State Sodium‐Ion Batteries",
+  "authors": [
+    {
+      "name": "Myeongcho Jang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center Korea Institute of Science and Technology  Seoul Republic of Korea"
+    },
+    {
+      "name": "Eunji Kwon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center Korea Institute of Science and Technology  Seoul Republic of Korea"
+    },
+    {
+      "name": "Chelin Jeon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center Korea Institute of Science and Technology  Seoul Republic of Korea"
+    },
+    {
+      "name": "Sooyeon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Chemistry Myongji University  Yongin Gyeonggi‐Do Republic of Korea"
+    },
+    {
+      "name": "Seungho Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3912-6463",
+      "affiliation": "Energy Storage Research Center Korea Institute of Science and Technology  Seoul Republic of Korea"
+    }
+  ],
+  "doi": "10.1002/smtd.202502179",
+  "url": "https://doi.org/10.1002/smtd.202502179",
+  "published": "2026-2",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>All‐solid‐state sodium‐ion batteries (ASSSIBs) based on halide solid electrolytes (HSEs) are emerging as promising systems for high energy density and stable energy storage. Although HSEs are generally regarded as compatible with high‐voltage oxide cathodes, their interfacial stability remains insufficiently understood. Here, we evaluate the interfacial chemical compatibility between representative HSEs and high‐voltage sodium cathode materials through mutual decomposition reaction energy calculations. The analysis reveals interfacial instability of HSEs against high voltage cathodes, challenging the prevailing assumption of their intrinsic stability and highlighting the need for targeted interface design. To address this issue, a high‐throughput computational screening of 12 800 sodium‐containing compounds was performed, identifying several coating materials that effectively suppress interfacial reaction driving forces. These coatings promote stable SE–cathode interfaces, ensuring chemical compatibility under high voltage operation. This study establishes a strategic framework for interfacial design that deepens the understanding of HSE stability and advances the development of durable, high‐energy ASSSIBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/smtd.202502179",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smtd.202502179/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smtd.202502179",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Small Methods",
+  "publisher": "",
+  "issn": "2366-9608",
+  "quartile": "",
+  "added_at": "2026-08-05T03:05:01.109338+00:00",
+  "updated_at": "",
+  "extra": {}
+}
