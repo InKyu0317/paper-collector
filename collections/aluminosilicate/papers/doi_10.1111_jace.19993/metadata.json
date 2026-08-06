@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1111_jace.19993",
+  "collection": "aluminosilicate",
+  "title": "Delayed fracture of ion‐exchange strengthened alkali‐aluminosilicate glass",
+  "authors": [
+    {
+      "name": "Jared S. Aaldenberg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5947-7768",
+      "affiliation": "Science and Technology Division Corning Research and Development Corporation  Corning New York USA"
+    },
+    {
+      "name": "Marvin W. Kemmerer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Science and Technology Division Corning Research and Development Corporation  Corning New York USA"
+    },
+    {
+      "name": "James E. Webb",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Science and Technology Division Corning Research and Development Corporation  Corning New York USA"
+    }
+  ],
+  "doi": "10.1111/jace.19993",
+  "url": "https://doi.org/10.1111/jace.19993",
+  "published": "2024-12",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Delayed fracture occurs when cracks grow subcritically prior to achieving\n                    <jats:italic>K</jats:italic>\n                    <jats:sub>IC</jats:sub>\n                    . Glass science research in this area has focused almost exclusively on non ion‐exchanged glasses. In this study, an ion‐exchange strengthened aluminosilicate glass was intentionally damaged to measure delayed fracture behavior. Damage was applied both pre and post ion‐exchange and the role of heat‐treatments was investigated. It was found that the delayed fracture likelihood was reduced for samples that were heat‐treated in an environment containing water vapor. An increase in the static fatigue limit was measured for increasing temperature and it was hypothesized that crack toughening takes place during the heat‐treatment due to a water‐assisted stress relaxation mechanism.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.19993",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.19993/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-08-06T03:06:57.404905+00:00",
+  "updated_at": "",
+  "extra": {}
+}
