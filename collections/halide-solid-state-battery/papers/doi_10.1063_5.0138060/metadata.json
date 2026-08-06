@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1063_5.0138060",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine learning reconstruction of depth-dependent thermal conductivity profile from pump-probe thermoreflectance signals",
+  "authors": [
+    {
+      "name": "Zeyu Xiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yu Pang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xin Qian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ronggui Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0138060",
+  "url": "http://arxiv.org/abs/2212.05175v2",
+  "published": "2022-12-10T02:01:28+00:00",
+  "abstract": "Characterizing materials with spatially varying thermal conductivities is significant to unveil the structure-property relation for a wide range of functional materials, such as chemical-vapor-deposited diamonds, ion-irradiated materials, nuclear materials under radiation, and battery electrode materials. Although the development of thermal conductivity microscopy based on time/frequency-domain thermoreflectance (TDTR/FDTR) enabled in-plane scanning of thermal conductivity profile, measuring depth-dependent thermal conductivity remains challenging. This work proposed a machine-learning-based reconstruction method for extracting depth-dependent thermal conductivity K(z) directly from frequency-domain phase signals. We demonstrated that the simple supervised-learning algorithm kernel ridge regression (KRR) can reconstruct K(z) without requiring pre-knowledge about the functional form of the profile. The reconstruction method can not only accurately reproduce typical K(z) distributions such as the pre-assumed exponential profile of chemical-vapor-deposited (CVD) diamonds and Gaussian profile of ion-irradiated materials, but also complex profiles artificially constructed by superimposing Gaussian, exponential, polynomial, and logarithmic functions. In addition to FDTR, the method also shows excellent performances of reconstructing K(z) of ion-irradiated semiconductors from TDTR signals. This work demonstrates that combining machine learning with pump-probe thermoreflectance is an effective way for depth-dependent thermal property mapping.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2212.05175v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0138060/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2212.05175v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-06T03:13:36.044173+00:00",
+  "updated_at": "",
+  "extra": {}
+}

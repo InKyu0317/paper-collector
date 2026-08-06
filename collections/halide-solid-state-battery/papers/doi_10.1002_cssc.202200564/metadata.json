@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1002_cssc.202200564",
+  "collection": "halide-solid-state-battery",
+  "title": "Fast Intercalation of Lithium in Semi-Metallic γ-GeSe Nanosheet: A New Group-IV Monochalcogenide for Lithium-Ion Battery Application",
+  "authors": [
+    {
+      "name": "Zheng Shu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangyue Cui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bowen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hejin Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongqing Cai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/cssc.202200564",
+  "url": "http://arxiv.org/abs/2206.04939v1",
+  "published": "2022-06-10T08:30:05+00:00",
+  "abstract": "Existence of van der Waals gaps renders two-dimensional (2D) materials ideal passages of lithium for being used as anode materials. However, the requirement of good conductivity significantly limits the choice of 2D candidates. So far only graphite is satisfying due to its relatively high conductivity. Recently, a new polymorph of layered germanium selenide (Gamma-GeSe) was proven to be semimetal in its bulk phase with a higher conductivity than graphite while its monolayer behaves semiconducting. In this work, by using first-principles calculations, we examined the possibility of using this new group-IV monochalcogenide, Gamma-GeSe, as anode in the Li-ion battery (LIBs). Our studies revealed that Li atom would form an ionic adsorption with adjacent selenium atoms at the hollow site and exist in cationic state (lost 0.89 e to Gamma-GeSe). Results of climbing image-nudged elastic band show the diffusion barrier of Li is 0.21 eV in the monolayer limit, which can activate a relatively fast diffusion even at room temperature on the Gamma-GeSe surface. The calculated theoretical average voltages range from 0.071 to 0.015 V at different stoichiometry of LixGeSe with minor volume variation, suggesting its potential application as anode of LIBs. The predicted moderate binding energy, a low open circuit voltage (comparable to graphite) and a fast motion of Li suggests that Gamma-GeSe nanosheet can be chemically exfoliated via Li intercalation and a promising candidate as the anode material for LIBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2206.04939v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_cssc.202200564/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2206.04939v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-06T03:13:44.928756+00:00",
+  "updated_at": "",
+  "extra": {}
+}

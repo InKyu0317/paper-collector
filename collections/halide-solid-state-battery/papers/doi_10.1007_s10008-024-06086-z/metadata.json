@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s10008-024-06086-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Experimental study on Na+ conductivity in NaAlBr4 and atomic-scale investigation of Na+ conduction",
+  "authors": [
+    {
+      "name": "Reona Miyazaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8489-4528",
+      "affiliation": ""
+    },
+    {
+      "name": "Masanobu Nakayama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Takehiko Hihara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-024-06086-z",
+  "url": "https://doi.org/10.1007/s10008-024-06086-z",
+  "published": "2025-2",
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>The ionic conduction properties of Li/Na metal halides have been extensively studied, with recent attention turning towards Al-based systems. However, limited studies have focused on alkali Al bromides. In this study, we explored the Na<jats:sup>+</jats:sup> conduction properties of NaAlBr<jats:sub>4</jats:sub>. Conductivity measurements at 30 °C revealed a Na<jats:sup>+</jats:sup> conductivity of 1.2 × 10<jats:sup>−5</jats:sup> S/cm, surpassing that of isostructural NaAlCl<jats:sub>4</jats:sub> threefold. Molecular dynamics (MD) simulations to elucidate the conduction mechanisms revealed that Na<jats:sup>+</jats:sup> conduction was not observed in stoichiometric NaAlBr<jats:sub>4</jats:sub>, which has high formation energies of Na<jats:sup>+</jats:sup> vacancies and interstitials (0.88 eV and 0.73 eV, respectively). Nevertheless, a conductivity of 1.2 × 10<jats:sup>−5</jats:sup> S/cm was observed. The activation energy for ion conduction was experimentally determined as 0.43 eV, and the migration energies were calculated as 0.26 eV (Na<jats:sup>+</jats:sup> vacancies) and 0.16 eV (Na<jats:sup>+</jats:sup> interstitials) by MD simulations. These discrepancies in ion conduction were partially explained by the role of transient defects enriched via ball milling in facilitating Na<jats:sup>+</jats:sup> conduction on the particle surface, offering insights into the complex ion conduction of ball-milled NaAlBr<jats:sub>4</jats:sub>.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-024-06086-z",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-024-06086-z/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-024-06086-z.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-08-06T03:13:54.773738+00:00",
+  "updated_at": "",
+  "extra": {}
+}

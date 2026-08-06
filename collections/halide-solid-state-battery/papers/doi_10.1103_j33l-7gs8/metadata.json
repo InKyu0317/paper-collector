@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1103_j33l-7gs8",
+  "collection": "halide-solid-state-battery",
+  "title": "Theory of polarization-switchable electrical conductivity anisotropy in nonpolar semiconductors",
+  "authors": [
+    {
+      "name": "Hong Jian Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yanchao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laurent Bellaiche",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yanming Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/j33l-7gs8",
+  "url": "http://arxiv.org/abs/2412.00287v2",
+  "published": "2024-11-29T23:41:16+00:00",
+  "abstract": "The anisotropic propagation of particles is a fundamental transport phenomenon in solid state physics. As for crystalline semiconductors, the anisotropic charge transport opens novel designing routes for electronic devices, where the electrical or magnetic manipulation of anisotropic resistance provides essential guarantees. Motivated by the concept of anisotropic magnetoresistance, we develop an original theory on the electrically manipulatable anisotropic electroresistance. We show that piezoelectrics and ferroelectrics may showcase polarization-dependent anisotropic electrical conductivities between two perpendicular directions and the electrical conductivity anisotropy (ECA) is switchable by flipping the polarization. By symmetry analysis, we identify several point groups hosting the polarization-switchable ECA. These point groups simultaneously enable polarization-reversal induced conductivity change along specific directions, akin to the tunnelling electroresistance in ferroelectric tunnel junctions. First-principles-based conductivity calculations predict that piezoelectric AlP and ferroelectric KH$_2$PO$_4$ are two good semiconductors having such exotic charge transport. Our theory can motivate the design of intriguing anisotropic electronic devices (e.g., anisotropic memristor and field effect transistor).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.00287v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_j33l-7gs8/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.00287v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-06T03:13:41.539187+00:00",
+  "updated_at": "",
+  "extra": {}
+}
