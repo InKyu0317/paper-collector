@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1016_j.jssc.2023.124181",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of anion hardness in (001) surface of CsPbX3 (X = F, Cl, Br and I) halide perovskites",
+  "authors": [
+    {
+      "name": "José A.S. Laranjeira",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sérgio A. Azevedo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5289-4101",
+      "affiliation": ""
+    },
+    {
+      "name": "Guilherme S.L. Fabris",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Anderson R. Albuquerque",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Mateus M. Ferrer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0484-0192",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio R. Sambrano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5217-7145",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jssc.2023.124181",
+  "url": "https://doi.org/10.1016/j.jssc.2023.124181",
+  "published": "2023-10",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jssc.2023.124181",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jssc.2023.124181/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "",
+  "issn": "0022-4596",
+  "quartile": "",
+  "added_at": "2026-08-07T03:06:39.532995+00:00",
+  "updated_at": "",
+  "extra": {}
+}

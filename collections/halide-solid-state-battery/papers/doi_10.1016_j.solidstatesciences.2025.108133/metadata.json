@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1016_j.solidstatesciences.2025.108133",
+  "collection": "halide-solid-state-battery",
+  "title": "Computational design of Na2LiXF6 (X = Al, Ga, In, Tl) alkali halide perovskites for emerging optoelectronic technologies",
+  "authors": [
+    {
+      "name": "Md. Mahin Tasdid",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Md. Rubayed Hasan Pramanik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Aijaz Rasool Chaudhry",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ahmad Irfan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nacer Badi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Md. Ferdous Rahman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0090-2384",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.solidstatesciences.2025.108133",
+  "url": "https://doi.org/10.1016/j.solidstatesciences.2025.108133",
+  "published": "2025-12",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.solidstatesciences.2025.108133",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.solidstatesciences.2025.108133/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Solid State Sciences",
+  "publisher": "",
+  "issn": "1293-2558",
+  "quartile": "",
+  "added_at": "2026-08-07T03:06:39.533471+00:00",
+  "updated_at": "",
+  "extra": {}
+}
