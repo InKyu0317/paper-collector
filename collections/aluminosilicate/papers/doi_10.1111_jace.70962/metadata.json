@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1111_jace.70962",
+  "collection": "aluminosilicate",
+  "title": "Assessing Universal Machine Learning Interatomic Potentials for Aluminosilicate Glasses",
+  "authors": [
+    {
+      "name": "Matilde Benassi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Scienze Chimiche e Geologiche Università degli Studi di Modena e Reggio Emilia  Modena Italy"
+    },
+    {
+      "name": "Annalisa Pallini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Scienze Chimiche e Geologiche Università degli Studi di Modena e Reggio Emilia  Modena Italy"
+    },
+    {
+      "name": "Marco Bertani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Scienze Chimiche e Geologiche Università degli Studi di Modena e Reggio Emilia  Modena Italy"
+    },
+    {
+      "name": "Sofia C. Sarnataro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Chimica and Nanostructured Interfaces and Surfaces (NIS) Centre Università degli Studi di Torino  Torino Italy"
+    },
+    {
+      "name": "Marta Corno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Chimica and Nanostructured Interfaces and Surfaces (NIS) Centre Università degli Studi di Torino  Torino Italy"
+    },
+    {
+      "name": "Alfonso Pedone",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dipartimento di Scienze Chimiche e Geologiche Università degli Studi di Modena e Reggio Emilia  Modena Italy"
+    }
+  ],
+  "doi": "10.1111/jace.70962",
+  "url": "https://doi.org/10.1111/jace.70962",
+  "published": "2026-7",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Machine learning interatomic potentials (MLIPs) offer a promising route for accurate and transferable modeling of oxide glasses; however, their performance for complex aluminosilicate compositions remains insufficiently benchmarked. In this work, we systematically assess several pretrained MLIPs (DeePMD, DeePMD‐D3, MP0, MP0‐D3, MATPES, and MATPES‐D3) together with an empirical force field (BMP) against experimental data for albite and anorthite glasses. Structural properties—including density, pair distribution functions, coordination numbers,\n                    <jats:italic>\n                      Q\n                      <jats:sup>n</jats:sup>\n                    </jats:italic>\n                    species distributions, bridging statistics, and bond‐angle distributions—as well as the pressure‐induced variation of Al coordination (in the anorthite glass only) are evaluated and compared with experimental diffraction and NMR data. The elastic properties such as young's and bulk moduli are also investigated. All models reproduce the short‐range tetrahedral order of Si and Al, and correctly capture the compositional stiffness trend between albite and anorthite. The inclusion of dispersion corrections in the MLIPs systematically increases density, modifier coordination, and elastic stiffness. However,\n                    <jats:italic>\n                      Q\n                      <jats:sup>n</jats:sup>\n                    </jats:italic>\n                    distributions and medium‐range connectivity are not improved by MLIPs relative to BMP, and none of the pretrained models quantitatively reproduces experimental elastic constants. Under compression, the MLIPs successfully reproduce the pressure‐invariant Si─O bond length and the pressure‐induced increase in Al coordination, with MATPES‐D3 providing the closest agreement with experimental coordination trends. Overall, pretrained MLIPs provide reliable structural trends and improved transferability under pressure, but do not consistently outperform the empirical model for medium‐range topology or mechanical properties, highlighting the need for glass‐specific fine‐tuning.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.70962",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.70962/paper.pdf",
+  "pdf_url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/jace.70962",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-08-08T02:38:37.740551+00:00",
+  "updated_at": "",
+  "extra": {}
+}

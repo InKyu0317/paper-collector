@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1007_s11090-026-10648-6",
+  "collection": "aluminosilicate",
+  "title": "Using Viral Aerosol Fluorescence for Detection of Virus Infectivity Change Induced by Non-thermal Plasma",
+  "authors": [
+    {
+      "name": "Zhenyu Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0006-3403-5684",
+      "affiliation": ""
+    },
+    {
+      "name": "Herek L. Clack",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-026-10648-6",
+  "url": "https://doi.org/10.1007/s11090-026-10648-6",
+  "published": "2026-5",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Airborne transmission of infectious diseases poses a great threat to public health and the global economy, prompting increased interest in the detection and mitigation of infectious airborne pathogens. Development of air disinfection technologies – those that rely on pathogen neutralization or inactivation rather than particle filtration, such as non-thermal plasma (NTP) – can require extensive tests to determine how the degree of disinfection is affected by operational settings, environmental conditions, aerosol composition, pathogen type, among other factors. Such parametric evaluation is made much more tedious by the need to physically extract pre- and post-treatment aerosol samples for comparative microbiological assays in order to measure change in pathogen viability and the efficacy of the neutralization/inactivation process. UV aerosol fluorescence has been used to detect and characterize aerosols of biological origin, such as pollen. In this study, UV fluorescence of MS2 bacteriophage aerosol is studied for its potential to serve as an indicator of changing viral aerosol infectivity, one that can provide a quicker indication of a change in viral aerosol infectivity than conventional bioaerosol collection followed by microbiological assay. In the present study, infectivity assays and fluorescence measurements of viral aerosols are taken before and after non-thermal plasma treatment. Results indicate that NTP treatment induces infectivity loss and diminished fluorescence intensity. Diminished fluorescence intensity and reduced infectivity are positively correlated, both becoming more pronounced with increased intensity of non-thermal plasma treatment. These findings suggest UV aerosol fluorescence could serve as a fast indicator of airborne virus infectivity change during test, evaluation, and optimization of air disinfection processes like NTP.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-026-10648-6",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-026-10648-6/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-026-10648-6.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-08T02:38:34.848071+00:00",
+  "updated_at": "",
+  "extra": {}
+}
