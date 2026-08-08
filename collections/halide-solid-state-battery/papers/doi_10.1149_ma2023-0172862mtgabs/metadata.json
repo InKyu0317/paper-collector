@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2023-0172862mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Improving the Ionic Conductivity and Electrochemical Performance of NASICON Based Ca<sup>2+ </sup>Doped NZSP Solid-State Electrolyte for Solid State Sodium Batteries",
+  "authors": [
+    {
+      "name": "Khushi Patel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Trapa Banik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Indranil Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-0172862mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-0172862mtgabs",
+  "published": "2023-8-28",
+  "abstract": "<jats:p>  \tMajor efforts have been made in the search of high-energy and power density batteries to keep up with the demands of the rapidly growing portable electronics market and EV industry. Though lithium-ion batteries have dominated this field, sodium ion batteries are increasing in popularity due it’s wide availability and low cost. Conventional Sodium ion batteries with liquid electrolyte usually have several problems, including limited electrochemical window, flammability, and leakages which are a potential safety hazard. One of the most promising approaches to improve the safety of a battery is to replace the liquid ion conducting electrolyte to a solid ion conducting electrolyte. Even so, how to develop such a high-performance solid-state electrolyte (SSE) that is compatible with both the anode and cathode interface is still challenging. Furthermore, low ionic conductivity electrolytes, dendrite formation and poor cycling capabilities are adding on to the challenges. As one means to tackle these challenges and improve the electrochemical performances of the battery, cation substitution can be considered. Here, NASICON (Sodium Super Ionic Conductor) based Na<jats:sub>1+x</jats:sub>Zr<jats:sub>2</jats:sub>Si<jats:sub>x</jats:sub>P<jats:sub>3-x</jats:sub>O<jats:sub>12</jats:sub> (NZSP) solid state electrolyte, its phase behavior and its performances in solid state batteries are introduced. Current trends &amp; perspectives on interface engineering and cation substitution of the NZSP electrolyte is also discussed. Although NASICON material lacks mechanical flexibility, it has high ionic conductivity. Substitutions with La<jats:sup>3+</jats:sup> and Sc<jats:sup>3+</jats:sup> have shown to improve the ionic conductivity of the battery but have also proven to be expensive. In order to make it more feasible, cations such as Ca<jats:sup>2+</jats:sup> should be considered. Pure phase NZSP materials with Ca<jats:sup>2+</jats:sup> substitution for Zr<jats:sup>4+</jats:sup> will be synthesized using solid-state sintering. Along with the Ca-ion substitution, addition of excess sodium into the Ca-ion substituted NZSP system will be performed and a comparative analysis will be conducted. Here, we will analyze the electrochemical performance through XRD Analysis, SEM Analysis, Impedance Spectroscopy and Galvanostatic Charge/Discharge testing. The development of solid-state sodium electrolytes lead to a brighter future where all solid state sodium batteries could be used to power electric vehicles, electronic devices and contribute towards large scale storage and grid applications.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-0172862mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-0172862mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-0172862mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:32.827271+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,144 @@
+{
+  "paper_id": "doi_10.1103_physrevb.109.094111",
+  "collection": "halide-solid-state-battery",
+  "title": "Optical Transmission Enhancement of Ionic Crystals via Superionic Fluoride Transfer: Growing VUV-Transparent Radioactive Crystals",
+  "authors": [
+    {
+      "name": "Kjeld Beeks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomas Sikorsky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fabian Schaden",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Pressler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Schneider",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Björn N. Koch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Pronebner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David Werban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Niyusha Hosseini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Georgy Kazakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jan Welch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johannes H. Sterba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Florian Kraus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thorsten Schumm",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.109.094111",
+  "url": "http://arxiv.org/abs/2312.13713v2",
+  "published": "2023-12-21T10:23:21+00:00",
+  "abstract": "The 8 eV first nuclear excited state in $^{229}$Th is a candidate for implementing an nuclear clock. Doping $^{229}$Th into ionic crystals such as CaF$_2$ is expected to suppress non-radiative decay, enabling nuclear spectroscopy and the realization of a solid-state optical clock. Yet, the inherent radioactivity of $^{229}$Th prohibits the growth of high-quality single crystals with high $^{229}$Th concentration; radiolysis causes fluoride loss, increasing absorption at 8 eV. We overcome this roadblock by annealing $^{229}$Th doped CaF$_2$ at 1250$\\unicode{x2103}$ in CF$_4$. The technique presented here allows to adjust the fluoride content without crystal melting, preserving its single-crystal structure. Superionic state annealing ensures rapid fluoride distribution, creating fully transparent and radiation-hard crystals. This approach enables control over the charge state of dopants which can be used in deep UV optics, laser crystals, scintillators, and nuclear clocks.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "nucl-ex"
+  ],
+  "source": "arxiv",
+  "source_id": "2312.13713v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.109.094111/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2312.13713v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:16.463840+00:00",
+  "updated_at": "",
+  "extra": {}
+}

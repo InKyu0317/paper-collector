@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi_10.1149_1945-7111_ae67b0",
+  "collection": "halide-solid-state-battery",
+  "title": "Lithium-ion battery degradation: Introducing the concept of reservoirs to design for lifetime",
+  "authors": [
+    {
+      "name": "Mohammed Asheruddin Nazeeruddin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruihe Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Simon E. J. OKane",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Monica Marinescu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gregory J. Offer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/1945-7111/ae67b0",
+  "url": "http://arxiv.org/abs/2512.15440v1",
+  "published": "2025-12-17T13:37:43+00:00",
+  "abstract": "Designing lithium-ion batteries for long service life remains a challenge, as most cells are optimized for beginning-of-life metrics such as energy density, often overlooking how design and operating conditions shape degradation. This work introduces a degradation-aware design framework built around finite, interacting reservoirs (lithium, porosity, and electrolyte) that are depleted over time by coupled degradation processes.\n  We extend a physics-based Doyle-Fuller-Newman model to include validated mechanisms such as SEI growth, lithium plating, cracking, and solvent dry-out, and simulate how small design changes impact lifetime. Across more than 1,000 cycles, we find that increasing electrolyte volume by just 1% or porosity by 5% can extend service life by over 30% without significantly affecting cell energy density. However, lithium excess, while boosting initial capacity, can accelerate failure if not supported by sufficient structural or ionic buffers.\n  Importantly, we show that interaction between reservoirs is crucial to optimal design: multi-reservoir tuning yields either synergistic benefits or compound failures, depending on operating conditions. We also quantify how C-rate and operating temperature influence degradation pathways, emphasizing the need for co-optimized design and usage profiles.\n  By reframing degradation as a problem of managing finite internal reservoirs, this work offers a predictive and mechanistic foundation for designing lithium-ion batteries that balance energy, durability, and application-specific needs.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "eess.SY",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.15440v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_1945-7111_ae67b0/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.15440v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:19.479019+00:00",
+  "updated_at": "",
+  "extra": {}
+}

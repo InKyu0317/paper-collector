@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.5c03526",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine-Learning-Guided Insights into Solid-Electrolyte Interphase Conductivity: Are Amorphous Lithium Fluorophosphates the Key?",
+  "authors": [
+    {
+      "name": "Peichen Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristin A. Persson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsenergylett.5c03526",
+  "url": "http://arxiv.org/abs/2510.22912v2",
+  "published": "2025-10-27T01:29:28+00:00",
+  "abstract": "Despite decades of study, the identity of the dominant \\ce{Li+}-conducting phase within the inorganic SEI of Li-ion batteries remains unresolved. While the mosaic model describes LiF/\\ce{Li2O}/\\ce{Li2CO3} nanocrystallites within a disordered matrix, these crystalline phases inherently offer limited ionic conductivity. Growing evidence suggests that interfaces, grain boundaries, and amorphous phases may instead host the primary fast-ion pathways. Using diffusion-based generative structure prediction and machine-learning interatomic potentials (MLIPs), we investigate lithium difluorophosphate (\\ce{LiPO2F2}), a key mixed-anion decomposition product of phosphorus- and fluorine-containing electrolytes. We identify a stable crystalline polymorph and demonstrate that the amorphous counterpart is conductive, with projected room-temperature $σ\\approx 0.18$ mS cm$^{-1}$ and $E_\\mathrm{a} \\approx 0.40$ eV. This enhancement stems from structural disorder flattening the Li site-energy landscape and a low formation energy for Li-interstitial defects, which supplies additional mobile carriers. We propose amorphous mixed-anion Li--P--O--F phases as a promising conducting medium in the SEI, offering a specific target for engineering improved battery interfaces.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.22912v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.5c03526/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.22912v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:54.254791+00:00",
+  "updated_at": "",
+  "extra": {}
+}

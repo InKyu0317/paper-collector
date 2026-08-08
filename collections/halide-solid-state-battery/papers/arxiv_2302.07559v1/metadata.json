@@ -1,0 +1,112 @@
+{
+  "paper_id": "arxiv_2302.07559v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Binder-free CNT cathodes for Li-O$_2$ batteries with more than one life",
+  "authors": [
+    {
+      "name": "Zeliang Su",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Israel Temprano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicolas Folastre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Victor Vanpeene",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Julie Villanova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gregory Gachot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elena Shevchenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Clare P. Grey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro A. Franco",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arnaud Demortiere",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2302.07559v1",
+  "published": "2023-02-15T09:58:58+00:00",
+  "abstract": "Li-O$_2$ batteries (LOB) performance degradation ultimately occurs through the accumulation of discharge products and irreversible clogging of the porous electrode during the cycling. Electrode binder degradation in the presence of reduced oxygen species can result in additional coating of the conductive surface, exacerbating capacity fading. Herein, we establish a facile method to fabricate free-standing, binder-free electrodes for LOBs in which multi-wall carbon nanotubes (MWCNT) form cross-linked networks exhibiting high porosity, conductivity, and flexibility. These electrodes demonstrate high reproducibility upon cycling in LOBs. After cell death, efficient and inexpensive methods to wash away the accumulated discharge products are demonstrated, as reconditioning method. The second life usage of these electrodes is validated, without noticeable loss of performance. These findings aim to assist in the development of greener high energy density batteries while reducing manufacturing and recycling costs.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2302.07559v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2302.07559v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2302.07559v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:40.223782+00:00",
+  "updated_at": "",
+  "extra": {}
+}

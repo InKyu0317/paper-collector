@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2209.05931v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Direct observation of ultrafast lattice distortions during exciton-polaron formation in lead-halide perovskite nanocrystals",
+  "authors": [
+    {
+      "name": "Hélène Seiler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniela Zahn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Victoria C. A. Taylor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maryna I. Bodnarchnuk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yoav W. Windsor",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maxsym V. Kovalenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ralph Ernstorfer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2209.05931v1",
+  "published": "2022-09-13T12:25:48+00:00",
+  "abstract": "The microscopic origin of slow carrier cooling in lead-halide perovskites remains debated, and has direct implications for applications. Slow carrier cooling has been attributed to either polaron formation or a hot-phonon bottleneck effect at high excited carrier densities (> 10$^{18}$ cm$^{-3}$). These effects cannot be unambiguously disentangled from optical experiments alone. However, they can be distinguished by direct observations of ultrafast lattice dynamics, as these effects are expected to create qualitatively distinct fingerprints. To this end, we employ femtosecond electron diffraction and directly measure the sub-picosecond lattice dynamics of weakly confined CsPbBr$_3$ nanocrystals following above-gap photo-excitation. The data reveal a light-induced structural distortion appearing on a time scale varying between 380 fs to 1200 fs depending on the excitation fluence. We attribute these dynamics to the effect of exciton-polarons on the lattice, and the slower dynamics at high fluences to slower hot carrier cooling, which slows down the establishment of the exciton-polaron population. Further analysis and simulations show that the distortion is consistent with motions of the [PbBr$_3$]$^{-}$ octahedral ionic cage, and closest agreement with the data is obtained for Pb-Br bond lengthening. Our work demonstrates how direct studies of lattice dynamics on the sub-picosecond timescale can discriminate between competing scenarios, thereby shedding light on the origin of slow carrier cooling in lead-halide perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.05931v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2209.05931v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.05931v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:30.299719+00:00",
+  "updated_at": "",
+  "extra": {}
+}

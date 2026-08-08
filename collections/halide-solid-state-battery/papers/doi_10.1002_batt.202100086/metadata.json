@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1002_batt.202100086",
+  "collection": "halide-solid-state-battery",
+  "title": "Automatic diffusion path exploration for multivalent battery cathodes using geometrical descriptors",
+  "authors": [
+    {
+      "name": "Felix T. Bölle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arghya Bhowmik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tejs Vegge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Maria García Lastra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ivano E. Castelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/batt.202100086",
+  "url": "http://arxiv.org/abs/2104.06113v1",
+  "published": "2021-04-13T11:39:20+00:00",
+  "abstract": "Stable and fast ionic conductors for magnesium cathode materials have the prospect of enabling high energy density batteries beyond current Lithium-ion technologies. So far, only a few candidate materials have been identified leading to data only being scarcely available to the community. Here, we present a systematic study, in the framework of Density Functional Theory, including the estimation of the diffusion barrier for 16 materials through employing Nudged Elastic Band (NEB) calculations. By introducing a path finder algorithm based on the idea of Voronoi tessellations, we show that an estimate of the transition state configuration can be extracted automatically prior to running NEB-calculations. Using geometrical descriptors in combination with a principal component analysis it is possible to further sub-group the diffusion paths. This approach also extends to materials which are not part of the study, making it a viable approach to more efficiently explore crystal structures with distinguishable diffusion characteristics.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2104.06113v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_batt.202100086/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2104.06113v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:25.644295+00:00",
+  "updated_at": "",
+  "extra": {}
+}

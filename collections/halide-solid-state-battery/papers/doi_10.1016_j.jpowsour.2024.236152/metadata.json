@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1016_j.jpowsour.2024.236152",
+  "collection": "halide-solid-state-battery",
+  "title": "Exploring the potential of combining over- and under-stoichiometric MIEC materials for Oxygen-Ion Batteries",
+  "authors": [
+    {
+      "name": "Silvère Panisset",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LMGP, Grenoble, France, Univ. Grenoble Alpes, CNRS, Grenoble INP, SIMAP, Grenoble, France"
+    },
+    {
+      "name": "Alexander Schmid",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "TU Wien, Institute of Chemical Technologies and Analytics, Vienna, Austria"
+    },
+    {
+      "name": "Alexander Stangl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LMGP, Grenoble, France"
+    },
+    {
+      "name": "Juergen Fleig",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "TU Wien, Institute of Chemical Technologies and Analytics, Vienna, Austria"
+    },
+    {
+      "name": "David Jauffres",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ. Grenoble Alpes, CNRS, Grenoble INP, SIMAP, Grenoble, France"
+    },
+    {
+      "name": "Mónica Burriel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LMGP, Grenoble, France"
+    }
+  ],
+  "doi": "10.1016/j.jpowsour.2024.236152",
+  "url": "http://arxiv.org/abs/2409.05582v1",
+  "published": "2024-09-09T13:09:37+00:00",
+  "abstract": "The increasing demand for energy storage solutions has spurred intensive research into next-generation battery technologies. Oxygen-ion batteries (OIBs), which leverage mixed ionic-electronic conducting (MIEC) oxides, have emerged as promising candidates due to their solid, non-flammable nature and potential for high power densities. This study investigates the use of over-stoichiometric La2NiO4+delta (L2NO4) as a cathode material for OIBs, exploring its capacity for electrochemical energy storage. Half-cell measurements reveal that L2NO4 with a closed-pore microstructure can store oxygen, achieving a volumetric charge of 63 mA.h.cm-3 at 400 °C with a current density of 3.6 uA.cm-2 and potentials up to 0.75 V vs. 1 bar O2. Additionally, a functional full cell combining over-stoichiometric L2NO4 and under-stoichiometric La0.5Sr0.5Cr0.2Mn0.8O3-delta (LSCrMn) has been successfully developed, demonstrating excellent cyclability and coulomb efficiency. The full cell reaches a maximum volumetric charge of 90 mA.h.cm-3 at 400 °C, 17.8 uA.cm-2, and a cut-off voltage of 1.8 V. This proof of concept underscores the viability of combining over- and under-stoichiometric MIEC materials in OIBs and provides critical insights into optimizing electrode materials and tuning oxygen content for improved performance. This research lays the groundwork for future advancements in OIB technology, aiming to develop materials with lower resistance and higher efficiency.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.05582v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jpowsour.2024.236152/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.05582v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:59.895864+00:00",
+  "updated_at": "",
+  "extra": {}
+}

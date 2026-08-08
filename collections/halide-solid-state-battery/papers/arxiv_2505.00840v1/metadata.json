@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2505.00840v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Intrinsic Chern Half-Metal with High Anomalous Hall Conductivity in 2D BaNiCl$_3$",
+  "authors": [
+    {
+      "name": "Chidiebere I. Nwaogbo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chinedu E. Ekuma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.00840v1",
+  "published": "2025-05-01T19:58:00+00:00",
+  "abstract": "Two-dimensional (2D) half-metals offer complete spin polarization at the Fermi level, making them candidates for dissipationless spin transport. Yet intrinsic 2D half-metals exhibiting robust topological features, particularly large Chern number anomalous Hall conductivities, remain exceptionally rare. Using first-principles calculations, we identify atomically thin BaNiCl$_3$, a layered halide perovskite (perovskene), as a topological half-metal. It exhibits a high Chern number ($C \\ge 2$), a large anomalous Hall conductivity of 316~$Ω^{-1},\\mathrm{cm}^{-1}$, and a Fermi velocity of $\\approx 0.78 \\times 10^6$ m/s. The coexistence of complete spin polarization and high carrier velocity suggests low-dissipation spin transport. Spin-orbit coupling opens a sizable topological gap of $\\sim 20\\,$ meV, yielding nontrivial Berry curvature and enhancing the anomalous Hall response. Ferromagnetism is stabilized by the Ni$^{2+}$ ($d^8$) configuration and Cl-mediated superexchange, supporting magnetic ordering at elevated temperatures. These results establish BaNiCl$_3$ as a rare intrinsic Chern half-metal, with potential applications in quantum and spintronic technologies.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.00840v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.00840v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.00840v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-08T02:42:51.118854+00:00",
+  "updated_at": "",
+  "extra": {}
+}
