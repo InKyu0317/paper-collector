@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.3390_waste3040035",
+  "collection": "aluminosilicate",
+  "title": "Physico-Mechanical Properties of an Aluminosilicate Refractory Castable Obtained After Chamotte Waste Recycling by Firing Method",
+  "authors": [
+    {
+      "name": "Leonel Díaz-Tato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0004-5490-9946",
+      "affiliation": "Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL), San Nicolás de los Garza 66450, Mexico"
+    },
+    {
+      "name": "Jesús Fernando López-Perales",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4630-8628",
+      "affiliation": "Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL), San Nicolás de los Garza 66450, Mexico"
+    },
+    {
+      "name": "Yadira González-Carranza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL), San Nicolás de los Garza 66450, Mexico"
+    },
+    {
+      "name": "José Eulalio Contreras de León",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL), San Nicolás de los Garza 66450, Mexico"
+    },
+    {
+      "name": "Edén Amaral Rodríguez-Castellanos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4917-7435",
+      "affiliation": "Facultad de Ingeniería Mecánica y Eléctrica (FIME), Universidad Autónoma de Nuevo León (UANL), San Nicolás de los Garza 66450, Mexico"
+    }
+  ],
+  "doi": "10.3390/waste3040035",
+  "url": "https://doi.org/10.3390/waste3040035",
+  "published": null,
+  "abstract": "<jats:p>Developing sustainable ceramic formulations that integrate industrial by-products addresses the high energy and raw material demands of refractory manufacturing while advancing circular economy goals. This study investigates the recycling of chamotte waste from rejected fired electrical porcelain as a partial substitute (5 and 10 wt.%) for flint clay in aluminosilicate refractory castables. Samples were fired at 110, 815, 1050, and 1400 °C and evaluated for bulk density, apparent porosity, cold crushing strength, and flexural strength. Microstructural and mineralogical changes were analyzed by SEM and XRD. Incorporating 10 wt.% chamotte waste fostered an in situ mullite-reinforced microstructure, enhancing mechanical strength (58 MPa—CCS, 18.8 MPa—MOR) and lowering porosity (24.4%), demonstrating chamotte’s dual role as recycled raw material and reinforcement phase for densification and durability. These properties matched or surpassed those of the conventional formulation, with strength improvements of up to 44%. The findings demonstrate that high-temperature industrial waste can be effectively valorized in advanced refractories, reducing reliance on virgin raw materials, diverting waste from landfills, and promoting industrial symbiosis within the ceramics and metallurgical sectors.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/waste3040035",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_waste3040035/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 9,
+  "journal": "Waste",
+  "publisher": "",
+  "issn": "2813-0391",
+  "quartile": "",
+  "added_at": "2026-08-10T02:47:07.758694+00:00",
+  "updated_at": "",
+  "extra": {}
+}

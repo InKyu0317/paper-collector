@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_ijms23137215",
+  "collection": "aluminosilicate",
+  "title": "Modification of Thin Film Composite PVA/PAN Membranes for Pervaporation Using Aluminosilicate Nanoparticles",
+  "authors": [
+    {
+      "name": "Katsiaryna S. Burts",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0146-7326",
+      "affiliation": "Institute of Physical Organic Chemistry, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    },
+    {
+      "name": "Tatiana V. Plisko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6534-7596",
+      "affiliation": "Institute of Physical Organic Chemistry, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    },
+    {
+      "name": "Vladimir G. Prozorovich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6532-9427",
+      "affiliation": "Institute of General and Inorganic Chemistry, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    },
+    {
+      "name": "Galina B. Melnikova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4891-7523",
+      "affiliation": "A. V. Luikov Heat and Mass Transfer Institute, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    },
+    {
+      "name": "Andrei I. Ivanets",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3053-317X",
+      "affiliation": "Institute of General and Inorganic Chemistry, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    },
+    {
+      "name": "Alexandr V. Bildyukevich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3662-9970",
+      "affiliation": "Institute of Physical Organic Chemistry, National Academy of Sciences of Belarus, 220072 Minsk, Belarus"
+    }
+  ],
+  "doi": "10.3390/ijms23137215",
+  "url": "https://doi.org/10.3390/ijms23137215",
+  "published": null,
+  "abstract": "<jats:p>The effect of the modification of the polyvinyl alcohol (PVA) selective layer of thin film composite (TFC) membranes by aluminosilicate (Al2O3·SiO2) nanoparticles on the structure and pervaporation performance was studied. For the first time, PVA-Al2O3·SiO2/polyacrylonitrile (PAN) thin film nanocomposite (TFN) membranes for pervaporation separation of ethanol/water mixture were developed via the formation of the selective layer in dynamic mode. Selective layers of PVA/PAN and PVA-Al2O3·SiO2/PAN membranes were formed via filtration of PVA aqueous solutions or PVA-Al2O3·SiO2 aqueous dispersions through the ultrafiltration PAN membrane for 10 min at 0.3 MPa in dead-end mode. Average particle size and zeta potential of aluminosilicate nanoparticles in PVA aqueous solution were analyzed using the dynamic light scattering technique. Structure and surface properties of membranes were studied using scanning electron microscopy (SEM), atomic force microscopy (AFM) and water contact angle measurements. Membrane performance was investigated in pervaporation dehydration of ethanol/water mixtures in the broad concentration range. It was found that flux of TFN membranes decreased with addition of Al2O3·SiO2 nanoparticles into the selective layer due to the increase in selective layer thickness. However, ethanol/water separation factor of TFN membranes was found to be significantly higher compared to the reference TFC membrane in the whole range of studied ethanol/water feed mixtures with different concentrations, which is attributed to the increase in membrane hydrophilicity. It was found that developed PVA-Al2O3·SiO2/PAN TFN membranes were more stable in the dehydration of ethanol in the whole range of investigated concentrations as well as at different temperatures of the feed mixtures (25 °C, 35 °C, 50 °C) compared to the reference membrane which is due to the additional cross-linking of the selective layer by formation hydrogen and donor-acceptor bonds between aluminosilicate nanoparticles and PVA macromolecules.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ijms23137215",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ijms23137215/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 17,
+  "journal": "International Journal of Molecular Sciences",
+  "publisher": "",
+  "issn": "1422-0067",
+  "quartile": "",
+  "added_at": "2026-08-10T02:47:07.759215+00:00",
+  "updated_at": "",
+  "extra": {}
+}
