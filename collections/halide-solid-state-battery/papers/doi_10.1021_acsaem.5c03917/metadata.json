@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acsaem.5c03917",
+  "collection": "halide-solid-state-battery",
+  "title": "High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials",
+  "authors": [
+    {
+      "name": "Aljoscha Felix Baumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel Mutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel F. Urban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Elsässer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaem.5c03917",
+  "url": "http://arxiv.org/abs/2603.10631v2",
+  "published": "2026-03-11T10:45:04+00:00",
+  "abstract": "Mechanical stresses and strains developing locally within the microstructure of active ion-battery-electrode materials during charge-discharge cycles can compromise their long-term stability. In this context, crystalline compounds exhibiting low volume changes are of particular interest. Atomistic simulations can be employed to quantify the volume change of the crystal structure upon intercalation and deintercalation of ions and to elucidate the local mechanisms underlying the global structural response. While density functional theory (DFT) offers a robust and accurate framework for such calculations, its computational cost limits its applicability for large-scale screening of diverse intercalation structures and sites. In this work, we present a workflow designed to prioritize candidate materials for subsequent detailed characterization. The workflow calculates the volume change upon intercalation using atomic-level features and a machine-learning model for bond-length prediction. The bond-length predictions are based on the assumption that bonds between the same ionic species in similar local coordination environments exhibit comparable lengths across different crystallographic structures. The model was trained on a DFT-generated dataset, which inherently defines the chemical space in which reliable predictions can be expected. We demonstrate the workflow's utility by screening approximately 1,175,000 transition-metal oxides and fluorides, followed by DFT validation of the most promising candidates. The proposed workflow enables filtering of large candidate sets and accelerates the potential discovery of low volume change intercalation materials for batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.10631v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaem.5c03917/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.10631v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:02.712959+00:00",
+  "updated_at": "",
+  "extra": {}
+}

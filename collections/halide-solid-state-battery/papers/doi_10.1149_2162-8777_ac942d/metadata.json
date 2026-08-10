@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac942d",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic Conductivity and Dielectric Relaxations in Li\n                    <sup>+</sup>\n                    Ions Doped Zinc Borate Glass System",
+  "authors": [
+    {
+      "name": "Sangeeta B. Kolavekar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2290-6925",
+      "affiliation": ""
+    },
+    {
+      "name": "N. H. Ayachit",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac942d",
+  "url": "https://doi.org/10.1149/2162-8777/ac942d",
+  "published": "2022-10-1",
+  "abstract": "<jats:p>\n                    The main objective of this work is to study the role of Li\n                    <jats:sup>+</jats:sup>\n                    ions in the ionic conduction of the zinc borate glass system. In this paper, ionic conduction and dielectric relaxations of (30-x) Li\n                    <jats:sub>2</jats:sub>\n                    O-xLi\n                    <jats:sub>2</jats:sub>\n                    SO\n                    <jats:sub>4</jats:sub>\n                    −50B\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    −20ZnO (where x = 0, 2.5, 5, 7.5 mole%) glass system, coded as LLBZ1, LLBZ2, LLBZ3, and LLBZ4, have been discussed. We have performed ionic conductivity measurements in the frequency and temperature range of 40 Hz to 10 MHz and 443 K–500 K, respectively. Increase in conductivity is mainly due to the rise in the temperature, which leads to thermal activation and helps the mobile modifier ions to migrate easily by crossing the barrier. Further, studied dielectric relaxation using the scaling behavior in terms of stretched exponent (\n                    <jats:italic>β</jats:italic>\n                    ). Dielectric loss tangent (tan\n                    <jats:italic>δ</jats:italic>\n                    ) shows inverse behavior with increasing frequency rates.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac942d",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac942d/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac942d/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:27.874494+00:00",
+  "updated_at": "",
+  "extra": {}
+}

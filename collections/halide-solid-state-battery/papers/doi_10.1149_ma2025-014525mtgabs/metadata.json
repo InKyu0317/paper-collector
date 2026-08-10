@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2025-014525mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Earth Abundant Solid Electrolyte for Low-Cost, High-Performance and Long-Life Solid-State Sodium-Sulfur Battery",
+  "authors": [
+    {
+      "name": "Yi Gan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yang Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-014525mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-014525mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tSodium batteries are considered a promising complementary and alternative technology to current lithium-ion batteries, particularly for large-scale energy storage and moderate-range electric vehicle applications.<jats:sup>[1–3]</jats:sup> Among sodium-based battery systems, sodium-sulfur (Na-S) batteries stand out as a sustainable option due to the high abundance, low cost, and non-toxicity of sodium and sulfur compounds, coupled with their high energy density.<jats:sup>[4–6]</jats:sup> Despite these advantages, Na-S batteries face significant challenges for practical deployment. For instance, the formation of sodium polysulfides during electrochemical reactions leads to shuttle effects in organic liquid electrolytes, which are also flammable and pose substantial safety risks.<jats:sup>[7,8]</jats:sup> Solid-state sodium-sulfur batteries (SSNSBs) have garnered significant attention in recent years due to their sustainability, high energy density, cost-effectiveness, and enhanced safety. Among the critical components of SSNSBs, solid-state electrolytes (SSEs) play a pivotal role in determining performance, with sulfide-based SSEs emerging as ideal candidates due to their excellent ionic conductivity, low grain boundary resistance, and compatibility with sulfur cathodes. Despite these advantages, fabricating sulfide SSEs that combine outstanding electrochemical stability, earth abundance, and low cost remains a challenge.</jats:p>\n               <jats:p>In this work, we successfully developed a novel glassy-ceramic Na-Al-S SSE characterized by earth-abundant raw materials, superior electrochemical stability, low cost, and exceptional long-cycle durability. Through comprehensive characterization techniques, we revealed that the material's edge-sharing tetrahedral AlS₄ crystal framework and metal-sulfide local chemical structures contribute to its excellent performance. SSNSBs employing Na-Al-S SSEs achieved an impressive reversible capacity of 1027 mAh g⁻¹ over 800 cycles, outperforming many reported SSEs in the literature. Furthermore, the material exhibited remarkable stability in dry air, with only a slight reduction in ionic conductivity after 200 hours of exposure. Also compared to conventional SSEs like Na₃SbS₄ and Na₃PS₄, our Na-Al-S SSEs demonstrated superior resistance to decomposition during electrochemical cycling, dense structural integrity, and robust mechanical properties that effectively suppress sodium dendrite formation. With these comprehensive advantages, the Na-Al-S SSE represents a promising candidate for advancing low-cost, high-performance, and long-lasting sustainable SSNSBs.</jats:p>\n               <jats:p>[1] J. Chen, G. Adit, L. Li, Y. Zhang, D. H. C. Chua, P. S. Lee, <jats:italic>ENERGY Environ. Mater.</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>6</jats:italic>, e12633.</jats:p>\n               <jats:p>[2] A. Rudola, R. Sayers, C. J. Wright, J. Barker, <jats:italic>Nat. Energy</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>8</jats:italic>, 215.</jats:p>\n               <jats:p>[3] Y. Wu, W. Shuang, Y. Wang, F. Chen, S. Tang, X.-L. Wu, Z. Bai, L. Yang, J. Zhang, <jats:italic>Electrochem. Energy Rev.</jats:italic>\n                  <jats:bold>2024</jats:bold>, <jats:italic>7</jats:italic>, 17.</jats:p>\n               <jats:p>[4] A. Y. S. Eng, V. Kumar, Y. Zhang, J. Luo, W. Wang, Y. Sun, W. Li, Z. W. Seh, <jats:italic>Adv. Energy Mater.</jats:italic>\n                  <jats:bold>2021</jats:bold>, <jats:italic>11</jats:italic>, 2003493.</jats:p>\n               <jats:p>[5] L. Lin, C. Zhang, Y. Huang, Y. Zhuang, M. Fan, J. Lin, L. Wang, Q. Xie, D.-L. Peng, <jats:italic>Small</jats:italic>\n                  <jats:bold>2022</jats:bold>, <jats:italic>18</jats:italic>, 2107368.</jats:p>\n               <jats:p>[6] Z. Huang, P. Jaumaux, B. Sun, X. Guo, D. Zhou, D. Shanmukaraj, M. Armand, T. Rojo, G. Wang, <jats:italic>Electrochem. Energy Rev.</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>6</jats:italic>, 21.</jats:p>\n               <jats:p>[7] Y.-J. Lei, H.-W. Liu, Z. Yang, L.-F. Zhao, W.-H. Lai, M. Chen, H. Liu, S. Dou, Y.-X. Wang, <jats:italic>Adv. Funct. Mater.</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>33</jats:italic>, 2212600.</jats:p>\n               <jats:p>[8] J. Ma, M. Wang, H. Zhang, Z. Shang, L. Fu, W. Zhang, B. Song, K. Lu, <jats:italic>Adv. Funct. Mater.</jats:italic>\n                  <jats:bold>2023</jats:bold>, <jats:italic>33</jats:italic>, 2214430.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-014525mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-014525mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-014525mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:05.681587+00:00",
+  "updated_at": "",
+  "extra": {}
+}

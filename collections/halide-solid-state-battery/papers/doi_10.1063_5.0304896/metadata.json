@@ -1,0 +1,43 @@
+{
+  "paper_id": "doi_10.1063_5.0304896",
+  "collection": "halide-solid-state-battery",
+  "title": "Phonon-confinement theory of thermal conductivity in ultrathin silicon films",
+  "authors": [
+    {
+      "name": "Alessio Zaccone",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0304896",
+  "url": "http://arxiv.org/abs/2506.11914v3",
+  "published": "2025-06-13T16:08:30+00:00",
+  "abstract": "The thermal properties of solids under nanoscale confinement are currently not understood at the atomic level. Recent numerical studies have highlighted the presence of a minimum in the thermal conductivity as a function of thickness for ultrathin films at a thickness about 1-2 nm, which cannot be described by existing theories. We develop a theoretical description of thin films which predicts a new physical law for heat transfer at the nanoscale. In particular, due to the strong redistribution of phonon momentum states in reciprocal space (with a transition from a spherical Debye surface to a different homotopy group $\\mathbb{Z}$ at strong confinement), the low-energy phonon density of states no longer follows Debye's law but rather a cubic law with frequency, which then crosses over to Debye's law at a crossover frequency proportional to the average speed of sound of the material and inversely proportional to the film thickness. Concomitantly, this implies that the phonon population becomes dominated by low-energy phonons as confinement increases, which then leads to a higher thermal conductivity under extreme confinement. The theory is able to reproduce the thermal conductivity minimum in recent molecular simulations data for ultrathin silicon and provides useful guidelines so as to tune the minimum position based on the mechanical properties of the material.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.other",
+    "cond-mat.soft",
+    "cond-mat.stat-mech"
+  ],
+  "source": "arxiv",
+  "source_id": "2506.11914v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0304896/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2506.11914v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:18.033744+00:00",
+  "updated_at": "",
+  "extra": {}
+}

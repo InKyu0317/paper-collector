@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1016_j.jallcom.2023.170167",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultra-low lattice thermal conductivity in tungsten-based scheelite ceramics",
+  "authors": [
+    {
+      "name": "Hicham Ait Laasri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN, Université de Tours - CNRS - INSA Centre Val de Loire - UMR7347, France"
+    },
+    {
+      "name": "Eliane Bsaibess",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN, Université de Tours - CNRS - INSA Centre Val de Loire - UMR7347, France"
+    },
+    {
+      "name": "Fabian Delorme",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN, Université de Tours - CNRS - INSA Centre Val de Loire - UMR7347, France"
+    },
+    {
+      "name": "Guillaume F. Nataf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN, Université de Tours - CNRS - INSA Centre Val de Loire - UMR7347, France"
+    },
+    {
+      "name": "Fabien Giovannelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "GREMAN, Université de Tours - CNRS - INSA Centre Val de Loire - UMR7347, France"
+    }
+  ],
+  "doi": "10.1016/j.jallcom.2023.170167",
+  "url": "http://arxiv.org/abs/2305.09576v1",
+  "published": "2023-05-16T16:16:46+00:00",
+  "abstract": "$BaWO_{4}$, $Ce_{2/3}\\square_{1/3}WO_{4}$ and $La_{2/3}\\square_{1/3}WO_{4}$ polycrystalline ceramics were synthesized by conventional solid-state reaction route. The effect of cation-deficiency on the crystallographic structure, microstructure and thermal properties of these scheelite-type compounds were investigated. X-ray diffraction was used to identify the single-phase scheelite structure of the studied ceramics. Scanning Electron Microscopy technique has revealed a homogenous and dense microstructure with a few micro-cracks. The thermal conductivity of $BaWO_{4}$ scheelite decreases from $1.3\\pm0.2$ to $1.0\\pm0.1 W m^{-1} K^{-1}$ in the range 373 K - 673 K. The cation-deficient scheelites $Ce_{2/3}\\square_{1/3}WO_{4}$ and $La_{2/3}\\square_{1/3}WO_{4}$ ceramics display an ultra-low thermal conductivity of $0.3\\pm0.04 W m^{-1} K^{-1}$ and $0.2\\pm0.03 W m^{-1} K^{-1}$ at 673 K, respectively. These materials exhibit among the lowest known values of thermal conductivity in crystalline oxides, in this temperature range. Therefore, they appear as very attractive for thermal barrier coating and thermoelectric applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.09576v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jallcom.2023.170167/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.09576v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:08.914039+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,103 @@
+{
+  "paper_id": "arxiv_2402.03677v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Physics-based Modeling of Pulse and Relaxation of High-rate Li/CF$_{x}$-SVO batteries in Implantable Medical Devices",
+  "authors": [
+    {
+      "name": "Qiaohao Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Giacomo Galuppini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Partha M. Gomadam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Prabhakar A. Tamirisa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeffrey A. Lemmerman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael J. M. Mazack",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Melani G. Sullivan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Richard D. Braatz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Z. Bazant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.03677v1",
+  "published": "2024-02-06T03:58:41+00:00",
+  "abstract": "We present a physics-based model that accurately predicts the performance of Medtronic's implantable medical device battery lithium/carbon monofluoride (CF$_x$) - silver vanadium oxide (SVO) under both low-rate background monitoring and high-rate pulsing currents. The distinct properties of multiple active materials are reflected by parameterizing their thermodynamics, kinetics, and mass transport properties separately. Diffusion limitations of Li$^+$ in SVO are used to explain cell voltage transient behavior during pulse and post-pulse relaxation. We also introduce change in cathode electronic conductivity, Li metal anode surface morphology, and film resistance buildup to capture evolution of cell internal resistance throughout multi-year electrical tests. We share our insights on how the Li$^+$ redistribution process between active materials can restore pulse capability of the hybrid electrode, allow CF$_x$ to indirectly contribute to capacity release during pulsing, and affect the operation protocols and design principles of batteries with other hybrid electrodes. We also discuss additional complexities in porous electrode model parameterization and electrochemical characterization techniques due to parallel reactions and solid diffusion pathways across active materials. We hope our models implemented in the Hybrid Multiphase Porous Electrode Theory (Hybrid-MPET) framework can complement future experimental research and accelerate development of multi-active material electrodes with targeted performance.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.03677v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.03677v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.03677v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-10T02:50:25.206963+00:00",
+  "updated_at": "",
+  "extra": {}
+}
