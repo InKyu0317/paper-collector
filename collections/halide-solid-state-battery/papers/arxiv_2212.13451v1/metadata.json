@@ -1,0 +1,135 @@
+{
+  "paper_id": "arxiv_2212.13451v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Compositionally Complex Perovskite Oxides as a New Class of Li-Ion Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Shu-Ting Ko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tom Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dawei Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wei-Tao Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xin Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wei-Che Tsai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shikai Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhaokun Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "William J. Bowman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoqing Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jian Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2212.13451v1",
+  "published": "2022-12-27T11:24:05+00:00",
+  "abstract": "Compositionally complex ceramics (CCCs), including high-entropy ceramics (HECs) as a subclass, offer new opportunities of materials discovery beyond the traditional methodology of searching new stoichiometric compounds. Herein, we establish new strategies of tailoring CCCs via a seamless combination of (1) non-equimolar compositional designs and (2) controlling microstructures and interfaces. Using oxide solid electrolytes for all-solid-state batteries as an exemplar, we validate these new strategies via discovering a new class of compositionally complex perovskite oxides (CCPOs) to show the possibility of improving ionic conductivities beyond the limit of conventional doping. As an example (amongst the 28 CCPOs examined), we demonstrate that the ionic conductivity can be improved by >60% in (Li0.375Sr0.4375)(Ta0.375Nb0.375Zr0.125Hf0.125)O3-δ, in comparison with the state-of-art (Li0.375Sr0.4375)(Ta0.75Zr0.25)O3-δ (LSTZ) baseline, via maintaining comparable electrochemical stability. Furthermore, the ionic conductivity can be improved by another >70% via grain boundary (GB) engineering, achieving >270% of the LSTZ baseline. This work suggests transformative new strategies for designing and tailoring HECs and CCCs, thereby opening a new window for discovering materials for energy storage and many other applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2212.13451v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2212.13451v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2212.13451v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:13.390427+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.54227_elab.20250002",
+  "collection": "halide-solid-state-battery",
+  "title": "Applying Lewis Acid-Base Chemistry towards a 4.8 V PEO-Based Solid-State Lithium Metal battery",
+  "authors": [
+    {
+      "name": "Da-Wei Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.54227/elab.20250002",
+  "url": "https://doi.org/10.54227/elab.20250002",
+  "published": null,
+  "abstract": "<jats:p>Solid-state batteries (SSBs) are gaining considerable attention as the next-generation energy storage technology due to their potential for high energy density, enhanced safety, and long cycle life compared to conventional liquid electrolyte-based batteries1, 2. Among the various types of SSBs, solid polymer-based electrolytes (SPEs) stand out due to their flexibility and processability, which facilitate better electrode-electrolyte contact and enable safer, compact designs3. Notably, polyethylene oxide (PEO)-based electrolytes have emerged as promising candidates due to their ease of fabrication, low cost, and environmental friendliness4.\nHowever, the poor high-voltage compatibility of PEO-based SPEs leads to the compromise of the energy density of SSBs5. The primary challenge lies in their intrinsically poor oxidative stability, especially at voltages exceeding 4.2 V6, 7. Additionally, the strong interactions between the ether oxygen (EO) chains in PEO and the high-voltage cathode active materials (e.g. LiNixMnyCo(1-x-y)O2) lead to electrochemical side reactions at the cathode/electrolyte interface, which hampers the capacity of the battery and shortens its cycle life8-11. Overcoming these challenges is crucial to unlocking the potential of PEO-based electrolytes in high-voltage batteries, and consequently, high-energy applications.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.54227/elab.20250002",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.54227_elab.20250002/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Energy Lab",
+  "publisher": "",
+  "issn": "2653-7702",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:13.390935+00:00",
+  "updated_at": "",
+  "extra": {}
+}

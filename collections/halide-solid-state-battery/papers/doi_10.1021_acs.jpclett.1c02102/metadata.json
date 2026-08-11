@@ -1,0 +1,96 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.1c02102",
+  "collection": "halide-solid-state-battery",
+  "title": "Multi-Pulse Terahertz Spectroscopy Unveils Hot Polaron Photoconductivity Dynamics in Metal-Halide Perovskites",
+  "authors": [
+    {
+      "name": "Xijia Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas R. Hopper",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrei Gorodetsky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marios Maimaris",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weidong Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bradley A. A. Martin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jarvist M. Frost",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Artem A. Bakulin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.1c02102",
+  "url": "http://arxiv.org/abs/2106.15967v3",
+  "published": "2021-06-30T10:26:55+00:00",
+  "abstract": "The behavior of hot carriers in metal-halide perovskites (MHPs) present a valuable foundation for understanding the details of carrier-phonon coupling in the materials as well as the prospective development of highly efficient hot carrier and carrier multiplication solar cells. Whilst the carrier population dynamics during cooling have been intensely studied, the evolution of the hot carrier properties, namely the hot carrier mobility, remain largely unexplored. To address this, we introduce a novel ultrafast visible pump - infrared push - terahertz probe spectroscopy (PPP-THz) to monitor the real-time conductivity dynamics of cooling carriers in methylammonium lead iodide. We find a decrease in mobility upon optically depositing energy into the carriers, which is typical of band-transport. Surprisingly, the conductivity recovery dynamics are incommensurate with the intraband relaxation measured by an analogous experiment with an infrared probe (PPP- IR), and exhibit a negligible dependence on the density of hot carriers. These results and the kinetic modelling reveal the importance of highly-localized lattice heating on the mobility of the hot electronic states. This collective polaron-lattice phenomenon may contribute to the unusual photophysics observed in MHPs and should be accounted for in devices that utilize hot carriers.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2106.15967v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.1c02102/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2106.15967v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:19.069896+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2507.11309v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A supramolecular ferroelectric with two sublattices and polarization dependent conductivity",
+  "authors": [
+    {
+      "name": "H. Mager",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Litterst",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sophia Klubertz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. V. Haridas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "O. Shyshov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. von Delius",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Kemerink",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.11309v1",
+  "published": "2025-07-15T13:40:43+00:00",
+  "abstract": "The possibility to combine and finetune properties of functional molecular materials by chemical design is particularly relevant for organic ferroelectrics. In this work, we investigate a class of organic molecular materials that show long-range supramolecular organization into fibrillar bundles. In solid state, the material shows ferroelectric behavior resulting from two largely independent dipolar moieties that show up as two separate coercive fields in polarization-hysteresis and capacitance-voltage curves. Moreover, the material shows a long-range electronic conductivity that arises due to oxidation at the positive electrode, followed by electron transfer between neighboring molecules. We find that this conductivity is modulated by the direction and degree of ferroelectric polarization, which we interpret in terms of injection barrier modulation at low electric fields and a recently developed framework for asymmetric polaron hopping at high fields. With two distinct, partially independent dipolar moieties offering the possibility to use ferroelectric properties to modulate conductance, the materials presented herein are a promising basis for multifunctional materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.11309v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.11309v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.11309v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:23.265780+00:00",
+  "updated_at": "",
+  "extra": {}
+}

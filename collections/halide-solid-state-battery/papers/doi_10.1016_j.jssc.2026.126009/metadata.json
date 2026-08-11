@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1016_j.jssc.2026.126009",
+  "collection": "halide-solid-state-battery",
+  "title": "Investigating potassium-ion conductivity in mineral-inspired oxides: a case study of langbeinite K2Zr2P2SiO12",
+  "authors": [
+    {
+      "name": "Andrew J. Robinson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0002-5466-0402",
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel J. White",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-1667-0520",
+      "affiliation": ""
+    },
+    {
+      "name": "Jocelyn Elgin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0003-7088-1843",
+      "affiliation": ""
+    },
+    {
+      "name": "Yiying Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jssc.2026.126009",
+  "url": "https://doi.org/10.1016/j.jssc.2026.126009",
+  "published": "2026-7",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jssc.2026.126009",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jssc.2026.126009/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "",
+  "issn": "0022-4596",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:51.923528+00:00",
+  "updated_at": "",
+  "extra": {}
+}

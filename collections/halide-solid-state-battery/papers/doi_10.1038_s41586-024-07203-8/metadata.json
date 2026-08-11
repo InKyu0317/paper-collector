@@ -1,0 +1,194 @@
+{
+  "paper_id": "doi_10.1038_s41586-024-07203-8",
+  "collection": "halide-solid-state-battery",
+  "title": "Discovery of a hybrid topological quantum state in an elemental solid",
+  "authors": [
+    {
+      "name": "Md Shafayat Hossain",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Frank Schindler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rajibul Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zahir Muhammad",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yu-Xiao Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zi-Jia Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qi Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Hou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongyu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maksim Litskevich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Brian Casas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jia-Xin Yin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tyler A. Cochran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohammad Yahyavi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xian P. Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Balicas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guoqing Chang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weisheng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Titus Neupert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Zahid Hasan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41586-024-07203-8",
+  "url": "http://arxiv.org/abs/2401.04845v1",
+  "published": "2024-01-09T22:55:36+00:00",
+  "abstract": "Topology and interactions are foundational concepts in the modern understanding of quantum matter. Their nexus yields three significant research directions: competition between distinct interactions, as in the multiple intertwined phases, interplay between interactions and topology that drives the phenomena in twisted layered materials and topological magnets, and the coalescence of multiple topological orders to generate distinct novel phases. The first two examples have grown into major areas of research, while the last example remains mostly untouched, mainly because of the lack of a material platform for experimental studies. Here, using tunneling microscopy, photoemission spectroscopy, and theoretical analysis, we unveil a \"hybrid\" and yet novel topological phase of matter in the simple elemental solid arsenic. Through a unique bulk-surface-edge correspondence, we uncover that arsenic features a conjoined strong and higher-order topology, stabilizing a hybrid topological phase. While momentum-space spectroscopy measurements show signs of topological surface states, real-space microscopy measurements unravel a unique geometry of topology-induced step edge conduction channels revealed on various forms of natural nanostructures on the surface. Using theoretical models, we show that the existence of gapless step edge states in arsenic relies on the simultaneous presence of both a nontrivial strong Z2 invariant and a nontrivial higher-order topological invariant, providing experimental evidence for hybrid topology and its realization in a single crystal. Our discovery highlights pathways to explore the interplay of different kinds of band topology and harness the associated topological conduction channels in future engineered quantum or nano-devices.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.other",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.04845v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41586-024-07203-8/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.04845v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:45.331856+00:00",
+  "updated_at": "",
+  "extra": {}
+}

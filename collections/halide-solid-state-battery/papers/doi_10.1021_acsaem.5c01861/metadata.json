@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1021_acsaem.5c01861",
+  "collection": "halide-solid-state-battery",
+  "title": "Two Orders of Magnitude Enhancement in Oxide Ion Conductivity in Cu2P2O7 via Vanadium Substitution: A Pathway Toward SOFC Electrolytes",
+  "authors": [
+    {
+      "name": "Bibhas Ghanta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kuldeep Singh Chikara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Uttam Kumar Goutam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anup Kumar Bera",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seikh Mohammad Yusuf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsaem.5c01861",
+  "url": "http://arxiv.org/abs/2510.25325v1",
+  "published": "2025-10-29T09:39:52+00:00",
+  "abstract": "In the quest of green energy, Solid Oxide Fuel Cells (SOFC) have drawn considerable attention for chemical-to-electric energy conversion. In the present paper, we report an enhancement of ionic conductivity in Cu2P2-xVxO7 by vanadium substitution. The electrical (dc and ac conductivity, diffusivity, hopping rate, electric modulus and dielectric properties) and crystal structural properties of Cu2P2-xVxO7 (x = 0, 0.4, 0.6, 0.8 and 1) are investigated by impedance spectroscopy and neutron diffraction, respectively. X-ray photoelectron spectroscopy (XPS) study confirms the presence of Cu2+, P5+and V5+ mono-valence states. The dc conductivity results reveal a two orders of magnitude enhancement of ionic conductivity from ~3.81x10-5 S cm-1 for x =0 to ~2.08x10-3 S cm-1 for x =1 at 993 K, revealing a possible application in SOFCs. DC transport number studies reveal that the total conductivity is dominated by ionic conduction (> 95%). In addition, the diffusivity and hopping rate of oxide ions increase with increasing x. Besides, ac conductivity, electric modulus and dielectric properties have been investigated to illustrate the microscopic conduction mechanism. The derived results suggest that the mechanism for ionic conduction is the correlated barrier hopping (CBH) process. The soft-bond valence sum (BVS) analysis of the neutron diffraction patterns reveals the three-dimensional (3D) oxide ion conduction pathways within the crystal structure. The present study provides a pathway to enhance the ionic conductivity, as well as understanding of microscopic conduction mechanism, ionic conduction pathways and the role of crystal structure on the ionic conduction.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.25325v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsaem.5c01861/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.25325v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:51.923108+00:00",
+  "updated_at": "",
+  "extra": {}
+}

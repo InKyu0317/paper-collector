@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.3390_en17184530",
+  "collection": "halide-solid-state-battery",
+  "title": "Development of Solid-State Lithium-Ion Batteries (LIBs) to Increase Ionic Conductivity through Interactions between Solid Electrolytes and Anode and Cathode Electrodes",
+  "authors": [
+    {
+      "name": "Majid Monajjemi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6665-837X",
+      "affiliation": "Department of Chemical Engineering, Central Tehran Branch, Islamic Azad University, Tehran P.O. Box 1496969191, Iran"
+    },
+    {
+      "name": "Fatemeh Mollaamin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6896-336X",
+      "affiliation": "Department of Biomedical Engineering, Faculty of Engineering and Architecture, Kastamonu University, Kastamonu 37150, Turkey"
+    }
+  ],
+  "doi": "10.3390/en17184530",
+  "url": "https://doi.org/10.3390/en17184530",
+  "published": null,
+  "abstract": "<jats:p>Although in general ions are not able to migrate in the solid-state position due to rigid skeletal structure, in some solid electrolytes with a low energy barrier and high ionic conductivities, these ion transition can occur. In this work, we considered several solid electrolytes including lithium phosphorus oxy-nitride (LIPON), a lithium super-ionic conductor (SILICON), and thio-LISICON. For the fabrication and characterization of the solid electrolyte’s fabrication, we used a single-step ball milling (SSBM) procedure. Through this research on all-solid-state rechargeable lithium-ion batteries, our target is to discuss solving several problems in solid LIBs that have recently escalated due to raised concerns relating to safety hazards such as solvent leakage and the flammability of the liquid electrolytes used for commercial LIBs. Through this research, we tested the conductivity amounts of various substrates containing amorphous glass, SSBM, and glass-ceramic samples. Obviously, the SSBM glass-ceramics increased the conductivity, and we also found that the values for conductivity attained by SSBM were higher than those values for glass-ceramics. Using an SSBM technique, silicon nanoparticles were used as an anode material and it was found that the charge and discharge curves in the battery cell cycled between 0.009 and 1.45 V versus Li+/Li at a current density of 210 mA g−1 at room temperature. Since high resistance causes degradation between the cathode material (LiCoO2) and the solid electrolyte, we added GeS2 and SiS2 to the Li2S-P2S5 system to obtain higher conductivities and better stability of the electrode–electrolyte interface.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/en17184530",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_en17184530/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 9,
+  "journal": "Energies",
+  "publisher": "",
+  "issn": "1996-1073",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:14.912983+00:00",
+  "updated_at": "",
+  "extra": {}
+}

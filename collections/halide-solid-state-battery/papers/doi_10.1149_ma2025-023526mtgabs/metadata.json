@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2025-023526mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Advanced Solid-State Lithium-Oxygen Battery",
+  "authors": [
+    {
+      "name": "Xiaozhou Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Khalil Amine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-023526mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-023526mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    Solid-state lithium oxygen batteries (LOBs) are known for their enhanced safety, higher electrochemical stability, and improved energy density compared to liquid-state LOBs. However, the investigation of solid-state LOBs is limited with little understanding of their discharge and charge processes. In this work, a polymer-based solid-state LOB is used to investigate the effect of discharge rate on lithium peroxide (Li\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    ) formation, the oxygen evolution reaction (OER), and cycle performance. In contrast to liquid cells, we unexpectedly found that the size of Li\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    particles increased as discharge current density decreased. High discharge current densities facilitate higher ORR and OER efficiency, as Li\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    preferentially grows on existing particles rather than nucleating new ones at high discharge rate, reducing byproduct formation and enhancing Li\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    yield. Cathode impedance was found to increase with decreasing current density while anode impedance was found to increase with increasing current density, both contribute to a reduced cycle life of solid-state LOBs and an optimal middle-ground current density. This work provides fundamental insights into the electrochemical behavior of solid-state LOBs, offering a strategic framework for optimizing discharge conditions to enhance efficiency, stability, and cycle life in next-generation energy storage systems.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-023526mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-023526mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-023526mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:15.872969+00:00",
+  "updated_at": "",
+  "extra": {}
+}

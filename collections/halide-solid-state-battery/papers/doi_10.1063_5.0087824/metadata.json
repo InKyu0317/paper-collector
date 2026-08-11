@@ -1,0 +1,73 @@
+{
+  "paper_id": "doi_10.1063_5.0087824",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of Succinonitrile on Ion Transport in PEO-based Lithium Ion Battery Electrolytes",
+  "authors": [
+    {
+      "name": "Sipra Mohapatra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shubham Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aman Sriperumbuduru",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Srinivasa Rao Varanasi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Santosh Mogurampelly",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1063/5.0087824",
+  "url": "http://arxiv.org/abs/2112.06231v2",
+  "published": "2021-12-12T13:19:05+00:00",
+  "abstract": "We report the ion transport mechanisms in succinonitrile (SN) loaded solid polymer electrolytes containing polyethylene oxide (PEO) and dissolved lithium bis(trifluoromethane)sulphonamide (LiTFSI) salt using molecular dynamics simulations. We investigated the effect of temperature and loading of SN on ion transport and relaxation phenomenon in PEO-LiTFSI electrolytes. It is observed that SN increases the ionic diffusivities in PEO-based solid polymer electrolytes and makes them suitable for battery applications. Interestingly, the diffusion coefficient of TFSI ions is an order of magnitude higher than the diffusion coefficient of lithium ions across the range of temperatures and loadings integrated. By analyzing different relaxation timescales and examining the underlying transport mechanisms in SN-loaded systems, we find that the diffusivity of TFSI ions correlates excellently with the Li-TFSI ion-pair relaxation timescales. In contrast, our simulations predict distinct transport mechanisms for Li-ions in SN-loaded PEO-LiTFSI electrolytes. Explicitly, the diffusivity of lithium ions cannot be uniquely determined by the ion-pair relaxation timescales but additionally depends on the polymer segmental dynamics. On the other hand, the SN loading induced diffusion coefficient at a given temperature does not correlate with either the ion-pair relaxation timescales or the polymer segmental relaxation timescales.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech"
+  ],
+  "source": "arxiv",
+  "source_id": "2112.06231v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1063_5.0087824/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2112.06231v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-11T02:46:09.078420+00:00",
+  "updated_at": "",
+  "extra": {}
+}
