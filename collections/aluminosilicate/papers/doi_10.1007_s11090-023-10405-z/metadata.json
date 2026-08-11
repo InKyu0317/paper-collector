@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1007_s11090-023-10405-z",
+  "collection": "aluminosilicate",
+  "title": "Surface Dielectric Barrier Discharge (sDBD) for Flow Control in Plasma Conversion",
+  "authors": [
+    {
+      "name": "Soad Mohsenimehr",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Achim von Keudell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-023-10405-z",
+  "url": "https://doi.org/10.1007/s11090-023-10405-z",
+  "published": "2023-11",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Dielectric barrier discharges (DBD) are often used for gas conversion, such as carbon dioxide splitting, volatile organic compound removal or ozone generation. Due to the tiny plasma filaments in DBD discharges, efficient mixing of the gas flow with the plasma is essential. This is studied by using a surface dielectric barrier discharge (sDBD) with an electrode design similar to plasma actuators to optimize plasma-flow interaction. The flow pattern has been measured by Schlieren diagnostics and compared to a fluid dynamic simulation. Gas conversion efficiency has been tested by monitoring the conversion of 0.7% CO<jats:inline-formula><jats:alternatives><jats:tex-math>$$_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mrow/>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> admixed to an N<jats:inline-formula><jats:alternatives><jats:tex-math>$$_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mrow/>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> gas stream via infrared spectroscopy in the exhaust. The actuator design of the electrodes induces a significant plasma force on the fluid, which results in the formation of vortices above the electrodes, as reproduced in the simulation. It is shown that the height of the vortices created in the velocity field can characterize the mixing process, which dominates the conversion efficiency of carbon dioxide at different gas flow rates.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-023-10405-z",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-023-10405-z/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-023-10405-z.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 13,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-11T02:42:05.036608+00:00",
+  "updated_at": "",
+  "extra": {}
+}
