@@ -1,0 +1,111 @@
+{
+  "paper_id": "doi_10.1038_s41467-022-31416-y",
+  "collection": "halide-solid-state-battery",
+  "title": "A-site Cation Influence on the Conduction Band of Lead Bromide Perovskites",
+  "authors": [
+    {
+      "name": "Gabriel J. Man",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chinnathambi Kamal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandr Kalinko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dibya Phuyal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joydev Acharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Soham Mukherjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pabitra K. Nayak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Håkan Rensmo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael Odelius",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergei M. Butorin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-022-31416-y",
+  "url": "http://arxiv.org/abs/2109.08587v1",
+  "published": "2021-09-17T15:07:19+00:00",
+  "abstract": "Hot carrier solar cells hold promise for exceeding the Shockley-Queisser limit. Slow hot carrier cooling is one of the most intriguing properties of lead halide perovskites and distinguishes this class of materials from competing materials used in solar cells. Here we use the element selectivity of high-resolution X-ray spectroscopy to uncover a previously hidden feature in the conduction band states, the σ-π energy separation, and find that it is strongly influenced by the strength of electronic coupling between the A-cation and bromide-lead sublattice. Our finding provides an alternative mechanism to the commonly discussed polaronic screening and hot phonon bottleneck carrier cooling mechanisms. Our work emphasizes the optoelectronic role of the A-cation, provides a comprehensive view of A-cation effects in the electronic and crystal structures, and outlines a broadly applicable spectroscopic approach for assessing the impact of chemical alterations of the A-cation on halide and potentially non-halide perovskite electronic structure.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2109.08587v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-022-31416-y/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2109.08587v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:25.669278+00:00",
+  "updated_at": "",
+  "extra": {}
+}

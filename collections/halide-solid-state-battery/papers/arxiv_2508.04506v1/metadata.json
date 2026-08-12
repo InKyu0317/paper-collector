@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2508.04506v1",
+  "collection": "halide-solid-state-battery",
+  "title": "$β$-Irida-Graphene: A New 2D Carbon Allotrope for Sodium-Ion Battery Anodes",
+  "authors": [
+    {
+      "name": "José A. S. Laranjeira",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kleuton A. L. Lima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicolas F. Martins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luiz A. Ribeiro Junior",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Douglas S. Galvão",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis A. Cabral",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Julio R. Sambrano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2508.04506v1",
+  "published": "2025-08-06T14:51:36+00:00",
+  "abstract": "The quest for sustainable and efficient energy storage has driven the exploration of sodium-ion batteries (SIBs) as promising alternatives to lithium-ion systems. However, the larger ionic radius of sodium poses intrinsic challenges such as slow diffusion and structural strain in conventional electrode materials. As a contribution to addressing these limitations, the \\b{eta}-Irida-graphene ($β$-IG) is herein introduced, a novel two-dimensional (2D) carbon allotrope derived from Irida-graphene, featuring a diverse polygonal lattice of 3-, 4-, 6-, 8-, and 9-membered carbon rings. Through density functional theory and ab initio molecular dynamics simulations, $β$-IG demonstrated remarkable thermal, dynamical, and mechanical stability, coupled with intrinsic conductive character and efficient sodium-ion mobility (energy barriers < 0.30 eV). Furthermore, the adsorption of sodium ions was energetically favorable, delivering an impressive predicted specific capacity of 554.5 mAh/g. The reported findings highlight $β$-IG as a good potential anode candidate for next-generation SIBs, offering high-rate performance and structural robustness, and expanding the functional design space for advanced carbon-based electrode materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.04506v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2508.04506v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.04506v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:56:56.141602+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2403.01557v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Location and migration of interstitial Li ions in CsPbI$_3$ crystals",
+  "authors": [
+    {
+      "name": "Wei Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Julian Gebhardt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel F. Urban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Elsässer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2403.01557v1",
+  "published": "2024-03-03T16:38:25+00:00",
+  "abstract": "Halide perovskites are highly promising light-harvesting materials with strong ionic character, enabling in principle the combination of a solar cell and a Li-ion battery in one integrated photo-battery device. Here, we investigate Li ions inside crystals of CsPbI$_3$, as a prototype compound, by means of density-functional-theory calculations. Our findings demonstrate that the interstitial location and migration of Li ions depend strongly on the dynamic nature of the crystal structure of the perovskite compound. We consider two limiting cases for Li in CsPbI$_{3}$,(i) the cubic-symmetry structure as a model for the limit of fast ion motion and (ii) a distorted cubic structure as a model for the limit of slow ion motion. For both limiting cases we obtain moderate energy barriers for migrating Li ions, which highlight the potential of halide perovskites like CsPbI$_3$ for applications in photo-battery devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.01557v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2403.01557v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.01557v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:06.536139+00:00",
+  "updated_at": "",
+  "extra": {}
+}

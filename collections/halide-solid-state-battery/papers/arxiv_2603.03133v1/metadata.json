@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2603.03133v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Influence of stacking, coordination, and surface chemistry on Al intercalation in V$_2$CT$_2$ and Ti$_3$C$_2$T$_2$ MXenes for Al-ion batteries",
+  "authors": [
+    {
+      "name": "Amal Raj Veluthedath Nair",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nuala M. Caffrey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.03133v1",
+  "published": "2026-03-03T16:05:53+00:00",
+  "abstract": "As the energy storage ecosystem evolves beyond lithium, MXenes, a versatile family of 2D materials derived from MAX phases, have emerged as promising candidates for next-generation energy storage electrodes due to their tunable surface chemistry, large interlayer spacing, and excellent electronic conductivity. In this work, we use density functional theory to investigate Ti$_3$C$_2$ and V$_2$C MXenes as cathodes in Al-ion batteries. Four stacking configurations of the two-dimensional sheets and two different ion coordination sites are evaluated to understand their influence on ion intercalation and mobility. We find that the stacking configuration and surface chemistry critically impact interlayer spacing and electrochemical performance. O-terminated layers in an octahedral stacking exhibit remarkable structural stability with minimal interlayer expansion upon ion intercalation, particularly for Al intercalation in V$_2$C which exhibits an interlayer expansion of 0.1 angstrom, consistent with experimental findings. While octahedral stacking is observed to be energetically more favourable, it reduces ion mobility compared to prismatic stacking. Furthermore, O-terminated MXenes exhibit high theoretical specific capacities, reaching more than 270 mAh/g. F-terminated MXenes are considerably more unstable after intercalation and as a result exhibit much lower Al capacities. These findings highlight the importance of stacking configurations, termination and intercalant chemistry in MXenes for battery applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.03133v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.03133v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.03133v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:22.300879+00:00",
+  "updated_at": "",
+  "extra": {}
+}

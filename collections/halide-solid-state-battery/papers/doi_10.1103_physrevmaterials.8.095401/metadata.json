@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1103_physrevmaterials.8.095401",
+  "collection": "halide-solid-state-battery",
+  "title": "First-principles study of strain behavior in iron-based fluorides of tungsten bronze type as cathode materials for alkali-ion batteries",
+  "authors": [
+    {
+      "name": "A. F. Baumann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Mutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. F. Urban",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "C. Elsässer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevMaterials.8.095401",
+  "url": "http://arxiv.org/abs/2406.16677v2",
+  "published": "2024-06-24T14:35:56+00:00",
+  "abstract": "Mechanical stresses and strains in the microstructure of cathode materials evolving during charge/discharge cycles can reduce the long-term stability of intercalation-type alkali-metal-ion batteries. In this context, crystalline compounds exhibiting zero-strain (ZS) behavior are of particular interest. Near-ZS sodiation was experimentally measured in the tetragonal tungsten bronze (TTB) type compound Na$_x$FeF$\\mathrm{_3}$. Using a first-principles method based on density functional theory, we investigate the potential of iron-based fluoride compounds with tungsten bronze (TB) structures as ZS cathode materials. Simulations were conducted to study the intercalation of the alkali metal ions Li$\\mathrm{^+}$, Na$\\mathrm{^+}$, and K$\\mathrm{^+}$ into the TTB and two related TB structures of the cubic perovskite (PTB) and hexagonal (HTB) types. We describe compensating local volume effects that can explain the experimentally measured low volume change of Na$_x$FeF$\\mathrm{_3}$. We discuss the structural and chemical prerequisites of the host lattice for ZS insertion mechanism for alkali ions in TB structures and present a qualitative descriptor to predict the local volume change, that provides a way for faster screening and discovery of novel ZS battery materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.16677v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevmaterials.8.095401/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.16677v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:36.755113+00:00",
+  "updated_at": "",
+  "extra": {}
+}

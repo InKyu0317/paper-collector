@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-014526mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(<i>Invited</i>) Low-Cost Molten Na Battery Chemistry: Revisiting Na-Metal Halide Battery Technology",
+  "authors": [
+    {
+      "name": "Guosheng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-014526mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-014526mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tAs continuous increasing deployment of renewable energy sources like wind and solar grows, managing the intermittent nature of these resources becomes increasingly critical. Effective energy storage solutions are essential to balance supply and demand over varying time scales. While lithium-ion batteries (LIBs) currently lead both grid storage and electric vehicle markets, their scalability is limited by the high costs and scarcity of materials like lithium (Li) and cobalt (Co). Additionally, LIBs are suited for short-term storage (~4 hours) but fall short for long-duration energy storage (LDES) needs exceeding 10 hours.</jats:p>\n               <jats:p>These limitations have renewed interest in molten sodium (Na) battery technologies, such as sodium-sulfur (Na-S) and sodium metal-halide (Na-MH) batteries. Molten sodium batteries offer advantages in material abundance and lower costs, addressing sustainability and supply chain concerns. Current research aims to reduce their high operating temperatures (250–350°C) to near sodium's melting point (~100°C), which would simplify thermal management, cut costs, and enhance cell performance, including longer cycle life and better capacity utilization. Substituting traditional nickel (Ni) cathodes with affordable metals like iron (Fe), zinc (Zn), or aluminum (Al) shows promise for further cost reductions and supply chain security.</jats:p>\n               <jats:p>This presentation will summarize recent molten sodium battery advancements, focusing on their potential for low materials cost and longevity. These developments mark significant progress toward overcoming the storage challenges associated with renewable energy integration, advancing a more sustainable and resilient energy future.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-014526mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-014526mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-014526mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:07.247613+00:00",
+  "updated_at": "",
+  "extra": {}
+}

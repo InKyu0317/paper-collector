@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2403.20138v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Na Vacancy Driven Phase Transformation and Fast Ion Conduction in W-doped Na$_3$SbS$_4$ from Machine Learning Force Fields",
+  "authors": [
+    {
+      "name": "Johan Klarbring",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aron Walsh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2403.20138v1",
+  "published": "2024-03-29T12:15:25+00:00",
+  "abstract": "Solid-state sodium batteries require effective electrolytes that conduct at room temperature. The Na$_3$SbS$_4$ (Pn = P, Sb; Ch = S, Se) family have been studied for their high Na ion conductivity. The population of Na vacancies, which mediate ion diffusion in these materials, can be enhanced through aliovalent doping on the pnictogen site. To probe the microscopic role of extrinsic doping, and its impact on diffusion and phase stability, we trained a machine learning force field for Na$_{3-x}$W$_{x}$Sb$_{1-x}$S$_4$ based on an equivariant graph neural network. Analysis of large-scale molecular dynamics trajectories shows that an increased Na vacancy population stabilises the global cubic phase at lower temperatures with enhanced Na ion diffusion, and that the explicit role of the substitutional W dopants is limited. In the global cubic phase we observe large and long-lived deviations of atoms from the averaged symmetry, echoing recent experimental suggestions. Evidence of correlated Na ion diffusion is also presented that underpins the suggested superionic nature of these materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.20138v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2403.20138v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.20138v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:15.193121+00:00",
+  "updated_at": "",
+  "extra": {}
+}

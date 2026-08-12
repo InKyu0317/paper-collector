@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1002_cey2.717",
+  "collection": "halide-solid-state-battery",
+  "title": "Novel Sn‐Doped NASICON‐Type Na<sub>3.2</sub>Zr<sub>2</sub>Si<sub>2.2</sub>P<sub>0.8</sub>O<sub>12</sub> Solid Electrolyte With Improved Ionic Conductivity for a Solid‐State Sodium Battery",
+  "authors": [
+    {
+      "name": "Muhammad Akbar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4752-8307",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Iqra Moeez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1320-3240",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Young Hwan Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6549-3649",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Mingony Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Jiwon Jeong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Eunbyoul Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0003-2947-2933",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Ali Hussain Umar Bhatti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4342-0219",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Jae‐Ho Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    },
+    {
+      "name": "Kyung Yoon Chung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1273-746X",
+      "affiliation": "Energy Storage Research Center, Korea Institute of Science and Technology Seongbuk‐gu Seoul Republic of Korea"
+    }
+  ],
+  "doi": "10.1002/cey2.717",
+  "url": "https://doi.org/10.1002/cey2.717",
+  "published": "2025-5",
+  "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Solid electrolytes face challenges in solid‐state sodium batteries (SSSBs) because of limited ionic conductivity, increased interfacial resistance, and sodium dendrite issues. In this study, we adopted a unique Sn<jats:sup>4+</jats:sup> doping strategy for Na<jats:sub>3.2</jats:sub>Zr<jats:sub>2</jats:sub>Si<jats:sub>2.2</jats:sub>P<jats:sub>0.8</jats:sub>O<jats:sub>12</jats:sub> (NZSP) that caused a partial structural transition from the monoclinic (<jats:italic>C</jats:italic>2/<jats:italic>c</jats:italic>) phase to the rhombohedral (<jats:italic>R</jats:italic>‐3<jats:italic>c</jats:italic>) phase in Na<jats:sub>3.2</jats:sub>Zr<jats:sub>1.9</jats:sub>Sn<jats:sub>0.1</jats:sub>Si<jats:sub>2.2</jats:sub>P<jats:sub>0.8</jats:sub>O<jats:sub>12</jats:sub> (NZSnSP1). X‐ray diffraction (XRD) patterns and high‐resolution transmission electron microscopy analyses were used to confirm this transition, where rhombohedral NZSnSP1 showed an increase in the Na2–O bond length compared with monoclinic NZSnSP1, increasing its triangular bottleneck areas and noticeably enhancing Na<jats:sup>+</jats:sup> ionic conductivity, a higher Na transference number, and lower electronic conductivity. NZSnSP1 also showed exceptionally high compatibility with Na metal with an increased critical current density, as evidenced by symmetric cell tests. The SSSB, fabricated using Na<jats:sub>0.9</jats:sub>Zn<jats:sub>0.22</jats:sub>Fe<jats:sub>0.3</jats:sub>Mn<jats:sub>0.48</jats:sub>O<jats:sub>2</jats:sub> (NZFMO), Na metal, and NZSnSP1 as the cathode, anode, and the solid electrolyte and separator, respectively, maintains 65.86% of retention in the reversible capacity over 300 cycles within a voltage range of 2.0–4.0 V at 25°C at 0.1 C. The in‐situ X‐ray diffraction and X‐ray absorption analyses of the P and Zr K‐edges confirmed that NZSnSP1 remained highly stable before and after electrochemical cycling. This crystal structure modification strategy enables the synthesis of ideal solid electrolytes for practical SSSBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/cey2.717",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_cey2.717/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 15,
+  "journal": "Carbon Energy",
+  "publisher": "",
+  "issn": "2637-9368",
+  "quartile": "",
+  "added_at": "2026-08-12T02:57:07.247957+00:00",
+  "updated_at": "",
+  "extra": {}
+}
