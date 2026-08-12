@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_plasma5010004",
+  "collection": "aluminosilicate",
+  "title": "Plasma Co-Polymerization of HMDSO and Limonene with an Atmospheric Pressure Plasma Jet",
+  "authors": [
+    {
+      "name": "Gerrit Wulf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Fraunhofer Institute for Manufacturing Technology and Advanced Materials IFAM, Wiener Street 12, 28359 Bremen, Germany"
+    },
+    {
+      "name": "Bernd Mayer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Fraunhofer Institute for Manufacturing Technology and Advanced Materials IFAM, Wiener Street 12, 28359 Bremen, Germany"
+    },
+    {
+      "name": "Uwe Lommatzsch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Fraunhofer Institute for Manufacturing Technology and Advanced Materials IFAM, Wiener Street 12, 28359 Bremen, Germany"
+    }
+  ],
+  "doi": "10.3390/plasma5010004",
+  "url": "https://doi.org/10.3390/plasma5010004",
+  "published": null,
+  "abstract": "<jats:p>Plasma co-polymers (co-p) were deposited with an atmospheric pressure plasma jet (APPJ) using a precursor mixture containing hexamethyldisiloxane (HMDSO) and limonene. A coating with fragments from both precursors and with siloxane, carbonyl and nitrogen functional groups was deposited. The flow rate of limonene was found to be an important parameter for plasma co-polymerization to tune the formation and structure of the functional groups. The FTIR and XPS analysis indicates that with increasing flow rate of limonene a higher proportion of carbon is bound to silicon. This is related to a stronger incorporation of fragments from limonene into the siloxane network and a weaker fragmentation of HMDSO. The formation mechanism of the nitroxide and carboxyl groups can be mainly differentiated into in-plasma and post-plasma reactions, respectively.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/plasma5010004",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_plasma5010004/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 18,
+  "journal": "Plasma",
+  "publisher": "",
+  "issn": "2571-6182",
+  "quartile": "",
+  "added_at": "2026-08-12T02:52:11.950368+00:00",
+  "updated_at": "",
+  "extra": {}
+}
