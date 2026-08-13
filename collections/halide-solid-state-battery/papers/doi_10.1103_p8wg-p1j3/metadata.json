@@ -1,0 +1,65 @@
+{
+  "paper_id": "doi_10.1103_p8wg-p1j3",
+  "collection": "halide-solid-state-battery",
+  "title": "Theory of Transient Heat Conduction",
+  "authors": [
+    {
+      "name": "David E. Crawford",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Judith Vidal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jianjun Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/p8wg-p1j3",
+  "url": "http://arxiv.org/abs/2501.00679v1",
+  "published": "2024-12-31T23:31:57+00:00",
+  "abstract": "Ultrafast and nanoscale heat conduction demands a unified theoretical framework that rigorously bridges macroscopic transport equations with microscopic material properties derived from statistical physics.Existing empirical generalizations of Fourier's law often lack a solid microscopic foundation, failing to connect observed non-Fourier behavior with underlying atomic scale mechanisms. In this work, we present a time-domain theory of transient heat conduction rooted in Zwanzig's statistical theory of irreversible processes. Central to this framework is the time-domain transport function, Z(t), defined through equilibrium time-correlation functions of heat fluxes. This function generalizes the conventional concept of steady-state thermal conductivity, governing the transition of conduction dynamics from onset second sound type wave propagation at finite speeds to diffusion-dominated behavior across broad temporal and spatial scales. Unlike phonon hydrodynamic models that rely on mesoscopic constructs such as phonon drift velocity, our approach provides a quantitative and microscopic description of intrinsic memory effects in transient heat fluxes and applies universally to bulk materials at any temperature or length scale. By integrating atomistic-scale first-principles calculations with continuum-level macroscopic equations, this framework offers a robust foundation for numerical simulations of transient temperature fields. Furthermore, it facilitates the interpretation and design of transient thermal grating experiments using nanometer-scale heat sources and ultrafast laser systems in the extreme ultraviolet and x-ray wavelength ranges, advancing our understanding of heat dissipation dynamics.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.00679v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_p8wg-p1j3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.00679v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:58:16.124811+00:00",
+  "updated_at": "",
+  "extra": {}
+}

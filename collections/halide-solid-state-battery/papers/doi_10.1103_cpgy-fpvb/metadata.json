@@ -1,0 +1,87 @@
+{
+  "paper_id": "doi_10.1103_cpgy-fpvb",
+  "collection": "halide-solid-state-battery",
+  "title": "Simulating charging characteristics of lithium iron phosphate by electro-ionic optimization on a quantum annealer",
+  "authors": [
+    {
+      "name": "Tobias Binninger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yin-Ying Ting",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Konstantin Köster",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nils Bruch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Payam Kaghazchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Piotr M. Kowalski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael H. Eikerling",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/cpgy-fpvb",
+  "url": "http://arxiv.org/abs/2503.10581v1",
+  "published": "2025-03-13T17:32:03+00:00",
+  "abstract": "The rapid evolution of quantum computing hardware opens up new avenues in the simulation of energy materials. Today's quantum annealers are able to tackle complex combinatorial optimization problems. A formidable challenge of this type is posed by materials with site-occupational disorder for which atomic arrangements with a low, or lowest, energy must be found. In this article, a method is presented for the identification of the correlated ground-state distribution of both lithium ions and redox electrons in lithium iron phosphate (LFP), a widely employed cathode material in lithium-ion batteries. The point-charge Coulomb energy model employed correctly reproduces the LFP charging characteristics. As is shown, grand-canonical transformation of the energy cost function makes the combinatorial distribution problem solvable on quantum annealing (QA) hardware. The QA output statistics follow a pseudo-thermal behavior characterized by a problem-dependent effective sampling temperature, which has bearings on the estimated scaling of the QA performance with system size. This work demonstrates the potential of quantum computation for the joint optimization of electronic and ionic degrees of freedom in energy materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.10581v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_cpgy-fpvb/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.10581v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:57:42.777821+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2303.12953v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Temperature dependence of 7Li NMR relaxation rates in Li3InCl6, Li3YCl6, Li1.48Al0.48Ge1.52(PO4)3 and LiPS5Cl",
+  "authors": [
+    {
+      "name": "Darshan Chalise",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Juarez-Yescas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Beniamin Zahiri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paul V. Braun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David G. Cahill",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2303.12953v1",
+  "published": "2023-03-22T23:30:02+00:00",
+  "abstract": "Inorganic solid-state battery electrolytes show high ionic conductivities and enable the fabrication of all solid-state batteries. In this work, we present the temperature dependence of spin-lattice relaxation time (T1), spin-spin relaxation time (T2), and resonance linewidth of the 7Li nuclear magnetic resonance (NMR) for four solid-state battery electrolytes (Li3InCl6 (LIC), Li3YCl6 (LYC), Li1.48Al0.48Ge1.52(PO4)3 (LAGP) and LiPS5Cl (LPSC)) from 173 K to 403 K at a 7Li resonance frequency of 233 MHz, and from 253 K to 353 K at a 7Li resonance frequency of 291 MHz. Additionally, we measured the spin-lattice relaxation rates at an effective 7Li resonance frequency of 133 kHz using a spin-locking pulse sequence in the temperature range of 253 K to 353 K. In LPSC, the 7Li NMR relaxation is consistent with the Bloembergen-Pound-Purcell (BPP) theory of NMR relaxation of dipolar nuclei. In LIC, LYC and LAGP, the BPP theory does not describe the NMR relaxation rates for the temperature range and frequencies of our measurements. The presented NMR relaxation data assists in providing a complete picture of Li diffusion in the four solid-state battery electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2303.12953v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2303.12953v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2303.12953v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:57:45.847719+00:00",
+  "updated_at": "",
+  "extra": {}
+}

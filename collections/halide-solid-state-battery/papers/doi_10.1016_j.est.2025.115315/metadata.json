@@ -1,0 +1,39 @@
+{
+  "paper_id": "doi_10.1016_j.est.2025.115315",
+  "collection": "halide-solid-state-battery",
+  "title": "Microwave-driven synthesis and modification of nanocarbons and hybrids in liquid and solid phases",
+  "authors": [
+    {
+      "name": "Nagaraj Nandihalli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.est.2025.115315",
+  "url": "http://arxiv.org/abs/2501.10706v1",
+  "published": "2025-01-18T09:25:12+00:00",
+  "abstract": "Over the past 20 years, nanocarbons have become more significant as nanostructured fillers in composites and, more recently, as functional elements in a brand-new class of hybrid materials. Microwave-assisted synthesis and processing is a burgeoning subject matter in materials research with significant strides in the realm of nanocarbon during the last decade. The review examines recent approaches to producing various nanocarbons using microwaves as energy sources, the characterization of such materials for various applications, and their results. The underlying factors supporting the increased performance of such materials or their composites are analyzed and reaction mechanisms are presented wherever necessary. In particular, the recently developed and verified approaches to produce porous carbon materials, CNTs and fibers, carbon nanospheres, carbon dots, CQDs, reduced graphene oxide, nanocarbon hybrid materials, and the purification and modification of CNTs are discussed. The reduction of graphene oxide and the preparation of graphene derivative hybrids using solid-state and liquid-state routes such as polyopl, mixed solvents, ionic liquids, and microwave-assisted hydrothermal/solvothermal methods are analyzed in detail. In addition, the principles of microwave heating in liquid and solid states, the use of metals particles as arcing agents or catalysts, and carbonaceous materials as internal or external susceptors during synthesis and modifications are presented in detail.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.10706v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.est.2025.115315/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.10706v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:57:54.522183+00:00",
+  "updated_at": "",
+  "extra": {}
+}

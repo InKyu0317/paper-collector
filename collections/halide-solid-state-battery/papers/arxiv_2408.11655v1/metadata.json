@@ -1,0 +1,159 @@
+{
+  "paper_id": "arxiv_2408.11655v1",
+  "collection": "halide-solid-state-battery",
+  "title": "High-areal-capacity Na-ion battery electrode with uncompromised energy and power densities by simultaneous electrospinning-spraying fabrication",
+  "authors": [
+    {
+      "name": "Mengzheng Ouyang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenyu Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis E Salinas-Farran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yan Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Siyu Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kaitian Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mengnan Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guangdong Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feiran Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinhua Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shichun Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fei Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paul R. Shearing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maria-Magdalena Titirici",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nigel P. Brandon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2408.11655v1",
+  "published": "2024-08-21T14:26:27+00:00",
+  "abstract": "Sodium-ion batteries (SIBs) are cost-effective alternatives to lithium-ion batteries (LIBs), but their low energy density remains a challenge. Current electrode designs fail to simultaneously achieve high areal loading, high active content, and superior performance. In response, this work introduces an ideal electrode structure, featuring a continuous conductive network with active particles securely trapped in the absence of binder, fabricated using a universal technique that combines electrospinning and electrospraying (co-ESP). We found that the particle size must be larger than the network's pores for optimised performance, an aspect overlooked in previous research. The free-standing co-ESP Na2V3(PO4)3 (NVP) cathodes demonstrated state-of-the-art 296 mg cm-2 areal loading with 97.5 wt.% active content, as well as remarkable rate-performance and cycling stability. Co-ESP full cells showed uncompromised energy and power densities (231.6 Wh kg-1 and 7152.6 W kg-1), leading among reported SIBs with industry-relevant areal loadings. The structural merit is analysed using multi-scale X-ray computed tomography, providing valuable design insights.Finally, the superior performance is validated in the pouch cells, highlighting the electrode's scalability and potential for commercial application.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2408.11655v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2408.11655v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2408.11655v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:58:07.226313+00:00",
+  "updated_at": "",
+  "extra": {}
+}

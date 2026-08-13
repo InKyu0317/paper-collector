@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2305.02046v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Band degeneracy, resonant level formation and low thermal conductivity in dilute In and Ga co-doped thermoelectric compound SnTe",
+  "authors": [
+    {
+      "name": "Gaurav Jamwal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ankit Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohd Warish",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shruti Chakravarty",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Saravanan Muthiah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Asokan Kandasami",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Asad Niazi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.02046v1",
+  "published": "2023-05-03T11:28:00+00:00",
+  "abstract": "We report the effect of co-doping of In and Ga at low concentrations on the structural, electronic, and thermoelectric properties of SnTe based compositions $Sn_{1.03-2x}In_{x}Ga_{x}Te$ (x = 0, 0.01, 0.02, 0.04) prepared by the solid-state route and spark plasma sintering (SPS). All compositions formed in the fcc structure (Fm-3m) with no other impurity phase. The optical band gap increased with the co-doping, indicative of band convergence effects. First principle electronic structure calculations showed band convergence and the formation of resonant levels, due to Ga and In doping respectively. The carrier concentration increased on hole-doping by In and Ga ions while carrier mobility decreased due to impurity scattering. The resistivity increased with temperature, indicative of the degenerate semiconducting character of the compounds. The Seebeck coefficient of the doped samples increased linearly with temperature, reaching 85 - 95 $μ$V/K at 783 K. Thermal conductivity decreased sharply with co-doping, and the lattice thermal conductivity dropped to 0.42 W$m^{-1}$ $K^{-1}$ above 750 K. The enhanced power factor and low lattice thermal conductivity on doping resulted in a maximum figure of merit ZT = 0.34 at 773 K, twice that of the pristine SnTe.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.02046v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.02046v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.02046v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:58:11.601826+00:00",
+  "updated_at": "",
+  "extra": {}
+}

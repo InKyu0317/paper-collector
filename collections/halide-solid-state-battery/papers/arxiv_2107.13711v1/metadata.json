@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2107.13711v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Bio-inspired vascularized electrodes for high-performance fast-charging batteries designed by deep learning",
+  "authors": [
+    {
+      "name": "Chenxi Sui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yao-Yu Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiuqiang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Genesis Higueros",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Keyu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wanrong Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Po-Chun Hsu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2107.13711v1",
+  "published": "2021-07-29T02:30:19+00:00",
+  "abstract": "Slow ionic transport and high voltage drop (IR drop) of homogeneous porous electrodes are the critical causes of severe performance degradation of lithium-ion (Li-ion) batteries under high charging rates. Herein, we demonstrate that a bio-inspired vascularized porous electrode can simultaneously solve these two problems by introducing low tortuous channels and graded porosity. To optimize the vasculature structural parameters, we employ artificial neural networks (ANNs) to accelerate the computation of possible structures with high accuracy. Furthermore, an inverse-design searching library is compiled to find the optimal vascular structures under different industrial fabrication and design criteria. The prototype delivers a customizable package containing optimal geometric parameters and their uncertainty and sensitivity analysis. Finally, the full-vascularized cell shows a 66% improvement of charging capacity than the traditional homogeneous cell under 3.2C current density. This research provides an innovative methodology to solve the fast-charging problem in batteries and broaden the applicability of deep learning algorithm to different scientific or engineering areas.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.13711v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2107.13711v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.13711v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:57:50.765084+00:00",
+  "updated_at": "",
+  "extra": {}
+}

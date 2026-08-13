@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1088_1742-6596_1765_1_012016",
+  "collection": "halide-solid-state-battery",
+  "title": "Investigation of structure and ionic conductivity of (PEO)<sub>12</sub>-SiO<sub>2</sub>-LiClO<sub>4</sub> nanocomposite electrolyte for all solid-state lithium-ion battery",
+  "authors": [
+    {
+      "name": "Y Z Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Y P Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "R Y Lei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "S D Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "R G Wan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "J Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1742-6596/1765/1/012016",
+  "url": "https://doi.org/10.1088/1742-6596/1765/1/012016",
+  "published": "2021-1-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Solid polymer electrolytes (SPEs), based on poly ethylene oxide (PEO) matrix and nano-sized SiO<jats:sub>2</jats:sub>, are prepared by solution-casting method. The morphology, crystallinity, thermostability and ionic conductivity of nanocomposite polymer electrolyte are systematically investigated by field-emission scanning electron microscope (FE-SEM), X-ray diffraction (XRD), thermogravimetric analysis, and AC impedance spectroscopy. The result reveals that SiO<jats:sub>2</jats:sub> is uniformly dispersed in the SPE. Furthermore, the incorporation of nano-sized SiO<jats:sub>2</jats:sub> can restrict the crystalline behaviour of PEO effectively, leading to the improvement in amorphous state of PEO. With increasing the mass loading of SiO<jats:sub>2</jats:sub>, the ionic conductivity of SPEs increase to a maximum value, about 3.03 × 10<jats:sup>−4</jats:sup> S·cm<jats:sup>−1</jats:sup> (<jats:italic>χ</jats:italic>(<jats:italic>SiO</jats:italic>\n                  <jats:sub>2</jats:sub>/<jats:italic>PEO</jats:italic>) = 6.85%), and then fall down. Meanwhile, the initial decomposition of SPE reaches 335 °C, showing the good thermal stability and potential application of SPEs for the next-generation all solid-state lithium-ion battery (LIB) with enhanced safety.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1742-6596/1765/1/012016",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1088_1742-6596_1765_1_012016/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/1765/1/012016/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Journal of Physics: Conference Series",
+  "publisher": "",
+  "issn": "1742-6588",
+  "quartile": "",
+  "added_at": "2026-08-13T02:57:57.304438+00:00",
+  "updated_at": "",
+  "extra": {}
+}

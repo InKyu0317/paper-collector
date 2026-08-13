@@ -1,0 +1,184 @@
+{
+  "paper_id": "arxiv_2405.07464v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Atomic-scale tunable phonon transport at tailored grain boundaries and Their Impact on Thermal Conductivity",
+  "authors": [
+    {
+      "name": "Xiaowang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaitanya A. Gadre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wanjuan Zou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Runqing Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bin Xing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christopher Addiego",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fenghui Gong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Toshihiro Aoki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yujie Quan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wei-Tao Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yifeng Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaojie Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mingjie Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xingxu Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruqian Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bolin Liao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Penghui Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoqing Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2405.07464v2",
+  "published": "2024-05-13T04:54:13+00:00",
+  "abstract": "Grain boundaries (GBs) strongly influence thermal transport in crystalline solids by disrupting lattice periodicity and scattering phonons. Due to the atomic-level disorder and structural complexity, a fundamental understanding of how specific GB geometries regulate nanoscale phonon behavior and macroscopic thermal conductivity has remained elusive. Here, using emerging atomic-resolution vibrational spectroscopy, we directly correlate GB structure, defect-specific vibrational states, and thermal transport in bicrystal strontium titanate with controlled tilt and twist angles. The phonon characterizations and thermal conductivity data reveal two distinct regimes, where low-angle tilt GBs (2deg, 6deg, 10deg) substantially modulate phonon populations and mode frequencies, resulting in pronounced changes in thermal conductivity, whereas high-angle tilt GBs (22deg, 36deg) exhibit weak conductivity variation due to saturated structural disorder and scattering. In contrast, twist GBs introduce periodic defect motifs that only locally tailor phonon transport. Our results suggest tilt and twist angles as complementary knobs for coarse and fine control of phonon propagation and cross-GB thermal transport, providing a predictive framework for thermal engineering in materials.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.07464v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2405.07464v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.07464v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-13T02:58:01.689473+00:00",
+  "updated_at": "",
+  "extra": {}
+}
