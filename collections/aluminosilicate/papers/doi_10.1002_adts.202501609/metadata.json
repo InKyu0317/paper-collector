@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_adts.202501609",
+  "collection": "aluminosilicate",
+  "title": "Sequential MD‐QM Approach to Compute Chemical Properties of Amorphous Silica‐Based Catalysts: Brønsted Aluminosilicate Acids as Case Study",
+  "authors": [
+    {
+      "name": "Charles Rubirigi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0005-1294-5305",
+      "affiliation": "Department of Chemistry, Theoretical Chemistry Lab, Unit of Theoretical and Structural Physical Chemistry, Namur Institute of Structured Matter (NISM) University of Namur  Namur Belgium"
+    },
+    {
+      "name": "Carmela Aprile",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3193-3239",
+      "affiliation": "Department of Chemistry, Applied Materials Chemistry Lab, Unit of Nanomaterials Chemistry, Namur Institute of Structured Matter (NISM) University of Namur  Namur Belgium"
+    },
+    {
+      "name": "Benoît Champagne",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3678-8875",
+      "affiliation": "Department of Chemistry, Theoretical Chemistry Lab, Unit of Theoretical and Structural Physical Chemistry, Namur Institute of Structured Matter (NISM) University of Namur  Namur Belgium"
+    }
+  ],
+  "doi": "10.1002/adts.202501609",
+  "url": "https://doi.org/10.1002/adts.202501609",
+  "published": "2026-2",
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Amorphous silica‐based materials are often used as support for catalysis experiments. The insertion of heteroelements (i.e., neither a silicon nor an oxygen atom) leads to the formation of Brønsted or Lewis acid sites. Despite their widespread use, the characterization of their acidic properties and the correlation with structural features remain challenging. In this context, computing chemical properties with quantum chemical methods can bring insights into such materials, while the large size of these systems implies the use of models to control the computational effort. This work aims to present a general procedure for calculating chemical properties of amorphous silica‐based catalysts. The amorphous network is generated using classical molecular dynamics via a thermal treatment called melt‐and‐quench. Particular attention is devoted to the catalyst shape and the silanol coverage. The quality of the final amorphous network is assessed through the characterization of the geometrical structures involving primitive ring analysis. DFT calculations are then performed on hemispheres extracted from the amorphous silica frameworks to model aluminosilicate Brønsted acid sites. The impact of cluster size on the prediction of chemical properties is illustrated by calculations of deprotonation energies, chemical shifts, and vibrational frequencies. The influence of the exchange‐correlation (XC) functional on those quantities is also discussed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/adts.202501609",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_adts.202501609/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adts.202501609",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Advanced Theory and Simulations",
+  "publisher": "",
+  "issn": "2513-0390",
+  "quartile": "",
+  "added_at": "2026-08-13T02:53:03.389659+00:00",
+  "updated_at": "",
+  "extra": {}
+}

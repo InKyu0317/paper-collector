@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1039_d3tc01319g",
+  "collection": "aluminosilicate",
+  "title": "Controlled phase-separation effect for enhanced optical refrigeration in yttrium-aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "Thomas Meyneng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8551-2181",
+      "affiliation": "Centre d'optique photonique et laser, Université Laval, Quebec, Canada"
+    },
+    {
+      "name": "Jyothis Thomas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Engineering Physics, Polytechnique Montreal, Montreal, Canada"
+    },
+    {
+      "name": "Nicolas Grégoire",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Centre d'optique photonique et laser, Université Laval, Quebec, Canada"
+    },
+    {
+      "name": "Weawkamol Leelapornpisit",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Facility for Electron Microscopy Research, McGill University, Montreal, Canada"
+    },
+    {
+      "name": "Jesus Valdez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Facility for Electron Microscopy Research, McGill University, Montreal, Canada"
+    },
+    {
+      "name": "Raman Kashyap",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Engineering Physics, Polytechnique Montreal, Montreal, Canada"
+    },
+    {
+      "name": "Younès Messaddeq",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Centre d'optique photonique et laser, Université Laval, Quebec, Canada"
+    }
+  ],
+  "doi": "10.1039/d3tc01319g",
+  "url": "https://doi.org/10.1039/d3tc01319g",
+  "published": null,
+  "abstract": "<jats:p>This study reports the demonstration of optical refrigeration in Yb doped yttrium-aluminosilicate glasses, showing near-unity quantum efficiencies anti-Stokes fluorescence, allowing net optical refrigeration up to −2.4 K under atmospheric pressure.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d3tc01319g",
+  "pdf_path": "aluminosilicate/papers/doi_10.1039_d3tc01319g/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Journal of Materials Chemistry C",
+  "publisher": "",
+  "issn": "2050-7526",
+  "quartile": "",
+  "added_at": "2026-08-13T02:53:03.130455+00:00",
+  "updated_at": "",
+  "extra": {}
+}
