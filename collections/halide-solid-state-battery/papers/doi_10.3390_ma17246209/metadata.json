@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_ma17246209",
+  "collection": "halide-solid-state-battery",
+  "title": "Advanced Characterization of Solid-State Battery Materials Using Neutron Scattering Techniques",
+  "authors": [
+    {
+      "name": "Eric Novak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Physics and Astronomy, Swarthmore College, 500 College Ave, Swarthmore, PA 19081, USA"
+    },
+    {
+      "name": "Luke Daemen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Neutron Sciences Directorate, Oak Ridge National Laboratory (ORNL), Oak Ridge, TN 37831, USA"
+    },
+    {
+      "name": "Niina Jalarvo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Neutron Sciences Directorate, Oak Ridge National Laboratory (ORNL), Oak Ridge, TN 37831, USA"
+    }
+  ],
+  "doi": "10.3390/ma17246209",
+  "url": "https://doi.org/10.3390/ma17246209",
+  "published": null,
+  "abstract": "<jats:p>Advanced batteries require advanced characterization techniques, and neutron scattering is one of the most powerful experimental methods available for studying next-generation battery materials. Neutron scattering offers a non-destructive method to probe the complex structural and chemical processes occurring in batteries during operation in truly in situ/in operando measurements with a high sensitivity to battery-relevant elements such as lithium. Neutrons have energies comparable to the energies of excitations in materials and wavelengths comparable to atomic distances in the solid state, thus giving access to study structural and dynamical properties of materials on an atomic scale. In this review, a broad overview of selected neutron scattering techniques is presented to illustrate how neutron scattering can be used to gain invaluable information of solid-state battery materials, with a focus on in situ/in operando methods. These techniques span multiple decades of length and time scales to uncover the complex processes taking place fundamentally on the atomic scale and to determine how these processes impact the macroscale properties and performance of functional battery systems. This review serves the solid-state battery research community by examining how the unique capabilities of neutron scattering can be applied to answer critical and unresolved questions of materials research in this field. A thorough and broad perspective is provided with numerous practical examples showing these techniques in action for battery research.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma17246209",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_ma17246209/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:51.757753+00:00",
+  "updated_at": "",
+  "extra": {}
+}

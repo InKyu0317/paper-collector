@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1557_s43578-022-00734-8",
+  "collection": "halide-solid-state-battery",
+  "title": "Theoretical study of δ-5 boron monolayer as an anode material for Li and non-Li ion batteries",
+  "authors": [
+    {
+      "name": "Ajay Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Prakash Parida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1557/s43578-022-00734-8",
+  "url": "http://arxiv.org/abs/2501.15162v1",
+  "published": "2025-01-25T10:05:51+00:00",
+  "abstract": "We have studied the electrochemical performance of the delta-5 boron monolayer as an anode material for alkali metal (AM) and alkali earth metal (AEM) ion batteries using density functional theory simulations. The electronic properties, adsorption, diffusion rate, and storage behavior of various metal atoms (M) in the δ-5 boron monolayer are explored. Our study shows that the delta-5 boron monolayer possesses high electrical conductivity and a low activation barrier for electron and metal ion transit (0.46-1.72 eV), indicating a fast charge/discharge rate. Furthermore, the theoretical capacities of the δ-5 boron monolayer for Li, Na, and K are found to be greater than those of commercial graphite. The average open-circuit voltage for AM and AEM is reasonably low and in the range of 0.14-0.88 V. Our results show that δ-5 boron monolayer could be a promising anode material in lithium-ion and non-lithium ion rechargeable batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.15162v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1557_s43578-022-00734-8/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.15162v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:54.878130+00:00",
+  "updated_at": "",
+  "extra": {}
+}

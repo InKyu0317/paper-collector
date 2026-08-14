@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_smll.202301617",
+  "collection": "halide-solid-state-battery",
+  "title": "Low‐Temperature Fabrication of Bulk‐Type All‐Solid‐State Lithium‐Ion Battery Utilizing Nanosized Garnet Solid Electrolytes",
+  "authors": [
+    {
+      "name": "Junji Akimoto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9636-7680",
+      "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)  Tsukuba Central 5, 1‐1‐1 Higashi Tsukuba Ibaraki 305‐8565 Japan"
+    },
+    {
+      "name": "Tadayoshi Akao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)  Tsukuba Central 5, 1‐1‐1 Higashi Tsukuba Ibaraki 305‐8565 Japan"
+    },
+    {
+      "name": "Kunimitsu Kataoka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5322-3011",
+      "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)  Tsukuba Central 5, 1‐1‐1 Higashi Tsukuba Ibaraki 305‐8565 Japan"
+    }
+  ],
+  "doi": "10.1002/smll.202301617",
+  "url": "https://doi.org/10.1002/smll.202301617",
+  "published": "2023-10",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Garnet‐type Li<jats:sub>7</jats:sub>La<jats:sub>3</jats:sub>Zr<jats:sub>2</jats:sub>O<jats:sub>12</jats:sub> (LLZ) materials are attracting attention as solid electrolytes (SEs) in oxide‐based all‐solid‐state batteries (ASSBs) owing to their high ionic conductivity. Although the electrochemical stability of LLZ against Li metal is demonstrated with possible high energy density, high‐temperature sintering above 1000 °C, which is required to achieve high Li‐ion conductivity, results in the formation of insulating impurities at the electrode–electrolyte interfaces. Here, nanosized fine‐particle samples of Ta‐substituted Li<jats:sub>6.5</jats:sub>La<jats:sub>3</jats:sub>Zr<jats:sub>1.5</jats:sub>Ta<jats:sub>0.5</jats:sub>O<jats:sub>12</jats:sub> (LLZT) are successfully prepared at a remarkably low temperature of 400 °C utilizing an amorphous precursor oxide. The dense LLZT SE sintered by hot pressing at 500 °C shows room‐temperature Li‐ion conductivity of 1.03 × 10<jats:sup>−4</jats:sup> S cm<jats:sup>−1</jats:sup> without any additives. In addition, the bulk‐type NCM–graphite full battery cell fabricated with the LLZT fine particles through a hot‐pressing sintering method at 550 °C exhibits a good charge–discharge performance at room temperature with the bulk‐type areal discharge capacity of 0.831 mAh cm<jats:sup>−2</jats:sup>. The nanosized garnet SE strategy demonstrated in this study paves the way for the formation of oxide‐based ASSBs by low‐temperature sintering.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/smll.202301617",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.202301617/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 21,
+  "journal": "Small",
+  "publisher": "",
+  "issn": "1613-6810",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:51.758287+00:00",
+  "updated_at": "",
+  "extra": {}
+}

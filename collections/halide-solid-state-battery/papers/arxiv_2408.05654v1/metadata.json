@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2408.05654v1",
+  "collection": "halide-solid-state-battery",
+  "title": "AC thermal conductivity as a tool for solution mapping from diffusive to ballistic regime",
+  "authors": [
+    {
+      "name": "Tao Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bo Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhen Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2408.05654v1",
+  "published": "2024-08-10T23:42:59+00:00",
+  "abstract": "Although the Boltzmann transport equation (BTE) has been exploited to investigate non-diffusive phonon transport for decades, due to the challenges of solving this integro-differential equation, most standard techniques for thermal measurements still rely on solutions to the diffusion equation, causing inconsistency between measured non-diffusive effects and the diffusion equation based techniques. With the AC thermal conductivity, an analogous concept of the AC electrical conductivity in solid state physics, we transform BTE under the relaxation time approximation into the form of the diffusion equation. This transformation maps any analytical solution of the diffusion equation under periodic heating to that of the BTE, with the nonlocal effect captured by the jump boundary condition. After investigating the validity of this framework, we apply it to generalize the 3ω method from diffusive to quasi-ballistic, and propose an experimental scheme to address the inconsistency problem above.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2408.05654v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2408.05654v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2408.05654v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:58:29.022469+00:00",
+  "updated_at": "",
+  "extra": {}
+}

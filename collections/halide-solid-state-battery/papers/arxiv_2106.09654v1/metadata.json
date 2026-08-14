@@ -1,0 +1,88 @@
+{
+  "paper_id": "arxiv_2106.09654v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Quasi-solid-state sodium-ion hybrid capacitors enabled by UiO-66@PVDF-HFP multifunctional separators: selective charge transfer and high safety",
+  "authors": [
+    {
+      "name": "Wenliang Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jing Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abdulmalik Yusuf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiang Ao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dongfeng Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vinodkumar Etacheri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "De-Yi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2106.09654v1",
+  "published": "2021-06-17T16:58:58+00:00",
+  "abstract": "The practical application of sodium-ion hybrid capacitors is limited by their low energy densities resulted from the kinetics mismatch between cathodes and anodes, and the fire safety related to the flammable electrolyte-separator system. Hence, we report a rational design of metal-organic frameworks (MOFs, UiO-66) modified PVDF-HFP separator. High tensile strength and dimensional thermal stability of the separator reduce the risk of electrode short circuit caused by the separator deformation. MCC test demonstrates a reduction of 75% in peak heat release rate (pHRR), indicating an enhanced fire-resistant property of the separator. This is due to the transformation of UiO-66 into ZrO2 accompanied by the consumption of oxygen and the formation of the barrier char that suppresses further heat release. Quasi-solid-state electrolyte prepared based on this separator presents an enhanced ionic conductivity of 2.44 mS*cm-1 and Na-ion transference number of 0.55, which are related to the high porosity ( >70%) and electrolyte uptake (~ 320%) of the separator. Moreover, the open metal sites of UiO-66 can capture PF6- and consequently liberate the Na+ for faster migration, thus reducing the kinetics mismatch between cathodes and anodes. Such multifunctional separator enables the quasi-solid-state Na-ion hybrid capacitor to achieve high energy density (182 Wh*kg-1 @31 W*kg-1) and power density (5280 W*kg-1 @22 Wh*kg-1), as well as excellent cyclic stability (10000 cycles @1000 mA*g-1).\n  Keywords: Quasi-solid-state; PVDF-HFP; Metal-organic frameworks; Dimensional thermal stability; Fire safety; Selective charge transfer",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2106.09654v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2106.09654v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2106.09654v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:35.592579+00:00",
+  "updated_at": "",
+  "extra": {}
+}

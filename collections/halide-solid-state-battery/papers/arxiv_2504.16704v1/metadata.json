@@ -1,0 +1,49 @@
+{
+  "paper_id": "arxiv_2504.16704v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Electronic Paddlewheels Impact the Dynamics of Superionic Conduction in AgI",
+  "authors": [
+    {
+      "name": "Harender S. Dhattarwal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Richard C. Remsing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2504.16704v1",
+  "published": "2025-04-23T13:33:27+00:00",
+  "abstract": "Solid-state ion conductors hold promise as next generation battery materials. To realize their full potential, an understanding of atomic-scale ion conduction mechanisms is needed, including ionic and electronic degrees of freedom. Molecular simulations can create such an understanding, however, including a description of electronic structure necessitates computationally expensive methods that limit their application to small scales. We examine an alternative approach, in which neural network models are used to efficiently sample ionic configurations and dynamics at ab initio accuracy. Then, these configurations are used to determine electronic properties in a post-processing step. We demonstrate this approach by modeling the superionic phase of AgI, in which cation diffusion is coupled to rotational motion of local electron density on the surrounding iodide ions, termed electronic paddlewheels. The neural network potential can capture the many-body effects of electronic paddlewheels on ionic dynamics, but classical force field models cannot. Through an analysis rooted the generalized Langevin equation framework, we find that electronic paddlewheels have a significant impact on the time-dependent friction experienced by a mobile cation. Our approach will enable investigations of electronic fluctuations in materials on large length and time scales, and ultimately the control of ion dynamics through electronic paddlewheels.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.stat-mech",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.16704v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2504.16704v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.16704v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:58:12.600518+00:00",
+  "updated_at": "",
+  "extra": {}
+}

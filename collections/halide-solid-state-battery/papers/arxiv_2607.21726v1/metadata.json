@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2607.21726v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic Diffusion Properties of Rare-Earth High-Entropy Oxides from a Machine-Learned Interatomic Potential",
+  "authors": [
+    {
+      "name": "Mary Kathleen Caucci",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Billy E. Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Saeed S. I. Almishal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jon-Paul Maria",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Susan B. Sinnott",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2607.21726v1",
+  "published": "2026-07-23T18:21:08+00:00",
+  "abstract": "Rare-earth high-entropy oxides (RE-HEOs) have emerged as a promising class of functional ceramics for solid-state electrochemical applications due to their chemical complexity, structural tunability, and potential for fast oxygen-ion transport. In this work, we investigate oxygen diffusion in ceria-based RE-HEOs of the form Ce$_x$(YLaPrSm)$_{1-x}$O$_{2-δ}$ using classical molecular dynamics simulations driven by the Crystal Hamiltonian Graph Neural Network (CHGNet) machine-learned interatomic potential. To improve predictive accuracy for lanthanide-containing systems, we benchmark three CHGNet variants, including a fine-tuned r$^2$SCAN-trained model, against targeted density functional theory (DFT) data that explicitly include f-valence electrons. Simulations across temperature, Ce content, oxygen vacancy concentration, and both fluorite and bixbyite structures reveal that oxygen transport in RE-HEOs is governed by the interplay of two factors: the concentration of mobile vacancies and the local cation environment through which they hop. At fixed composition, ionic conductivity exhibits a non-monotonic dependence on vacancy concentration, with optimal diffusion occurring at moderate vacancy levels and reduced mobility at higher concentrations. Increasing Ce content lowers migration activation energies and enhances diffusivity through low-barrier diffusion networks built from Ce-Ce and Ce-Y edges. Analysis of individual oxygen hopping events provides atomistic insight into how local chemical environments and short-range cation ordering govern transport in high-entropy oxides. Overall, this work demonstrates that machine-learned interatomic potentials can resolve composition-structure-transport relationships in chemically complex oxides, and identifies active pathways through which compositional tuning can enhance oxygen-ion conductivity in RE-HEO materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2607.21726v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2607.21726v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2607.21726v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:43.043902+00:00",
+  "updated_at": "",
+  "extra": {}
+}

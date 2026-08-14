@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.15826_elmattech.2024.3.036",
+  "collection": "halide-solid-state-battery",
+  "title": "Electrodeposition of alloys from halide melts in solid state",
+  "authors": [
+    {
+      "name": "Andrey V. Isakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0192-3048",
+      "affiliation": "Institute of High Temperature Electrochemistry, UB RAS"
+    },
+    {
+      "name": "Alexander A. Chernyshev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5700-4219",
+      "affiliation": "Institute of High Temperature Electrochemistry, UB RAS"
+    },
+    {
+      "name": "Alexey P. Apisarov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0007-0730-9405",
+      "affiliation": "Institute of High Temperature Electrochemistry, UB RAS"
+    },
+    {
+      "name": "Yuri P. Zaikov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6138-3955",
+      "affiliation": "Institute of High Temperature Electrochemistry, UB RAS"
+    }
+  ],
+  "doi": "10.15826/elmattech.2024.3.036",
+  "url": "https://doi.org/10.15826/elmattech.2024.3.036",
+  "published": null,
+  "abstract": "<jats:p>This review manuscript considers the conditions of metal co-deposition to obtain alloys in the solid state by electrolysis of halide molten salts. The conditions for co-deposition below the melting point of the deposited components from molten salts are considered. The possibilities of the method for co-deposition of alloys from molten salts under the action of direct electric current were summarized. The review considers the main factors affecting the co-deposition process in the solid state, including thermodynamic and kinetic aspects. Methods for the synthesis of various alloys system (melting point of which can be above 1000 °C) and experimental approaches used to organize the process of joint electrodeposition were considered. The results of a comparative analysis of experimental data obtained under various synthesis conditions were presented in order to determine the dependences between the electrolysis parameters and the composition of the alloys.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15826/elmattech.2024.3.036",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.15826_elmattech.2024.3.036/paper.pdf",
+  "pdf_url": "https://elmattech.ru/article/viewFile/7895/5681",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Electrochemical Materials and Technologies",
+  "publisher": "",
+  "issn": "2949-0561",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:51.757231+00:00",
+  "updated_at": "",
+  "extra": {}
+}

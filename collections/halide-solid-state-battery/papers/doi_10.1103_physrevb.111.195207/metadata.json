@@ -1,0 +1,95 @@
+{
+  "paper_id": "doi_10.1103_physrevb.111.195207",
+  "collection": "halide-solid-state-battery",
+  "title": "Copper delocalization leads to ultralow thermal conductivity in chalcohalide CuBiSeCl2",
+  "authors": [
+    {
+      "name": "Yuzhou Hao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Junwei Che",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoying Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuejie Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Turab Lookman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiangdong Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhibin Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.111.195207",
+  "url": "http://arxiv.org/abs/2412.03976v3",
+  "published": "2024-12-05T08:50:36+00:00",
+  "abstract": "Mixed anion halide-chalcogenide materials have attracted considerable attention due to their exceptional optoelectronic properties, making them promising candidates for various applications. Among these, CuBiSeCl_2 has recently been experimentally identified with remarkably low lattice thermal conductivity (k_L). In this study, we employ Wigner transport theory combined with neuroevolution machine learning potential (NEP)-assisted self-consistent phonon calculations to unravel the microscopic origins of this low k_L. Our findings reveal that the delocalization and weak bonding of copper atoms are key contributors to the strong phonon anharmonicity and wavelike tunneling (random walk diffusons). These insights deepen our understanding of the relationship between bonding characteristics, anharmonicity, delocalization, and vibrational dynamics, paving the way for the design and optimization of CuBiSeCl_2 and analogous materials for advanced phonon engineering applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.03976v3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.111.195207/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.03976v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:58:25.478476+00:00",
+  "updated_at": "",
+  "extra": {}
+}

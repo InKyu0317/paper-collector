@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2403.06848v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Structure and dielectric properties of BFN-KN solid solutions synthesized through solution combustion route",
+  "authors": [
+    {
+      "name": "Vijay Khopkar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Balaram Sahoo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2403.06848v1",
+  "published": "2024-03-11T16:06:50+00:00",
+  "abstract": "We demonstrate that the solution combustion reaction (SCR) route is suitable for the synthesis of phase pure (x)BaFe0.5Nb0.5O3-(1-x)KNbO3 (x = 0, 0.2, 0.4, 0.6, 0.8, 1) (BFN-KN) solid solutions due to atomic level of mixing of precursors than that of the solid-state reaction (SSR) route. A variation in composition 'x' of our double perovskite samples leads to a gradual variation in the structural disorder associated with the disorder in the distribution in the cationic positions, the lattice strain, and the defects at the grain boundaries. With the increase in the BFN content in the solid solutions, a decrease in bandgap and a corresponding change in the color of the samples are observed. Furthermore, three distinct characteristic features in the frequency-dependent polarization behavior in our samples are observed at different frequencies. These features observed to be sustaining up to gradually increasing frequencies are assigned to (1) the interfacial polarization originating due to the structural disorder present at the grain boundaries, (2) the cationic positions leading to tilting/expansion of oxygen octahedra, and (3) the ionic size mismatch leading to strain distribution. The results are well supported by the results obtained for the microstructural, structural, and optical properties of our samples. Hence, our work provides a better understanding of the dielectric polarization behavior of double perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.06848v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2403.06848v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.06848v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-14T02:57:39.806236+00:00",
+  "updated_at": "",
+  "extra": {}
+}
