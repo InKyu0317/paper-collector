@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1088_1757-899x_1275_1_012026",
+  "collection": "aluminosilicate",
+  "title": "Numerical modelling of the mechanical behaviour of Aluminosilicate Glass: A comparison between two simulation approaches",
+  "authors": [
+    {
+      "name": "A Manes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "M N Tartaglia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Z Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1757-899x/1275/1/012026",
+  "url": "https://doi.org/10.1088/1757-899x/1275/1/012026",
+  "published": "2023-2-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper presents a comparison between two numerical methods for modelling the mechanical and failure behaviour of aluminosilicate glass: Cohesive Elements Method (CEM) and Finite Element Method coupled to Smooth Particle Hydrodynamics (FEM-SPH). The failure behaviours, provided by these two approaches, are herein compared under i) quasi-static tests on material coupons, ii) dynamic tests (compressive and tensile tests) also on material coupons and iii) structural impact loading conditions in which the ballistic perforation of aluminosilicate glass tiles due to the impact of a flat-nosed steel projectile are considered. Both methods provide comparable results under quasi-static loading conditions, while more significant differences arise in the ballistic impact part, in which some limitations of CEM are shown.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1757-899x/1275/1/012026",
+  "pdf_path": "aluminosilicate/papers/doi_10.1088_1757-899x_1275_1_012026/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/1275/1/012026/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "IOP Conference Series: Materials Science and Engineering",
+  "publisher": "",
+  "issn": "1757-8981",
+  "quartile": "",
+  "added_at": "2026-08-14T02:53:36.678789+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,162 @@
+{
+  "paper_id": "doi_10.1038_s41467-021-21436-5",
+  "collection": "aluminosilicate",
+  "title": "Capturing functional two-dimensional nanosheets from sandwich-structure vermiculite for cancer theranostics",
+  "authors": [
+    {
+      "name": "Xiaoyuan Ji",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6768-2304",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Lanlan Ge",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4638-3185",
+      "affiliation": "Jinan University"
+    },
+    {
+      "name": "Chuang LIU",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2445-0845",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Zhongmin Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1532-8004",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Yufen Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5604-7479",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Wei Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1131-3585",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Zhouyue Lei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5113-9577",
+      "affiliation": "Harvard University"
+    },
+    {
+      "name": "Wei Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6982-9111",
+      "affiliation": "Harvard University"
+    },
+    {
+      "name": "Sara Blake",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6766-1204",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Diba De",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4800-7415",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Bingyang Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1043-3163",
+      "affiliation": "Henan University"
+    },
+    {
+      "name": "Xiaobing Zeng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Jinan University"
+    },
+    {
+      "name": "Na Kong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3823-8335",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    {
+      "name": "Xingcai Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7114-1095",
+      "affiliation": "Harvard University"
+    },
+    {
+      "name": "Wei Tao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4277-3728",
+      "affiliation": "Brigham and Women's Hospital"
+    }
+  ],
+  "doi": "10.1038/s41467-021-21436-5",
+  "url": "https://doi.org/10.1038/s41467-021-21436-5",
+  "published": "2021-02-18",
+  "abstract": "Abstract Clay-based nanomaterials, especially 2:1 aluminosilicates such as vermiculite, biotite, and illite, have demonstrated great potential in various fields. However, their characteristic sandwiched structures and the lack of effective methods to exfoliate two-dimensional (2D) functional core layers (FCLs) greatly limit their future applications. Herein, we present a universal wet-chemical exfoliation method based on alkali etching that can intelligently “capture” the ultrathin and biocompatible FCLs (MgO and Fe 2 O 3 ) sandwiched between two identical tetrahedral layers (SiO 2 and Al 2 O 3 ) from vermiculite. Without the sandwich structures that shielded their active sites, the obtained FCL nanosheets (NSs) exhibit a tunable and appropriate electron band structure (with the bandgap decreased from 2.0 eV to 1.4 eV), a conductive band that increased from −0.4 eV to −0.6 eV, and excellent light response characteristics. The great properties of 2D FCL NSs endow them with exciting potential in diverse applications including energy, photocatalysis, and biomedical engineering. This study specifically highlights their application in cancer theranostics as an example, potentially serving as a prelude to future extensive studies of 2D FCL NSs.",
+  "keywords": [
+    "Vermiculite",
+    "Materials science",
+    "Aluminosilicate",
+    "Nanotechnology",
+    "Exfoliation joint",
+    "Nanomaterials",
+    "Band gap",
+    "Etching (microfabrication)",
+    "Biocompatible material",
+    "Chemical engineering"
+  ],
+  "source": "openalex",
+  "source_id": "W3132123242",
+  "pdf_path": "aluminosilicate/papers/doi_10.1038_s41467-021-21436-5/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41467-021-21436-5.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 328,
+  "journal": "Nature Communications",
+  "publisher": "",
+  "issn": "2041-1723",
+  "quartile": "",
+  "added_at": "2026-08-14T02:53:04.734156+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
