@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2109.12623v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Phase equilibria -- thermal conductivity relationship within multicomponent Phase Change Materials from 273 K up to above the melting temperature",
+  "authors": [
+    {
+      "name": "Anh Thu Phan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aïmen E. Gheribi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrice Chartrand",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2109.12623v1",
+  "published": "2021-09-26T14:49:53+00:00",
+  "abstract": "Among all the properties required for the design of the next generation of PCM (density, heat capacity, thermal expansion, latent energy, volume change upon melting, corrosion rate, etc.) the thermal transport properties are by far the least known, especially for molten salt mixtures and solid solutions. We present in this paper a theoretical framework for accurate predictions of thermal conductivity of multicomponent salt-based PCM, from 273.15 K up to above melting temperature. The solid phase is considered as a microstructure with its proper temperature dependent parameters: phase volume fraction, grain size distribution, porosity, etc. As case studies, five new potential PCMs for CSP applications are considered. Their thermal conductivity is estimated as a function of temperature, from room temperature to 200 K above their melting point. The predictive capability of the proposed framework is discussed based on a comparison with available experimental data. The effect of equilibrium and non-equilibrium microstructural parameters (i.e. phase fraction, phase composition, average grain size, inter-grain, and intra-grain porosity) on the effective thermal conductivity of the solid states of the promising chloride PCMs is discussed. Lastly, recommendations for the design of next generations of PCM materials are suggested in order to improve their thermal transport properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2109.12623v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2109.12623v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2109.12623v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:37.368666+00:00",
+  "updated_at": "",
+  "extra": {}
+}

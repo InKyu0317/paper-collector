@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1039_d4cp00062e",
+  "collection": "halide-solid-state-battery",
+  "title": "Iron-Arsenide monolayer as an anode materials for Lithium-ion batteries: A first-principles study",
+  "authors": [
+    {
+      "name": "Ajay Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Prakash Parida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D4CP00062E",
+  "url": "http://arxiv.org/abs/2501.15161v1",
+  "published": "2025-01-25T09:58:14+00:00",
+  "abstract": "This theoretical investigation delves into the structural, electronic, and electrochemical properties of two hexagonal iron-arsenide monolayers, 1T-FeAs and 1H-FeAs, focusing on their potential as anode materials for Lithium-ion batteries. Previous studies have highlighted the ferromagnetic nature of 1T-FeAs at room temperature.Our calculations reveal that both phases exhibit metallic behaviour with spin-polarized electronic band structures. Electrochemical studies show that the 1T-FeAs monolayer has better ionic conductivity for Li ions than the 1H-FeAs phase, attributed to a lower activation barrier of 0.38 eV. This characteristic suggests a faster charge/discharge rate. Both FeAs phases exhibit comparable theoretical capacities 374 mAh/g, outperforming commercial graphite anodes. The average open-circuit voltage for maximum Li atom adsorption is 0.61 V for 1H-FeAs and 0.44 V for 1T-FeAs. The volume expansion over the maximum adsorption of Li atoms on both phases is also remarkably less than the commercially used anode material such as graphite. Further, the adsorption of Li atoms onto 1H-FeAs induces a remarkable transition from ferromagnetism to anti-ferromagnetism, with minimal impact on the electronic band structure. In contrast, the original state of 1T-FeAs remains unaffected by Li adsorption. To summarize, the potential of both 1T-FeAs and 1H-FeAs monolayers as promising anode materials for Lithium-ion batteries, offering valuable insights into their electrochemical performance and phase transition behaviour upon Li adsorption.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.15161v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d4cp00062e/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.15161v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:22.115161+00:00",
+  "updated_at": "",
+  "extra": {}
+}

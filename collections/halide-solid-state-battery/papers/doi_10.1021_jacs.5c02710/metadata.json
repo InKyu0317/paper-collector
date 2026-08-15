@@ -1,0 +1,75 @@
+{
+  "paper_id": "doi_10.1021_jacs.5c02710",
+  "collection": "halide-solid-state-battery",
+  "title": "Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning",
+  "authors": [
+    {
+      "name": "Qi You",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yan Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Feng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fujie Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/jacs.5c02710",
+  "url": "http://arxiv.org/abs/2501.07321v2",
+  "published": "2025-01-13T13:32:50+00:00",
+  "abstract": "Understanding the solvation structure of electrolytes is critical for optimizing the electrochemical performance of rechargeable batteries, as it directly influences properties such as ionic conductivity, viscosity, and electrochemical stability. The highly complex structures and strong interactions in high-concentration electrolytes make accurate modeling and interpretation of their ``structure-property\" relationships even more challenging with spectroscopic methods. In this study, we present a machine learning-based approach to predict dynamic $^7$Li NMR chemical shifts in LiFSI/DME electrolyte solutions. Additionally, we provide a comprehensive structural analysis to interpret the observed chemical shift behavior in our experiments, particularly the abrupt changes in $^7$Li chemical shifts at high concentrations. Using advanced modeling techniques, we quantitatively establish the relationship between molecular structure and NMR spectra, offering critical insights into solvation structure assignments. Our findings reveal the coexistence of two competing local solvation structures that shift in dominance as electrolyte concentration approaches the concentrated limit, leading to anomalous reverse of $^7$Li NMR chemical shift in our experiment. This work provides a detailed molecular-level understanding of the intricate solvation structures probed by NMR spectroscopy, leading the way for enhanced electrolyte design.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2501.07321v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_jacs.5c02710/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2501.07321v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:26.288239+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,192 @@
+{
+  "paper_id": "arxiv_2405.16835v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Superionic surface Li-ion transport in carbonaceous materials",
+  "authors": [
+    {
+      "name": "Jianbin Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaoshan Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongli Wan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shen Lai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shijie Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tsz Wai Ko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhaohui Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ke Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nimrod Harpak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nick Solan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mengchen Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zeyu Hui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Paulina J. Ai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kent Griffith",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chunsheng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yan Yao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ping Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2405.16835v1",
+  "published": "2024-05-27T05:06:01+00:00",
+  "abstract": "Unlike Li-ion transport in the bulk of carbonaceous materials, little is known about Li-ion diffusion on their surface. In this study, we have discovered an ultra-fast Li-ion transport phenomenon on the surface of carbonaceous materials, particularly when they have limited Li insertion capacity along with a high surface area. This is exemplified by a carbon black, Ketjen Black (KB). An ionic conductivity of 18.1 mS cm-1 at room temperature is observed, far exceeding most solid-state ion conductors. Theoretical calculations reveal a low diffusion barrier for the surface Li species. The species is also identified as Li*, which features a partial positive charge. As a result, lithiated KB functions effectively as an interlayer between Li and solid-state electrolytes (SSE) to mitigate dendrite growth and cell shorting. This function is found to be electrolyte agnostic, effective for both sulfide and halide SSEs. Further, lithiated KB can act as a high-performance mixed ion/electron conductor that is thermodynamically stable at potentials near Li metal. A graphite anode mixed with KB instead of a solid electrolyte demonstrates full utilization with a capacity retention of ~85% over 300 cycles. The discovery of this surface-mediated ultra-fast Li-ion transport mechanism provides new directions for the design of solid-state ion conductors and solid-state batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2405.16835v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2405.16835v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2405.16835v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:15.453937+00:00",
+  "updated_at": "",
+  "extra": {}
+}

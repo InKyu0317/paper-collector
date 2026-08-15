@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2406.07723v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultra-fast Oxygen Conduction in Sillén Oxychlorides",
+  "authors": [
+    {
+      "name": "Jun Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Md Sariful Sheikh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lane E. Schultz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "William O. Nachlas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jian Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maciej P. Polak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ryan Jacobs",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dane Morgan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2406.07723v1",
+  "published": "2024-06-11T21:04:21+00:00",
+  "abstract": "Oxygen ion conductors are crucial for enhancing the efficiency of various clean energy technologies, including fuel cells, batteries, electrolyzers, membranes, sensors, and more. In this study, LaBi2O4Cl is identified as an ultra-fast oxygen conductor from the MBi2O4X (M=rare-earth element, X=halogen element) family, discovered by a structure-similarity analysis of >60k oxygen-containing compounds. Ab initio studies reveal that LaBi2O4Cl has an ultra-low migration barrier of 0.1 eV for oxygen vacancy, significantly lower than 0.6-0.8 eV for interstitial oxygen. Frenkel pairs are the dominant defects in intrinsic LaBi2O4Cl, facilitating notable oxygen diffusion primarily through vacancies at higher temperatures. LaBi2O4Cl with extrinsic oxygen vacancies (2.8%) exhibits a conductivity of 0.3 S/cm at 25°C, maintains a 0.1 eV diffusion barrier up to 1100°C, and transitions from extrinsic to mixed extrinsic and intrinsic behavior as the Frenkel pair concentration increases at higher temperatures. Experimental results on synthesized LaBi2O4Cl and Sr-doped LaBi2O4Cl demonstrate comparable or higher oxygen conductivity than YSZ and LSGM below 400 °C, with lower activation energies. Further experimental optimization of LaBi2O4Cl, including aliovalent doping and microstructure refinement, could significantly enhance its performance and efficiency, facilitating fast oxygen conduction approaching room temperature.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2406.07723v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2406.07723v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2406.07723v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:33.353405+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1299_jsmeted.2021.0061",
+  "collection": "halide-solid-state-battery",
+  "title": "Charge-discharge Characteristics of All Solid-state Lithium Metal Battery with Sulfide and Oxide Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Manabu Kodama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tokyo Institute of Technology"
+    },
+    {
+      "name": "Kai Takashima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tokyo Institute of Technology"
+    },
+    {
+      "name": "Shuichiro Hirai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Tokyo Institute of Technology"
+    }
+  ],
+  "doi": "10.1299/jsmeted.2021.0061",
+  "url": "https://doi.org/10.1299/jsmeted.2021.0061",
+  "published": "2021",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1299/jsmeted.2021.0061",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1299_jsmeted.2021.0061/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "The Proceedings of the Thermal Engineering Conference",
+  "publisher": "",
+  "issn": "2424-290X",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:27.882987+00:00",
+  "updated_at": "",
+  "extra": {}
+}

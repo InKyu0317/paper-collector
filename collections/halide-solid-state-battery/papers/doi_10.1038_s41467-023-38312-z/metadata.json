@@ -1,0 +1,120 @@
+{
+  "paper_id": "doi_10.1038_s41467-023-38312-z",
+  "collection": "halide-solid-state-battery",
+  "title": "Wide-range continuous tuning of the thermal conductivity of $\\rm La_{0.5}Sr_{0.5}CoO_{3-δ}$ films via room-temperature ion-gel gating",
+  "authors": [
+    {
+      "name": "Yingying Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "William M. Postiglione",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rui Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chi Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hao Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vipul Chaturvedi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kei Heltemes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hua Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tianli Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chris Leighton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaojia Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-023-38312-z",
+  "url": "http://arxiv.org/abs/2303.15545v1",
+  "published": "2023-03-27T18:52:58+00:00",
+  "abstract": "Solid-state control of the thermal conductivity of materials is of exceptional interest for novel devices such as thermal diodes and switches. Here, we demonstrate the ability to continuously tune the thermal conductivity of nanoscale films of $\\rm La_{0.5}Sr_{0.5}CoO_{3-δ}$ (LSCO) by a factor of over 5, via a room-temperature electrolyte-gate-induced non-volatile topotactic phase transformation from perovskite (with $δ\\approx 0.1$) to an oxygen-vacancy-ordered brownmillerite phase (with $δ=0.5$), accompanied by a metal-insulator transition. Combining time-domain thermoreflectance and electronic transport measurements, model analyses based on molecular dynamics and Boltzmann transport, and structural characterization by X-ray diffraction, we uncover and deconvolve the effects of these transitions on heat carriers, including electrons and lattice vibrations. The wide-range continuous tunability of LSCO thermal conductivity enabled by low-voltage (below 4 V) room-temperature electrolyte gating opens the door to non-volatile dynamic control of thermal transport in perovskite-based functional materials, for thermal regulation and management in device applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2303.15545v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-023-38312-z/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2303.15545v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-15T02:28:40.452450+00:00",
+  "updated_at": "",
+  "extra": {}
+}
