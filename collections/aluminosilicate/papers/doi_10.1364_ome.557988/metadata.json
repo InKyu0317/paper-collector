@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1364_ome.557988",
+  "collection": "aluminosilicate",
+  "title": "Anti-Stokes fluorescence cooling of lanthanum aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "T. Meyneng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8551-2181",
+      "affiliation": ""
+    },
+    {
+      "name": "M. Aïssaoui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "N. Grégoire",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Université Laval"
+    },
+    {
+      "name": "P. Labranche",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Université Laval"
+    },
+    {
+      "name": "S. Morency",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Université Laval"
+    },
+    {
+      "name": "J. S. Boisvert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "V. Karpov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "MPB Communication"
+    },
+    {
+      "name": "Y. Messaddeq",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Université Laval"
+    },
+    {
+      "name": "R. Kashyap",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1364/ome.557988",
+  "url": "https://doi.org/10.1364/ome.557988",
+  "published": "2025-4-1",
+  "abstract": "<jats:p>\n                    This study reports on the fabrication of ytterbium-doped lanthanum-aluminosilicate (LAS) glasses using the modified chemical vapor deposition (MCVD) process combined with solution doping. The fabricated samples exhibit near-unity quantum efficiencies and background absorptions below 10 dB·km\n                    <jats:sup>−1</jats:sup>\n                    , enabling the observation of anti-Stokes fluorescence cooling (ASFC) under excitation wavelengths ranging from 1030 to 1080 nm. Measurements conducted in ambient conditions demonstrated net cooling of up to −8.2 K from room temperature in small bulk samples and −7.9 K in long rods of the material.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1364/ome.557988",
+  "pdf_path": "aluminosilicate/papers/doi_10.1364_ome.557988/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Optical Materials Express",
+  "publisher": "",
+  "issn": "2159-3930",
+  "quartile": "",
+  "added_at": "2026-08-15T02:23:10.639492+00:00",
+  "updated_at": "",
+  "extra": {}
+}
