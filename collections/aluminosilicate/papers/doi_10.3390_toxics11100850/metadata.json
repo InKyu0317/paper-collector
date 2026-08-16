@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.3390_toxics11100850",
+  "collection": "aluminosilicate",
+  "title": "Preparation and Density Functional Theory Studies of Aluminosilicate-Based Ceramic Solidified Products for Sr Immobilization",
+  "authors": [
+    {
+      "name": "Yan Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Hongji Sang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Jiawei Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Shuyi Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Zhengcheng Gu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Hao Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    },
+    {
+      "name": "Yuezhou Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3821-9078",
+      "affiliation": "School of Nuclear Science and Engineering, Shanghai Jiao Tong University, Shanghai 200240, China"
+    }
+  ],
+  "doi": "10.3390/toxics11100850",
+  "url": "https://doi.org/10.3390/toxics11100850",
+  "published": null,
+  "abstract": "<jats:p>Strontium is a common radionuclide in radioactive waste, and its release into the environment can cause enormous damage to the ecosystem environment. In this study, the natural mineral allophane was selected as the substrate to prepare solidified ceramic products by cold pressing/sintering to solve the problem of the final disposal of radioactive strontium. Ceramic solidified products with various crystal structures were successfully prepared, and the microscopic morphology and energy-dispersive spectroscopy images of the samples showed a uniform distribution of Sr in the solidified products. Sr2Al2SiO7 and SrAl2Si2O8, which can stably solidify strontium, were formed in the solidified products, and the structural characteristics and stability of the above-mentioned substances were analyzed from the perspective of quantum chemical calculations using density functional theory. The calculation results showed that the overall deformation resistance of Sr2Al2SiO7 was higher than that of SrAl2Si2O8. Considering the isomorphic substitution effect of CaO impurities, we inferred that a mixed-crystalline structure of Ca2−xSrxAl2SiO7 may be present in the solidified products.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/toxics11100850",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_toxics11100850/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Toxics",
+  "publisher": "",
+  "issn": "2305-6304",
+  "quartile": "",
+  "added_at": "2026-08-16T02:28:32.357472+00:00",
+  "updated_at": "",
+  "extra": {}
+}
