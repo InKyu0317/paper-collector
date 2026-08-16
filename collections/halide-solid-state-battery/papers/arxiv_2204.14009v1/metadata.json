@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2204.14009v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Effective Ion Mobility and Long-Time Dark Current of Metal-Halide Perovskites of Different Crystallinity and Composition",
+  "authors": [
+    {
+      "name": "Marisé García-Batlle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sarah Deumel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Judith E. Huerdler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sandro F. Tedde",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Osbel Almora",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Germà Garcia-Belmonte",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2204.14009v1",
+  "published": "2022-04-29T10:43:41+00:00",
+  "abstract": "Ion transport properties in metal-halide perovskite still constitute a subject of intense research because of the evident connection between mobile defects and device performance and operation degradation. In the specific case of X-ray detectors, dark current level and instability is regarded to be connected to the ion migration upon bias application. Different compositions (MAPbBr3 and MAPbI3) and structures (single- and micro-crystalline) are checked by the analysis of long-time dark current evolution. In all cases, electronic current increases with time before reaching a steady-state value within a response time (from 10.000 s down to 10 s) that strongly depends on the applied bias. Our findings corroborate the existence of a coupling between electronic transport and ion kinetics that ultimately establishes the time scale of electronic current. Effective ion mobility mui is extracted that exhibits applied electrical field E dependence that varies on the perovskite composition. While ion mobility results field-independent in the case of MAPbI3, a clear field-enhancement is observed for MAPbBr3 (dmui/dE>0), irrespective of the crystallinity. Both perovskite compounds present effective ion mobility in the range of mui = 10-7-10-6 cm-2 V-1 s-1, in accordance with previous analyses. The E-dependence of the ion mobility is related to the lower ionic concentration of the bromide compound. Slower-migrating defect drift is suppressed in the case of MAPbBr3, in opposition to that observed here for MAPbI3.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2204.14009v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2204.14009v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2204.14009v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:32:52.276359+00:00",
+  "updated_at": "",
+  "extra": {}
+}

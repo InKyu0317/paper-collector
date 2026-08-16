@@ -1,0 +1,91 @@
+{
+  "paper_id": "doi_10.1016_j.micromeso.2024.113181",
+  "collection": "halide-solid-state-battery",
+  "title": "Wafer-scale fabrication of mesoporous silicon functionalized with electrically conductive polymers",
+  "authors": [
+    {
+      "name": "Manfred May",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mathis Boderius",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Natalia Gostkowska-Lekner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mark Busch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Klaus Habicht",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tommy Hofmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick Huber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.micromeso.2024.113181",
+  "url": "http://arxiv.org/abs/2401.09276v1",
+  "published": "2024-01-17T15:28:22+00:00",
+  "abstract": "The fabrication of hybrid materials consisting of nanoporous hosts with conductive polymers is a challenging task, since the extreme spatial confinement often conflicts with the stringent physico-chemical requirements for polymerization of organic constituents. Here, several low-threshold and scalable synthesis routes for such hybrids are presented. First, the electrochemical synthesis of composites based on mesoporous silicon (pore size of 7 nm) and the polymers PANI, PPy and PEDOT is discussed and validated by scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDX). Polymer filling degrees of 74% are achieved. Second, the production of PEDOT/pSi hybrids, based on the solid-state polymerization (SSP) of DBEDOT to PEDOT is shown. The resulting amorphous structure of the nanopore-embedded PEDOT is investigated via in-situ synchrotron-based X-ray scattering. In addition, a twofold increase in the electrical conductivity of the hybrid compared to the porous silicon host is shown, making this system particularly promising for thermoelectric applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "cond-mat.soft",
+    "physics.app-ph",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2401.09276v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.micromeso.2024.113181/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2401.09276v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:33:16.604454+00:00",
+  "updated_at": "",
+  "extra": {}
+}

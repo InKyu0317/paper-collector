@@ -1,0 +1,119 @@
+{
+  "paper_id": "arxiv_2505.09195v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Study of magneto-thermal resistance effect in a Co50Fe50/Cu multilayer through the analysis of electron and lattice thermal conductivities",
+  "authors": [
+    {
+      "name": "Fuya Makino",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takamasa Hirai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takuma Shiga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hirofumi Suto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hiroshi Fujihisa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Koichi Oyanagi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Satoru Kobayashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Taisuke Sasaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takashi Yagi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ken-ichi Uchida",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuya Sakuraba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.09195v1",
+  "published": "2025-05-14T07:08:40+00:00",
+  "abstract": "This study investigates the giant magneto-thermal resistance (GMTR) effect in a fully-bcc epitaxial Co50Fe50/Cu multilayer through both experimental and theoretical approaches. The applied magnetic field results in a giant change of the cross-plane thermal conductivity (Δ\\k{appa}) of 37 W m-1 K-1, which reaches 1.5 times larger than the previously reported value for a magnetic multilayer and record the highest value at room temperature among the other solid-state thermal switching materials working on different principles. We investigated the electron thermal conductivity for exploring the remarkable Δ\\k{appa} by the two-current-series-resistor model combined with the Wiedemann-Franz (WF) law. However, the result shows the electron contribution accounts for only 35% of the Δ\\k{appa}, indicating the presence of additional spin-dependent heat carriers. Further investigation of the lattice thermal conductivity, which is expected to be spin-independent, using non-equilibrium molecular dynamics (NEMD) simulations suggests a striking contrast: the additional spin-dependent heat carrier contribution is significantly enhanced in the parallel magnetization configuration but nearly negligible in the antiparallel configuration. These findings provide a fundamental insight into the origin of large GMTR effect and highlight its potential of active thermal management technologies for future electronic devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.09195v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.09195v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.09195v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:33:19.648611+00:00",
+  "updated_at": "",
+  "extra": {}
+}

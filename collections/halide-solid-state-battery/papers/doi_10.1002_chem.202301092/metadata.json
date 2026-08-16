@@ -1,0 +1,87 @@
+{
+  "paper_id": "doi_10.1002_chem.202301092",
+  "collection": "halide-solid-state-battery",
+  "title": "Unexpected coexisting solid solutions in the quasi-binary Ag(II)F2/Cu(II)F2 phase diagram",
+  "authors": [
+    {
+      "name": "D. Jezierski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "K. Koteras",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Domanski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "P. Połczynski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Z. Mazej",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "J. Lorenzana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "W. Grochala",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/chem.202301092",
+  "url": "http://arxiv.org/abs/2304.02257v1",
+  "published": "2023-04-05T07:19:13+00:00",
+  "abstract": "High-temperature solid-state reaction between orthorhombic AgF2 and monoclinic CuF2 (y = 0.15, 0.3, 0.4, 0.5) in a fluorine atmosphere resulted in coexisting solid solutions of Cu-poor orthorhombic and Cu-rich monoclinic phases with stoichiometry Ag1-xCuxF2. Based on X-ray powder diffraction analyses, the mutual solubility in the orthorhombic phase (AgF2 doped with Cu) appears to be at an upper limit of Cu concentration of 30 mol % (Ag0.7Cu0.3F2), while the monoclinic phase (CuF2 doped with Ag) can form a nearly stoichiometric Cu : Ag = 1 : 1 solid solution (Cu0.56Ag0.44F2), preserving the CuF2 crystal structure. Experimental data and DFT calculations showed that AgF2 doped with Cu and CuF2 doped with Ag solid solutions deviate from the classical Vegards law. Magnetic measurements of Ag1-xCuxF2 showed that the Neel temperature (TN) decreases with increasing Cu content in both phases. Likewise, theoretical DFT+U calculations for Ag1-xCuxF2 showed that the progressive substitution of Ag by Cu decreases the magnetic interaction strength (J2D) in both structures. Electrical conductivity measurements of Ag0.85Cu0.15F2 showed a ca. 2-fold increase in specific ionic conductivity (3.71 x 10-13 plus/minus 2.6 x 10-15 S/cm) as compared to pure AgF2 (1.85 x 10-13 plus/minus 1.2 x 10-15 S/cm), indicating the formation of a vacancy- or F adatom-free metal difluoride sample.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2304.02257v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_chem.202301092/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2304.02257v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:33:05.943792+00:00",
+  "updated_at": "",
+  "extra": {}
+}

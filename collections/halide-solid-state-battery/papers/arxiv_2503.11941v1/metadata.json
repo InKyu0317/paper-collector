@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2503.11941v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Vacancy-induced Modification of Electronic Band Structure of LiBO$_{2}$ Material as Cathode Surface Coating of Lithium-ion Batteries",
+  "authors": [
+    {
+      "name": "Ha M. Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carson D. Ziemke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Narendirakumar Narayanan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastian Amaya-Roncanci",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John Gahl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yangchuan Xing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas W. Heitmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Wexler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2503.11941v1",
+  "published": "2025-03-15T01:19:46+00:00",
+  "abstract": "LiBO$_{2}$ is an electronic insulator and a promising surface coating for stabilizing high-voltage cathodes in lithium-ion batteries. Despite its potential, the functional mechanisms of this coating remain unclear, particularly the transport of lithium ions and electrons through LiBO$_{2}$ in the presence of lattice vacancies. This understanding is critical for the design and development of LiBO$_{2}$-based materials. In our previous work [Ziemke $\\textit{et al.}$, J. Mater. Chem. A, 2025, $\\textbf{13}$, 3146-3162], we used density functional theory (DFT) calculations to investigate the impact of lattice vacancies on Li-ion transport in both tetragonal (t-LBO) and monoclinic (m-LBO) polymorphs of LiBO$_{2}$, revealing that B vacancies in either polymorph enhanced lithium-ion transport. In this study, we expand on these findings by using DFT calculations to examine the effects of lattice vacancies on the electronic properties of both t-LBO and m-LBO polymorphs,focusing on the electronic band structure. Our analysis shows that B vacancies can enhance the electronic insulation of t-LBO while improving the ionic conduction of m-LBO. The combined results of our previous and current works indicate that B vacancy generation in LiBO$_{2}$ may enable t-LBO to function as a promising solid electrolyte and enhance the performance of m-LBO as a conformal cathode coating in lithium-ion batteries. Overall, generating B vacancies, such as through neutron irradiation, would offer a viable strategy to improve the functionality of LiBO$_{2}$ as a promising material for energy storage applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.11941v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2503.11941v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.11941v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:33:13.021561+00:00",
+  "updated_at": "",
+  "extra": {}
+}

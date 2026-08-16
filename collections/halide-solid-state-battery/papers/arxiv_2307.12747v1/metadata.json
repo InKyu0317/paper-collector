@@ -1,0 +1,112 @@
+{
+  "paper_id": "arxiv_2307.12747v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Conduction band tuning by controlled alloying of Fe into Cs2AgBiBr6 double perovskite powders",
+  "authors": [
+    {
+      "name": "Huygen J. Jobsis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kostas Fykouras",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joost W. C. Reinders",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jacco van Katwijk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joren M. Dorresteijn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tjom Arens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ina Vollmer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Loreta A. Muscarella",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linn Leppert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eline M. Hutter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.12747v1",
+  "published": "2023-07-24T12:37:18+00:00",
+  "abstract": "Halide double perovskite semiconductors such as Cs2AgBiBr6 are widely investigated as a more stable, less toxic alternative to lead-halide perovskites in light conversion applications including photovoltaics and photoredox catalysis. However, the relatively large and indirect bandgap of Cs2AgBiBr6 limits efficient sunlight absorption. Here, we show that controlled replacement of Bi3+ with Fe3+ via mechanochemical synthesis results in a remarkable tunable absorption onset between 2.1 and ~1 eV. Our first-principles density functional theory (DFT) calculations suggest that this bandgap reduction originates primarily from a lowering of the conduction band upon introduction of Fe3+. Furthermore, we find that the tunability of the conduction band energy is reflected in the photoredox activity of these semiconductors. Finally, our DFT calculations predict a direct bandgap when >50% of Bi3+ is replaced with Fe3+. Our findings open new avenues for enhancing the sunlight absorption of double perovskite semiconductors and for harnessing their full potential in sustainable energy applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.12747v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.12747v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.12747v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:33:22.668904+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2607.08224v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Phase stability and ionic transport in post-spinel CaV$_2$O$_4$ cathode",
+  "authors": [
+    {
+      "name": "Dereje Bekele Tekliye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Javeed Ahmad Dar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gopalakrishnan Sai Gautam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2607.08224v1",
+  "published": "2026-07-09T08:17:56+00:00",
+  "abstract": "Calcium-ion batteries (CBs) represent an alternative to lithium-ion technology but their advancement is limited by the lack of high-performance intercalation cathodes. Identified via computational screening, post-spinel CaV$_2$O$_4$ has emerged as a promising candidate, though its practical application is hindered by limited electrochemical capacity. Hence, we investigate the thermodynamic and ionic transport characteristics of Ca$_x$V$_2$O$_4$ ($0 \\leq x \\leq 1$) in this work, by integrating the cluster expansion formalism with Monte Carlo simulations and density functional theory based calculations. We construct the temperature-composition phase diagram of Ca$_x$V$_2$O$_4$ revealing several stable phases ($α$ through $ζ$) that can appear during electrochemical operations at different voltages. Importantly, we observe the formation of the $\\varepsilon$ phase at $x \\sim 0.83$ across a 370-590~K temperature window via invariant reactions, which agrees with observations in the experimental voltage profiles. Further, migration barrier calculations confirm that Ca mobility is severely impeded within the $α$ ($x \\sim 0$) and $γ$ ($x \\sim 0.5$) phases. With the strong Ca-vacancy ordering contributing to the high barrier in $γ$ and the persistent two-phase region stretching across the $δ$ ($x \\sim 0.67$) and the $γ$ phases, we expect the accessible electrochemical capacity in the CaV$_2$O$_4$ system to be kinetically limited to at most half the theoretical capacity at 298~K, in agreement with experiments. Strategies including cation doping and particle size reduction can be considered to flatten the potential energy landscape of $γ$ and improve Ca mobility. Our computational findings highlight the interplay between stability and transport and provide design strategies that can enable the practical use of CaV$_2$O$_4$ as a CB cathode.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2607.08224v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2607.08224v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2607.08224v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-16T02:32:55.330916+00:00",
+  "updated_at": "",
+  "extra": {}
+}
