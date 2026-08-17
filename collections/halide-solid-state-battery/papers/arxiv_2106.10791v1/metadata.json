@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2106.10791v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Re-discovering micro-emulsion electrolytes: a biphasic electrolyte platform for Organic redox flow batteries",
+  "authors": [
+    {
+      "name": "Rohan Borah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fraser R Hughson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Nann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2106.10791v1",
+  "published": "2021-06-21T01:08:19+00:00",
+  "abstract": "Redox flow batteries (RFBs) have gained popularity as large-scale energy storage systems for wind and solar powered grids. Modern RFB systems are based on highly corrosive and/or flammable electrolytes. Organic redox active species for RFBs are gaining commercial traction, but there is a trade-off in choosing aqueous or non-aqueous electrolytes in terms of rate capabilities, energy density, safety and cost. While modification of organic redox molecules to mitigate these issues is prevalent in the literature, the search for novel electrolyte systems is scarce. Here we present microemulsion-based electrolytes as an alternative for the next generation of organic RFBs. Micro-emulsion electrolytes (MEs) offer the advantages of decoupled solubility and ionic conductivity, broad electrochemical windows, non-flammability, simple fabrication modes and low cost of constituent chemicals. The electrochemical properties of organic redox species in MEs have been investigated for RFB requirements and a proof-of-concept flow cell with a widely studied redox system and a commercial membrane is shown. The compositions of MEs can be tailored to the redox system, making them a platform of electrolytes for all organic redox systems under consideration and benefit.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2106.10791v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2106.10791v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2106.10791v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:50.746497+00:00",
+  "updated_at": "",
+  "extra": {}
+}

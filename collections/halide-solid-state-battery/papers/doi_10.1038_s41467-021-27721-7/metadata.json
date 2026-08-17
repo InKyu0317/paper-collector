@@ -1,0 +1,74 @@
+{
+  "paper_id": "doi_10.1038_s41467-021-27721-7",
+  "collection": "halide-solid-state-battery",
+  "title": "Boundary conductance in macroscopic bismuth crystals",
+  "authors": [
+    {
+      "name": "Woun Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Spathelf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Benoît Fauqué",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuki Fuseya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kamran Behnia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-021-27721-7",
+  "url": "http://arxiv.org/abs/2103.07296v4",
+  "published": "2021-03-12T14:11:44+00:00",
+  "abstract": "The interface between a solid and vacuum can become electronically distinct from the bulk. This feature, encountered in the case of quantum Hall effect, has a manifestation in insulators with topologically protected metallic surface states. Non-trivial Berry curvature of the Bloch waves or periodically driven perturbation are known to generate it. Here, by studying the angle-dependent magnetoresistance in prismatic bismuth crystals of different shapes, we detect a robust surface contribution to electric conductivity when the magnetic field is aligned parallel to a two-dimensional boundary between the three-dimensional crystal and vacuum. The effect is absent in antimony, which has an identical crystal symmetry, a similar Fermi surface structure and equally ballistic carriers, but an inverted band symmetry and a topological invariant of opposite sign. Our observation confirms that the boundary interrupting the cyclotron orbits remains metallic in bismuth, which is in agreement with what was predicted by Azbel decades ago. However, the absence of the effect in antimony indicates an intimate link between band symmetry and this boundary conductance.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.other",
+    "cond-mat.str-el"
+  ],
+  "source": "arxiv",
+  "source_id": "2103.07296v4",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-021-27721-7/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2103.07296v4",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:58.095174+00:00",
+  "updated_at": "",
+  "extra": {}
+}

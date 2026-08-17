@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2402.17557v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Fast Lithium Ion Diffusion in Brownmillerite $\\mathrm{Li}_{x}\\mathrm{{Sr}_{2}{Co}_{2}{O}_{5}}$",
+  "authors": [
+    {
+      "name": "Xin Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xixiang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jie-Xiang Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiadong Zang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.17557v3",
+  "published": "2024-02-27T14:55:51+00:00",
+  "abstract": "Ionic conductors have great potential for interesting tunable physical properties via ionic liquid gating and novel energy storage applications such as all-solid-state lithium batteries. In particular, low migration barriers and high hopping attempt frequency are the keys to achieve fast ion diffusion in solids. Taking advantage of the oxygen-vacancy channel in $\\mathrm{Li}_{x}\\mathrm{{Sr}_{2}{Co}_{2}{O}_{5}}$, we show that migration barriers of lithium ion are as small as 0.28~0.17eV depending on the lithium concentration rates. Our first-principles calculation also investigated hopping attempt frequency and concluded the room temperature ionic diffusivity and ion conductivity is high as ${10}^{-7}\\sim{10}^{-6}~\\mathrm{{cm}^{2}~s^{-1}}$ and ${10}^{-3}\\sim{10}^{-2}~\\mathrm{S\\cdot{cm}^{-1}}$ respectively, which outperform most of perovskite-type, garnet-type and sulfide Li-ion solid-state electrolytes. This work proves $\\mathrm{Li}_{x}\\mathrm{{Sr}_{2}{Co}_{2}{O}_{5}}$ as a promising super-ionic conductor.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.17557v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.17557v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.17557v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:47.707965+00:00",
+  "updated_at": "",
+  "extra": {}
+}

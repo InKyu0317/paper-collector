@@ -1,0 +1,128 @@
+{
+  "paper_id": "arxiv_2310.02188v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Simulation Guided Molecular Design of Hydrofluoroether Solvent for High Energy Batteries",
+  "authors": [
+    {
+      "name": "Zhou Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhangxing shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sambasiva R. Bheemireddy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ethan Kamphause",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xingyi Lyu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohammad Afsar Uddin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiguang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenzhen Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeffrey S. Moore",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lu Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lei Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.02188v1",
+  "published": "2023-10-03T16:35:01+00:00",
+  "abstract": "Electrolyte design is critical for enabling next-generation batteries with higher energy densities. Hydrofluoroether (HFE) solvents have drawn a lot of attention as the electrolytes based on HFEs showed great promise to deliver highly desired properties, including high oxidative stability, ionic conductivity, as well as enhanced lithium metal compatibility. However, the structure-dynamics-properties relationships and design principles for high-performance HFE solvents are still poorly understood. Herein, we proposed four novel asymmetric HFE designs by systematically varying polyether and fluorocarbon structural building blocks. By leveraging molecular dynamics (MD) modeling to analyze the solvation structures and predict the properties of the corresponding 1 M lithium bis(fluorosulfonyl)imide (LiTFSI) solutions, we downselected the most promising candidate based on high conductivity, solvation species distribution, and oxidative stability for extensive electrochemical characterizations. The formulated electrolyte demonstrated properties consistent with the predictions from the simulations and showed much-improved capacity retention as well as Coulombic efficiency compared to the baseline electrolytes when cycled in lithium metal cells. This work exemplifies the construction of candidate electrolytes from building block functional moieties to engineer fundamental solvation structures for desired electrolyte properties and guide the discovery and rational design of new solvent materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.02188v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.02188v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.02188v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:44.293693+00:00",
+  "updated_at": "",
+  "extra": {}
+}

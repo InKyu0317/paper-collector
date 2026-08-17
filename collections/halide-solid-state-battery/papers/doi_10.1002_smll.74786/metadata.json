@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1002_smll.74786",
+  "collection": "halide-solid-state-battery",
+  "title": "Multi‐Ion Doped Zr‐Based Halide Solid Electrolytes for High‐Performance All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Shuwang Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering South China University of Technology  Guangzhou China"
+    },
+    {
+      "name": "Lei Xi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering South China University of Technology  Guangzhou China"
+    },
+    {
+      "name": "Hulei Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8689-6586",
+      "affiliation": "School of Materials Science and Engineering South China University of Technology  Guangzhou China"
+    },
+    {
+      "name": "Pingbo Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Materials Science and Engineering South China University of Technology  Guangzhou China"
+    },
+    {
+      "name": "Jun Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7078-8046",
+      "affiliation": "School of Materials Science and Engineering South China University of Technology  Guangzhou China"
+    }
+  ],
+  "doi": "10.1002/smll.74786",
+  "url": "https://doi.org/10.1002/smll.74786",
+  "published": null,
+  "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Zr‐based halide solid‐state electrolytes (SSEs) hold significant commercial potential owing to their cost‐effectiveness, excellent mechanical deformability, and superior oxidative stability. However, their practical applications are still hindered by limited room‐temperature ionic conductivity and insufficient compatibility with high‐voltage oxide cathodes. Here, a oxygen‐doped high‐entropy SSE (HESSEO, Li\n                    <jats:sub>2.89</jats:sub>\n                    Zr\n                    <jats:sub>0.72</jats:sub>\n                    Nb\n                    <jats:sub>0.07</jats:sub>\n                    Mo\n                    <jats:sub>0.07</jats:sub>\n                    Ta\n                    <jats:sub>0.07</jats:sub>\n                    Hf\n                    <jats:sub>0.07</jats:sub>\n                    Cl\n                    <jats:sub>4.9</jats:sub>\n                    O\n                    <jats:sub>1.1</jats:sub>\n                    ) was synthesized by introducing M (M = Nb, Mo, Ta, and Hf) and O ions into Li\n                    <jats:sub>2</jats:sub>\n                    ZrCl\n                    <jats:sub>6</jats:sub>\n                    (LZC), achieving a high ionic conductivity of 2.13 mS cm\n                    <jats:sup>−1</jats:sup>\n                    at room temperature. Density functional theory (DFT) calculations confirmed that HESSEO exhibits higher Li\n                    <jats:sup>+</jats:sup>\n                    diffusion coefficients and lower diffusion barriers compared with those of LZC. All‐solid‐state batteries (ASSBs) with HESSEO demonstrated excellent long‐term cycling stability, delivering an initial discharge capacity of 187.2 mAh g\n                    <jats:sup>−1</jats:sup>\n                    and retaining 78.8% of the capacity after 1000 cycles at 2 C with the cutoff voltage of 4.3 V (vs. Li\n                    <jats:sup>+</jats:sup>\n                    /Li). Moreover, the batteries maintained stable operation for over 300 cycles even at 1 C with a higher cutoff voltage of 4.5 V. This multi‐ion synergistic design provides a viable strategy to simultaneously enhance the ionic conductivity and high‐voltage stability of halide SSEs, offering a practical approach for the development of commercially relevant ASSBs.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/smll.74786",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.74786/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.74786",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Small",
+  "publisher": "",
+  "issn": "1613-6810",
+  "quartile": "",
+  "added_at": "2026-08-17T02:33:02.126004+00:00",
+  "updated_at": "",
+  "extra": {}
+}

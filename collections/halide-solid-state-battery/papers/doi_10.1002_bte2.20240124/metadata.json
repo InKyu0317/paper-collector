@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1002_bte2.20240124",
+  "collection": "halide-solid-state-battery",
+  "title": "Nickel Cobalt Sulfide Nanosheets on Cotton Fabric‐Derived Carbon Substrates as Self‐Standing Binder‐Free Electrodes for Asymmetric All‐Solid‐State Supercapacitors",
+  "authors": [
+    {
+      "name": "Yuan Yue",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "College of Chemistry and Chemical Engineering Donghua University Shanghai China"
+    },
+    {
+      "name": "Shao‐Wei Bian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1161-6815",
+      "affiliation": "College of Chemistry and Chemical Engineering Donghua University Shanghai China"
+    }
+  ],
+  "doi": "10.1002/bte2.20240124",
+  "url": "https://doi.org/10.1002/bte2.20240124",
+  "published": "2025-9",
+  "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>Cobalt nickel sulfide (Ni‐Co‐S), a typical bimetallic sulfide, is regarded as a promising electrode material for supercapacitors (SCs). In this study, the electrodeposition process is employed to grow vertically aligned Ni‐Co‐S nanosheets on a carbon film (CF) substrate derived from cotton fabrics. The conductive and porous CF film not only ensures the uniform distribution of Ni‐Co‐S nanosheets but also offers an efficient pathway for the transportation of electrons and electrolyte ions. The Ni‐Co‐S nanosheet arrays, characterized by their small thickness and open pores, facilitate to provide a rapid diffusion path for electrolyte ions and expose sufficient active surfaces for charge storage. The synergistic effect resulting from the rational combination of Ni‐Co‐S nanosheets and the CF film substrate endows the film electrode with a high areal capacitance of 1800 mF cm<jats:sup>−2</jats:sup> at 2 mV s<jats:sup>−1</jats:sup> and remarkable mechanical flexibility. Furthermore, when an all‐solid‐state asymmetric SC device is assembled, a high energy density of 324.1 mWh cm<jats:sup>−2</jats:sup> is achieved at a power density of 2252.4 mW cm<jats:sup>−2</jats:sup>.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/bte2.20240124",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_bte2.20240124/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Battery Energy",
+  "publisher": "",
+  "issn": "2768-1688",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:53.958343+00:00",
+  "updated_at": "",
+  "extra": {}
+}

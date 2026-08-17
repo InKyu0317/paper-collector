@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1016_j.jpcs.2021.110425",
+  "collection": "halide-solid-state-battery",
+  "title": "Chemical-state analyses of Ni, Zn, and W ions in NiWO$_4$-ZnWO$_4$ solid solutions by X-ray photoelectron spectroscopy",
+  "authors": [
+    {
+      "name": "G. Bakradze",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Kalinko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Kuzmin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jpcs.2021.110425",
+  "url": "http://arxiv.org/abs/2111.04162v1",
+  "published": "2021-11-07T19:47:05+00:00",
+  "abstract": "The chemical states of Ni, Zn, and W in microcrystalline NiWO$_4$-ZnWO$_4$ solid solutions were studied by X-ray photoelectron spectroscopy. The recorded spectra of the Ni 2p, Zn 2p, and W 4f photoelectron lines and Ni L$_2$M$_{23}$M$_{45}$, Zn L$_3$M$_{45}$M$_{45}$, and W N$_4$N$_{67}$N$_{7}$ Auger-transition lines show pronounced changes with increasing Zn concentration. The positions of the resolved photoelectron and Auger-transition lines were combined to construct so-called chemical-state plots (Wagner or Auger-parameter plots) for metal ions in solid solutions. With increasing Zn concentration, the Auger parameter increases for Ni and decreases for W, thus evidencing a lowering and an increase of the electronic polarizability around core-ionized Ni and W ions, respectively. At the same time, the character of Zn-O bonds and the local structure around Zn ions do not change. It is concluded that the dilution of NiWO$_4$ with Zn ions is accompanied by an increase of the Ni-O bond ionicity and an increase of the W-O bond covalency. These changes are attributed to the charge redistribution among [NiO$_6$] and [WO$_6$] structural units. We show that a careful in-depth analysis of XPS data obtained with a laboratory-based X-ray photoelectron spectroscopy system can give chemically sensitive, qualitative information on the changes in the first coordination spheres of each metal ion. This information is otherwise accessible only by synchrotron-based techniques (such as X-ray absorption spectroscopy).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.04162v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jpcs.2021.110425/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.04162v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-17T02:32:39.655261+00:00",
+  "updated_at": "",
+  "extra": {}
+}
