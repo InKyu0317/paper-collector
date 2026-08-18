@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1364_ome.573889",
+  "collection": "aluminosilicate",
+  "title": "Revisiting energy transfer in Tm-doped aluminosilicate glass fiber I: introducing a new model",
+  "authors": [
+    {
+      "name": "Martin P. Buckthorpe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0846-9685",
+      "affiliation": ""
+    },
+    {
+      "name": "Stuart D. Jackson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9667-9526",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1364/ome.573889",
+  "url": "https://doi.org/10.1364/ome.573889",
+  "published": "2025-10-1",
+  "abstract": "<jats:p>\n                    In this study, we re-examine cross-relaxation and energy transfer upconversion in Tm\n                    <jats:sup>3+</jats:sup>\n                    -doped aluminosilicate glass fiber, in an effort to better quantify the relevant rate parameters. To do this, we explore the available literature in detail and extract the key features observed from vital studies of spectroscopy. We provide a method of expressing the host-related intrinsic decay as a summed double-exponential, highlighting the critical importance of the aluminium oxide co-doping concentration on the intrinsic decay characteristic. We segment the measured fluorescence decay to isolate cross relaxation and employ the Inokuti-Hirayama model to extract the energy transfer rate parameters for Tm\n                    <jats:sup>3+</jats:sup>\n                    -doped aluminosilicate fibers. Fitting this theoretical model to our measured fluorescence decays of the\n                    <jats:sup>3</jats:sup>\n                    H\n                    <jats:sub>4</jats:sub>\n                    and\n                    <jats:sup>3</jats:sup>\n                    F\n                    <jats:sub>4</jats:sub>\n                    energy levels enabled the cross-relaxation and energy transfer upconversion processes to be more accurately quantified.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1364/ome.573889",
+  "pdf_path": "aluminosilicate/papers/doi_10.1364_ome.573889/paper.pdf",
+  "pdf_url": "https://opg.optica.org/viewmedia.cfm?URI=ome-15-10-2576",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Optical Materials Express",
+  "publisher": "",
+  "issn": "2159-3930",
+  "quartile": "",
+  "added_at": "2026-08-18T02:24:47.814087+00:00",
+  "updated_at": "",
+  "extra": {}
+}

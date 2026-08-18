@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1063_5.0164817",
+  "collection": "aluminosilicate",
+  "title": "Atomistic simulations of calcium aluminosilicate interfaced with liquid water",
+  "authors": [
+    {
+      "name": "F. Vuković",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3463-651X",
+      "affiliation": "Institute for Frontier Materials, Deakin University 1 , Geelong, VIC 3216, Australia"
+    },
+    {
+      "name": "N. A. Garcia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute for Frontier Materials, Deakin University 1 , Geelong, VIC 3216, Australia"
+    },
+    {
+      "name": "S. Perera",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9476-712X",
+      "affiliation": "Institute for Frontier Materials, Deakin University 1 , Geelong, VIC 3216, Australia"
+    },
+    {
+      "name": "M. Turchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6893-8335",
+      "affiliation": "Department of Chemical and Biochemical Engineering, Technical University of Denmark 2 , Kgs. Lyngby 2800, Denmark"
+    },
+    {
+      "name": "M. P. Andersson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4921-1461",
+      "affiliation": "Department of Chemical and Biochemical Engineering, Technical University of Denmark 2 , Kgs. Lyngby 2800, Denmark"
+    },
+    {
+      "name": "M. Solvang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0000-8060-4274",
+      "affiliation": "Group Research and Development, ROCKWOOL A/S 3 , 2640 Hedehusene, Denmark"
+    },
+    {
+      "name": "P. Raiteri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0692-0505",
+      "affiliation": "Curtin Institute for Computation/The Institute for Geoscience Research (TIGeR), School of Molecular and Life Sciences, Curtin University 4 , Perth, Western Australia 6845, Australia"
+    },
+    {
+      "name": "T. R. Walsh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0233-9484",
+      "affiliation": "Institute for Frontier Materials, Deakin University 1 , Geelong, VIC 3216, Australia"
+    }
+  ],
+  "doi": "10.1063/5.0164817",
+  "url": "https://doi.org/10.1063/5.0164817",
+  "published": "2023-9-14",
+  "abstract": "<jats:p>The dissolution behavior of calcium aluminosilicate based glass fibers, such as stone wool fibers, is an important consideration in mineral wool applications for both the longevity of the mineral wool products in humid environments and limiting the health impacts of released and inhaled fibers from the mineral wool product. Balancing these factors requires a molecular-level understanding of calcium aluminosilicate glass dissolution mechanisms, details that are challenging to resolve with experiment alone. Molecular dynamics simulations are a powerful tool capable of providing complementary atomistic insights regarding dissolution; however, they require force fields capable of describing not-only the calcium aluminosilicate surface structure but also the interactions relevant to dissolution phenomena. Here, a new force field capable of describing amorphous calcium aluminosilicate surfaces interfaced with liquid water is developed by fitting parameters to experimental and first principles simulation data of the relevant oxide-water interfaces, including ab initio molecular dynamics simulations performed for this work for the wüstite and periclase interfaces. Simulations of a calcium aluminosilicate surface interfaced with liquid water were used to test this new force field, suggesting moderate ingress of water into the porous glass interface. This design of the force field opens a new avenue for the further study of calcium and network-modifier dissolution phenomena in calcium aluminosilicate glasses and stone wool fibers at liquid water interfaces.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1063/5.0164817",
+  "pdf_path": "aluminosilicate/papers/doi_10.1063_5.0164817/paper.pdf",
+  "pdf_url": "https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0164817/18931321/104704_1_5.0164817.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "",
+  "issn": "0021-9606",
+  "quartile": "",
+  "added_at": "2026-08-18T02:24:52.485602+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_ma15030818",
+  "collection": "aluminosilicate",
+  "title": "Influence of Accelerating Admixtures on the Reactivity of Synthetic Aluminosilicate Glasses",
+  "authors": [
+    {
+      "name": "Laura Gonzalez-Panicello",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Eduardo Torroja Institute for Construction Science (IETcc-CSIC), 28033 Madrid, Spain"
+    },
+    {
+      "name": "Ines Garcia-Lodeiro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1778-1651",
+      "affiliation": "Eduardo Torroja Institute for Construction Science (IETcc-CSIC), 28033 Madrid, Spain"
+    },
+    {
+      "name": "Francisca Puertas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4215-0184",
+      "affiliation": "Eduardo Torroja Institute for Construction Science (IETcc-CSIC), 28033 Madrid, Spain"
+    },
+    {
+      "name": "Marta Palacios",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Eduardo Torroja Institute for Construction Science (IETcc-CSIC), 28033 Madrid, Spain"
+    }
+  ],
+  "doi": "10.3390/ma15030818",
+  "url": "https://doi.org/10.3390/ma15030818",
+  "published": null,
+  "abstract": "<jats:p>This research aims at gaining a further understanding of the impact of accelerating admixtures on the reactivity of supplementary cementitious materials (SCMs), which are widely used as a clinker replacement in blended cements. This was done on synthetic glasses with controlled composition and structure that mimic two types of real SCMs (slag and calcium-rich fly ash). The effects of DEIPA, TIPA, NaSCN and Na2S2O3 on the glass dissolution, hydration kinetics and reaction products were investigated. The obtained results concluded that the pH of the NaOH solution and the composition of the synthetic glass play a key role on the effect of the admixtures. In 0.1 M NaOH (pH = 13.0), all the studied admixtures inhibited the dissolution of slag-like glasses while they enhanced the dissolution of Ca-rich fly ash-like glasses, being Na2S2O3 the admixture that led to the highest increase of the dissolution rate of the Ca-rich fly ash-type glasses. In 1 M NaOH solutions (pH = 13.8), only the alkali admixtures (NaSCN and Na2S2O3) enhanced the degree of reaction of both glasses. In slag-type glasses pastes mixed with 1 M NaOH, the addition of 2% Na2S2O3 induced the highest increase of their reactivity as inferred by the total heat release and the amount of bound water. This is related to the formation of a high amount of S(II)-AFm, in addition to C-A-S-H, that would increase the aluminium undersaturation of the pore solution and consequently the further dissolution of the glass.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma15030818",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma15030818/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 15,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-08-18T02:24:47.173742+00:00",
+  "updated_at": "",
+  "extra": {}
+}

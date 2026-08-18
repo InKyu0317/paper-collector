@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.53360_2788-7995-2024-113-44",
+  "collection": "aluminosilicate",
+  "title": "STUDY OF CATALYSTS BASED ON MESOPOROUS ALUMINOSILICATE IN THE DEAROMATIZATION PROCESS OF A MODEL MIXTURE: PHYSICO-CHEMICAL CHARACTERISTICS AND CATALYTIC ACTIVITY",
+  "authors": [
+    {
+      "name": "A. Abdrassilova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9560-6464",
+      "affiliation": "al-Farabi Kazakh National university"
+    },
+    {
+      "name": "G. Vassilina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5407-6751",
+      "affiliation": "al-Farabi Kazakh National university"
+    },
+    {
+      "name": "K. Abdildina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0474-5240",
+      "affiliation": "al-Farabi Kazakh National university"
+    },
+    {
+      "name": "F. Kanapiyeva",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9829-3117",
+      "affiliation": "al-Farabi Kazakh National university"
+    }
+  ],
+  "doi": "10.53360/2788-7995-2024-1(13)-44",
+  "url": "https://doi.org/10.53360/2788-7995-2024-1(13)-44",
+  "published": null,
+  "abstract": "<jats:p>The limitation on the content of aromatic hydrocarbons and sulfur is associated with environmental requirements according to Euro-5 standards. Upon combustion, these substances release highly toxic compounds into the atmosphere, adversely affecting human health and the surrounding environment. Additionally, a high concentration of aromatic hydrocarbons in diesel fuel significantly degrades its quality, leading to soot formation and reducing its cetane number. According to Euro-5 standards, the content of polycyclic aromatic hydrocarbons and sulfur compounds should not exceed 8% and 10 mg/kg, respectively. To address the challenge of producing high-quality diesel fuels, the hydrotreatment process is employed in the presence of heterogeneous catalysts.The article presents the synthesis of mesoporous aluminosilicates and bifunctional catalysts based on them to study the activity of the hydrotreatment process for a model mixture. The obtained samples were investigated using various physico-chemical methods such as SEM, low-temperature nitrogen adsorption/desorption, XRD, and FT-IR. It was established that the Ni/MAS-H-bentonite and Mo/MAS-H-bentonite catalysts exhibit high activity and selectivity in the hydrotreatment process under optimal conditions (240°C, 3 MPa, and 0.5 h<jats:sup>-1</jats:sup>).</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.53360/2788-7995-2024-1(13)-44",
+  "pdf_path": "aluminosilicate/papers/doi_10.53360_2788-7995-2024-113-44/paper.pdf",
+  "pdf_url": "https://tech.vestnik.shakarim.kz/jour/article/viewFile/583/399",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Bulletin of Shakarim University. Technical Sciences",
+  "publisher": "",
+  "issn": "3006-0524",
+  "quartile": "",
+  "added_at": "2026-08-18T02:25:00.942390+00:00",
+  "updated_at": "",
+  "extra": {}
+}
