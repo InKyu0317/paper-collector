@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1021_acsenergylett.4c00799",
+  "collection": "halide-solid-state-battery",
+  "title": "Effect of cation-disorder on lithium transport in halide superionic conductors",
+  "authors": [
+    {
+      "name": "Peichen Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sunny Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bowen Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "KyuJung Jun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gerbrand Ceder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsenergylett.4c00799",
+  "url": "http://arxiv.org/abs/2403.08237v2",
+  "published": "2024-03-13T04:36:52+00:00",
+  "abstract": "Li$_2$ZrCl$_6$ (LZC) is a promising solid-state electrolyte due to its affordability, moisture stability, and high ionic conductivity. We computationally investigate the role of cation disorder in LZC and its effect on Li-ion transport by integrating thermodynamic and kinetic modeling. The results demonstrate that fast Li-ion conductivity requires Li/vacancy disorder, which is dependent on the degree of Zr disorder. The high temperature required to form equilibrium Zr-disorder precludes any equilibrium synthesis processes for achieving fast Li-ion conductivity, rationalizing why only non-equilibrium synthesis methods, such as ball milling, lead to good conductivity. Our simulations show that Zr disorder lowers the Li/vacancy order-disorder transition temperature, which is necessary for creating high Li diffusivity at room temperature. These insights raise a challenge for the large-scale production of these materials and the potential for the long-term stability of their properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.08237v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsenergylett.4c00799/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.08237v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:29:58.174664+00:00",
+  "updated_at": "",
+  "extra": {}
+}

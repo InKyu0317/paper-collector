@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2604.09873v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Closing the ultrahigh temperature metrology gap: non-contact thermal conductivity ($\\mathrm{k}$) and spectral emittance ($\\mathrm{\\varepsilon_λ}$) of molybdenum up to 3200 K",
+  "authors": [
+    {
+      "name": "Hunter B. Schonfeld",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elizabeth Golightly",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Milena Milich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Scott Bender",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Konstantinos Boboridis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Davide Robba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luka Vlahovic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rudy Konings",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ethan Scott",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick E. Hopkins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.09873v1",
+  "published": "2026-04-10T20:04:16+00:00",
+  "abstract": "Advances in next-generation hypersonic hot structures, high heat-flux fusion or fission components, and laser based additive manufacturing depend on reliable solid state thermal conductivity data at high and ultrahigh temperatures, where conventional measurements become increasingly sensitive to contact resistances, uncertain boundary conditions, and nonlinear radiative losses. Building on our initial demonstration of ultrahigh temperature steady-state temperature differential radiometry (SSTDR), we present a substantially more robust platform aimed at making high temperature thermal and radiative property measurements more routine. The method integrates lock-in infrared thermography with a spatially localized, modulated perturbation laser to form a conduction dominant differential observable along with hyperspectral pyrometry and a validated 2D axisymmetric steady state heat transfer model. Using high purity molybdenum as a benchmark, we report solid state thermal conductivity k(T) from 1500 - 3000 K (to the onset of melting) with uncertainties of 7.9-11 % enabled by comprehensive uncertainty propagation, sensitivity analysis, and bounding studies. We additionally provide normal spectral emittance of molybdenum in both solid and liquid states over 500-1000 nm. These advances establish SSTDR as an accurate, non-contact route for closing the high temperature k(T) data gap while simultaneously producing much needed phase dependent radiative property data for melt adjacent and extreme heat-flux applications. Note: This is a shortened abstract; full version in manuscript.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.09873v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.09873v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.09873v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:28.189759+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2023-024561mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Anode Free Solid State Battery - the Design Constraints and Opportunities",
+  "authors": [
+    {
+      "name": "Shirley Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8936-8845",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-024561mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-024561mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tAnode-free strategy is gaining more interests in recent years due to its manufacturing simplicity and potential for high energy density battery without safety compromise. However, the design constraints for anode free batteries have been difficult to overcome. In this talk, I will give an update on our efforts to enable anode-free lithium metal and anode-free sodium metal batteries. We hope to discuss a few opportunities presented by such a strategy.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-024561mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-024561mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-024561mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:18.349053+00:00",
+  "updated_at": "",
+  "extra": {}
+}

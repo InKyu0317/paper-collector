@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.15330_pcss.24.2.244-248",
+  "collection": "halide-solid-state-battery",
+  "title": "Synthesis, magnetic, AC conductivity and dielectric properties of hematite nanocrystallites",
+  "authors": [
+    {
+      "name": "Naresh Babu Gatchakayala",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rama Sekhara Reddy Dachuru",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.15330/pcss.24.2.244-248",
+  "url": "https://doi.org/10.15330/pcss.24.2.244-248",
+  "published": null,
+  "abstract": "<jats:p>We are reporting the synthesis along with magnetic, ac conductivity and dielectric properties of hematite nanocrystallites. The prepared Fe2O3 is crystallizing in corundum structure which belongs to the rhombohedron system with the space group R3-c. The magnetization data shows a typical Morin transition, TN = 265 K for 110 nm crystallites, whereas this transition is decreasing with decrease in crystallite size, TN = 252 K for 33 nm. The value of magnetization is increased with increasing crystallite size. The enhanced dielectric permittivity and ac conductivity were observed in higher hematite crystallite size. The overall dielectric response has revealed conduction mechanism is due to the extrinsic contribution from the dominant Maxwell-Wagner polarization.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15330/pcss.24.2.244-248",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.15330_pcss.24.2.244-248/paper.pdf",
+  "pdf_url": "https://journals.pnu.edu.ua/index.php/pcss/article/download/6159/6994",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Physics and Chemistry of Solid State",
+  "publisher": "",
+  "issn": "2309-8589",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:54.509335+00:00",
+  "updated_at": "",
+  "extra": {}
+}

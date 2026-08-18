@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2511.20964v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Hierarchical high-throughput screening of alkaline-stable lithium-ion conductors combining machine learning and first-principles calculations",
+  "authors": [
+    {
+      "name": "Zhuohan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "KyuJung Jun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bowen Deng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gerbrand Ceder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.20964v2",
+  "published": "2025-11-26T01:33:15+00:00",
+  "abstract": "Solid-state batteries require lithium-ion conductors that combine high ionic conductivity with stability under harsh electrochemical and chemical conditions. Here, we investigate the chemical factors governing the stability of NASICON-type and garnet-type Li-ion conductors in highly alkaline environments. This is particularly relevant to solid-state Li-air cells operated under humidified air where alkaline conditions arise due to the formation of LiOH discharge products. We implement a hierarchical high-throughput screening workflow that consists of a pre-screening step using a universal machine-learning interatomic potential and a more accurate DFT-based screening. This approach enables rapid evaluation of over 320,000 compositions, from which 209 alkaline-stable candidates are identified. We identify specific cation substitutions that improve alkaline stability in NASICON and garnet compounds and reveal the underlying mechanism. More importantly, we highlight design trade-offs that require careful composition optimization to simultaneously enhance synthesizability, operational stability, and Li-ion/electronic conductivities for practical humid Li-air battery applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.20964v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.20964v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.20964v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:02.930543+00:00",
+  "updated_at": "",
+  "extra": {}
+}

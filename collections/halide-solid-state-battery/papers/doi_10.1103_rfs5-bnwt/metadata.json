@@ -1,0 +1,95 @@
+{
+  "paper_id": "doi_10.1103_rfs5-bnwt",
+  "collection": "halide-solid-state-battery",
+  "title": "In-depth Investigation of Conduction Mechanism on Defect-induced Proton-conducting Electrolytes BaHfO$_3$",
+  "authors": [
+    {
+      "name": "Peng Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hang Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kuan Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yingjie Lv",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ying Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tianxing Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiajun Linghu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhi-Peng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/rfs5-bnwt",
+  "url": "http://arxiv.org/abs/2505.19627v2",
+  "published": "2025-05-26T07:47:23+00:00",
+  "abstract": "This study utilizes first-principles computational methods to comprehensively analyze the impact of A-site doping on the proton conduction properties of BaHfO$_3$. The goal is to offer theoretical support for the advancement of electrolyte materials for solid oxide fuel cells. Our research has uncovered that BaHfO$_3$ demonstrates promising potential for proton conduction, with a low proton migration barrier of $0.28$ eV, suggesting efficient proton conduction can be achieved at lower temperatures. Through A-site doping, particularly with low-valence-state ions and the introduction of Ba vacancies, we can effectively decrease the formation energy of oxygen vacancies (\\( E_{\\text{vac}} \\)), leading to an increase in proton concentration. Additionally, our study reveals that the primary mechanism for proton migration in BaHfO$_3$ is the Grotthuss mechanism rather than the vehicle mechanism. Examination of the changes in lattice parameters during proton migration indicates that while doping or vacancy control strategies do not alter the mode of H$^+$ migration, they do influence the migration pathway and barrier. These findings provide valuable insights into optimizing the proton conduction properties of BaHfO$_3$ through A-site doping and lay a solid theoretical foundation for the development of novel, highly efficient solid oxide fuel cell electrolyte materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.19627v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_rfs5-bnwt/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.19627v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:51.145217+00:00",
+  "updated_at": "",
+  "extra": {}
+}

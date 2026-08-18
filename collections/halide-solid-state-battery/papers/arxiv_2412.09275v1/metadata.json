@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2412.09275v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Size-Dependent Charging Energy Determines the Charge Transport in ZnO Quantum Dot Solids",
+  "authors": [
+    {
+      "name": "Morteza Shokrani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dorothea Scheunemann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Clemens Göhler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martijn Kemerink",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.09275v1",
+  "published": "2024-12-12T13:36:41+00:00",
+  "abstract": "Building up a solid-state material from quantum dots (QD), which are often referred to as artificial atoms, offers the potential to create new materials with unprecedented macroscopic properties. The investigation of the electronic properties of such QD assemblies has attracted attention due to the increasing applications of QD solids in both electronics and optoelectronics. In the past, charge transport in QD assemblies has been explained by a variety of mutually exclusive theories, with the Mott and Efros-Shklovskii variable range hopping models being most common. However, these theories fall short in explaining the anomalous exponents of the temperature-dependent conductivity observed in various QD materials. Here, we measure the temperature-dependent conductivity of semiconducting ZnO QDs under different UV illumination intensity. Regulating the UV intensity allows us to systematically change the effective diameter of the ZnO QDs without having to rely on cumbersome size control by synthesis. Instead, the UV level controls the width of the QD depletion shell and therefore the size distribution in the overall material. We observe exponents that systematically increase from α=0.25 to α=0.62 with increasing illumination intensity, which we interpret in terms of a charge transport being limited by the (size-dependent) charging energy of the QDs.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.09275v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.09275v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.09275v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:23.310114+00:00",
+  "updated_at": "",
+  "extra": {}
+}

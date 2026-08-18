@@ -1,0 +1,95 @@
+{
+  "paper_id": "doi_10.1007_s43673-024-00131-9",
+  "collection": "halide-solid-state-battery",
+  "title": "Deep learning-driven evaluation and prediction of ion-doped NASICON materials for enhanced solid-state battery performance",
+  "authors": [
+    {
+      "name": "Zirui Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoke Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Si Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pengfei Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qian Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guanping Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kaitong Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hai-Feng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s43673-024-00131-9",
+  "url": "http://arxiv.org/abs/2409.02952v2",
+  "published": "2024-09-02T02:20:44+00:00",
+  "abstract": "We developed a convolutional neural network (CNN) model capable of predicting the performance of various ion-doped NASICON compounds by leveraging extensive datasets from prior experimental investigation.The model demonstrated high accuracy and efficiency in predicting ionic conductivity and electrochemical properties. Key findings include the successful synthesis and validation of three NASICON materials predicted by the model, with experimental results closely matching the model predictions. This research not only enhances the understanding of ion-doping effects in NASICON materials but also establishes a robust framework for material design and practical applications. It bridges the gap between theoretical predictions and experimental validations.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.02952v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s43673-024-00131-9/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.02952v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:11.474367+00:00",
+  "updated_at": "",
+  "extra": {}
+}

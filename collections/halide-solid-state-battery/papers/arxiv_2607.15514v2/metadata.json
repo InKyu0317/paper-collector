@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2607.15514v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Two-Dimensional Hexagonal BX3 (X = P, As) Monolayers as High-Capacity, Fast-Charging Anode Platforms for Lithium- and Sodium-Ion Batteries",
+  "authors": [
+    {
+      "name": "Jakkapat Seeyangnok",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joongjai Panpranot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Udomsilp Pinsook",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2607.15514v2",
+  "published": "2026-07-16T23:58:32+00:00",
+  "abstract": "The rapid advancement of alkali-metal ion batteries demands robust anode platforms combining high specific capacities with rapid charge-discharge kinetics. Using first-principles density functional theory (DFT), we systematically evaluate two-dimensional (2D) hexagonal BX3 (X = P, As) monolayers as high-performance dual-use anodes for lithium-ion (LIBs) and sodium-ion batteries (SIBs). Both metallic host architectures display strong thermodynamic affinities for Li+ and Na+ adsorption, favoring the hollow H3 site through synergistic ionic charge transfer and orbital hybridization. Climbing image nudged elastic band (CI-NEB) calculations reveal low direct H3 -> H3 diffusion barriers: 0.40 eV (BP3) and 0.26 eV (BAs3) for Li+, and 0.26 eV (BP3) and 0.19 eV (BAs3) for Na+, confirming exceptional high-rate kinetics. Thermodynamic convex hulls establish maximum stable lithiation at Li3BX3, yielding low average operating potentials of 0.39 V (BP3) and 0.35 V (BAs3) alongside theoretical specific capacities of 775 mAh/g and 341 mAh/g, respectively, with BP3 doubling commercial graphite (372 mAh/g). For SIBs, multi-layer sodiation expands storage up to Na15BP3 and Na12BAs3, delivering ultrahigh capacities of 3875 mAh/g (BP3) and 1365 mAh/g (BAs3) at low voltages of 0.18 V and 0.15 V. Crucially, projected density of states (PDOS) analyses confirm that both frameworks preserve intrinsic metallic conductivity throughout all charging stages. These combined properties establish 2D BX3 monolayers as outstanding, structurally resilient anode candidates for next-generation LIB and SIB energy storage technologies.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2607.15514v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2607.15514v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2607.15514v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-18T02:30:17.394604+00:00",
+  "updated_at": "",
+  "extra": {}
+}
