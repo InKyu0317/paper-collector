@@ -1,0 +1,80 @@
+{
+  "paper_id": "doi_10.1016_j.cplett.2024.141668",
+  "collection": "halide-solid-state-battery",
+  "title": "Detection of Nanopores with the Scanning Ion Conductance Microscopy: A Simulation Study",
+  "authors": [
+    {
+      "name": "Yinghua Qiu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Long Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhe Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongwen Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bowen Ai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinman Tu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.cplett.2024.141668",
+  "url": "http://arxiv.org/abs/2410.21327v1",
+  "published": "2024-10-27T07:48:07+00:00",
+  "abstract": "During the dielectric breakdown process of thin solid-state nanopores, the application of high voltages may cause the formation of multi-nanopores on one chip, which number and sizes are important for their applications. Here, simulations were conducted to mimic the investigation of in situ nanopore detection with scanning ion conductance microscopy (SICM). Results show that SICM can provide accurate nanopore location and relative pore size. Detection resolution is influenced by the dimensions of the applied probe and separation between the probe and membranes, which can be enhanced under large voltages or a concentration gradient.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.21327v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.cplett.2024.141668/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.21327v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-19T02:32:07.491469+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.4028_www.scientific.net_ssp.324.109",
+  "collection": "halide-solid-state-battery",
+  "title": "Studies on the Performance of Two Dimensional AlSi as the Anodes of Li Ion Battery",
+  "authors": [
+    {
+      "name": "Shuai Hao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Beijing 101 Middle School"
+    }
+  ],
+  "doi": "10.4028/www.scientific.net/ssp.324.109",
+  "url": "https://doi.org/10.4028/www.scientific.net/ssp.324.109",
+  "published": null,
+  "abstract": "<jats:p>Recently, two-dimensional (2D) materials have been rapidly developed and they provided a wide application on the anode of the batteries, reducing the adverse effect of traditional ion batteries including low capacity, short cycle life, low charging rate and poor safety mainly coming from the use of graphite anode. The current report investigates the anode performances of AlSi, a new 2D material exfoliated from NaAlSi, for Li ion batterys (LIBs) through density functional theory (DFT) calculations and gives quantitative discussions on the Li ion valences, binding energies and open-circuit voltages of 2D AlSi anode. The results indicate that 2D AlSi performs great as a novel anode due to the moderate adhesion to Li and low barrier for ion diffusion. Furthermore, our research results illustrate a broad application prospect on the new anode inventions as well as reducing useless consumption on the batteries by the practice of AlSi anode.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.4028/www.scientific.net/ssp.324.109",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.4028_www.scientific.net_ssp.324.109/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Solid State Phenomena",
+  "publisher": "",
+  "issn": "1662-9779",
+  "quartile": "",
+  "added_at": "2026-08-19T02:32:03.436968+00:00",
+  "updated_at": "",
+  "extra": {}
+}

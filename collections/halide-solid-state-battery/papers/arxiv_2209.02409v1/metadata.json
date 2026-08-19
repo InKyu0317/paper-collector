@@ -1,0 +1,144 @@
+{
+  "paper_id": "arxiv_2209.02409v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultra-Low Temperature Li/CFx Batteries Enabled by Fast-transport and Anion-pairing Liquefied Gas Electrolytes",
+  "authors": [
+    {
+      "name": "Yijie Yin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John Holoubek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alex Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baharak Sayahpour",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ganesh Raghavendran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guorui Cai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bing Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew Mayer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Noah B. Schorr",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Timothy N. Lambert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Katharine L. Harrison",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weikang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zheng Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Y. Shirley Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2209.02409v1",
+  "published": "2022-09-02T00:02:41+00:00",
+  "abstract": "Lithium fluorinated carbon is one of the most promising chemistries for high-energy-density primary energy storage systems in applications where rechargeability is not required. Though Li/CFx demonstrates high energy density under ambient conditions, achieving such a high energy density when exposed to subzero temperatures remains a challenge, particularly under high current density. Here, we report a liquefied gas electrolyte with an anion-pair solvation structure based on dimethyl ether with a low melting point and low viscosity, leading to high ionic conductivity between a wide temperature range. Besides that, through systematic X-ray photoelectron spectroscopy integrated with transmission electron microscopy characterizations, we evaluate the interface of CFx for low-temperature performance. We conclude that the fast transport and anion-pairing solvation structure of the electrolyte bring about reduced charge transfer resistance at low temperatures, which resulted in significantly enhanced performance of Li/CFx cells. Utilizing 50 mg/cm2 loading electrodes, the Li/CFx still displayed 1530 Wh/kg at reduced temperature. This work provides insights into the electrolyte design that may overcome the operational limits of batteries in extreme environments.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.02409v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2209.02409v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.02409v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-19T02:31:57.054243+00:00",
+  "updated_at": "",
+  "extra": {}
+}

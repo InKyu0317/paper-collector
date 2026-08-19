@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2305.19580v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Monofluorinated Ether Electrolyte with Acetal Backbone for High-Performance Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Elizabeth Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuelang Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiao Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Cui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenan Bao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.19580v1",
+  "published": "2023-05-31T05:59:23+00:00",
+  "abstract": "High degree of fluorination for ether electrolytes has resulted in improved cycling stability of lithium metal batteries (LMBs) due to stable SEI formation and good oxidative stability. However, the sluggish ion transport and environmental concerns of high fluorination degree drives the need to develop less fluorinated structures. Here, we introduce bis(2-fluoroethoxy)methane (F2DEM) which features monofluorination of the acetal backbone. High coulombic efficiency (CE) and stable long-term cycling in Li||Cu half cells can be achieved with F2DEM even under fast Li metal plating conditions. The performance of F2DEM is further compared with diethoxymethane (DEM) and 2-[2-(2,2-Difluoroethoxy)ethoxy]-1,1,1-Trifluoroethane (F5DEE). The structural similarity of DEM allows us to better probe the effects of monofluorination, while F5DEE is chosen as the one of the best performing LMB electrolytes for reference. The monofluorine substitution provides improved oxidation stability compared to non-fluorinated DEM, as demonstrated in the linear sweep voltammetry (LSV) and voltage holding experiments in Li||Pt and Li||Al cells. Higher ionic conductivity compared to F5DEE is also observed due to the decreased degree of fluorination. Furthermore, 1.75 M lithium bis(fluorosulfonyl)imide (LiFSI) / F2DEM displays significantly lower overpotential compared with the two reference electrolytes, which improves energy efficiency and enables its application in high-rate conditions. Comparative studies of F2DEM with DEM and F5DEE in anode-free (LiFePO4) LFP pouch cells and high-loading LFP coin cells with 20 μm excess Li further show improved capacity retention of F2DEM electrolyte.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.19580v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.19580v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.19580v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-19T02:32:02.396481+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2024-021121mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Scaling up Solid State Battery Research at Fraunhofer FFB",
+  "authors": [
+    {
+      "name": "Julian Zahnow",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Richard Schmuch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-021121mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-021121mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tAll-solid-state batteries (ASSBs) hold immense promise for revolutionizing the future of energy storage due to their enhanced safety and higher potential energy density. Within the context of the federally funded FoFeBat project dedicated to production research for batteries, this abstract outlines the overarching goals and collaborative strategies of the Fraunhofer Research Institution for Battery Cell Production FFB in advancing ASSB production.</jats:p>\n               <jats:p>In five designated so-called innovation laboratories, which are run in close collaboration with some of the leading academic battery research institutions in Germany, including Universities of Muenster, Giessen and Aachen, as well as Research Center Juelich (FZJ), Fraunhofer FFB addresses the problems in scaling up solid state battery and solid electrolyte production. The planned research activities include upscaling the synthesis of polymer-, oxide- and thiophosphate-based solid electrolytes to the kg-scale. The in-house produced materials are used to study the production process of ASSB electrodes with different cathode active materials and how different forms of pressure application (warm-isostatic pressing, calendaring) influence the resulting electrode composite. This includes the evaluation of the influence of different binder materials and solvents on the production process of the electrodes. For the cell assembly, a prototype-scale production line will be established, where the different sheets (electrodes, separator) will be combined, and environmental influences can be studied by the application of sealed mini environments at the different assembly steps. The finalized cells are electrochemically characterized to study the influence of different operating conditions (temperature, pressure) on the cell performance. In addition to this, safety evaluation of the different materials and the fully assembled cells is part of this project. The establishment of the innovation laboratories for ASSB research provide the unique opportunity to test the acquired parameters on the pilot scale production line of the Fraunhofer FFB, which will help to evaluate the transferability of the different production steps into a full-scale lithium-ion-battery production line at FFB.</jats:p>\n               <jats:p>Scaling up these processing steps will produce challenges that are currently being investigated by various companies without the possibility of accessing the acquired knowledge. Solving these challenges and making the obtained knowledge publicly available through scientific journal publications, will help speed up the development of solid-state batteries.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-021121mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-021121mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-021121mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-19T02:32:03.984472+00:00",
+  "updated_at": "",
+  "extra": {}
+}

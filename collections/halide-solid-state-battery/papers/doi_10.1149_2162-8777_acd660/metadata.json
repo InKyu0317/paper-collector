@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_acd660",
+  "collection": "halide-solid-state-battery",
+  "title": "Review—Photoluminescence Characterization of Halide Perovskite Materials and Solar Cells",
+  "authors": [
+    {
+      "name": "Taketo Handa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9171-5364",
+      "affiliation": ""
+    },
+    {
+      "name": "Takumi Yamada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6461-7363",
+      "affiliation": ""
+    },
+    {
+      "name": "Yoshihiko Kanemitsu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0788-131X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/acd660",
+  "url": "https://doi.org/10.1149/2162-8777/acd660",
+  "published": "2023-5-1",
+  "abstract": "<jats:p>Photoluminescence spectroscopy is a powerful technique for investigating carrier dynamics in semiconductor materials and photovoltaic devices. In this short review, we present our recent luminescence spectroscopic studies on halide perovskites, including thin films and solar cell devices, and discuss their photocarrier dynamics with relevance to photovoltaic performance.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/acd660",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_acd660/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/acd660/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-08-19T02:32:03.435974+00:00",
+  "updated_at": "",
+  "extra": {}
+}

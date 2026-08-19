@@ -1,0 +1,183 @@
+{
+  "paper_id": "arxiv_2510.22041v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Highly Efficient Functionalization of hBN with Lithium Oxalate: A Multifunctional Platform for Composites, Ion Transport, and Spin Labeling",
+  "authors": [
+    {
+      "name": "Bence G. Márkus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anna Nyáry",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dávid Beke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sivaviswa Radhakrishnan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vignyatha R. Tatagari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bradlee J. McIntosh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Changlong Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Balázs Zsirka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mandefro Y. Teferi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jens Niklas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oleg G. Poluektov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ira D. Bloom",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fulya Dogan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Margit Kovács",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ferenc Simon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gábor Szalontai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Leon Shaw",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "László Forró",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Károly Németh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.22041v1",
+  "published": "2025-10-24T21:53:51+00:00",
+  "abstract": "The development of multifunctional solid-state materials is key to advancing lithium-ion batteries with enhanced safety and simplified architectures. Here, we report a scalable, highly efficient (near $100\\%$), solvent-free mechanochemical synthesis of hexagonal boron nitride (hBN) functionalized with lithium oxalate (Li$_2$C$_2$O$_4$), yielding a novel lamellar composite that functions both as a lithium-ion conductor and separator. The high-energy milling process promotes exfoliation of hBN and covalent attachment of oxalate groups at edge and defect sites, forming a brown, nanocrystalline material with uniform lithium distribution. The composite exhibits room-temperature ionic and negligible electronic conductivity, thermal stability at least up to $350~^{\\circ}$C, and hosts stable free radicals enabling its use as a spin label. The synthesis produces no byproducts and can be extended towards lithium doping via secondary mechanochemical steps, creating highly doped, chemically stable phases that host additional Li for ionic conduction. These results introduce a new class of lithium-rich, boron nitride-based solids for solid-state batteries, combining ion conduction, mechanical robustness, and thermal resilience in a single material platform.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.22041v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.22041v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.22041v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-19T02:31:53.591169+00:00",
+  "updated_at": "",
+  "extra": {}
+}
