@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1111_ijag.16688",
+  "collection": "aluminosilicate",
+  "title": "Enthalpy relaxation of sodium aluminosilicate glasses from thermal analysis",
+  "authors": [
+    {
+      "name": "Brittney M. Hauke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4175-8569",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "John C. Mauro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4319-3530",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    }
+  ],
+  "doi": "10.1111/ijag.16688",
+  "url": "https://doi.org/10.1111/ijag.16688",
+  "published": "2025-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The sodium aluminosilicate (NAS) glass family is important for many different industrial applications, but glass relaxation has not yet been thoroughly studied in this system. Thermal analysis techniques such as differential scanning calorimetry (DSC) and modulated differential scanning calorimetry (MDSC) can provide insight into the enthalpy relaxation of glass by measuring the glass transition temperature (\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>g</jats:sub>\n                    ), activation energy, and enthalpy of relaxation. MDSC is mostly used to study nonoxide and low\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>g</jats:sub>\n                    glasses, and there is much debate about whether the nonreversing heat flow analysis method is accurate. To the authors’ knowledge, this is the first paper using MDSC to study these NAS compositions, and one of few papers to report MDSC on high\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>g</jats:sub>\n                    oxide glasses. We report on one set of modulation conditions that obtain a linear response using Lissajous curves, as well as comparing the activation energy calculated from DSC with the enthalpy of relaxation obtained from MDSC. Our results show that the activation energy and enthalpy of relaxation do not give the same compositional minimum in relaxation, and therefore more work is needed to investigate the validity of the nonreversing heat flow approach for high\n                    <jats:italic>T</jats:italic>\n                    <jats:sub>g</jats:sub>\n                    oxide glasses.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/ijag.16688",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_ijag.16688/paper.pdf",
+  "pdf_url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/ijag.16688",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "International Journal of Applied Glass Science",
+  "publisher": "",
+  "issn": "2041-1286",
+  "quartile": "",
+  "added_at": "2026-08-19T02:26:26.175681+00:00",
+  "updated_at": "",
+  "extra": {}
+}

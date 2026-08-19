@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1002_ctpp.202100242",
+  "collection": "aluminosilicate",
+  "title": "The anisotropic plasma wave in the plasma turbulence",
+  "authors": [
+    {
+      "name": "Fatemeh Khodadadi Azadboni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Physics Farhangian University  Tehran Iran"
+    }
+  ],
+  "doi": "10.1002/ctpp.202100242",
+  "url": "https://doi.org/10.1002/ctpp.202100242",
+  "published": "2022-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>In this paper, the influence of plasma turbulence due to the sheared and body stress flow on the dispersion characteristics of the transverse electromagnetic modes in strongly coupled plasma is analysed. Using kinetic theory and solving the scattering relationship for the Vlasov‐Maxwell system, the influence of plasma turbulence on the growth of the electromagnetic mode is investigated. The minimum value of the stress rate threshold for the growth rate of electromagnetic instability in the linear polarization is higher than that of circular polarization. It is shown that the instability growth rate maximum for the circular polarization is about 100 times higher than that of the linear polarization. In the circular polarization, the value minimum of the shear stress is 1.2 times the minimum volume of the body stress. For the linear polarization, the value minimum of the body stress is 1.5 times the minimum volume of the shear stress. Increasing the density gradient of plasma leads to a higher stress threshold rate, and the range of propagation angles of growing modes is limited. With increasing steps of the density gradient plasma in the low‐density corona, electromagnetic instability occurs at a higher stress flow.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/ctpp.202100242",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_ctpp.202100242/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ctpp.202100242",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Contributions to Plasma Physics",
+  "publisher": "",
+  "issn": "0863-1042",
+  "quartile": "",
+  "added_at": "2026-08-19T02:26:25.166997+00:00",
+  "updated_at": "",
+  "extra": {}
+}
