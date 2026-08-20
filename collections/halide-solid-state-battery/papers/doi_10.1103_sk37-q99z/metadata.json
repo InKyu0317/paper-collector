@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1103_sk37-q99z",
+  "collection": "halide-solid-state-battery",
+  "title": "Theory-Guided Discovery of Pressure-Induced Transitions in Fast-Ion Conductor BaSnF4",
+  "authors": [
+    {
+      "name": "Robin Turnbull",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhang YingLong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Claudio Cazorla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akun Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rahman Saqib",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Miriam Pena-Alvarez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Catalin Popescu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Laura Pampillo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel Errandonea",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/sk37-q99z",
+  "url": "http://arxiv.org/abs/2604.08376v1",
+  "published": "2026-04-09T15:38:27+00:00",
+  "abstract": "Fast-ion conductors such as BaSnF4 are of significant interest for next-generation solid-state battery technologies due to their high ionic conductivity and chemical stability. However, the behaviour of these materials under extreme conditions remains poorly understood, despite the relevance of pressure-induced modifications for tuning functional properties. In this study, we combine density functional theory (DFT) calculations with high-pressure experiments to investigate the structural evolution of BaSnF4 up to 40 GPa. DFT predicts two pressure-induced phase transitions: from the ambient-pressure tetragonal P4/nmm phase to a monoclinic P21/m-I structure at 10 GPa, and subsequently to a denser monoclinic P21/m-II phase at 32 GPa. The first transition is experimentally confirmed via angle-dispersive X-ray diffraction, Raman spectroscopy, and electrical resistivity measurements, all performed at ambient temperature. The second transition is supported by distinct changes in high-pressure Raman modes and resistivity behaviour, consistent with a further structural reorganization. These findings not only clarify the high-pressure phase diagram of BaSnF4, but also shed light on the potential for pressure-tuned ionic transport in fluorostannate-based solid electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.08376v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_sk37-q99z/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.08376v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-20T02:31:12.415421+00:00",
+  "updated_at": "",
+  "extra": {}
+}

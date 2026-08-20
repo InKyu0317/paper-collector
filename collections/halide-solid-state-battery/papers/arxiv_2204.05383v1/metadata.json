@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2204.05383v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Expanding the Materials Search Space for Multivalent Cathodes",
+  "authors": [
+    {
+      "name": "Ann Rutt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jimmy-Xuan Shen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew Horton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiyoon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jerry Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristin A. Persson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2204.05383v1",
+  "published": "2022-04-11T19:49:14+00:00",
+  "abstract": "Multivalent batteries are an energy storage technology with the potential to surpass lithium-ion batteries, however their performance has been limited by the low voltages and poor solid-state ionic mobility of available cathodes. A computational screening approach to identify high-performance multivalent intercalation cathodes among materials that do not contain the working ion of interest has been developed which greatly expands the search space that can be considered for materials discovery. This approach has been applied to magnesium cathodes as a proof of concept and four resulting candidate materials (NASICON V$_2$(PO$_4$)$_3$, birnessite NaMn$_4$O$_8$, tavorite MnPO$_4$F, and spinel MnO$_2$) are discussed in further detail. In examining the ion migration environment and associated Mg$^{2+}$ migration energy in these materials, local energy maxima are found to correspond with pathway positions where Mg$^{2+}$ passes through a plane of anion atoms. While previous works have established the influence of local coordination on multivalent ion mobility, these results suggest that considering both the type of local bonding environment as well as available free volume for the mobile ion along its migration pathway can be significant for improving solid-state mobility.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2204.05383v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2204.05383v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2204.05383v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-20T02:31:20.361117+00:00",
+  "updated_at": "",
+  "extra": {}
+}

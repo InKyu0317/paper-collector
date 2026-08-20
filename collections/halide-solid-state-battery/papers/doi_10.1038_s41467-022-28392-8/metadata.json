@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1038_s41467-022-28392-8",
+  "collection": "halide-solid-state-battery",
+  "title": "Anionic Character of the Conduction Band of Sodium Chloride",
+  "authors": [
+    {
+      "name": "Christopher C. Leon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abhishek Grewal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Klaus Kuhnke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Klaus Kern",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Olle Gunnarsson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-022-28392-8",
+  "url": "http://arxiv.org/abs/2310.14070v1",
+  "published": "2023-10-21T17:20:23+00:00",
+  "abstract": "The alkali halides are ionic compounds. Each alkali atom donates an electron to a halogen atom, leading to ions with full shells. The valence band is mainly located on halogen atoms, while, in a traditional picture, the conduction band is mainly located on alkali atoms. Scanning tunnelling microscopy of NaCl at 4 K actually shows that the conduction band is located on Cl$^-$ because the strong Madelung potential reverses the order of the Na$^+$ 3s and Cl$^-$ 4s levels. We verify this reversal is true for both atomically thin and bulk NaCl, and discuss implications for II-VI and I-VII compounds.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.14070v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-022-28392-8/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.14070v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-20T02:31:31.798848+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,72 @@
+{
+  "paper_id": "arxiv_2601.14956v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Bending strain induced thermal conductivity suppression in freestanding BaTiO3 and SrTiO3 membranes",
+  "authors": [
+    {
+      "name": "Ziyan Qian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guangwu Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weikun Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tsukasa Katayama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qiye Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.14956v2",
+  "published": "2026-01-21T12:56:11+00:00",
+  "abstract": "Freestanding perovskite oxide membranes provide a novel platform for elastic strain engineering, enabling the manipulation of phonon transport free from substrate clamping. In this work, we investigate the thermal transport properties of strontium titanate (SrTiO3) and barium titanate (BaTiO3) membranes subjected to self-formed crease induced inhomogeneous strain. By integrating spatially resolved Frequency-Domain Thermoreflectance (FDTR) with micro-Raman spectroscopy, we observe a sharp, localized suppression of thermal conductivity (k) in high-curvature regions. Specifically, k is reduced from 4.43 to 3.62 W/(m K) in SrTiO3 and from 2.27 to 1.81 W/(m K) in BaTiO3 at the crease centers, directly correlating with the local strain distribution. First-principles calculations reveal that, unlike uniform strain, the symmetry breaking induced by strain gradients significantly broadens phonon dispersion and enhances scattering rates. These findings not only elucidate the microscopic mechanisms governing phonon-strain coupling but also demonstrate the potential of inhomogeneous strain fields as a potent tool for designing dynamic solid-state thermal switches and active thermal management devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.atom-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.14956v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2601.14956v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.14956v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-20T02:31:25.710529+00:00",
+  "updated_at": "",
+  "extra": {}
+}

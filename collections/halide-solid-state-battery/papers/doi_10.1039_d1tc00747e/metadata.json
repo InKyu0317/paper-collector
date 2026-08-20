@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1039_d1tc00747e",
+  "collection": "halide-solid-state-battery",
+  "title": "High electrical conduction of Sb square net in anti-ThCr$_2$Si$_2$ type La$_2$O$_2$Sb thin film grown by multilayer solid-phase epitaxy",
+  "authors": [
+    {
+      "name": "Yuki Yamamoto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hideyuki Kawasoko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomoteru Fukumura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D1TC00747E",
+  "url": "http://arxiv.org/abs/2106.04713v1",
+  "published": "2021-06-08T22:08:49+00:00",
+  "abstract": "Anti-ThCr$_2$Si$_2$ type $RE_2$O$_2$Sb ($RE$ = rare earth) with Sb square net has shown insulating conduction so far. Here we report the synthesis of La$_2$O$_2$Sb epitaxial thin films for the first time by multilayer solid-phase epitaxy. The valence state of Sb was about -2 evaluated from X-ray photoemission spectroscopy measurement, and the indirect band gap of 0.17 eV was observed. The La$_2$O$_2$Sb epitaxial thin film showed unexpectedly high electrical conduction as a narrow gap semiconductor, whose resistivity at room temperature was approximately ten-thousand-fold lower than that of La$_2$O$_2$Sb bulk polycrystal, attributed to increased carrier mobility probably due to suppressed Sb dimerization.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2106.04713v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d1tc00747e/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2106.04713v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-20T02:31:28.741849+00:00",
+  "updated_at": "",
+  "extra": {}
+}
