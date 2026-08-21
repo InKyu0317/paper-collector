@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2602.17595v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations",
+  "authors": [
+    {
+      "name": "Antonia S. Kuhn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jurğis Ruža",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "KyuJung Jun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo Leon",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rafael Gómez-Bombarelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.17595v1",
+  "published": "2026-02-19T18:18:15+00:00",
+  "abstract": "Polymer electrolytes are critical for safe, high-energy-density solid-state batteries, yet discovering candidates that balance high ionic conductivity with high transference numbers remains a significant challenge. In this work, we develop a high-throughput screening platform that utilizes molecular dynamics simulations to navigate a chemical space of 1.7 million hypothetical polymer electrolyte candidates. Data from previous literature is used to warm-start batch Bayesian optimization for iteratively selecting new polymer electrolytes to evaluate. We iteratively identified, evaluated and analyzed 767 homopolymers as potential candidates. Our results reveal several candidates with transport properties exceeding the benchmark polyethylene oxide (PEO)/LiTFSI system. Crucially, our optimization campaigns for ionic conductivity and Li-diffusivity demonstrate that branched architectures and ketone functional groups significantly enhance ion-hopping mechanisms within the polymer matrix. We provide an in-depth mechanistic comparison of Li vs. Na cation transport and offer our open-source framework to accelerate the discovery of liquid, gel, and multi-cation electrolyte systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.17595v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.17595v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.17595v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-21T02:34:18.191430+00:00",
+  "updated_at": "",
+  "extra": {}
+}

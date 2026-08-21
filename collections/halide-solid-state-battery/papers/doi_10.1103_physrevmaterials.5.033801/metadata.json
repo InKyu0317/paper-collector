@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1103_physrevmaterials.5.033801",
+  "collection": "halide-solid-state-battery",
+  "title": "Robust and efficient calculation of activation energy by automated path search and density functional theory",
+  "authors": [
+    {
+      "name": "Koki Ueno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Technology Innovation Division, Panasonic Corporation"
+    },
+    {
+      "name": "Kazuhide Ichikawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Technology Innovation Division, Panasonic Corporation"
+    },
+    {
+      "name": "Kosei Sato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Engineering, Nagoya Institute of Technology"
+    },
+    {
+      "name": "Daisuke Sugita",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Engineering, Nagoya Institute of Technology"
+    },
+    {
+      "name": "Satoshi Yotsuhashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Technology Innovation Division, Panasonic Corporation"
+    },
+    {
+      "name": "Ichiro Takeuchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Engineering, Nagoya Institute of Technology"
+    }
+  ],
+  "doi": "10.1103/PhysRevMaterials.5.033801",
+  "url": "http://arxiv.org/abs/2104.08000v1",
+  "published": "2021-04-16T09:53:20+00:00",
+  "abstract": "Because inorganic solid electrolytes are one of the key components for application to all-solid-state batteries, high-ionic-conductivity materials must be developed. Therefore, we propose a method of efficiently evaluating the activation energy of ionic diffusion by calculating a potential-energy surface (PES), searching for the optimal diffusion path by an algorithm developed using dynamic programming (DP), and calculating the corresponding activation energy by the nudged elastic band (NEB) method. Taking beta-Li3PS4 as an example, the activation energy of Li-ion diffusion was calculated as 0.43, 0.25, and 0.40 eV in the a-, b-, and c-axis directions, respectively, which is in good agreement with previously reported values. By comprehensively searching for the lowest energy path by PES-DP, the arbitrariness of the path selection can be eliminated, and the activation energy must only be calculated using the NEB method a few times, which greatly reduces the computational cost required for evaluating activation energy and enables the high-throughput screening of solid state electrolytes.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2104.08000v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevmaterials.5.033801/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2104.08000v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-21T02:34:33.363737+00:00",
+  "updated_at": "",
+  "extra": {}
+}

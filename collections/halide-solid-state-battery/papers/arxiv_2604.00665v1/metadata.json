@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2604.00665v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Microscopic Theory of Superionic Phase Transitions: Nonadiabatic Dynamics and Many-Body Effects",
+  "authors": [
+    {
+      "name": "Jiaming Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhichao Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingyi Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bartomeu Monserrat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.00665v1",
+  "published": "2026-04-01T09:11:26+00:00",
+  "abstract": "Superionic phase transitions have attracted extensive interest for decades due to their promising applications and rich underlying physics. In particular, complicated many-body effects and nonadiabatic dynamics are believed to play essential roles, limiting the explanatory power of phenomenological approaches and obscuring the microscopic mechanisms at play. In this work, we develop a unified theoretical framework for describing solid-state ionic conduction. After reviewing the conventional approximations, we construct a general lattice model that applies to both normal ionic and superionic conductors. By incorporating the nonadiabatic concerted-hopping mechanism and the many-body Coulomb interaction within a self-consistent mean-field scheme, we identify these two effects as the fundamental driving forces behind type-I and type-II superionic phase transitions, respectively. Our model directly reproduces key experimental observations. Within this unified framework, we further provide a comprehensive comparison between the two types of transitions. Overall, our work offers microscopic insight into superionic phase transitions and provides guidance for the design and optimization of advanced solid-state ionic conductors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.00665v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.00665v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.00665v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-21T02:34:30.132220+00:00",
+  "updated_at": "",
+  "extra": {}
+}
