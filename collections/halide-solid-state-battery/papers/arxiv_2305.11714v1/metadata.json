@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2305.11714v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Epsilon-near-zero regime as the key to ultrafast control of functional properties of solids",
+  "authors": [
+    {
+      "name": "Maarten Kwaaitaal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel G Lourens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carl S. Davies",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrei Kirilyuk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.11714v1",
+  "published": "2023-05-19T14:49:54+00:00",
+  "abstract": "Strong light-matter interaction constitutes the bedrock of all photonic applications, empowering material elements with the ability to create and mediate interactions of light with light. Amidst the quest to identify new agents facilitating such efficient light-matter interactions, a class of promising materials have emerged featuring highly unusual properties deriving from their dielectric constant ε being equal, or at least very close, to zero. Works so far have shown that the enhanced nonlinear optical effects displayed in this 'epsilon-near-zero' (ENZ) regime makes it possible to create ultrafast albeit transient optical switches. An outstanding question, however, relates to whether one could use the amplification of light-matter interactions at the ENZ conditions to achieve permanent switching. Here, we demonstrate that an ultrafast excitation under ENZ conditions can induce permanent all-optical reversal of ferroelectric polarization between different stable states. Our reliance on ENZ conditions that naturally emerge from the solid's ionic lattice, rather than specific material properties, suggests that the demonstrated mechanism of reversal is truly universal, being capable of permanently switching order parameters in a wide variety of systems.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.optics"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.11714v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.11714v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.11714v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:43.213033+00:00",
+  "updated_at": "",
+  "extra": {}
+}

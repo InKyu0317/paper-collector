@@ -1,0 +1,120 @@
+{
+  "paper_id": "doi_10.1021_acsnano.6c02968",
+  "collection": "halide-solid-state-battery",
+  "title": "Subsurface Vacancy Engineering Enables Atomically Clean and Oxidation-Resistant Copper Interfaces for Anode-Free Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Yue Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuanguang Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xueting Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lingcheng Kong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fengping Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yang Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liu Qian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yusheng Ye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ziqiang Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xin Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jin Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acsnano.6c02968",
+  "url": "http://arxiv.org/abs/2508.00236v2",
+  "published": "2025-08-01T00:47:10+00:00",
+  "abstract": "Interfaces govern reaction pathways and stability in electrochemical systems, yet creating clean, well-defined metal interfaces at scale remains challenging. In anode-free lithium metal batteries (AFLMBs), the current-collector interface is decisive for lithium nucleation and solid electrolyte interphase (SEI) formation, and ideally should support efficient charge transport, uniform reaction distribution, and long-term chemical and structural stability. Here we report an ion-implantation strategy that produces an atomically clean and oxidation-resistant copper interface. Implanting copper ions into commercial foils removes the native oxide while generating subsurface vacancy clusters directly beneath the surface -- an atomic-scale modification that does not increase the collector thickness but fundamentally alters interfacial chemistry. Experiments and multiscale simulations reveal that these vacancies act as strong oxygen traps, preventing reoxidation, enhancing interfacial conductivity, and guiding the formation of an ultrathin, Li2O-enriched SEI that promotes uniform lithium deposition and suppresses parasitic reactions. Applied in AFLMBs, the engineered current collectors deliver long-term stability with a Coulombic efficiency of 98.8% over 600 cycles under lean-electrolyte conditions. These findings demonstrate atomic-scale interface control of copper current collectors as a route toward stable and practical lithium metal batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.00236v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acsnano.6c02968/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.00236v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:29:04.662699+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.1c01034",
+  "collection": "halide-solid-state-battery",
+  "title": "Optoelectronic Properties of Chalcogenide Perovskites by Many-Body Perturbation Theory",
+  "authors": [
+    {
+      "name": "Manish Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Arunima Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Deepika Gill",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Saswata Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.1c01034",
+  "url": "http://arxiv.org/abs/2103.17264v1",
+  "published": "2021-03-31T17:57:22+00:00",
+  "abstract": "Chalcogenide perovskites have emerged as non-toxic and stable photovoltaic materials, acting as an alternative to lead halide hybrid perovskites having similar optoelectronic properties. In the present work, we report the electronic and optical properties of chalcogenide perovskites AZrS$_3$ (A=Ca, Sr, Ba) by using the density functional theory (DFT) and many-body perturbation theory (MBPT viz. G$_0$W$_0$ and BSE). This study includes excitonic analysis for the aforementioned systems. The exciton binding energy (E$_\\textrm{B}$) is found to be larger than that of the halide perovskites, as the ionic contribution to dielectric screening is negligible in the former. We also observe a more stable charge-separated polaronic state as compared to that of the bound exciton. Finally, on the basis of direct gap and absorption coefficient, the estimated spectroscopic limited maximum efficiency (SLME) of the solar cells is large and suggests the applicability of these perovskites in photovoltaics.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2103.17264v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.1c01034/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2103.17264v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:39.049899+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2107.09808v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhanced Thermal Transport across the Interface between Charged Graphene Electrodes and Poly(ethylene oxide) Electrolytes by Non-covalent Functionalization",
+  "authors": [
+    {
+      "name": "Siyu Tian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dezhao Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhihao Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shiwen Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tengfei Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guoping Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2107.09808v1",
+  "published": "2021-07-20T23:46:35+00:00",
+  "abstract": "Interfacial thermal transport between electrodes and polymer electrolytes can play a crucial role in the thermal management of solid-state lithium-ion batteries (SLIBs). Modifying the electrode surface with functional molecules can effectively increase the interfacial thermal conductance (ITC) between electrodes and polymers (e.g., electrolytes, separators); however, how they influence the interfacial thermal transport in SLIBs during charge/discharge remains unknown. In this work, we conduct molecular dynamics (MD) simulations to investigate the ITC between charged electrodes and solid-state polymer electrolytes (SPEs) mixed with ionic liquids (ILs). We find that ILs could self assemble at the electrode surface and act as non-covalent functional molecules that could significantly enhance the interfacial thermal transport during charge/discharge because of the formation of a densely packed cationic or anionic layer at the interface. While the electrostatic interactions between the charged electrode and the IL ions are responsible for forming these dense interfacial layers, the enhancement of ITC is mainly contributed by the increased Lennard-Jones (LJ) interactions between the charged electrodes and ILs. This work may provide useful insights into the understanding of interfacial thermal transport between electrodes and electrolytes of SLIBs during charge/discharge.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2107.09808v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2107.09808v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2107.09808v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:46.881487+00:00",
+  "updated_at": "",
+  "extra": {}
+}

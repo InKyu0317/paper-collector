@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac1d24",
+  "collection": "halide-solid-state-battery",
+  "title": "A Structural and ac Conductivity Study on Li Doped ZnO",
+  "authors": [
+    {
+      "name": "Karthika D.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sri Parvathy V. Varrier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Anand Mohan P.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nanda Kumar A. K.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5602-3389",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac1d24",
+  "url": "https://doi.org/10.1149/2162-8777/ac1d24",
+  "published": "2021-8-1",
+  "abstract": "<jats:p>\n                    In the present work, the incorporation of\n                    <jats:italic>Li</jats:italic>\n                    in a wurtzite ZnO host synthesized through a chemical route has been studied experimentally. Starting with Yoshio’s model, [K. Yoshio, A. Onodera, H. Satoh, N. Sakagami and H. Yamashita,\n                    <jats:italic>Ferroelectrics</jats:italic>\n                    ,\n                    <jats:bold>264</jats:bold>\n                    , 133 (2001)] structural refinement of the powder diffraction data suggests that\n                    <jats:italic>Li</jats:italic>\n                    has a mixed occupancy at both the substitutional 2\n                    <jats:italic>b</jats:italic>\n                    (≈1.2%) and interstitial 2\n                    <jats:italic>a</jats:italic>\n                    (≈12.6%) Wykoff sites. In comparison with a pure ZnO sample, the net result appears to be an overall expansion of the unit cell by ∼0.07% along both\n                    <jats:italic>\n                      <jats:bold>a</jats:bold>\n                    </jats:italic>\n                    and\n                    <jats:italic>\n                      <jats:bold>c</jats:bold>\n                    </jats:italic>\n                    -axes. Temperature dependant\n                    <jats:italic>ac</jats:italic>\n                    conductivity measurements carried out using a two electrode assembly and the influence of superimposed\n                    <jats:italic>dc</jats:italic>\n                    bias suggest that the conduction may be governed by both the presence of interstitial\n                    <jats:italic>Li</jats:italic>\n                    and polar defect complexes also. The grains seem to respond more to an applied\n                    <jats:italic>dc</jats:italic>\n                    bias (an order of magnitude change in resistivity) than grain boundaries.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac1d24",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac1d24/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac1d24/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-08-22T02:29:10.413033+00:00",
+  "updated_at": "",
+  "extra": {}
+}

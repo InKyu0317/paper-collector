@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1016_j.jssc.2022.123388",
+  "collection": "halide-solid-state-battery",
+  "title": "High entropy alloy electrocatalyst synthesized using plasma ionic liquid reduction",
+  "authors": [
+    {
+      "name": "Gilhwan Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ngoc-Anh Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1184-7381",
+      "affiliation": ""
+    },
+    {
+      "name": "Van-Toan Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Liudmila L. Larina",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1729-6931",
+      "affiliation": ""
+    },
+    {
+      "name": "Enkhjin Chuluunbat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6558-5896",
+      "affiliation": ""
+    },
+    {
+      "name": "Eunhee Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6939-8091",
+      "affiliation": ""
+    },
+    {
+      "name": "Jeongseon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5172-0110",
+      "affiliation": ""
+    },
+    {
+      "name": "Ho-Suk Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8156-2934",
+      "affiliation": ""
+    },
+    {
+      "name": "Michael Keidar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jssc.2022.123388",
+  "url": "https://doi.org/10.1016/j.jssc.2022.123388",
+  "published": "2022-10",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jssc.2022.123388",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jssc.2022.123388/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 30,
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "",
+  "issn": "0022-4596",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:52.806063+00:00",
+  "updated_at": "",
+  "extra": {}
+}

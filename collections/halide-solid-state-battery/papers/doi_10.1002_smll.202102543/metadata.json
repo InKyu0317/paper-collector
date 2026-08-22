@@ -1,0 +1,112 @@
+{
+  "paper_id": "doi_10.1002_smll.202102543",
+  "collection": "halide-solid-state-battery",
+  "title": "Understanding Electrical Conduction and Nanopore Formation During Controlled Breakdown",
+  "authors": [
+    {
+      "name": "Jasper P. Fried",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jacob L. Swett",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Binoy Paulose Nadappuram",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandra Fedosyuk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Miguel Sousa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dayrl P. Briggs",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandar P. Ivanov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joshua B. Edel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jan A. Mol",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James R. Yates",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/smll.202102543",
+  "url": "http://arxiv.org/abs/2103.16667v1",
+  "published": "2021-03-30T20:23:04+00:00",
+  "abstract": "Controlled breakdown has recently emerged as a highly appealing technique to fabricate solid-state nanopores for a wide range of biosensing applications. This technique relies on applying an electric field of approximately 0.6-1 V/nm across the membrane to induce a current, and eventually, breakdown of the dielectric. However, a detailed description of how electrical conduction through the dielectric occurs during controlled breakdown has not yet been reported. Here, we study electrical conduction and nanopore formation in SiN$_x$ membranes during controlled breakdown. We show that depending on the membrane stoichiometry, electrical conduction is limited by either oxidation reactions that must occur at the membrane-electrolyte interface (Si-rich SiN$_x$), or electron transport across the dielectric (stoichiometric Si$_3$N$_4$). We provide several important implications resulting from understanding this process which will aid in further developing controlled breakdown in the coming years, particularly for extending this technique to integrate nanopores with on-chip nanostructures.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2103.16667v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.202102543/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2103.16667v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:29:08.111452+00:00",
+  "updated_at": "",
+  "extra": {}
+}

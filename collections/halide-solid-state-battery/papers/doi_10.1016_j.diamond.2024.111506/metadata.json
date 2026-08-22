@@ -1,0 +1,49 @@
+{
+  "paper_id": "doi_10.1016_j.diamond.2024.111506",
+  "collection": "halide-solid-state-battery",
+  "title": "Green and Solid State Reduction of GO Monolayers Sandwiched between Arachidic Acid LB Layers",
+  "authors": [
+    {
+      "name": "V. Divakar Botcha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pavan K. Narayanam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.diamond.2024.111506",
+  "url": "http://arxiv.org/abs/2404.12017v2",
+  "published": "2024-04-18T09:11:21+00:00",
+  "abstract": "A novel, single step and environment friendly solid state approach for reduction of graphene oxide (GO) monolayers has been demonstrated, in which, arachidic acid-GO-arachidic acid (AA-GO-AA) sandwich structure obtained by Langmuir-Blodgett (LB) technique was heat treated at moderate temperatures to obtain RGO sheets. Heat treatment of AA-GO-AA sandwich structure at 200 C results in substantial reduction of GO, with concurrent removal of AA molecules. Such developed RGO sheets possess sp2-C content of 69%, O/C ratio of 0.17 and significantly reduced I(D) and I(G) ratio of ~1.1. Ultraviolet photoelectron spectroscopy (UPS) studies on RGO sheets evidenced significant increase in density of states in immediate vicinity of Fermi level and decrease in work function after reduction. Bottom gated field effect transistors fabricated with isolated RGO sheets displayed charge neutrality point at a positive gate voltage, indicating p-type nature, consistent with UPS and electrostatic force microscopy (EFM) measurement results.The RGO sheets obtained by heat treatment of AA-GO-AA sandwich structure exhibited conductivity in the range of 2-7Scm-1 and field effect mobility of 0.03-2cm2V-1s-1, which are consistent with values reported for RGO sheets obtained by various chemical or thermal reduction procedures.The extent of GO reduction is determined primarily by proximity of AA molecules and found to be unaltered with either escalation of heat treatment temperature or increase of AA content in sandwich structure. The single-step GO reduction approach demonstrated in this work is an effective way for development of RGO monolayers with high structural quality towards graphene-based electronic device applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.12017v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.diamond.2024.111506/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.12017v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:56.435007+00:00",
+  "updated_at": "",
+  "extra": {}
+}

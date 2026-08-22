@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2511.14974v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Electric-Field-Dependent Thermal Conductivity in Fresh and Aged Bulk Single Crystalline $\\mathrm{BaTiO_3}$",
+  "authors": [
+    {
+      "name": "Fanghao Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guanchun Rui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yujie Quan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shantal Adajian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew Delmont",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Q. M. Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bolin Liao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2511.14974v1",
+  "published": "2025-11-18T23:42:50+00:00",
+  "abstract": "Active thermal management requires advances in thermal switching materials, whose thermal conductivity responds to external stimuli. The electric field, as one of the most convenient and effective stimuli, has shown great potential in tuning the thermal conductivity of ferroelectric materials. While previous studies on electric-field-induced ferroelectric thermal switching have primarily focused on thin films and bulk solid solutions with strong extrinsic interface and defect scatterings, bulk single crystals, which can offer clear insights into intrinsic thermal switching mechanisms, have received comparatively less attention. Here, we demonstrate electric-field-induced thermal switching in bulk single-crystalline $\\mathrm{BaTiO_3}$ (BTO) at room temperature and elucidate the critical role of domain evolution and aging in governing heat transport. Using a customized steady-state platform with in-situ electric fields up to $\\pm$10 kV/cm, we observe a modulation of thermal conductivity up to 35% in fresh BTO driven by polarization reorientation and domain restructuring. First-principles finite-temperature lattice-dynamics calculations confirm that the switching behavior primarily originates from anisotropic phonon transport associated with domain configuration rather than strain-induced changes in phonon velocities. We further reveal that both ambient aging and controlled thermal aging can enhance the switching contrast through the formation and alignment of defect dipoles that modulate phonon-defect scattering. These results establish defect-domain interactions as a powerful design parameter for ferroelectric thermal switches and demonstrate a versatile experimental platform for exploring field-tunable heat transport and phase behavior in bulk functional materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2511.14974v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2511.14974v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2511.14974v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-22T02:28:59.546370+00:00",
+  "updated_at": "",
+  "extra": {}
+}
