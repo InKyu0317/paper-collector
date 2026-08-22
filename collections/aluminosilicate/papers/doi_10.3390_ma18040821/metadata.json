@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_ma18040821",
+  "collection": "aluminosilicate",
+  "title": "Sustainable Aluminosilicate Coatings from Palm Oil Waste for Enhanced Thermal and Microstructure Properties",
+  "authors": [
+    {
+      "name": "Mohd Afdhal Shamsudin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Technology and Mechanical Engineering, Universiti Teknikal Malaysia Melaka, Melaka 76100, Malaysia"
+    },
+    {
+      "name": "Faizal Mustapha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0191-1653",
+      "affiliation": "Department of Aerospace Engineering, Faculty of Engineering, Universiti Putra Malaysia, Serdang 43400, Malaysia"
+    },
+    {
+      "name": "Mohd Na’im Abdullah",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8498-1560",
+      "affiliation": "Department of Aerospace Engineering, Faculty of Engineering, Universiti Putra Malaysia, Serdang 43400, Malaysia"
+    },
+    {
+      "name": "Mazli Mustapha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical Engineering, Universiti Teknologi PETRONAS, Seri Iskandar 32610, Malaysia"
+    }
+  ],
+  "doi": "10.3390/ma18040821",
+  "url": "https://doi.org/10.3390/ma18040821",
+  "published": null,
+  "abstract": "<jats:p>Geopolymers have emerged as promising materials for their superior thermal and mechanical properties, offering sustainable alternatives to conventional coatings. This study investigates the potential of Palm Oil Fuel Ash (POFA) as a raw material for fire-resistant geopolymer coatings. Through the optimization of POFA-to-alkaline activator (AA) ratios, NaOH concentrations, and curing temperatures, POFA-based coatings were synthesized and applied to mild steel substrates. Fire resistance testing revealed that the optimal formulation (0.35 POFA ratio, 8 M NaOH concentration, and curing at 65 °C) achieved a temperature at equilibrium (TAE) of 151.2 °C, significantly outperforming other compositions by reducing heat transfer during fire exposure. Thermal imaging and SEM analysis demonstrated that the optimized coating (GP-POFA8) exhibited a more uniform and stable intumescent layer, leading to lower peak temperatures (909 °C) compared to less optimized samples. Thermogravimetric Analysis (TGA) further confirmed that GP-POFA8 retained approximately 80% of its original mass at temperatures beyond 600 °C, highlighting its superior thermal stability. These findings underscore the potential of POFA-based geopolymers as effective, eco-friendly solutions for fire-resistant applications in construction and industrial sectors, contributing to sustainable waste management.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/ma18040821",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_ma18040821/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "Materials",
+  "publisher": "",
+  "issn": "1996-1944",
+  "quartile": "",
+  "added_at": "2026-08-22T02:23:05.959462+00:00",
+  "updated_at": "",
+  "extra": {}
+}
