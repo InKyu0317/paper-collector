@@ -1,0 +1,111 @@
+{
+  "paper_id": "arxiv_2603.23248v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Virtual materials testing of ASSB cathodes combining AI-based stochastic 3D modeling and numerical simulations",
+  "authors": [
+    {
+      "name": "Anina Dufter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sabrina Weber",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Orkun Furat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Johannes Schubert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "René Rekers",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maximilian Luczak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Erik Glatt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andreas Wiegmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anja Bielefeld",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Volker Schmidt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2603.23248v1",
+  "published": "2026-03-24T14:16:06+00:00",
+  "abstract": "The performance of all-solid-state battery (ASSB) cathodes strongly depends on their microstructure. Optimizing the cathode morphology can therefore enhance effective macroscopic properties such as ionic and electronic conductivity. The search for optimized microstructures can be facilitated by virtual materials testing: By integrating image analysis and stochastic microstructure modeling to generate a wide range of realistic 3D microstructures and evaluate their effective macroscopic properties by means of numerical simulations, thereby reducing the need for extensive physical experiments. This approach allows for the investigation of structure-property relationships through parametric regression models that incorporate relevant geometrical descriptors of microstructures such as volume fractions, mean geodesic tortuosities, specific surface areas, and constrictivities. By linking these geometrical descriptors to macroscopic properties, virtual materials testing provides quantitative insight into how microstructure influences material performance. In the present paper, this framework is applied for ASSB cathodes. In addition, by systematically varying model parameters, a broad range of 3D microstructures can be generated, which remain close to the original cathode morphology while inducing targeted changes in selected geometrical descriptors. The resulting database enables the calibration of regression models whose predictive performance is assessed by comparing predicted and simulated effective properties such as the ionic and electronic conductivity, thereby quantifying how accurately combinations of geometrical descriptors can explain and predict variations in effective macroscopic properties.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2603.23248v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2603.23248v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2603.23248v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-23T02:35:22.893773+00:00",
+  "updated_at": "",
+  "extra": {}
+}

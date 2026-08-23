@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s10008-023-05650-3",
+  "collection": "halide-solid-state-battery",
+  "title": "Multi-kernel support vector regression optimization model and indirect health factor extraction strategy for the accurate lithium-ion battery remaining useful life prediction",
+  "authors": [
+    {
+      "name": "Jie Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4741-5580",
+      "affiliation": ""
+    },
+    {
+      "name": "Shunli Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Fernandez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-023-05650-3",
+  "url": "https://doi.org/10.1007/s10008-023-05650-3",
+  "published": "2024-1",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-023-05650-3",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-023-05650-3/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-023-05650-3.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 18,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-08-23T02:36:30.714270+00:00",
+  "updated_at": "",
+  "extra": {}
+}

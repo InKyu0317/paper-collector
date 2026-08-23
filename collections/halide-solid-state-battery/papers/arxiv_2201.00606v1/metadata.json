@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2201.00606v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Solid-like to Liquid-like Behavior of Cu Diffusion in Superionic Cu2X (X=S, Se): An Inelastic Neutron Scattering and Ab-Initio Molecular Dynamics Investigation",
+  "authors": [
+    {
+      "name": "Sajan Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. K. Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Prabhatasree Goel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "R. Mittal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Olivier Delaire",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Thamizhavel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. Rols",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. L. Chaplot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2201.00606v1",
+  "published": "2022-01-03T12:30:43+00:00",
+  "abstract": "Cu2Se and Cu2S are excellent model systems of superionic conductors with large diffusion coefficients that have been reported to exhibit different solid-liquid-like Cu-ion diffusion. In this paper, we clarify the atomic dynamics of these compounds with temperature-dependent ab-initio molecular dynamics (AIMD) simulations and inelastic neutron scattering (INS) experiments. Using the dynamical structure factor and Van-Hove correlation function, we interrogate the jump-time, hopping length distribution and associated diffusion coefficients. In cubic-Cu2Se at 500 K, we find solid-like diffusion with Cu-jump lengths matching well the first-neighbour Cu-Cu distance of ~3 Å in the crystal, and clearly defined optic phonons involving Cu-vibrations. Above 700 K, the jump-length distribution becomes a broad maximum cantered around 4 Å, spanning the first and second neighbour lattice distances, and a concurrent broadening of the Cu-phonon density of states. Further, above 900 K, the Cu-diffusion becomes close to liquid-like, with distributions of Cu-atoms continuously connecting crystal sites, while the vibrational modes involving Cu motions are highly damped, though still not fully over-damped as in a liquid. At low temperatures, the solid-like diffusion is consistent with previous X-ray diffraction and quasielastic neutron scattering experiments, while the higher-temperature observation of the liquid-like diffusion is in agreement with previous AIMD simulations. We also report AIMD simulations in Cu2S in the hexagonal and cubic superionic phases, and observe similar solid and liquid-like diffusion at low- and high-temperatures, respectively. The calculated ionic-conductivity is in fair agreement with reported experimental values.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2201.00606v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2201.00606v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2201.00606v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-23T02:35:19.752062+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1109_lssc.2025.3612423",
+  "collection": "halide-solid-state-battery",
+  "title": "A Battery-Free BLE Backscatter Communication Chip for Wearable Systems",
+  "authors": [
+    {
+      "name": "Yongling Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-9605-0582",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    },
+    {
+      "name": "Ji Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    },
+    {
+      "name": "Junzai Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    },
+    {
+      "name": "Xiaoyu Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    },
+    {
+      "name": "Jinrui Zuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute for Future Intelligent Systems, Fudan University, Shanghai, China"
+    },
+    {
+      "name": "Yan Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9081-5008",
+      "affiliation": "Institute for Future Intelligent Systems, Fudan University, Shanghai, China"
+    },
+    {
+      "name": "Xiaoyi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5842-3442",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    },
+    {
+      "name": "Miao Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0692-0305",
+      "affiliation": "Department of Electronic Science and Technology, Tongji University, Shanghai, China"
+    }
+  ],
+  "doi": "10.1109/lssc.2025.3612423",
+  "url": "https://doi.org/10.1109/lssc.2025.3612423",
+  "published": "2025",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/lssc.2025.3612423",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_lssc.2025.3612423/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "IEEE Solid-State Circuits Letters",
+  "publisher": "",
+  "issn": "2573-9603",
+  "quartile": "",
+  "added_at": "2026-08-23T02:36:30.714563+00:00",
+  "updated_at": "",
+  "extra": {}
+}
