@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.31857_s0453881124010018",
+  "collection": "aluminosilicate",
+  "title": "Pyrolytic Decomposition of Polyethylene in the Presence of Aluminosilicate Materials Containing Nickel Oxide",
+  "authors": [
+    {
+      "name": "V. B. Kharitontsev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Theory and Optimization of Chemical and Technological Processes, University of Tyumen"
+    },
+    {
+      "name": "M. V. Grigoriev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Theory and Optimization of Chemical and Technological Processes, University of Tyumen"
+    },
+    {
+      "name": "Е. A. Tissen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Theory and Optimization of Chemical and Technological Processes, University of Tyumen"
+    },
+    {
+      "name": "P. A. Zubenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Theory and Optimization of Chemical and Technological Processes, University of Tyumen"
+    },
+    {
+      "name": "N. Yu. Tretyakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Chemistry, University of Tyumen"
+    },
+    {
+      "name": "A. V. Elyshev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "World-Class Research Center “Advanced Digital Technologies”, University of Tyumen"
+    }
+  ],
+  "doi": "10.31857/s0453881124010018",
+  "url": "https://doi.org/10.31857/s0453881124010018",
+  "published": null,
+  "abstract": "<jats:p>The work is devoted to the study of the pyrolysis of high-density polyethylene (PE) in the presence of aluminosilicate materials containing nickel oxide. The process of catalytic pyrolysis of plastics makes it possible to convert polymers into chemical compounds, which can later be used as an additional source of fuels, raw materials for the chemical industry or polymer production. The physicochemical parameters of materials containing nickel oxide have been established using the following methods: IR-Fourier spectroscopy; x-ray diffraction analysis; N2 physical adsorption method; thermogravimetric analysis; pyrolytic gas chromatography. The dependences of the chemical composition of PE pyrolysis products on the type of support used and the presence of nickel oxide. The presence of nickel oxide in the studied aluminosilicates increases the Lewis acidity, which increases the content of aromatic compounds in the pyrolysis products. The activation energy of the PE pyrolysis process in the presence of MCM-41 containing nickel oxide was calculated from experimental data.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.31857/s0453881124010018",
+  "pdf_path": "aluminosilicate/papers/doi_10.31857_s0453881124010018/paper.pdf",
+  "pdf_url": "https://journals.rcsi.science/0453-8811/article/viewFile/259628/238349",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Кинетика и катализ",
+  "publisher": "",
+  "issn": "0453-8811",
+  "quartile": "",
+  "added_at": "2026-08-23T02:29:08.060022+00:00",
+  "updated_at": "",
+  "extra": {}
+}

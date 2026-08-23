@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.20998_2079-0821.2023.02.02",
+  "collection": "aluminosilicate",
+  "title": "PROSPECTIVE LITHIUM ALUMINOSILICATE GLASS-CERAMIC MATERIALS FOR PULSE RANGEFINDERS",
+  "authors": [
+    {
+      "name": "Oksana Savvova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6664-2274",
+      "affiliation": ""
+    },
+    {
+      "name": "Oleh Tur",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0000-3438-0820",
+      "affiliation": ""
+    },
+    {
+      "name": "Hennadii Voronov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1205-8608",
+      "affiliation": ""
+    },
+    {
+      "name": "Oleksii Fesenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3888-9493",
+      "affiliation": ""
+    },
+    {
+      "name": "Olena Babich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0821-1585",
+      "affiliation": ""
+    },
+    {
+      "name": "Yuliia Smyrnova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1927-2714",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.20998/2079-0821.2023.02.02",
+  "url": "https://doi.org/10.20998/2079-0821.2023.02.02",
+  "published": null,
+  "abstract": "<jats:p>The relevance of creating multi-functional nanosecond pulsed laser devices with a generation wavelength that lies in the conditionally eye-safe region of the spectrum of 1.5÷1.6 μm has been established. The prospects of using the mode of passive Q-switching when receiving powerful nanosecond laser pulses with a radiation divergence close to the diffraction one have been determined. Materials for shutters that function in the mode of passive Q-switching were analyzed: solid-state nonlinear optical materials based on single crystals of yttrium-aluminum garnet doped with cations of neodymium, chromium, vanadium and other Nd- or Yb-doped crystals in the wavelength range of 0.8–1.2 μm. The promising use of oxide single crystals activated by Co2+ ions in four-coordinated oxygen positions for MgAl2O4, LiGa5O8, LaMgAl11O19 has been confirmed. The feasibility of developing transparent glass-ceramics based on aluminomagnesium and lithium gallium spinel for pulsed ranging was determined, taking into account its commercial availability, the simplicity of the production technology, as well as the homogeneity of the distribution of the activator in the volume. The feasibility of creating a new type of nonlinear optical materials based on nanostructured heat-resistant lithium aluminosilicate glass ceramics with spinel nanocrystals activated by Co2+ ions under low-temperature heat treatment conditions, has been determined. The purpose and tasks of the work are formulated, which consist in justifying the choice of the system and compositions of glasses for obtaining glass-ceramic materials as a passive laser shutter for powerful lasers that operate at a wavelength of 1.54 μm and are characterized by high heat resistance. The choice of the lithium aluminosilicate system R2O – RO – RO2 – P2O5 – R2O3 – SiO2 based on phase-forming SiO2, Al2O3, Li2O, modifying K2O is substantiated; RO – MgO, ZnO, CaO, SrO, BaO components and a complex crystallization catalyst of P2O5, CeO2, TiO2, SnO2, ZrO2 and ZnO. The structural criteria for the glass matrix were formulated. Compositions of model glasses were designed taking into account the calculated parameters fSi &gt; 0.22, Kсr ≥ 3.5, Ktr ≥ 2.1, and the probability of obtaining transparent glass-ceramic materials with a sitallized structure for pulse rangefinders was established on their basis.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.20998/2079-0821.2023.02.02",
+  "pdf_path": "aluminosilicate/papers/doi_10.20998_2079-0821.2023.02.02/paper.pdf",
+  "pdf_url": "http://ccte.khpi.edu.ua/article/download/296745/289741",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Bulletin of the National Technical University \"KhPI\". Series: Chemistry, Chemical Technology and Ecology",
+  "publisher": "",
+  "issn": "2708-5252",
+  "quartile": "",
+  "added_at": "2026-08-23T02:29:06.946976+00:00",
+  "updated_at": "",
+  "extra": {}
+}
