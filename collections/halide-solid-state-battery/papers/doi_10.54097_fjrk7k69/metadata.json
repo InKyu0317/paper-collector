@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.54097_fjrk7k69",
+  "collection": "halide-solid-state-battery",
+  "title": "Innovations in Energy Through Nanomaterials Enhancing Solid-State Battery Safety and Efficacy",
+  "authors": [
+    {
+      "name": "Emily Lydia Davies",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.54097/fjrk7k69",
+  "url": "https://doi.org/10.54097/fjrk7k69",
+  "published": null,
+  "abstract": "<jats:p>This paper explores the potential of Si-based nanomaterials to enhance the performance of lithium-ion batteries (LIBs), particularly for electric vehicles (EVs). Traditional graphite anodes limit the energy density and range of EVs, increasing the need to search for alternative materials like silicon, which offers a much higher theoretical specific capacity. However, silicon’s application has been challenged by significant volume changes during cycling, leading to mechanical stress and failure. The use of nanotechnology, especially silicon nanomaterials, offers promising solutions to these challenges. Silicon nanostructures, such as nanowires, exhibit enhanced mechanical properties, allowing them to withstand volumetric changes and maintain high capacity during cycling. This review delves into the chemo-physical properties of silicon, the challenges posed by silicon anodes (SAs), and the recent advancements in silicon nanomaterials. Additionally, it also discusses different approaches to enhancing the performance of Si-based anodes, as well as the difficulties that exist now and the directions that future research in this exciting area is headed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.54097/fjrk7k69",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.54097_fjrk7k69/paper.pdf",
+  "pdf_url": "https://drpress.org/ojs/index.php/HSET/article/download/26837/26379",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Highlights in Science, Engineering and Technology",
+  "publisher": "",
+  "issn": "2791-0210",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:42.710495+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,79 @@
+{
+  "paper_id": "arxiv_2305.04014v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Experimentally observed defect tolerance in the electronic structure of lead bromide perovskites",
+  "authors": [
+    {
+      "name": "Gabriel J. Man",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandr Kalinko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dibya Phuyal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pabitra K. Nayak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Håkan Rensmo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergei M. Butorin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2305.04014v1",
+  "published": "2023-05-06T10:59:23+00:00",
+  "abstract": "Point defect tolerance in materials, which extends operational lifetime, is essential for societal sustainability, and the creation of a framework to design such properties is a grand challenge in the material sciences. Using three prototypical lead bromide perovskites in single crystal form and high-resolution synchrotron-based X-ray spectroscopy, we reveal the unexpectedly pivotal role of the A-cation in mediating the influence of photoinduced defects. Organic A-cation hydrogen bonding facilitates chemical flexing of the lead-bromide bond that mitigates the self-doping effect of bromide vacancies. The contribution of partially ionic lead-bromide bonding to the electronic band edges, where the bonding becomes more ionic upon the formation of defects, mitigates re-hybridization of the electronic structure upon degradation. These findings reveal two new general design principles for defect tolerance in materials. Our findings uncover the foundations of defect tolerance in halide perovskites and have implications for defect calculations, all beam-based measurements of photophysical properties and perovskite solar cell technology.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.04014v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2305.04014v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.04014v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:27.957942+00:00",
+  "updated_at": "",
+  "extra": {}
+}

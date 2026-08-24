@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2604.26372v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Polaron Conductivity in $α$-Fe2O3 Quenched by Adsorbed NO2",
+  "authors": [
+    {
+      "name": "Tushar K. Ghosh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elvar Ö. Jónsson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stephan Steinhauer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Panagiotis Grammatikopoulos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hannes Jónsson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2604.26372v1",
+  "published": "2026-04-29T07:32:08+00:00",
+  "abstract": "Polaron-mediated charge transport in α-Fe2O3 plays a central role in its performance as a gas-sensing material, yet the atomistic interaction between surface adsorbates and polarons remains insufficiently understood. Here, density functional theory with Hubbard-U correction (DFT+U) combined with nudged elastic band calculations is used to investigate polaron formation, migration, and quenching at the Fe-terminated α-Fe2O3 (0001) surface. The calculated activation energy for small-polaron hopping in bulk α-Fe2O3 is found to be 0.12 eV, in excellent agreement with experimental measurements, confirming the validity of the computational approach. Slab calculations show that migration of the polaron from bulk to the surface lowers the energy by 0.12 eV, indicating preferential localization of charge carriers at the gas-solid interface. Adsorption of NO2 induces substantial electron transfer (0.72 e-) from the oxide to the molecule, eliminating the localized Fe2+ polaron state and thereby suppressing polaronic conductivity. These results provide a direct microscopic explanation for the resistance increase of hematite-based sensors upon exposure to oxidizing gases. More broadly, the study establishes how surface adsorption can modulate charge transport α-Fe2O3 through control of polaron populations, offering design principles for improved iron oxide gas sensors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2604.26372v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2604.26372v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2604.26372v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:35:39.011464+00:00",
+  "updated_at": "",
+  "extra": {}
+}

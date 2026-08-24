@@ -1,0 +1,48 @@
+{
+  "paper_id": "doi_10.1002_smll.202505200",
+  "collection": "halide-solid-state-battery",
+  "title": "Electrochemical performance and diffusion kinetics of a NASICON type Na$_{3.3}$Mn$_{1.2}$Ti$_{0.75}$Mo$_{0.05}$(PO$_4$)$_3$/C cathode for low-cost sodium-ion batteries",
+  "authors": [
+    {
+      "name": "Madhav Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rajendra S. Dhaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/smll.202505200",
+  "url": "http://arxiv.org/abs/2505.10572v1",
+  "published": "2025-05-13T13:14:18+00:00",
+  "abstract": "We report the electrochemical performance and diffusion kinetics of a newly designed NASICON type Na$_{3.3}$Mn$_{1.2}$Ti$_{0.75}$Mo$_{0.05}$(PO$_4$)$_3$/C composite material as a cathode for cost-effective sodium-ion batteries. A novel strategy of small Mo doping successfully stabilizes the sample having high Mn content in single phase rhombohedral symmerty. The high-resolution microscopy analysis reveals nanocrystallites of around $\\sim$18 nm, uniformly embedded within the semi-graphitic carbon matrix, which enhances the surface electronic conductivity and effectively shortens the sodium-ion diffusion path. More importantly, we demonstrate a stable electrochemical behavior, with enhanced discharge capacity of 124 mAh/g at 0.1 C, having good reversibility and retaining 77\\% of its capacity after 300 cycles, and 70\\% even after 400 cycles at 2 C. The sodium-ion diffusion coefficients, estimated using both galvanostatic intermittent titration technique (GITT) and cyclic voltammetry are found to lie within the range of $10^{-9}$ to $10^{-11}$~cm$^2$/s. Additionally, the bond-valence site energy mapping predicted a sodium-ion migration energy barrier of 0.76 eV. A detailed distribution of relaxation times (DRT) analysis is used to deconvolute the electrochemical impedance spectra into distinct processes based on their characteristic relaxation times. Notably, the solid-state diffusion of sodium ions within the bulk electrode, with a relaxation time of $\\sim$50 s, shows a consistent trend with the diffusion coefficients obtained from GITT and Warburg-based evaluations across the state of charge.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.10572v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.202505200/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.10572v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:35:35.987219+00:00",
+  "updated_at": "",
+  "extra": {}
+}

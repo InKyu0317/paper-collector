@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1021_acs.nanolett.3c01139",
+  "collection": "halide-solid-state-battery",
+  "title": "Ultrahigh ion diffusion in oxide crystal by engineering the interfacial transporter channels",
+  "authors": [
+    {
+      "name": "Liang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Min Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Changlong Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bowen Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shanguang Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Guobin Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liangbin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chongwen Zou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.nanolett.3c01139",
+  "url": "http://arxiv.org/abs/2205.13414v1",
+  "published": "2022-05-26T15:09:11+00:00",
+  "abstract": "The mass storage and removal in solid conductors always played vital role on the technological applications such as modern batteries, permeation membranes and neuronal computations, which were seriously lying on the ion diffusion and kinetics in bulk lattice. However, the ions transport was kinetically limited by the low diffusional process, which made it a challenge to fabricate applicable conductors with high electronic and ionic conductivities at room temperature. It was known that at essentially all interfaces, the existed space charge layers could modify the charge transport, storage and transfer properties. Thus, in the current study, we proposed an acid solution/WO3/ITO structure and achieved an ultrafast hydrogen transport in WO3 layer by interfacial job-sharing diffusion. In this sandwich structure, the transport pathways of the protons and electrons were spatially separated in acid solution and ITO layer respectively, resulting the pronounced increasing of effective hydrogen diffusion coefficient (Deff) up to 106 times. The experiment and theory simulations also revealed that this accelerated hydrogen transport based on the interfacial job-sharing diffusion was universal and could be extended to other ions and oxide materials as well, which would potentially stimulate systematic studies on ultrafast mixed conductors or faster solid-state electrochemical switching devices in the future.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.13414v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.nanolett.3c01139/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.13414v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:31.779693+00:00",
+  "updated_at": "",
+  "extra": {}
+}

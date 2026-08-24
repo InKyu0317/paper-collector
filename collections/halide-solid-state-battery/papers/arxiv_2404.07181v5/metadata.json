@@ -1,0 +1,161 @@
+{
+  "paper_id": "arxiv_2404.07181v5",
+  "collection": "halide-solid-state-battery",
+  "title": "A predictive machine learning force field framework for liquid electrolyte development",
+  "authors": [
+    {
+      "name": "Sheng Gong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yumin Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenliang Mu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhichen Pu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hongyi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiao Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mengyi Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tianze Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhi Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lifei Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhenze Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaojie Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shaochen Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Weihao Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wen Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liang Xiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2404.07181v5",
+  "published": "2024-04-10T17:31:49+00:00",
+  "abstract": "Despite the widespread applications of machine learning force fields (MLFF) in solids and small molecules, there is a notable gap in applying MLFF to simulate liquid electrolyte, a critical component of the current commercial lithium-ion battery. In this work, we introduce BAMBOO (\\textbf{B}yteDance \\textbf{A}I \\textbf{M}olecular Simulation \\textbf{Boo}ster), a predictive framework for molecular dynamics (MD) simulations, with a demonstration of its capability in the context of liquid electrolyte for lithium batteries. We design a physics-inspired graph equivariant transformer architecture as the backbone of BAMBOO to learn from quantum mechanical simulations. Additionally, we introduce an ensemble knowledge distillation approach and apply it to MLFFs to reduce the fluctuation of observations from MD simulations. Finally, we propose a density alignment algorithm to align BAMBOO with experimental measurements. BAMBOO demonstrates state-of-the-art accuracy in predicting key electrolyte properties such as density, viscosity, and ionic conductivity across various solvents and salt combinations. The current model, trained on more than 15 chemical species, achieves the average density error of 0.01 g/cm$^3$ on various compositions compared with experiment.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.LG",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.07181v5",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2404.07181v5/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.07181v5",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:19.190023+00:00",
+  "updated_at": "",
+  "extra": {}
+}

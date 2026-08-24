@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1016_j.sse.2022.108506",
+  "collection": "halide-solid-state-battery",
+  "title": "An Atomistic Modelling Framework for Valence Change Memory Cells",
+  "authors": [
+    {
+      "name": "Manasa Kaniselvan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mathieu Luisier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marko Mladenović",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.sse.2022.108506",
+  "url": "http://arxiv.org/abs/2207.01095v1",
+  "published": "2022-07-03T18:44:48+00:00",
+  "abstract": "We present a framework dedicated to modelling the resistive switching operation of Valence Change Memory (VCM) cells. The method combines an atomistic description of the device structure, a Kinetic Monte Carlo (KMC) model for the creation and diffusion of oxygen vacancies in the central oxide under an external field, and an ab-initio quantum transport method to calculate electrical current and conductance. As such, it reproduces a realistically stochastic device operation and its impact on the resulting conductance. We demonstrate this framework by simulating a switching cycle for a TiN/HfO$_2$/TiN VCM cell, and see a clear current hysteresis between high/low resistance states, with a conductance ratio of one order of magnitude. Additionally, we observe that the changes in conductance originate from the creation and recombination of vacancies near the active electrode, effectively modulating a tunnelling gap for the current. This framework can be used to further investigate the mechanisms behind resistive switching at an atomistic scale and optimize VCM material stacks and geometries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2207.01095v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.sse.2022.108506/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2207.01095v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:35:42.701981+00:00",
+  "updated_at": "",
+  "extra": {}
+}

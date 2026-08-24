@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1021_acs.jpcc.4c00563",
+  "collection": "halide-solid-state-battery",
+  "title": "Mixing I and Br in Inorganic Perovskites: Atomistic Insights from Reactive Molecular Dynamics Simulations",
+  "authors": [
+    {
+      "name": "Mike Pols",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Adri C. T. van Duin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sofía Calero",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuxia Tao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpcc.4c00563",
+  "url": "http://arxiv.org/abs/2309.09588v2",
+  "published": "2023-09-18T08:53:31+00:00",
+  "abstract": "All-inorganic halide perovskites have received a lot of attention as attractive alternatives to overcome the stability issues of hybrid halide perovskites that are commonly associated with organic cations. To find a compromise between the optoelectronic properties of CsPbI$_{3}$ and CsPbBr$_{3}$, perovskites with CsPb(Br$_{\\rm{x}}$I$_{\\rm{1-x}}$)$_{3}$ mixed compositions are commonly used. An additional benefit is that, without sacrificing the optoelectronic properties for applications such as solar cells or LEDs, small amounts of Br in CsPbI$_{3}$ can prevent the inorganic perovskite from degrading to a photoinactive nonperovskite yellow phase. Despite indications that strain in the perovskite lattice plays a role in the stabilization of the material, a full understanding of such strain is lacking. Here we develop a reactive force field (ReaxFF) for perovskites starting from our previous work for CsPbI$_{3}$, we extend this force field to CsPbBr$_{3}$ and mixed CsPb(Br$_{\\rm{x}}$I$_{\\rm{1-x}}$)$_{3}$ compounds. This force field is used in large-scale molecular dynamics simulations to study perovskite phase transitions and the internal ion dynamics associated with the phase transitions. We find that an increase of the Br content lowers the temperature at which the perovskite reaches a cubic structure. Specifically, by substituting Br for I, the smaller ionic radius of Br induces a strain in the lattice that changes the internal dynamics of the octahedra. Importantly, this effect propagates through the perovskite lattice ranging up to distances of 2 nm, explaining why small concentrations of Br in CsPb(Br$_{\\rm{x}}$I$_{\\rm{1-x}}$)$_{3}$ (x $\\leq$ 1/4) have a significant impact on the phase stability of mixed halide perovskites.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2309.09588v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpcc.4c00563/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2309.09588v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:40.489211+00:00",
+  "updated_at": "",
+  "extra": {}
+}

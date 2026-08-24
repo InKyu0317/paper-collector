@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2412.12753v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Bond-Network Entropy Governs Heat Transport in Coordination-Disordered Solids",
+  "authors": [
+    {
+      "name": "Kamil Iwanowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gábor Csányi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michele Simoncelli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2412.12753v3",
+  "published": "2024-12-17T10:18:17+00:00",
+  "abstract": "Understanding how the vibrational and thermal properties of solids are influenced by atomistic structural disorder is of fundamental scientific interest, and paramount to designing materials for next-generation energy technologies. While several studies indicate that structural disorder strongly influences the thermal conductivity, the fundamental physics governing the disorder-conductivity relation remains elusive. Here we show that order-of-magnitude, disorder-induced variations of conductivity in network solids can be predicted from a bond-network entropy, an atomistic structural descriptor that quantifies heterogeneity in the topology of the atomic-bond network. We employ the Wigner formulation of thermal transport to demonstrate the existence of a relation between the bond-network entropy, and observables such as smoothness of the vibrational density of states (VDOS) and macroscopic conductivity. We also show that the smoothing of the VDOS encodes information about the thermal resistance induced by disorder, and can be directly related to phenomenological models for phonon-disorder scattering based on the semiclassical Peierls-Boltzmann equation. Our findings rationalize the conductivity variations of disordered carbon polymorphs ranging from nanoporous electrodes to defective graphite used as a moderator in nuclear reactors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2412.12753v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2412.12753v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2412.12753v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-24T02:34:49.340144+00:00",
+  "updated_at": "",
+  "extra": {}
+}
