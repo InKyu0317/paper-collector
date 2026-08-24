@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s11090-021-10159-6",
+  "collection": "aluminosilicate",
+  "title": "Determining Chemical Reaction Systems in Plasma-Assisted Conversion of Methane Using Genetic Algorithms",
+  "authors": [
+    {
+      "name": "D. Reiser",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. von Keudell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "T. Urbanietz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-021-10159-6",
+  "url": "https://doi.org/10.1007/s11090-021-10159-6",
+  "published": "2021-5",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Even for processes with only a few gas species involved the detailed description of plasma-assisted conversion processes in gas mixtures requires a large amount of processes to be taken into account and a large number of neutral and charged particles must be considered. In addition, setting up the corresponding reaction kinetics model needs the knowledge of the rate coefficients and their temperature dependence for all possible reactions between those species. Reduced reaction networks offer a simplified and pragmatic way to obtain an overall reaction kinetics model, already useful for the analysis of experimental data even if not all details of chemistry can be covered. In this paper we present a derivation of a data driven reduced model for plasma-assisted conversion of methane in an helium environment. By consideration of a small number of elementary reactions, a simple model is set up. Experimental data are analyzed by a genetic algorithm that provides best-fit approximations for the open parameters of the model. In a further step non-relevant parameters of the model are identified and a further model reduction is achieved. The data driven analysis of methane conversion serves as an illustrative example of the proposed method. The parameters and reaction channels found are compared with known results from the literature. The method is described in detail. The main goal of this work is to present the potential of this data driven method for a simplified and pragmatic modeling in the increasingly important field of plasma-assisted catalytic processes.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-021-10159-6",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-021-10159-6/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-021-10159-6.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-24T02:28:50.971121+00:00",
+  "updated_at": "",
+  "extra": {}
+}

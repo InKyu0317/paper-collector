@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1007_s11090-020-10151-6",
+  "collection": "aluminosilicate",
+  "title": "Oxygen Removal from a Hydrocarbon Containing Gas Stream by Plasma Catalysis",
+  "authors": [
+    {
+      "name": "T. Urbanietz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "C. Stewig",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "M. Böke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. von Keudell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-020-10151-6",
+  "url": "https://doi.org/10.1007/s11090-020-10151-6",
+  "published": "2021-3",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Hydrocarbon exhaust gases containing residual amounts of oxygen may pose challenges for their conversion into value added chemicals downstream, because oxygen may affect the process. This could be avoided by plasma treating the exhaust to convert <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> in presence of hydrocarbons into CO or <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {CO}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CO</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> on demand. The underlying reaction mechanisms of plasma conversion of <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> in the presence of hydrocarbons are analysed in a model experiment using a radio frequency atmospheric pressure helium plasma in a plug flow design with admixtures of <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> and of <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {CH}_4$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CH</mml:mtext>\n                    <mml:mn>4</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula>. The plasma process is analysed with infrared absorption spectroscopy to monitor <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {CH}_4$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CH</mml:mtext>\n                    <mml:mn>4</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> as well as the reaction products CO, <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {CO}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CO</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> and <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {H}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>H</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula>O. It is shown that the plasma reaction for oxygen (or methane removal) is triggered by the formation of oxygen atoms from <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> by electron. Oxygen atoms are efficiently converted into CO, <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {CO}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>CO</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> and <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {H}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>H</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula>O with CO being an intermediate in that reaction sequence. However, at very high oxygen admixtures to the gas stream, the conversion efficiency saturates because electron induced <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula> dissociation in the plasma seems to be counterbalanced by a reduction of the efficiency of electron heating at high admixtures of <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\hbox {O}_2$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msub>\n                    <mml:mtext>O</mml:mtext>\n                    <mml:mn>2</mml:mn>\n                  </mml:msub>\n                </mml:math></jats:alternatives></jats:inline-formula>.\n The impact of a typical industrial manganese oxide catalyst is evaluated for methane conversion. It is shown that the conversion efficiency is enhanced by 15–20% already at temperatures of 430 K.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-020-10151-6",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-020-10151-6/paper.pdf",
+  "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11090-020-10151-6.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-24T02:28:45.410100+00:00",
+  "updated_at": "",
+  "extra": {}
+}

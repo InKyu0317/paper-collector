@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s11090-024-10529-w",
+  "collection": "aluminosilicate",
+  "title": "Separation of Plasma Species for Investigating the Impact of Hydrogen Plasmas on the Work Function of Caesiated Surfaces",
+  "authors": [
+    {
+      "name": "A. Heiler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0026-0828",
+      "affiliation": ""
+    },
+    {
+      "name": "R. Friedl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5723-994X",
+      "affiliation": ""
+    },
+    {
+      "name": "U. Fantz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2239-3477",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-024-10529-w",
+  "url": "https://doi.org/10.1007/s11090-024-10529-w",
+  "published": "2025-1",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>In negative hydrogen ion sources in situ adsorption of Cs is typically used to generate low work function converter surfaces. The achievement of a temporally stable low work function coating is, however, challenging due to the hydrogen plasma interaction with the surface. Particularly in ion sources for neutral beam injection systems for fusion with pulse durations of minutes to hours temporal instabilities are a major issue and limit the source performance. To clarify the influence of the hydrogen plasma on the converter surface, investigations are performed at an experiment equipped with an absolute work function diagnostic based on the photoelectric effect. Caesiated surfaces are exposed to the full plasma impact by the generation of plasmas in front of the surface as well as to selected plasma species (H atoms, positive ions and VUV/UV photons) from an external plasma source to identify driving mechanisms that lead to surface changes. Depending on the exposure time and initial surface condition, the plasma strongly affects the surface in terms of work function and quantum efficiency (QE). For degraded Cs layers (work function <jats:inline-formula><jats:alternatives><jats:tex-math>$$\\ge 3$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:mo>≥</mml:mo>\n                    <mml:mn>3</mml:mn>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula> eV) a favorable increase in QE and reduction in work function can be achieved, while for Cs layers with an ultra-low work function of <jats:inline-formula><jats:alternatives><jats:tex-math>$$1.2-1.3$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mrow>\n                    <mml:mn>1.2</mml:mn>\n                    <mml:mo>-</mml:mo>\n                    <mml:mn>1.3</mml:mn>\n                  </mml:mrow>\n                </mml:math></jats:alternatives></jats:inline-formula> eV the opposite is true. It is found that each plasma species can influence the Cs layers and that VUV photons lead to a work function increase of ultra-low work function layers. For sufficiently high VUV fluences a severe work function increase by 0.5 eV is given, highlighting the relevance of photochemical processes in the plasma-surface interaction and demonstrating that ultra-low work function layers are not stable in a hydrogen plasma environment.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-024-10529-w",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-024-10529-w/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-024-10529-w.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-08-24T02:28:55.332146+00:00",
+  "updated_at": "",
+  "extra": {}
+}
