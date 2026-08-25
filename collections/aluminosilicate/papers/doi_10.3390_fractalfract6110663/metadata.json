@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_fractalfract6110663",
+  "collection": "aluminosilicate",
+  "title": "Evolution of Morphology, Fractal Dimensions, and Structure of (Titanium) Aluminosilicate Gel during Synthesis of Zeolites Y and Ti-Y",
+  "authors": [
+    {
+      "name": "Gabriela Petcu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Physical Chemistry “Ilie Murgulescu” of the Romanian Academy, 202 Splaiul Independentei St., 060021 Bucharest, Romania"
+    },
+    {
+      "name": "Gianina Dobrescu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2214-6206",
+      "affiliation": "Institute of Physical Chemistry “Ilie Murgulescu” of the Romanian Academy, 202 Splaiul Independentei St., 060021 Bucharest, Romania"
+    },
+    {
+      "name": "Irina Atkinson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Physical Chemistry “Ilie Murgulescu” of the Romanian Academy, 202 Splaiul Independentei St., 060021 Bucharest, Romania"
+    },
+    {
+      "name": "Madalina Ciobanu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5369-8129",
+      "affiliation": "Institute of Physical Chemistry “Ilie Murgulescu” of the Romanian Academy, 202 Splaiul Independentei St., 060021 Bucharest, Romania"
+    },
+    {
+      "name": "Jean-Luc Blin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0947-2552",
+      "affiliation": "Faculté des “Sciences” et Technologies, Institut Jean Barriol, UMR CNRS 7565 SRSMC, Université de Lorraine, BP 70239, CEDEX, 54506 Vandoeuvre lès Nancy, France"
+    },
+    {
+      "name": "Viorica Parvulescu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Physical Chemistry “Ilie Murgulescu” of the Romanian Academy, 202 Splaiul Independentei St., 060021 Bucharest, Romania"
+    }
+  ],
+  "doi": "10.3390/fractalfract6110663",
+  "url": "https://doi.org/10.3390/fractalfract6110663",
+  "published": null,
+  "abstract": "<jats:p>Zeolite Y and Ti-containing zeolite Y (1%, 2% and 5% TiO2) were synthesized by a hydrothermal seed-assisted method. In order to evidence the evolution of morphology, structure, and fractal dimensions during the zeolitization process at certain time intervals, a small volume from the reaction medium was isolated and frozen by lyophilization. The obtained samples were characterized by scanning electron microscopy (SEM), wide-angle X-ray diffraction (XRD), and small-angle X-ray scattering (SAXS). The fractal dimension values of the isolated samples, calculated from SAXS data, evidenced a transition from small particles with a smooth surface (2.021) to compact structures represented by zeolite crystallites with rough surfaces (2.498) and specific organization for zeolite Y. The formation of new structures during hydrothermal treatment, the increase in crystallite size and roughness due to the continuous growth were suggested by variation of fractal dimensions values, SEM microscopy images and X-ray diffractograms. The incorporation of titanium in low concentration into the zeolite Y framework led to the obtaining of low fractal dimensions of 2.034–2.275 (smooth surfaces and compact structures). On the other hand, higher titanium concentration (2%) led to an increase in fractal dimensions indicating structures with rougher surfaces and well-defined self-similarity properties. A mechanism for zeolite synthesis was proposed by correlation of the results obtained through morphological, structural, and fractal analysis.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/fractalfract6110663",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_fractalfract6110663/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 9,
+  "journal": "Fractal and Fractional",
+  "publisher": "",
+  "issn": "2504-3110",
+  "quartile": "",
+  "added_at": "2026-08-25T02:26:31.019958+00:00",
+  "updated_at": "",
+  "extra": {}
+}
