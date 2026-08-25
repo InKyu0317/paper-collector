@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2307.07609v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Interpretable machine learning to understand the performance of semi local density functionals for materials thermochemistry",
+  "authors": [
+    {
+      "name": "Santosh Adhikari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christopher J. Bartel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christopher Sutton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2307.07609v1",
+  "published": "2023-07-14T20:09:12+00:00",
+  "abstract": "This study investigates the use of machine learning (ML) to correct the enthalpy of formation (Hf) from two separate DFT functionals, PBE and SCAN, to the experimental Hf across 1011 solid-state compounds. The ML model uses a set of 25 properties that characterize the electronic structure as calculated using PBE and SCAN. The ML model significantly decreases the error in PBE-calculated Hf values from an mean absolute error (MAE) of 195 meV/atom to an MAE = 80 meV/atom when compared to the experiment. For PBE, the PDP+GAM analysis shows compounds with a high ionicity (I), i.e., I>0.22, have errors in Hf that are twice as large as compounds having I < 0.22 (246 meV/atom compared to 113 meV/atom). Conversely, no analogous trend is observed for SCAN-calculated Hfs, which explains why the ML model for PBE can more easily correct the systematic error in calculated Hfs for PBE but not for SCAN. Although the literature suggests PBE is reliable for intermetallics but less so for oxides and halides, our analysis reveals intermetallics pose a challenge for PBE only when the charge transfer is significant (I >0.22). Meanwhile, oxides and halides may be described accurately by PBE for systems in which charge transfer is relatively low (I < 0.22).",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.07609v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2307.07609v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.07609v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:27.882220+00:00",
+  "updated_at": "",
+  "extra": {}
+}

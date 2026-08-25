@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2508.14513v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Dynamic Vacancy Levels in CsPbCl3 Obey Equilibrium Defect Thermodynamics",
+  "authors": [
+    {
+      "name": "Irea Mosquera-Lois",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aron Walsh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2508.14513v2",
+  "published": "2025-08-20T08:15:20+00:00",
+  "abstract": "Halide vacancies are the dominant point defects in perovskites with VCl identified as a detrimental trap for the optoelectronic performance of CsPbCl3, with applications ranging from photodetectors to solar cells. Understanding these defects under operating conditions is key since their electronic levels exhibit large thermal fluctuations that challenge the validity of static 0 K models. However, quantitative modelling of defect processes requires hybrid density functional theory with spin-orbit coupling, which is too expensive for direct molecular dynamic simulations. To address this, we train a multi-task machine learning force field to study VCl in orthorhombic CsPbCl3 at 300 K. While we observe strong oscillations in the optical transition level arising from the soft potential energy surface, neither the non-radiative capture barriers nor the thermodynamic charge transition levels are affected. Our results reveal that VCl is not responsible for the non-radiative losses previously assumed. Instead, its impact on performance arises from other mechanisms, such as limiting the open-circuit voltage and promoting ionic migration. Our findings demonstrate that, despite strong dynamical effects in halide perovskites, the conventional static formalism of defect theory remains valid for predicting thermodynamic behavior, providing a sound basis for the design of high-performance energy materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.14513v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2508.14513v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.14513v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:16.005807+00:00",
+  "updated_at": "",
+  "extra": {}
+}

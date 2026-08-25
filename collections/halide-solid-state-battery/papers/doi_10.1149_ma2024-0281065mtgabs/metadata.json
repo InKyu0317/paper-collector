@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_ma2024-0281065mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Correlation between Active Material/Solid Electrolyte Interface Formation and Cell Performance in All-Solid-State Battery",
+  "authors": [
+    {
+      "name": "Shusuke Kawaguchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0001-8083-6777",
+      "affiliation": ""
+    },
+    {
+      "name": "Minoru Kuzuhara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Takuhiro Miyuki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-0281065mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-0281065mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tResearch for All-Solid-State Battery (ASSB) aimed at EVs have attracted the attention around the world, and Solid Electrolytes (SE) have been actively developed to improve performance <jats:sup>[1,2]</jats:sup>. While higher ionic conductivity is required, another key issue in electrode design for ASSB is how to form and maintain the active material (AM)/solid electrolyte (SE) interface. Therefore, we have been working on developing a quantitative evaluation method for AM/SE interface of ASSB. The state of surface-charge at the AM/SE interface of the electrode mixture in the initial state was evaluated by utilizing the Alternating-Current-impedance (AC impedance) test of a symmetrical cell composed of an electrode mixture layer/SE layer/electrode mixture layer. As a result, we found that it was possible to quantify the contact state at the AM/SE interface <jats:sup>[3]</jats:sup>.</jats:p>\n               <jats:p> Li<jats:sub>3</jats:sub>PS<jats:sub>4</jats:sub>-LiBH<jats:sub>4</jats:sub> (LPS-LBH) solid electrolyte has the argyrodite-type structure, is promising SE that has both high ionic conductivity of approximately 10<jats:sup>-2</jats:sup> mS/cm and high formability <jats:sup>[4]</jats:sup>. Comparison of LPS-LBH and a general argyrodite SE (ex. Li<jats:sub>x</jats:sub>PS<jats:sub>6-x</jats:sub>Cl<jats:sub>x</jats:sub>, LPSCl) solid electrolyte, LPS-LBH shows superior formability properties. When used as a solid electrolyte in an electrode mixture using NCM 523 and LPS-LBH similarly exhibits superior formability properties. When used as SE in the electrode mixture for example NCM 523 similarly exhibits superior formability properties. This is due to the excellent formability of LPS-LBH. To analysis more detailed of the excellent formability of LPS-LBH, the amount of surface charge at the AM/SE interface in LPS-LBH and LPSCl was evaluated using the AC impedance method described above. Comparing each solid electrolyte at the same volume fraction, LPS-LBH shows about 1.2 to 1.3 times higher surface charge to LPSCl. LPS-LBH has lower charge transfer resistance than LPSCl in the cathode half-cell, and we confirmed that there is a clear proportional correlation between this surface charge of AM/SE interface and charge transfer resistance. From these results, we revealed that LPS-LBH is promising SE that has great material properties.</jats:p>\n               <jats:p> In this research, we quantitatively evaluated the contact state at the AM/SE interface in ASSB using the AC impedance method and verified its correlation with electrochemical performances. We also examine how the contact state at AM/SE interface changes with changes in pressure, and discuss design direction for SE used in electrode composites.</jats:p>\n               <jats:p>【Acknowledgments】</jats:p>\n               <jats:p> This study was supported by the SOLiD-NEXT project (JPNP23005) commissioned by the New Energy and Industrial Technology Development Organization (NEDO).</jats:p>\n               <jats:p>【References】</jats:p>\n               <jats:p>[1] Y. Kato, S. Hori, T. Saito, K. Suzuki, M. Hirayama, A. Mitsui, M. Yonemura, H. Iba, R. Kanno, Nat. Energy, 1 (2016), 16030.</jats:p>\n               <jats:p>[2] Y. Morino, H. Sano, S. Kawaguchi, S. Hori, A. Sakuda, T. Takahashi, N. Miyashita, A. Hayashi, and R. Kanno J. Phys. Chem, 127 (2023) 18678</jats:p>\n               <jats:p>[3] H. Iden, A. Ohma, Journal of Electroanalytical Chemistry 693 (2013) 34</jats:p>\n               <jats:p>[4] Daiwei Wang, Li-Ji Jhang, Rong Kou, Meng Liao, Shiyao Zheng, Heng Jiang, Pei Shi, Guo-Xing Li, Kui Meng &amp; Donghai Wang, Nat. Com, 14 (2023) 1895    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-0281065mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-0281065mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-0281065mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:41.308319+00:00",
+  "updated_at": "",
+  "extra": {}
+}

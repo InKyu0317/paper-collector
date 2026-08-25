@@ -1,0 +1,47 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.2c01337",
+  "collection": "halide-solid-state-battery",
+  "title": "Chalcogenide Perovskites: An Emerging Class of Semiconductors for Optoelectronics",
+  "authors": [
+    {
+      "name": "Pooja Basera",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Saswata Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.2c01337",
+  "url": "http://arxiv.org/abs/2205.00747v1",
+  "published": "2022-05-02T08:53:12+00:00",
+  "abstract": "Chalcogenide perovskites have received considerable interest in photovoltaic research community owing to their stability (thermal and aqueous), non-toxicity and lead free composition. However, to date a theoretical study mainly focusing on the excitonic and polaronic properties are not explored rigorously, due to its huge computational demand. Herein, we capture the excitonic and polaronic effects in a series of chalcogenide perovskites ABS$_3$ where A=Ba, Ca, Sr, and B=Hf, Sn by employing state-of-the art hybrid density functional theory and many body perturbative approaches viz. GW and BSE. We find that these perovskites possess a large exciton binding energy than 3D inorganic-organic hybrid halide perovskites. We examine the interplay of electronic and ionic contribution to the dielectric screening, and conclude that electronic contribution is dominant over the ionic contribution. Further using Feynman polaron model, polaron parameters are computed, and we observe that charge separated polaronic states are less stable than bound excitons. Finally, the theoretically calculated spectroscopic limited maximum efficiency (SLME) suggests that among all chalcogenide perovskites, CaSnS$_3$ could serve as a best choice for photovoltaic applications.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.00747v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.2c01337/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.00747v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:23.385664+00:00",
+  "updated_at": "",
+  "extra": {}
+}

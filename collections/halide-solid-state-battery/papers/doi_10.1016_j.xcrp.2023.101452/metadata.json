@@ -1,0 +1,104 @@
+{
+  "paper_id": "doi_10.1016_j.xcrp.2023.101452",
+  "collection": "halide-solid-state-battery",
+  "title": "Understanding The Reversible Electrodeposition of Al in Low-Cost Room Temperature Molten Salts",
+  "authors": [
+    {
+      "name": "Regina Garcia-Mendez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingxu Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "David C. Bock",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Cherno Jaye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel A. Fischer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Amy C. Marschilok",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kenneth J. Takeuchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Esther S. Takeuchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lynden A. Archer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.xcrp.2023.101452",
+  "url": "http://arxiv.org/abs/2210.12131v1",
+  "published": "2022-10-21T17:42:57+00:00",
+  "abstract": "Aluminum is the most earth-abundant metal, is trivalent, is inert in ambient humid air, and has a density approximately four-times that of lithium at room temperature. These attributes make it an attractive material for cost-effective, long-duration storage of electrical energy in batteries. Scientific discoveries in the past decade have established that secondary Al batteries can be created by paring an Al anode with a graphite or transition metal oxide cathode, in imidazolium-based, room-temperature ionic-liquid-Aluminum chloride electrolytes. Here we report findings from a systematic study that sheds light on the structural requirements, physicochemical, and transport properties of the ionic liquid electrolytes responsible for the high reversibility of Al battery anodes. We find that the most important interfacial and transport properties of these electrolytes can be achieved in other electrolytes, including ammonium-based molten salts that are available at costs as much as twenty-times lower than the ionic liquid-Aluminum chloride melt. High Al reversibility in ammonium- and imidazolium-based electrolytes is specifically shown to require a critical ratio of the solvation species, where Lewis acidity and beneficial interfacial reactions continuously etch the alumina resistive interfacial layer and form beneficial solid electrolyte interphase at the anode. We report further that successful development of new electrolyte families that support high Al anode reversibility also provides a good platform for detailed studies of the working mechanisms of an intercalation graphite cathode using X-ray absorption spectroscopy. Our findings therefore open new opportunities for developing simple, cost-effective, room-temperature Al batteries that enable long-duration electrical energy storage.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.12131v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.xcrp.2023.101452/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.12131v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:07.779446+00:00",
+  "updated_at": "",
+  "extra": {}
+}

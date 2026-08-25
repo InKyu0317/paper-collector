@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2111.12944v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Colossal Anomalous Hall Conductivity and Topological Hall Effect in Ferromagnetic Kagome Metal Nd$_3$Al",
+  "authors": [
+    {
+      "name": "Durgesh Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jadupati Nag",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sankararao Yadam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "V. Ganesan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aftab Alam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "K. G. Suresh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2111.12944v1",
+  "published": "2021-11-25T06:52:01+00:00",
+  "abstract": "Historically, the genesis of anomalous Hall effect (AHE) in magnetic materials has always been a fascinating yet controversial topic in the solid state physics community. Recent progress on the understanding of this topic has revealed an intimate connection between the Berry curvature of occupied electronic states and the intrinsic AHE. Magnetic Weyl semimetals with broken time reversal symmetry is a classic example, which is expected to show large contributions to Berry curvature around the topological nodes and hence to the AHE. Here, we report a kagome metallic ferromagnet Nd$_3$Al, with a large unconventional positive magnetoresistance (~ 80 %) and colossal anomalous Hall conductivity of 1.8x10^5 S/cm (largest ever reported to the best of our knowledge). We also show that the magnetic state of this compound is quite different from its analogues in many respects. While the compound is predominantly an itinerant ferromagnet, its low temperature phase exhibits topological band structure, enhanced skew scattering as well as topological spin texture arising in the spin frustrated kagome lattice. Various experimental findings such as topological Hall effect, non-saturating positive magnetoresistance etc. give strong indication to this scenario. Ab-initio calculations broadly confirm the experimental findings by revealing the presence of flat bands and Weyl points originating from the itinerant Nd moments. The non-trivial band structure, enhanced skew scattering and the spin texture in a clean polycrystalline sample are found be responsible for the colossal Hall conductivity and topological Hall effect.",
+  "keywords": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.12944v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2111.12944v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.12944v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:33.077150+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2402.00177v1",
+  "collection": "halide-solid-state-battery",
+  "title": "The ab initio amorphous materials database: Empowering machine learning to decode diffusivity",
+  "authors": [
+    {
+      "name": "Hui Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eric Sivonxay",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Max Gallant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ziyao Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew McDermott",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Patrick Huck",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kristin A. Persson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.00177v1",
+  "published": "2024-01-31T21:08:04+00:00",
+  "abstract": "Amorphous materials exhibit unique properties that make them suitable for various applications in science and technology, ranging from optical and electronic devices and solid-state batteries to protective coatings. However, data-driven exploration and design of amorphous materials is hampered by the absence of a comprehensive database covering a broad chemical space. In this work, we present the largest computed amorphous materials database to date, generated from systematic and accurate \\textit{ab initio} molecular dynamics (AIMD) calculations. We also show how the database can be used in simple machine-learning models to connect properties to composition and structure, here specifically targeting ionic conductivity. These models predict the Li-ion diffusivity with speed and accuracy, offering a cost-effective alternative to expensive density functional theory (DFT) calculations. Furthermore, the process of computational quenching amorphous materials provides a unique sampling of out-of-equilibrium structures, energies, and force landscape, and we anticipate that the corresponding trajectories will inform future work in universal machine learning potentials, impacting design beyond that of non-crystalline materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.00177v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.00177v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.00177v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:12.701388+00:00",
+  "updated_at": "",
+  "extra": {}
+}

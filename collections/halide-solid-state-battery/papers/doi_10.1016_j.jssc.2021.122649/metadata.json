@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1016_j.jssc.2021.122649",
+  "collection": "halide-solid-state-battery",
+  "title": "A solid, amorphous, lithiated carbon phosphonitride displaying lithium ion conductivity",
+  "authors": [
+    {
+      "name": "Andrew P. Purdy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5274-0818",
+      "affiliation": ""
+    },
+    {
+      "name": "William A. Maza",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9126-2959",
+      "affiliation": ""
+    },
+    {
+      "name": "Brian L. Chaloux",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0366-2280",
+      "affiliation": ""
+    },
+    {
+      "name": "James P. Yesinowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew G. Lanetti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9528-9174",
+      "affiliation": ""
+    },
+    {
+      "name": "Kristi N. McPherson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Albert Epshteyn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4489-2296",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jssc.2021.122649",
+  "url": "https://doi.org/10.1016/j.jssc.2021.122649",
+  "published": "2022-1",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.jssc.2021.122649",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jssc.2021.122649/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "",
+  "issn": "0022-4596",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:39.954225+00:00",
+  "updated_at": "",
+  "extra": {}
+}

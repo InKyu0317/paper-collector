@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2311.10704v1",
+  "collection": "halide-solid-state-battery",
+  "title": "TODD-Graphene: A Novel Porous 2D Carbon Allotrope for High-Performance Lithium-Ion Batteries",
+  "authors": [
+    {
+      "name": "E. J. A. Santos",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "K. A. L. Lima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "L. A. Ribeiro Junior",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2311.10704v1",
+  "published": "2023-11-17T18:46:45+00:00",
+  "abstract": "The class of 2D carbon allotropes has garnered significant attention due to its exceptional optoelectronic and mechanical properties, crucial for diverse device applications, such as energy storage. This study employs density functional theory calculations, ab initio molecular dynamics (AIMD), and classical reactive (ReaxFF) molecular dynamics (MD) simulations to introduce TODD-Graphene, a novel 2D planar carbon allotrope with a porous structure composed of 3-8-10-12 carbon rings. TODD-G exhibits intrinsic metallic properties with low formation energy and demonstrates exceptional dynamic, thermal, and mechanical stability. Calculations reveal a high theoretical capacity for adsorbing Li atoms by showing a low average diffusion barrier of 0.83 eV and a metallic framework boasting excellent conductivity, emerging as a promising anode material for lithium-ion batteries. We also calculated the charge carrier mobility for electrons and holes in TOOD-G, and the values surpassed the graphene ones. Classical reactive MD simulation results suggested its structural integrity with no bond reconstructions at 1800 K.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2311.10704v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2311.10704v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2311.10704v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:39.953831+00:00",
+  "updated_at": "",
+  "extra": {}
+}

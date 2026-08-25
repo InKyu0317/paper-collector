@@ -1,0 +1,152 @@
+{
+  "paper_id": "doi_10.1103_physrevb.110.235406",
+  "collection": "halide-solid-state-battery",
+  "title": "New insights into the laser-assisted photoelectric effect from solid-state surfaces",
+  "authors": [
+    {
+      "name": "Lukas Wenthaus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nikolay M. Kabachnik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mario Borgwardt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Steffen Palutke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dmytro Kutnyakhov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Federico Pressacco",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Markus Scholz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dmitrii Potorochin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nils Wind",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefan Düsterer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Günter Brenner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oliver Gessner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Serguei Molodtsov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wolfgang Eberhardt",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Friedrich Roth",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevB.110.235406",
+  "url": "http://arxiv.org/abs/2309.00099v2",
+  "published": "2023-08-31T19:38:42+00:00",
+  "abstract": "Photoemission from a solid surface provides a wealth of information about the electronic structure of the surface and its dynamic evolution. Ultrafast pump-probe experiments are particularly useful to study the dynamic interactions of photons with surfaces as well as the ensuing electron dynamics induced by these interactions. Time-resolved laser-assisted photoemission (tr-LAPE) from surfaces is a novel technique to gain deeper understanding of the fundamentals underlying the photoemission process. Here, we present the results of a femtosecond time-resolved soft X-ray photoelectron spectroscopy experiment on two different metal surfaces conducted at the X-ray Free-Electron Laser FLASH in Hamburg. We study photoemission from the W 4f and Pt 4f core levels using ultrashort soft X-ray pulses in combination with synchronized infrared (IR) laser pulses. When both pulses overlap in time and space, laser-assisted photoemission results in the formation of a series of sidebands that reflect the dynamics of the laser-surface interaction. We demonstrate a qualitatively new level of sideband generation up to the sixth order and a surprising material dependence of the number of sidebands that has so far not been predicted by theory. We provide a semi-quantitative explanation of this phenomenon based on the different dynamic dielectric responses of the two materials. Our results advance the understanding of the LAPE process and reveal new details of the IR field present in the surface region, which is determined by the dynamic interplay between the IR laser field and the dielectric response of the metal surfaces.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2309.00099v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevb.110.235406/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2309.00099v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-25T02:32:36.422464+00:00",
+  "updated_at": "",
+  "extra": {}
+}
