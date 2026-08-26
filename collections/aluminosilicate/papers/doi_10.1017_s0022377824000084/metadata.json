@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1017_s0022377824000084",
+  "collection": "aluminosilicate",
+  "title": "Transformation of a plasma boundary curvature into electrical impulses moving along a plasma surface",
+  "authors": [
+    {
+      "name": "O.M. Gradov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9995-1273",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1017/s0022377824000084",
+  "url": "https://doi.org/10.1017/s0022377824000084",
+  "published": "2024-2",
+  "abstract": "<jats:p>The self-consistent propagation of electrical impulses and of the accompanying distortions of the electron surface in the framework of a cold plasma model with a sharp boundary has been described with help of a derived system of two equations. The method of ‘shallow water theory’ has been applied for the case of bounded plasma and deriving an equation with which to link the spatial and temporal structures and evolution of the boundary curvature and the surface charge. Under certain conditions, such perturbations can propagate along the boundary without changing their shape for a long distance. An approximate analytical solution has been found, and numerical calculations have been performed. Mutual connections between basic parameters of the considered perturbations (velocity components, electrostatic field, etc.) have been presented.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1017/s0022377824000084",
+  "pdf_path": "aluminosilicate/papers/doi_10.1017_s0022377824000084/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Journal of Plasma Physics",
+  "publisher": "",
+  "issn": "0022-3778",
+  "quartile": "",
+  "added_at": "2026-08-26T02:30:04.318615+00:00",
+  "updated_at": "",
+  "extra": {}
+}

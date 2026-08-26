@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.commatsci.2022.111965",
+  "collection": "aluminosilicate",
+  "title": "Atomic scale network structure of a barium aluminosilicate glass doped with different concentrations of rare-earth ions explored by molecular dynamics simulations",
+  "authors": [
+    {
+      "name": "Bilel Charfi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7526-6167",
+      "affiliation": ""
+    },
+    {
+      "name": "Mohamed Zekri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Andreas Herrmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1889-2647",
+      "affiliation": ""
+    },
+    {
+      "name": "Kamel Damak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2520-1664",
+      "affiliation": ""
+    },
+    {
+      "name": "Ramzi Maâlej",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.commatsci.2022.111965",
+  "url": "https://doi.org/10.1016/j.commatsci.2022.111965",
+  "published": "2023-2",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.commatsci.2022.111965",
+  "pdf_path": "aluminosilicate/papers/doi_10.1016_j.commatsci.2022.111965/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Computational Materials Science",
+  "publisher": "",
+  "issn": "0927-0256",
+  "quartile": "",
+  "added_at": "2026-08-26T02:30:11.842973+00:00",
+  "updated_at": "",
+  "extra": {}
+}
