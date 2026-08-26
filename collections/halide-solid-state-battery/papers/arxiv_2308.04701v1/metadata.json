@@ -1,0 +1,159 @@
+{
+  "paper_id": "arxiv_2308.04701v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Direct and in situ examination of Li+ transport kinetics in isotope labelled solid electrolyte interphase",
+  "authors": [
+    {
+      "name": "Xiaofei Yu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Stefany Angarita-Gomez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yaobin Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peiyuan Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun-Gang Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xin Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hao Jia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wu Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaolin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yingge Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhijie Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Janet S. Ho",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kang Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Perla B. Balbuena",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chongmin Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zihua Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2308.04701v1",
+  "published": "2023-08-09T04:45:31+00:00",
+  "abstract": "Here, using unique in-situ liquid secondary ion mass spectroscopy on isotope-labelled solid-electrolyte-interphase (SEI), assisted by cryogenic transmission electron microscopy and constrained ab initio molecular dynamics simulation, for the first time we answer the question regarding Li+ transport mechanism across SEI, and quantitatively determine the Li+-mobility therein. We unequivocally unveil that Li+ transport in SEI follows a mechanism of successive displacement, rather than \"direct-hopping\". We further reveal, in accordance with spatial-dependence of SEI structure across the thickness, the apparent Li+ self-diffusivity varies from 6.7*10-19 m2/s to 1.0*10-20 m2/s, setting a quantitative gauging of ionic transport behavior of SEI layer against the underlining electrode as well as the rate limiting step of battery operation. This direct study on Li+ kinetics in SEI fills part of the decade-long knowledge gap about the most important component in advanced batteries and provides more precise guidelines to the tailoring of interphasial chemistries for future battery chemistries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2308.04701v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2308.04701v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2308.04701v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:21.439904+00:00",
+  "updated_at": "",
+  "extra": {}
+}

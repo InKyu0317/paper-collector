@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2403.14136v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Temperature dependent conductivity, dielectric relaxation, electrical modulus and impedance spectroscopy of Ni substituted Na$_{3+2x}$Zr$_{2-x}$Ni$_{x}$Si$_2$PO$_{\\rm 12}$",
+  "authors": [
+    {
+      "name": "Ramcharan Meena",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rajendra S. Dhaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2403.14136v1",
+  "published": "2024-03-21T05:12:02+00:00",
+  "abstract": "We investigate the structural, dielectric relaxation, electric modulus and impedance behavior of Ni-doped NASICON ceramic Na$_{3+2x}$Zr$_{2-x}$Ni$_{x}$Si$_2$PO$_{\\rm 12}$ ($x=$ 0.05--0.2) prepared using the solid-state reaction method. The increase in dielectric constant with temperature and decrease with frequency is explained on the basis of space charge polarization using the two-layer model of Maxwell-Wagner relaxation. The dielectric loss peak at lower temperatures follows the Arrhenius-type behavior with frequency having activation energy of 0.27$\\pm$0.01~eV of dipolar relaxation, suggests similar type of defects are responsible for all the doped samples. The real ($ε$ $^{'}$) and imaginary ($ε$ $^{''}$) permittivity variation with frequency shows the broad relaxation behavior indicates the non-Debye type of relaxation in the measured temperature range. The permittivity values decrease with the amount of doping due to the increased number of charge carriers upon Ni doping at the Zr site. The grain contributions are observed at higher frequencies, while grain-boundary contributions occur at the lower side of frequencies. The imaginary part of the electric modulus also shows two types of relaxation peaks for all the samples indicating similar activation energy at low temperatures and variable activation energy at higher temperatures. The fitting of the imaginary modulus using KWW function shows the non-Debye type of relaxation. We find that all modulus curves merge with each other at low temperatures showing a similar type of relaxation, while curves at high temperatures show the dispersed behavior above the peak frequency. The {\\it a.c.} conductivity data are fitted using the double power law confirming the grain and grain boundary contributions in total conductivity.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "source": "arxiv",
+  "source_id": "2403.14136v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2403.14136v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2403.14136v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:35.677777+00:00",
+  "updated_at": "",
+  "extra": {}
+}

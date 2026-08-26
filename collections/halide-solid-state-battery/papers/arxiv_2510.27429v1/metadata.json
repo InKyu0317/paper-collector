@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2510.27429v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Hexagonal BeX (X: S, Te) monolayer as potential electrode material for alkali metal-ion batteries: A DFT perspective",
+  "authors": [
+    {
+      "name": "Hetvi Jadav",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sadhana Matth",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Himanshu Pandey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.27429v1",
+  "published": "2025-10-31T12:36:13+00:00",
+  "abstract": "Metal-ion batteries (MIBs) are essential for transitioning to a cleaner and more sustainable energy future. By employing the density functional formalism, we have investigated the hexagonal (h) monolayer of BeS and BeTe as electrode materials for alkali (Li and Na) MIBs. The structural and thermodynamic stability, adsorption of Li/Na atoms, density of states, diffusion, and migration of atoms, as well as capacity, are systematically investigated. The structures of h-BeS and h-BeTe remain stable upon the adsorption of adatoms, resulting in improved electronic conductivity of these monolayers. The climbing image-nudged elastic band calculations estimate a low diffusion barrier of 0.16 eV (0.01 eV) for Li (Na) in h-BeS and 0.20 eV (0.16 eV) for Li (Na) in h-BeTe. Additionally, a maximum storage capacity of 580 mAh g-1 for Li and 1305 mAh g-1 for Na in h-BeS, as well as 174 mAh g-1 for h-BeTe, is estimated for both metal ions.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.27429v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.27429v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.27429v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:26.972923+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2502.08521v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Fine-Tuning Exciton Polaron Characteristics via Lattice Engineering in 2D Hybrid Perovskites",
+  "authors": [
+    {
+      "name": "Katherine A Koch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Martin Gomez-Dominguez",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Esteban Rojas-Gatjens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander Evju",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "K Burak Ucer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan-Pablo Correa-Baena",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ajay Ram Srimath Kandada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2502.08521v1",
+  "published": "2025-02-12T15:57:26+00:00",
+  "abstract": "The layered structure of 2D metal halide perovskites (MHPs) consisting of an ionic metal halide octahedral layer electronically separated by an organic cation, exhibits strong coupling between high-binding-energy excitons and low-energy lattice phonons. Photoexcitations in these systems are believed to be exciton polarons, Coulombically bound electron-hole pairs dressed by lattice vibrations. Understanding and controlling the structural and chemical factors that govern this interaction is crucial for optimizing exciton recombination, transport, and many-body interactions. Our study examines the role of the organic cation in a prototypical 2D-MHP system, phenylethylammonium lead iodide, (PEA)2PbI4, and its halogenated derivatives, (F/Cl-PEA)2PbI4. These substitutions allow us to probe polaronic effects while maintaining the average lattice and electronic structure. Using resonant impulsive stimulated Raman scattering (RISRS), we analyze the metal-halide sub-lattice motion coupled to excitons. We apply formalism based on a perturbative expansion of the nonlinear response function on the experimental data to estimate the Huang-Rhys parameter, $S=1/2 Δ^2$, to quantify the lattice displacement ($Δ$) due to exciton-phonon coupling. A direct correlation emerges between lattice displacement and octahedral distortion, with F-PEA exhibiting the largest shift and Cl-PEA exhibiting the least, significantly influencing the fine structure features in absorption. Additionally, 2D electronic spectroscopy reveals that F-PEA, with the strongest polaronic coupling, exhibits the least thermal dephasing, supporting the polaronic protection hypothesis. Our findings suggest that systematic organic cation substitution serves as a tunable control for the fine structure in 2D-MHPs, and offers a pathway to mitigate many-body scattering effects by tailoring the polaronic coupling.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2502.08521v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2502.08521v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2502.08521v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:11.254603+00:00",
+  "updated_at": "",
+  "extra": {}
+}

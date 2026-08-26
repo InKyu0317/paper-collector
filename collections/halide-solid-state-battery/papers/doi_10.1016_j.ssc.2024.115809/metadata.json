@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2024.115809",
+  "collection": "halide-solid-state-battery",
+  "title": "Investigating the multifaceted properties of K and Rb-based halide double perovskites via density functional theory",
+  "authors": [
+    {
+      "name": "Kailash Rangar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Kamal Nayan Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5919-3861",
+      "affiliation": ""
+    },
+    {
+      "name": "Kishor Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Amit Soni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4741-6703",
+      "affiliation": ""
+    },
+    {
+      "name": "Jagrati Sahariya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5928-8868",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2024.115809",
+  "url": "https://doi.org/10.1016/j.ssc.2024.115809",
+  "published": "2025-3",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2024.115809",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2024.115809/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:35.678171+00:00",
+  "updated_at": "",
+  "extra": {}
+}

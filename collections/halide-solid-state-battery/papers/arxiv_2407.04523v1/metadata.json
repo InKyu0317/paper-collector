@@ -1,0 +1,95 @@
+{
+  "paper_id": "arxiv_2407.04523v1",
+  "collection": "halide-solid-state-battery",
+  "title": "More is Different: Mobile Ions Improve the Design Tolerances of Perovskite Solar Cells",
+  "authors": [
+    {
+      "name": "Lucy J. F. Hart",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fraser J. Angus",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abdul Khaleed",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James R. Durrant",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandra Djurišić",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo Docampo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Piers R. F. Barnes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2407.04523v1",
+  "published": "2024-07-05T14:09:34+00:00",
+  "abstract": "Many recent advances in metal halide perovskite solar cell (PSC) performance are attributed to surface treatments which passivate interfacial trap states, minimise charge recombination and boost photovoltages. Surprisingly, these photovoltages exceed the cells' built-in potentials, often with large energetic offsets reported between the perovskite and transport layer semiconductor band edges - contradicting standard photovoltaic design principles. Here we show that this tolerance to energetic offsets results from mixed ionic/electronic conduction in the perovskite layer. Combining drift-diffusion simulations with experiments probing the current-voltage performance of PSCs as a function of ion distribution, we demonstrate that electrostatic redistribution of ionic charge reduces surface recombination currents at steady-state, increasing the photovoltage by tens to hundreds of millivolts. Thus, mobile ions can reduce the sensitivity of photovoltage to energetic misalignments at perovskite/transport layer interfaces, benefitting overall efficiency. Building on these insights, we show how photovoltaic design principles are modified to account for mobile ions.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2407.04523v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2407.04523v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2407.04523v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-26T02:36:06.731528+00:00",
+  "updated_at": "",
+  "extra": {}
+}
