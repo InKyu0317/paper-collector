@@ -1,0 +1,79 @@
+{
+  "paper_id": "doi_10.1038_s41567-025-03099-x",
+  "collection": "halide-solid-state-battery",
+  "title": "Effective bands and band-like electron transport in amorphous solids",
+  "authors": [
+    {
+      "name": "Matthew Jankousky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dimitar Pashov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ross E. Larsen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladimir Dobrosavljevic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mark van Schilfgaarde",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladan Stevanovic",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41567-025-03099-x",
+  "url": "http://arxiv.org/abs/2505.07707v1",
+  "published": "2025-05-12T16:14:43+00:00",
+  "abstract": "The localization of electrons caused by atomic disorder is a well-known phenomenon. However, what circumstances allow electrons to remain delocalized and retain band-like characteristics even when the crystal structure is completely absent, as found in certain amorphous solids, is less well understood. To probe this phenomenon, we developed a fully first-principles description of the electronic structure and charge transport in amorphous solids by combining a novel representation of the amorphous state with the state-of-the-art many-body (QSGW) electronic structure theory. Using amorphous In2O3 as an example, we demonstrate the accuracy of our approach in reproducing the band-like nature of the conduction electrons as well as their disorder-limited mobility. Our approach reveals the physical origins responsible for the electron delocalization and the survival of the band dispersions despite the absence of long-range order.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.07707v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41567-025-03099-x/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.07707v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-27T03:46:02.552772+00:00",
+  "updated_at": "",
+  "extra": {}
+}

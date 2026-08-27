@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1103_physrevresearch.5.013053",
+  "collection": "halide-solid-state-battery",
+  "title": "Minimal model of drag in one-dimensional crystals",
+  "authors": [
+    {
+      "name": "Harshitra Mahalingam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhun Wai Yap",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ben A. Olsen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aleksandr Rodin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PhysRevResearch.5.013053",
+  "url": "http://arxiv.org/abs/2209.06065v1",
+  "published": "2022-09-13T15:20:33+00:00",
+  "abstract": "Using a non-perturbative classical approach, we study the dynamics of a mobile particle interacting with an infinite one-dimensional (1D) chain of harmonic oscillators. This minimal system is an effective model for many 1D transport phenomena, such as molecular motion in nanotubes and ionic conduction through solid-state materials. As expected, coupling between the mobile particle and the chain induces dissipation of the mobile particle's energy. However, both numerical and analytic results demonstrate an unconventional non-monotonic dependence of the drag on particle speed. In addition, when this system is subjected to a constant bias, it supports multiple steady-state drift velocities.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.06065v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_physrevresearch.5.013053/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.06065v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-27T03:45:34.690654+00:00",
+  "updated_at": "",
+  "extra": {}
+}

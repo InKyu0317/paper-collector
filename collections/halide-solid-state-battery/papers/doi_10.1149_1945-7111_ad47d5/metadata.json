@@ -1,0 +1,63 @@
+{
+  "paper_id": "doi_10.1149_1945-7111_ad47d5",
+  "collection": "halide-solid-state-battery",
+  "title": "Nanostructured S@VACNTs Cathode with Lithium Sulfate Barrier Layer for Exceptionally Stable Cycling in Lithium-Sulfur Batteries",
+  "authors": [
+    {
+      "name": "Mariam Ezzedine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "LPICM, CRHEA"
+    },
+    {
+      "name": "Fatme Jardali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "LPICM, CRHEA"
+    },
+    {
+      "name": "Ileana Florea",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "LPICM, CRHEA"
+    },
+    {
+      "name": "Costel-Sorin Cojocaru",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "LPICM, CRHEA"
+    }
+  ],
+  "doi": "10.1149/1945-7111/ad47d5",
+  "url": "http://arxiv.org/abs/2409.03286v1",
+  "published": "2024-09-05T06:49:57+00:00",
+  "abstract": "Lithium-sulfur technology garners significant interest due to sulfur's higher specific capacity, cost-effectiveness, and environmentally friendly aspects. However, sulfur's insulating nature and poor cycle life hinder practical application. To address this, a simple modification to the traditional sulfur electrode configuration is implemented, aiming to achieve high capacity, long cycle life, and rapid charge rates. Binder-free sulfur cathode materials are developed using vertically aligned carbon nanotubes (CNTs) decorated with sulfur and a lithium sulfate barrier layer. The aligned CNT framework provides high conductivity for electron transportation and short lithium-ion pathways. Simultaneously, the sulfate barrier layer significantly suppresses the shuttle of polysulfides. The S@VACNTs with Li 2 SO 4 coating exhibit an extremely stable reversible areal capacity of 0.9 mAh cm --2 after 1600 cycles at 1 C with a capacity retention of 80% after 1200 cycles, over three times higher than lithium iron phosphate cathodes cycled at the same rate. Considering safety concerns related to the formation of lithium dendrite, a full cell Si-Li-S is assembled, displaying good electrochemical performances for up to 100 cycles. The combination of advanced electrode architecture using 1D conductive scaffold with high-specific-capacity active material and the implementation of a novel strategy to suppress polysulfides drastically improves the stability and the performance of Li-S batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.03286v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_1945-7111_ad47d5/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.03286v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-27T03:45:48.929010+00:00",
+  "updated_at": "",
+  "extra": {}
+}
