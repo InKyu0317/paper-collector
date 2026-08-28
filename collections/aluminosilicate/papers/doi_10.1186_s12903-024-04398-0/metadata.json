@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1186_s12903-024-04398-0",
+  "collection": "aluminosilicate",
+  "title": "Effect of glazing and thermocycling on the fracture toughness and hardness of a New fully crystallized aluminosilicate CAD/CAM ceramic material",
+  "authors": [
+    {
+      "name": "Ahmed Mahmoud Fouda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Christoph Bourauel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abdulaziz Samran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Amr Shebl Kassem",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abdulaziz Alhotan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1186/s12903-024-04398-0",
+  "url": "https://doi.org/10.1186/s12903-024-04398-0",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>The mechanical properties of fully crystallized lithium aluminosilicate ceramics may be influenced by intraoral temperature variations and postmilling surface treatment. The purpose of this study is to explore the interplay among glazing, thermocycling, and the mechanical characteristics (namely, fracture toughness and hardness) of fully crystallized lithium aluminosilicate ceramics.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>\n                      Bending bars (\n                      <jats:italic>n</jats:italic>\n                       = 40) cut from LisiCAD blocks (GC, Japan) were randomly assigned to glazed or unglazed groups (\n                      <jats:italic>n</jats:italic>\n                       = 20) and subjected to the single edge v-notch beam method to create notches. A glazing firing cycle was applied to the glazed group, while the unglazed group was not subjected to glazing. Half of the specimens (\n                      <jats:italic>n</jats:italic>\n                       = 10) from both groups underwent thermocycling before fracture toughness testing. The fracture toughness (KIC) was evaluated at 23 ± 1 °C using a universal testing machine configured for three-point bending, and the crack length was measured via light microscopy. Seven specimens per group were selected for the hardness test. Hardness was assessed using a Vickers microhardness tester with a 1 kg load for 20 s, and each specimen underwent five indentations following ISO 14705:2016. The Shapiro–Wilk and Kolmogorov-Smirnov tests were used to evaluate the normality of the data and a two-way ANOVA was utilized for statistical analysis. The significance level was set at (α = 0.05).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Regardless of the thermocycling conditions, the glazed specimens exhibited significantly greater fracture toughness than did their unglazed counterparts (\n                      <jats:italic>P</jats:italic>\n                       &lt; 0.001). Thermocycling had no significant impact on the fracture toughness of either the glazed or unglazed specimens. Furthermore, statistical analysis revealed no significant effects on hardness with thermocycling in either group, and glazing alone did not substantially affect hardness.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>The impact of glazing on the fracture toughness of LiSiCAD restorations is noteworthy, but it has no significant influence on their hardness. Furthermore, within the parameters of this study, thermocycling was found to exert negligible effects on both fracture toughness and hardness.</jats:p>\n                  </jats:sec>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1186/s12903-024-04398-0",
+  "pdf_path": "aluminosilicate/papers/doi_10.1186_s12903-024-04398-0/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s12903-024-04398-0.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "BMC Oral Health",
+  "publisher": "",
+  "issn": "1472-6831",
+  "quartile": "",
+  "added_at": "2026-08-28T04:37:30.230763+00:00",
+  "updated_at": "",
+  "extra": {}
+}

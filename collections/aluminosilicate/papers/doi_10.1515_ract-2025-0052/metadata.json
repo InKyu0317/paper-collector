@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1515_ract-2025-0052",
+  "collection": "aluminosilicate",
+  "title": "Efficient sorption and separation of radionuclides Cs and Eu using permutit resin, a synthetic sodium aluminosilicate",
+  "authors": [
+    {
+      "name": "Saber I. Moussa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Nuclear Chemistry Department , Hot Labs Center, Egyptian Atomic Energy Authority , P.O. 13759 , Cairo , Egypt"
+    },
+    {
+      "name": "Mohamed I. Aydia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4309-6087",
+      "affiliation": "Radioactive Isotopes and Generator Department , Hot Labs Center, Egyptian Atomic Energy Authority , P.O. 13759 , Cairo , Egypt"
+    },
+    {
+      "name": "Khaled M. El-Azony",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5583-3822",
+      "affiliation": "Radioactive Isotopes and Generator Department , Hot Labs Center, Egyptian Atomic Energy Authority , P.O. 13759 , Cairo , Egypt"
+    }
+  ],
+  "doi": "10.1515/ract-2025-0052",
+  "url": "https://doi.org/10.1515/ract-2025-0052",
+  "published": "2026-2-24",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This study investigates the use of permutit resin, a synthetic sodium aluminum orthosilicate-based ion-exchange material, for the selective adsorption and separation of radionuclides from aqueous solutions. Focusing on long-lived fission products, cesium-137 and trivalent actinides, the sorption behavior of cesium(I) and europium(III) was examined using batch and column techniques with their analogs,\n                    <jats:sup>134</jats:sup>\n                    Cs and\n                    <jats:sup>152+154</jats:sup>\n                    Eu. The resin demonstrated high ion-exchange capacities (177.7 mg/g for Cs(I) and 189.6 mg/g for Eu(III) in batch experiments) and effective separation under acidic conditions. Sorption followed pseudo-second-order kinetics and Langmuir isotherm models, indicating chemisorption. The results confirm permutit resin’s potential as a robust and selective sorbent for radionuclide separation in nuclear waste treatment specially for separation of Cs(I) and Eu(III).\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1515/ract-2025-0052",
+  "pdf_path": "aluminosilicate/papers/doi_10.1515_ract-2025-0052/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Radiochimica Acta",
+  "publisher": "",
+  "issn": "0033-8230",
+  "quartile": "",
+  "added_at": "2026-08-28T04:37:20.849060+00:00",
+  "updated_at": "",
+  "extra": {}
+}
