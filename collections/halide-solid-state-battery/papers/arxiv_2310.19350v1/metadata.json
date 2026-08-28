@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2310.19350v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Disorder-dependent Li diffusion in $\\mathrm{Li_6PS_5Cl}$ investigated by machine learning potential",
+  "authors": [
+    {
+      "name": "Jiho Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Suyeon Ju",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seungwoo Hwang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinmu You",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jisu Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Youngho Kang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seungwu Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2310.19350v1",
+  "published": "2023-10-30T08:46:07+00:00",
+  "abstract": "Solid-state electrolytes with argyrodite structures, such as $\\mathrm{Li_6PS_5Cl}$, have attracted considerable attention due to their superior safety compared to liquid electrolytes and higher ionic conductivity than other solid electrolytes. Although experimental efforts have been made to enhance conductivity by controlling the degree of disorder, the underlying diffusion mechanism is not yet fully understood. Moreover, existing theoretical analyses based on ab initio MD simulations have limitations in addressing various types of disorder at room temperature. In this study, we directly investigate Li-ion diffusion in $\\mathrm{Li_6PS_5Cl}$ at 300 K using large-scale, long-term MD simulations empowered by machine learning potentials (MLPs). To ensure the convergence of conductivity values within an error range of 10%, we employ a 25 ns simulation using a $5\\times5\\times5$ supercell containing 6500 atoms. The computed Li-ion conductivity, activation energies, and equilibrium site occupancies align well with experimental observations. Notably, Li-ion conductivity peaks when Cl ions occupy 25% of the 4c sites, rather than at 50% where the disorder is maximized. This phenomenon is explained by the interplay between inter-cage and intra-cage jumps. By elucidating the key factors affecting Li-ion diffusion in $\\mathrm{Li_6PS_5Cl}$, this work paves the way for optimizing ionic conductivity in the argyrodite family.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2310.19350v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2310.19350v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2310.19350v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-28T04:44:36.800319+00:00",
+  "updated_at": "",
+  "extra": {}
+}

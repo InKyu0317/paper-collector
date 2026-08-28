@@ -1,0 +1,183 @@
+{
+  "paper_id": "arxiv_2512.08349v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Halogen Chains with One-Dimensional Semi-Metallic Electronic Structure and Peierls Physics in Polymorphs of Na4X5 (X = I, Br, Cl) Compounds",
+  "authors": [
+    {
+      "name": "Yuqing Yin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nityasagar Jena",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Florian Knoop",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gaston Garbarino",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ferenc Tasnádi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Florian Trybel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sergei I. Simak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mikhail I. Katsnelson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alena Aslandukova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrey Aslandukov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anaëlle Antunes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fariia Iasmin Akbar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Konstantin Glazyrin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haixing Fang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "James A. D. Ball",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Natalia Dubrovinskaia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Leonid Dubrovinsky",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Igor A. Abrikosov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2512.08349v1",
+  "published": "2025-12-09T08:19:37+00:00",
+  "abstract": "Since the pioneering works of Peierls, one-dimensional materials have attracted great attention. Still, the synthesis of truly monoatomic chains remains elusive. In this study, we explore a novel path of experimental synthesis of monoatomic one-dimensional chains by their chemical stabilization in ionic compounds. We demonstrate that in synthesized at high pressure sodium halides Na4X5 (X = I, Br, Cl) with hP18 Ga4Ti5-type structures, transfer of valence electrons from cations to anions leads to the formation of halogen chains connected with other atoms only by ionic interaction and having one-dimensional electronic structure. The Peierls physics in the systems is confirmed by theoretical calculations, newly synthesized incommensurately modulated i-hP18-Na4X5 (X = I, Br, Cl) compounds, as well as by the discovered hP36 phases of Na4Cl5 and Na4Br5.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.08349v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2512.08349v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.08349v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-28T04:44:42.462099+00:00",
+  "updated_at": "",
+  "extra": {}
+}

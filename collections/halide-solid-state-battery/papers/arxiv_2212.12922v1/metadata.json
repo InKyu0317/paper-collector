@@ -1,0 +1,39 @@
+{
+  "paper_id": "arxiv_2212.12922v1",
+  "collection": "halide-solid-state-battery",
+  "title": "The Zoo of Non-Fourier Heat Conduction Models",
+  "authors": [
+    {
+      "name": "Alexander I. Zhmakin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2212.12922v1",
+  "published": "2022-12-25T16:05:15+00:00",
+  "abstract": "The Fourier heat conduction model is valid for most macroscopic problems. However, it fails when the wave nature of the heat propagation or time lags become dominant and the memory or/and spatial non-local effects significant -- in ultrafast heating (pulsed laser heating and melting), rapid solidification of liquid metals, processes in glassy polymers near the glass transition temperature, in heat transfer at nanoscale, in heat transfer in a solid state laser medium at the high pump density or under the ultra-short pulse duration, in granular and porous materials including polysilicon, at extremely high values of the heat flux, in heat transfer in biological tissues.\n  In common materials the relaxation time ranges from $10^{-8}$ to $10^{-14}$ sec, however, it could be as high as 1 sec in the degenerate cores of aged stars and its reported values in granular and biological objects varies up to 30 sec. The paper considers numerous non-Fourier heat conduction models that incorporate time non-locality for materials with memory (hereditary materials, including fractional hereditary materials) or/and spatial non-locality, i.e. materials with non-homogeneous inner structure.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2212.12922v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2212.12922v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2212.12922v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-28T04:45:01.571353+00:00",
+  "updated_at": "",
+  "extra": {}
+}
