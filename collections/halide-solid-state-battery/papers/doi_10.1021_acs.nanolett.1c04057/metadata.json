@@ -1,0 +1,160 @@
+{
+  "paper_id": "doi_10.1021_acs.nanolett.1c04057",
+  "collection": "halide-solid-state-battery",
+  "title": "Dynamics of anisotropic oxygen-ion migration in strained cobaltites",
+  "authors": [
+    {
+      "name": "Qinghua Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fanqi Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ang Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinyan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qiao Jin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shan Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shengru Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tongtong Shang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xing Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haizhong Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Can Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kui-juan Jin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xuefeng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dong Su",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lin Gu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Er-Jia Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.nanolett.1c04057",
+  "url": "http://arxiv.org/abs/2111.10565v1",
+  "published": "2021-11-20T11:42:22+00:00",
+  "abstract": "Orientation control of oxygen vacancy channel (OVC) is a highly desirable for tailoring oxygen diffusion as it serves fast transport channel in ion conductors, which is widespread exploited in solid-state fuel cells, catalysts, and ion-batteries. Direct observation of oxygen-ions hopping towards preferential vacant sites is a key to clarifying migration pathways. Here we report the anisotropic oxygen-ion migration mediated by strain in ultrathin cobaltites via in-situ thermal activation in an atomic-resolved transmission electron microscopy. Oxygen migration pathways are constructed on the basis of the atomic structure during the OVC switching, which is manifested as the vertical-to-horizontal OVC switching under tensile strain, but the horizontal-to-diagonal switching under compression. We evaluate the topotactic structural changes to OVC, determine the crucial role of tolerance factor for OVC stability and establish the strain-dependent phase diagram. Our work provides a practical guide for engineering OVC orientation that is applicable ionic-oxide electronics.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el"
+  ],
+  "source": "arxiv",
+  "source_id": "2111.10565v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.nanolett.1c04057/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2111.10565v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-29T02:12:48.255257+00:00",
+  "updated_at": "",
+  "extra": {}
+}

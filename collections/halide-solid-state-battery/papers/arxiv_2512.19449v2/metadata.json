@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2512.19449v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Tuning Separator Chemistry: Improving Zn Anode Compatibility via Functionalized Chitin Nanofibers",
+  "authors": [
+    {
+      "name": "Ibrahim Al Kathemi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vishnu Arumughan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mohamed Zbiri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marcel Kröger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ira Smal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eero Kontturi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Roza Bouchal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2512.19449v2",
+  "published": "2025-12-22T14:48:47+00:00",
+  "abstract": "Aqueous zinc (Zn) batteries (AZBs) face significant challenges due to the limited compatibility of Zn anodes with conventional separators, leading to dendrite growth, hydrogen evolution reaction (HER), and poor cycling stability. While separator design is crucial for optimizing battery performance, its potential remains underexplored. The commonly used glass fiber (GF) filters were not originally designed as battery separators. To address their limitations, nanochitin derived from waste shrimp shells was used to fabricate separators with varying concentrations of amine and carboxylic functional groups. This study investigates how the type and concentration of these groups influence the separator's properties and performance. In a mild acidic electrolyte that protonates the amine groups, the results showed that the density of both ammonium and carboxylic groups in the separators significantly affected water structure and ionic conductivity. Quasi-Elastic Neutron Scattering (QENS) revealed that low-functionalized chitin, particularly with only ammonium groups, promotes strongly bound water with restricted mobility, thereby enhancing Zn plating and stripping kinetics. These separators exhibit exceptional Zn stability over 2000 hours at low current densities (0.5 mA/cm2), maintaining low overpotentials and stable polarization. Additionally, the full cell consisting of Zn||NaV3O8.1.5H2O showed a cycle life of over 2000 cycles at 2 A/g, demonstrating the compatibility of the nanochitin-based separators with low concentrations of functional surface groups. These results demonstrate the importance of a simple separator design for improving the overall performance of AZBs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2512.19449v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2512.19449v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2512.19449v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-29T02:12:55.902492+00:00",
+  "updated_at": "",
+  "extra": {}
+}

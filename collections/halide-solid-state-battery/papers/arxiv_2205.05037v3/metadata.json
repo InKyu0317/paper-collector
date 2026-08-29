@@ -1,0 +1,121 @@
+{
+  "paper_id": "arxiv_2205.05037v3",
+  "collection": "halide-solid-state-battery",
+  "title": "Strong electronic winds blowing under liquid flows on carbon surfaces",
+  "authors": [
+    {
+      "name": "Mathieu Lizée",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alice Marcotte",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Baptiste Coquinot",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nikita Kavokine",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Karen Sobnath",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Clément Barraud",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ankit Bhardwaj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Boya Radha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Antoine Niguès",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lydéric Bocquet",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Alessandro Siria",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2205.05037v3",
+  "published": "2022-05-10T16:50:57+00:00",
+  "abstract": "The interface between a liquid and a solid is the location of plethora of intrincate mechanisms at the nanoscale, at the root of their specific emerging properties in natural processes or technological applications. However, while the structural properties and chemistry of interfaces have been intensively explored, the effect of the solid-state electronic transport at the fluid interface has been broadly overlooked up to now. It has been reported that water flowing against carbon-based nanomaterials, such as carbon nanotubes or graphene sheets, does induce electronic currents, but the mechanism at stake remains controversial. Here, we unveil the molecular mechanisms underlying the hydro-electronic couplings by investigating the electronic conversion under flow at the nanoscale. We use a tuning fork-Atomic Force Microscope (AFM) to deposit and displace a micrometric droplet of both ionic and non-ionic liquids on a multilayer graphene sample, while recording the electrical current across the carbon flake. We report measurements of an oscillation-induced current which is several orders of magnitude larger than previously reported for water on carbon , and further boosted by the presence of surface wrinkles on the carbon layer. Our results point to a peculiar momentum transfer mechanism between fluid molecules and charge carriers in the carbon walls mediated by phonon excitations in the solid. Our findings pave the way for active control of fluid transfer at the nanoscale by harnessing the complex interplay between collective excitations in the solid and the molecules in the fluid.",
+  "keywords": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci",
+    "cond-mat.soft"
+  ],
+  "source": "arxiv",
+  "source_id": "2205.05037v3",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2205.05037v3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2205.05037v3",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-29T02:12:35.684910+00:00",
+  "updated_at": "",
+  "extra": {}
+}

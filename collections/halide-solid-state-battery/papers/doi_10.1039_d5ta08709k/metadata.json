@@ -1,0 +1,87 @@
+{
+  "paper_id": "doi_10.1039_d5ta08709k",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermal Transport in Ag8TS6 (T= Si, Ge, Sn) Argyrodites: An Integrated Experimental, Quantum-Chemical, and Computational Modelling Study",
+  "authors": [
+    {
+      "name": "Joana Bustamante",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Anupama Ghata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aakash A. Naik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christina Ertural",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Katharina Ueltzen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wolfgang G. Zeier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Janine George",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/d5ta08709k",
+  "url": "http://arxiv.org/abs/2510.23133v1",
+  "published": "2025-10-27T09:13:38+00:00",
+  "abstract": "Argyrodite-type Ag-based sulfides combine exceptionally low lattice thermal and high ionic conductivity, making them promising candidates for thermoelectric and solid-state energy applications. In this work, we studied Ag8TS6 (T= Si, Ge, Sn) argyrodite family by combining chemical-bonding analysis, lattice vibrational properties simulation, and experimental measurements to investigate their structural and thermal transport properties. Furthermore, we propose a two-channel lattice-dynamics model based on Grüneisen-derived phonon lifetimes and compare it to an approach using machine-learned interatomic potentials. Both approaches are able to predict thermal conductivity in agreement with experimental lattice thermal conductivities along the whole temperature range, highlighting their potential suitability for future high-throughput predictions. Our findings also reveal a relationship between bond heterogeneity arising from weakly bonded Ag+ ions and occupied antibonding states in Ag-S and Ag-Ag interactions and strong anharmonicity, including large Grüneisen parameters, and low sound velocities, which are responsible for the low lattice thermal conductivity of Ag8SnS6, Ag8GeS6, and Ag8SiS6. We furthermore show that thermal and ionic conductivities in all three compounds are independent of each other and can likely be tuned individually.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.23133v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d5ta08709k/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.23133v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-29T02:12:44.877047+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,80 @@
+{
+  "paper_id": "doi_10.1039_d4dt01946f",
+  "collection": "halide-solid-state-battery",
+  "title": "Memristive properties and synaptic plasticity in substituted pyridinium iodobismuthates",
+  "authors": [
+    {
+      "name": "Gisya Abdi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tomasz Mazur",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ewelina Kowalewska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrzej Sławek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mateusz Marzec",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Konrad Szaciłowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/D4DT01946F",
+  "url": "http://arxiv.org/abs/2503.10817v1",
+  "published": "2025-03-13T19:05:41+00:00",
+  "abstract": "This study explores the impact of organic cations in bismuth iodide complexes on their memristive behavior in metal-insulator-metal (MIM) type thin-layer devices. The presence of electron-donating and electron withdrawing functional groups (-CN, -CH3, -NH2, and -N(CH3)2) on pyridinium cations induces morphological alterations in crystals, thus influencing the electronic or ionic conductivity of devices comprising sandwiched thin layers (thickness = 200 nm +/-50) between glass/ITO as bottom electrode (~ 110 nm) and copper (~ 80 nm) as the top electrode. It was found that the current-voltage (I-V) scans of the devices reveal characteristic pinched hysteresis loops, a distinct signature of memristors. The working voltage windows are significantly influenced by both the types of cation and the dimensionality of ionic fragments (0D or 1D) in the solid-state form. Additionally, the temperature alters the surface area of the I-V loops by affecting resistive switching mechanisms, corresponding log-log plots at three temperatures (-30 °C, room temperature and 150 °C) are fully studied. Given that a memristor can operate as a single synapse without the need for programming, aligning with the requirements of neuromorphic computing, the study investigates long-term depression, potentiation, and spike-time-dependent plasticity-a specific form of the Hebbian learning rule-to mimic biologically synaptic plasticity. Different polar pulses, such as triangle, sawtooth, and square waveforms were employed to generate Hebbian learning rules. The research demonstrates how the shape of the applied pulse series, achieved by overlapping pre- and post-pulses at different time scales, in association with the composition and dimensionality of ionic fragments, lead to changes in the synaptic weight percentages of the devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.10817v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d4dt01946f/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.10817v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-29T02:12:52.763268+00:00",
+  "updated_at": "",
+  "extra": {}
+}
