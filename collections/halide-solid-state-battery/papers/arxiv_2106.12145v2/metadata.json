@@ -1,0 +1,135 @@
+{
+  "paper_id": "arxiv_2106.12145v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Interaction and transformation of metastable defects in intercalation materials",
+  "authors": [
+    {
+      "name": "O. Yu. Gorobtsov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "H. Hirsh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Sheyfer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. D. Matson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Weinstock",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "R. Bouck",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Z. Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "W. Cha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "J. Maser",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "R. Harder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Y. Sh. Meng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Singer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2106.12145v2",
+  "published": "2021-06-23T03:56:27+00:00",
+  "abstract": "Non-equilibrium defects often dictate macroscopic functional properties of materials. In intercalation hosts, widely used in rechargeable batteries, high-dimensional defects largely define reversibility and kinetics1,2,3,4. However, transient defects briefly appearing during ionic transport have been challenging to capture, limiting the understanding of their life cycle and impact. Here, we overcome this challenge and track operando the interaction and impact of metastable defects within NaxNi1-xMnyO2 intercalation hosts in a charging sodium-ion battery. Three-dimensional coherent X-ray imaging3,4,5 reveals transformation and self-healing of a metastable domain boundary, glissile dislocation loop, and stacking fault. A local strain gradient suggests a quantifiable difference in ion diffusion, coincident with the macroscopic change in diffusion coefficient. Analysis of the unexpected4,6 defect anisotropy highlights the importance of mesostructure, suggesting a possible control approach and disputing the rigidity of the framework layers. The shared nature of oxygen framework layers makes our results applicable to a wide range of intercalation materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2106.12145v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2106.12145v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2106.12145v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:17.061555+00:00",
+  "updated_at": "",
+  "extra": {}
+}

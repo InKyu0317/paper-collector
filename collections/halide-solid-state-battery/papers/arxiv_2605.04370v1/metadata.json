@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2605.04370v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Magnetic influence on ion transport in concentrated solid solutions: An analytic investigation",
+  "authors": [
+    {
+      "name": "Timothy Carlson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sanjay Govindjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2605.04370v1",
+  "published": "2026-05-06T00:25:15+00:00",
+  "abstract": "It is well established that magnetic fields have a significant effect on transport in certain classes of electronic conductors. Less reported, however, are similar effects in solid ionic conductors. Despite the rarity of Hall mobility measurements in ionic conductors, recent experimental work in batteries and other systems has demonstrated that an applied magnetic field can significantly and beneficially alter ionic transport and electrochemical processes in solid materials in a way that would not be predicted from naïve Hall coefficient estimates. In this work, the influence of a magnetic field on ion transport in solids is investigated analytically, and general multi-component transport equations accounting for magnetic effects are presented. Specific models are then derived for solid, isotropic binary and single ion conductors. Material property combinations for which magnetic field influence may become significant are then computed for certain systems subject to compositional constraints. Finally, it is demonstrated that the derived model for binary conductors in a magnetic field fits experimental magneto-resistance data well for the fluoride ion conducting solid Pb$_{0.66}$Cd$_{0.34}$F$_2$, provided an assumption of near degenerate multi-component transport.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.class-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2605.04370v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2605.04370v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2605.04370v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:14.011654+00:00",
+  "updated_at": "",
+  "extra": {}
+}

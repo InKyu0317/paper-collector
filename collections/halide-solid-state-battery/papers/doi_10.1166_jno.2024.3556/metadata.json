@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1166_jno.2024.3556",
+  "collection": "halide-solid-state-battery",
+  "title": "Comparing Charge Dynamics in Organo-Inorganic Halide Perovskite: Solid-State versus Solid-Liquid Junctions",
+  "authors": [
+    {
+      "name": "Wenjing Lv",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Huzhou Key Laboratory of Materials for Energy Conversion and Storage, School of Science, Huzhou University, Huzhou, 313000, China"
+    },
+    {
+      "name": "Kaidong Zhan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Huzhou Key Laboratory of Materials for Energy Conversion and Storage, School of Science, Huzhou University, Huzhou, 313000, China"
+    },
+    {
+      "name": "Xuecheng Ren",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Huzhou Key Laboratory of Materials for Energy Conversion and Storage, School of Science, Huzhou University, Huzhou, 313000, China"
+    },
+    {
+      "name": "Lu Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Huzhou Key Laboratory of Materials for Energy Conversion and Storage, School of Science, Huzhou University, Huzhou, 313000, China"
+    },
+    {
+      "name": "Fan Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Huzhou Key Laboratory of Materials for Energy Conversion and Storage, School of Science, Huzhou University, Huzhou, 313000, China"
+    }
+  ],
+  "doi": "10.1166/jno.2024.3556",
+  "url": "https://doi.org/10.1166/jno.2024.3556",
+  "published": "2024-2-1",
+  "abstract": "<jats:p>In this study, we explore the dynamics of a perovskite-electrolyte photoelectrochemical cell, pivotal for advancing electrolyte-gated field effect transistors, water-splitting photoelectrochemical and photocatalytic cells, supercapacitors, and CO<jats:sub>2</jats:sub> capture and reduction technologies.\n The instability of hybrid perovskite materials in aqueous electrolytes presents a significant challenge, yet recent breakthroughs have been achieved in stabilizing organo-inorganic halide perovskite films. This stabilization is facilitated by employing liquid electrolytes, specifically those\n formed by dissolving tetrabutylammoniumperchlorate in dichloromethane. A critical aspect of this research is the comparative analysis of charge and ion kinetics at the perovskite/liquid electrolyte interface versus the perovskite/solid charge transport layer interface. Employing Intensity\n Modulated Photocurrent Spectroscopy (IMPS), Open-Circuit Voltage Decay (OCVD), and Capacitance-Frequency (C-F) methods, the study scrutinizes charge dynamics in both perovskite/electrolyte and perovskite/solid interfaces. Furthermore, the investigation extends to contrasting the properties\n of solid–liquid and solid-state junctions, focusing on mobile ions, electric field impacts, and electron-hole transport. The research also examines variations in recombination resistance and ionic double layer charging in perovskite-based devices, aiming to elucidate the operational\n mechanisms and kinetic complexities at the hybrid perovskite/electrolyte interface.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1166/jno.2024.3556",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1166_jno.2024.3556/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of Nanoelectronics and Optoelectronics",
+  "publisher": "",
+  "issn": "1555-130X",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:17.061946+00:00",
+  "updated_at": "",
+  "extra": {}
+}

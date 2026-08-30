@@ -1,0 +1,56 @@
+{
+  "paper_id": "arxiv_2510.26916v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers",
+  "authors": [
+    {
+      "name": "Jingchen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tianqi Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingjie Yeo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2510.26916v1",
+  "published": "2025-10-30T18:25:07+00:00",
+  "abstract": "Electrically conducting polymers with mechanical adaptability are essential for flexible electronics, yet most suffer structural degradation under rapid deformation. In this study, multiscale coarse-grained (MSCG) simulations are used to uncover the nanoscale origins of an unusual strain-rate-dependent stiffening in a poly(2-acrylamido-2-methyl-1-propanesulfonic acid) (PAMPSA)-polyaniline (PANI) blend. The self-assembled morphology consists of semi-crystalline PANI-rich micellar cores dispersed in a soft, viscoelastic PAMPSA matrix. At low shear rates, micelles migrate and coalesce into larger aggregates, enhancing local crystallinity and transient entanglement density while dissipating stress through matrix deformation. At high shear rates, micelles cannot reorganize quickly enough, leading to core dissociation and the emergence of highly aligned PANI filaments that directly bear the load, with PAMPSA serving as a weak but extended support phase. These contrasting regimes (densification-driven local alignment versus dissociation-driven global alignment) enable reversible mechanical stiffening across three orders of magnitude in shear rate. The results provide a molecular-level framework for designing solid-state polymers with tunable, rate-adaptive mechanical properties.",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.26916v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2510.26916v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.26916v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:27.590638+00:00",
+  "updated_at": "",
+  "extra": {}
+}

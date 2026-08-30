@@ -1,0 +1,111 @@
+{
+  "paper_id": "doi_10.1016_j.jpowsour.2021.230444",
+  "collection": "halide-solid-state-battery",
+  "title": "Crystallization behaviors in superionic conductor Na$_3$PS$_4$",
+  "authors": [
+    {
+      "name": "Hiroshi Nakajima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hirofumi Tsukasaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiong Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takuya Kimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takumi Nakano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akira Nasu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akihiko Hirata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Atsushi Sakuda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Akitoshi Hayashi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shigeo Mori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.jpowsour.2021.230444",
+  "url": "http://arxiv.org/abs/2108.11097v2",
+  "published": "2021-08-25T07:48:20+00:00",
+  "abstract": "All-solid-state batteries using sodium are promising candidates for next-generation rechargeable batteries due to the limited lithium resources. A practical sodium battery requires an electrolyte with high conductivity. Cubic Na$_3$PS$_4$ exhibiting high conductivity of over 10$^{-4}$ S cm$^{-1}$ is obtained by crystallizing amorphous Na$_3$PS$_4$ synthesized by ball milling. Amorphous Na$_3$PS$_4$ crystallizes in a cubic structure and then is transformed into a tetragonal phase upon heating. In this study, in situ observation by transmission electron microscopy demonstrates that the crystallite size drastically increases during the transition from the cubic phase to the tetragonal phase. Moreover, an electron diffraction analysis reveals that amorphous domains and nano-sized crystallites coexist in the cubic Na$_3$PS$_4$ specimen, while the tetragonal phase contains micro-sized crystallites. The nano-sized crystallites and the composite formed by crystallites and amorphous domains are most likely responsible for the increase in conductivity in the cubic Na$_3$PS$_4$ specimens.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2108.11097v2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.jpowsour.2021.230444/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2108.11097v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:24.129336+00:00",
+  "updated_at": "",
+  "extra": {}
+}

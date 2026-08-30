@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1016_j.mtchem.2021.100663",
+  "collection": "halide-solid-state-battery",
+  "title": "Enhancement of ionic conduction and mechanical properties for all-solid-state polymer electrolyte systems through ionic and physical bonding",
+  "authors": [
+    {
+      "name": "J. Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9951-1323",
+      "affiliation": ""
+    },
+    {
+      "name": "O. Zabihi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "R.J. Varley",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3792-1140",
+      "affiliation": ""
+    },
+    {
+      "name": "B. Fox",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "M. Naebe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0607-6327",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.mtchem.2021.100663",
+  "url": "https://doi.org/10.1016/j.mtchem.2021.100663",
+  "published": "2022-3",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.mtchem.2021.100663",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.mtchem.2021.100663/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Materials Today Chemistry",
+  "publisher": "",
+  "issn": "2468-5194",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:17.062139+00:00",
+  "updated_at": "",
+  "extra": {}
+}

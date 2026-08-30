@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1002_admi.202500800",
+  "collection": "halide-solid-state-battery",
+  "title": "Phase Diagrams Enable Solid‐State Battery Design",
+  "authors": [
+    {
+      "name": "Nathaniel L. Skeele",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3607-017X",
+      "affiliation": "Department of Physics University of Oregon  Eugene OR 97403 USA"
+    },
+    {
+      "name": "Matthias T. Agne",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8270-5730",
+      "affiliation": "Department of Chemistry and Biochemistry and the Oregon Center for Electrochemistry University of Oregon  Eugene OR 97403 USA"
+    }
+  ],
+  "doi": "10.1002/admi.202500800",
+  "url": "https://doi.org/10.1002/admi.202500800",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Battery degradation is often framed in terms of kinetics, yet the underlying thermodynamic driving forces are equally decisive. Spatial discontinuities in chemical potential correspond to excess free energy that the system dissipates through interfacial reactions, even under open‐circuit conditions. This perspective reframes interphase formation as a consequence of chemical potential mismatches regardless of current‐driven processes. Using the model system Li | Li\n                    <jats:sub>3</jats:sub>\n                    PS\n                    <jats:sub>4</jats:sub>\n                    | S, it is illustrated how phase diagrams and chemical potential maps predict which tie lines are crossed at interfaces and therefore which phases are thermodynamically favored. Discontinuities in the lithium, phosphorus, and sulfur potentials are sufficient to drive the formation of Li\n                    <jats:sub>2</jats:sub>\n                    S and Li\n                    <jats:sub>3</jats:sub>\n                    P, consistent with experimental observations. This framework highlights chemical potential engineering for stabilizing interfaces through graded or compositionally matched contacts that reduce discontinuities. Degradation kinetics can be slowed by reducing the local free energy of reaction and moderated by suppressing the mobility of minority species. These principles are generalizable across chemistries and apply to both solid‐ and liquid‐electrolyte systems. By recasting interfacial stability as a thermodynamic design problem, rather than a purely kinetic one, new directions are opened for materials selection and interface engineering in next‐generation batteries.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/admi.202500800",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_admi.202500800/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Advanced Materials Interfaces",
+  "publisher": "",
+  "issn": "2196-7350",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:27.590914+00:00",
+  "updated_at": "",
+  "extra": {}
+}

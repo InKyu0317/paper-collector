@@ -1,0 +1,73 @@
+{
+  "paper_id": "arxiv_2504.13280v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy",
+  "authors": [
+    {
+      "name": "Arjun Raghavan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Seokjin Bae",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nazar Delegan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "F. Joseph Heremans",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vidya Madhavan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2504.13280v1",
+  "published": "2025-04-17T18:43:56+00:00",
+  "abstract": "Nitrogen-vacancy (NV) centers in diamond are among the most promising solid-state qubit candidates, owing to their exceptionally long spin coherence times, efficient spin-photon coupling, room-temperature operation, and steadily advancing fabrication and integration techniques. Despite significant progress in the field, atomic-scale characterization and control of individual NV centers have remained elusive. In this work, we present a novel approach utilizing a conductive graphene capping layer to enable direct imaging and manipulation of $NV^{-}$ defects via scanning tunneling microscopy (STM). By investigating over 40 individual $NV^{-}$ centers, we identify their spectroscopic signatures and spatial configurations. Our dI/dV conductance spectra reveal the ground state approximately 300 meV below the Fermi level. Additionally, density-of-states mapping uncovers a two-lobed wavefunction aligned along the [111] crystallographic direction. Remarkably, we demonstrate the ability to manipulate the charge state of the NV centers from $NV^{-}$ to $NV^{0}$ through STM tip-induced gating. This work represents a significant advancement in the atomic-scale understanding and engineering of NV centers, paving the way for future quantum device development.",
+  "keywords": [
+    "quant-ph",
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.13280v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2504.13280v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.13280v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:21.096600+00:00",
+  "updated_at": "",
+  "extra": {}
+}

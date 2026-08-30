@@ -1,0 +1,72 @@
+{
+  "paper_id": "doi_10.1103_prxenergy.2.043005",
+  "collection": "halide-solid-state-battery",
+  "title": "Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes",
+  "authors": [
+    {
+      "name": "Peichen Zhong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fengyu Xie",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Barroso-Luque",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Liliang Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gerbrand Ceder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1103/PRXEnergy.2.043005",
+  "url": "http://arxiv.org/abs/2307.03717v1",
+  "published": "2023-07-07T17:13:17+00:00",
+  "abstract": "Modern battery materials can contain many elements with substantial site disorder, and their configurational state has been shown to be critical for their performance. The intercalation voltage profile is a critical parameter to evaluate the performance of energy storage. The application of commonly used cluster expansion techniques to model the intercalation thermodynamics of such systems from \\textit{ab-initio} is challenged by the combinatorial increase in configurational degrees of freedom as the number of species grows. Such challenges necessitate efficient generation of lattice models without over-fitting and proper sampling of the configurational space under charge balance in ionic systems. In this work, we introduce a combined approach that addresses these challenges by (1) constructing a robust cluster-expansion Hamiltonian using the sparse regression technique, including $\\ell_0\\ell_2$-norm regularization and structural hierarchy; and (2) implementing semigrand-canonical Monte Carlo to sample charge-balanced ionic configurations using the table-exchange method and an ensemble-average approach. These techniques are applied to a disordered rocksalt oxyfluoride Li$_{1.3-x}$Mn$_{0.4}$Nb$_{0.3}$O$_{1.6}$F$_{0.4}$ (LMNOF) which is part of a family of promising earth-abundant cathode materials. The simulated voltage profile is found to be in good agreement with experimental data and particularly provides a clear demonstration of the Mn and oxygen contribution to the redox potential as a function of Li content.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2307.03717v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1103_prxenergy.2.043005/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2307.03717v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-08-30T02:18:10.909800+00:00",
+  "updated_at": "",
+  "extra": {}
+}
