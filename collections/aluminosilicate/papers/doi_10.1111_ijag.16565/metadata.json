@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1111_ijag.16565",
+  "collection": "aluminosilicate",
+  "title": "High‐coordinated alumina and oxygen triclusters in modified aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "Rebecca S. Welch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "Sierra Astle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "Randall E. Youngman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Science and Technology Division Corning Incorporated  Corning New York USA"
+    },
+    {
+      "name": "John C. Mauro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4319-3530",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    }
+  ],
+  "doi": "10.1111/ijag.16565",
+  "url": "https://doi.org/10.1111/ijag.16565",
+  "published": "2022-7",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Aluminosilicate glasses are ubiquitous in high‐performance displays due to their favorable thermal, mechanical, and optical properties. They also exhibit interesting structural features depending on the ratio of alumina to modifiers in the glass system. Excess modifiers exist in the metaluminous region, while the peraluminous region contains more negatively charged alumina structures than modifiers. As the composition switches from metaluminous to peraluminous, anomalous changes in properties such as the glass transition temperature, viscosity, and refractive index occur. This has been explained with two contrasting structural transformations to accommodate the lack of charge‐balancing modifiers: either aluminum increases in coordination (forming five‐coordinated or six‐coordinated Al) and/or oxygens become three‐coordinated (known as triclusters). The precise charge‐balancing mechanism remains a subject of much debate in the community. This review highlights this structural debate by providing a chronological understanding of how these two theories evolved. We also summarize the state‐of‐the‐art understanding of the aluminosilicate glass structure. By gaining a more comprehensive view of the two opposing structural views within the aluminosilicate glass system, we can gain insights on valuable future research from both experimental and modeling perspectives.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/ijag.16565",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_ijag.16565/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijag.16565",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 31,
+  "journal": "International Journal of Applied Glass Science",
+  "publisher": "",
+  "issn": "2041-1286",
+  "quartile": "",
+  "added_at": "2026-08-31T02:14:15.739155+00:00",
+  "updated_at": "",
+  "extra": {}
+}

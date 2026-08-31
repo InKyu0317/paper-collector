@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.3390_plasma6020020",
+  "collection": "aluminosilicate",
+  "title": "Fundamentals and Applications of Nonthermal Plasma Fluid Flows: A Review",
+  "authors": [
+    {
+      "name": "Masaaki Okubo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Mechanical Engineering, Osaka Metropolitan University, 1-1 Gakuen-cho, Sakai 599-8531, Japan"
+    }
+  ],
+  "doi": "10.3390/plasma6020020",
+  "url": "https://doi.org/10.3390/plasma6020020",
+  "published": null,
+  "abstract": "<jats:p>A review is presented to integrate fluid engineering, heat transfer engineering, and plasma engineering treated in the fields of mechanical engineering, chemical engineering, and electrical engineering. A basic equation system for plasma heat transfer fluids is introduced, and its characteristics are explained. In such reviews, generally, the gap between fundamentals and application is large. Therefore, the author attempts to explain the contents from the standpoint of application. The derivation of formulas and basic equations are presented with examples of application to plasmas. Furthermore, the heat transfer mechanisms of equilibrium and nonequilibrium plasmas are explained with reference to the basic equation system and concrete examples of analyses.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/plasma6020020",
+  "pdf_path": "aluminosilicate/papers/doi_10.3390_plasma6020020/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Plasma",
+  "publisher": "",
+  "issn": "2571-6182",
+  "quartile": "",
+  "added_at": "2026-08-31T02:14:10.413415+00:00",
+  "updated_at": "",
+  "extra": {}
+}
