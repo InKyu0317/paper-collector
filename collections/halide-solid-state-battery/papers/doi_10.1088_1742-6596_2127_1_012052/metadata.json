@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1088_1742-6596_2127_1_012052",
+  "collection": "halide-solid-state-battery",
+  "title": "Thermal conductivity measurement of infrared optical fibers based on silver halide solid solution crystals",
+  "authors": [
+    {
+      "name": "A Turabi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "B P Zhilkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "L V Zhukova",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A S Shmygalev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A V Rudenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A S Korsakov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1088/1742-6596/2127/1/012052",
+  "url": "https://doi.org/10.1088/1742-6596/2127/1/012052",
+  "published": "2021-11-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The aim of the study is to measure the thermal conductivity of silver halide light guides based on crystals of the AgCl-AgBr system used in PSD production technologies. The conductivity temperature coefficient of the samples under study were determined by the laser flash method using the LFA 467 (Hyper Flash) installation. We studied mono- and polycrystalline samples of solid solutions with the composition AgCl<jats:sub>0,25</jats:sub>AgBr<jats:sub>0,75</jats:sub> in the temperature range 298–523 K. The thermal conductivity of the investigated materials was then calculated using literature data on density and heat capacity. The thermal conductivity coefficient ranges from 0.80±0,04 to 0.53±0,03 (W/mK), depending on the microstructure of the sample.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1088/1742-6596/2127/1/012052",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1088_1742-6596_2127_1_012052/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/2127/1/012052/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of Physics: Conference Series",
+  "publisher": "",
+  "issn": "1742-6588",
+  "quartile": "",
+  "added_at": "2026-08-31T02:18:06.314756+00:00",
+  "updated_at": "",
+  "extra": {}
+}

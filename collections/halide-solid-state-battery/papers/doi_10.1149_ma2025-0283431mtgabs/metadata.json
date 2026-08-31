@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2025-0283431mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Impurity-Free Nasicon Solid Electrolytes for High-Performance All-Solid-State Sodium Metal Battery",
+  "authors": [
+    {
+      "name": "Sanghun Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sung Ryu Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Seojeong Yoo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jun-Young Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-0283431mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-0283431mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>The rapidly growing demand for energy storage systems—driven by the proliferation of electric vehicles, renewable energy integration, and portable electronics—has underscored the resource and cost limitations of lithium-based batteries [1]. As a promising alternative, sodium-ion batteries offer advantages such as the high natural abundance of sodium (2.36% vs. 0.002% for lithium) and lower material cost [2]. Furthermore, all-solid-state sodium metal batteries (ASSSMBs) provide enhanced safety, a higher theoretical capacity (1,166 mAh·g⁻¹), and a lower redox potential (−2.71 V vs. SHE), making them strong candidates for next-generation energy storage systems [3].</jats:p>\n                  <jats:p>Among the available solid electrolytes for ASSSMBs, Na3Zr2Si2PO12 (NASICON) has emerged as a leading material due to its high ionic conductivity (10⁻3–10⁻4 S·cm⁻1), excellent thermal stability, and wide electrochemical window (~5 V vs. Na⁺/Na). Its robust three-dimensional framework—comprising corner-sharing ZrO₆ octahedra and SiO₄/PO₄ tetrahedra—facilitates efficient Na⁺ transport [4]. Despite these advantages, the conventional solid-state reaction (SSR) synthesis of single-phase NASICON remains challenging due to sodium and phosphorus volatilization at elevated temperatures, which results in the formation of ZrO2 and Na3PO4 impurities [5, 6]. These impurities reduce ionic conductivity and impair interfacial stability with sodium metal [7]. Although alternative synthesis methods such as sol–gel and solution-assisted SSR can suppress impurity formation, they are generally less scalable and more costly [8].</jats:p>\n                  <jats:p>In this study, we report the successful synthesis of impurity-free NASICON powders via an optimized SSR method. Phase purity was confirmed by X-ray diffraction (XRD). Densely sintered pellets (&gt;98% relative density) were fabricated without sintering aids. Electrochemical characterization revealed high room-temperature ionic conductivity and low activation energy. Furthermore, the dense microstructure effectively suppressed sodium dendrite formation during cycling, underscoring the material’s suitability for safe and high-performance ASSSMBs [9].</jats:p>\n                  <jats:p>\n                    <jats:bold>\n                      <jats:italic>References</jats:italic>\n                    </jats:bold>\n                  </jats:p>\n                  <jats:p>[1] Ford H. O., Cui C., Schaefer J. L., Batteries 6 (2020) 11.</jats:p>\n                  <jats:p>[2] Lee B., Paek E., Mitlin D., Lee S. W., Chem. Rev. 119 (2019) 5416–5460.</jats:p>\n                  <jats:p>[3] Joshi A., Mishra D. K., Singh R., Zhang J., Ding Y., Appl. Energy 386 (2025) 125546.</jats:p>\n                  <jats:p>[4] Wang X., Fan Y., Li J., Li X., Li W., Wang J., Pang W. K., Energy Environ. Sci. 18 (2025) 1096–1129.</jats:p>\n                  <jats:p>[5] Jalalian-Khakshour A., Phillips C. O., Jackson L., Dunlop T. O., Margadonna S., Deganello D., J. Mater. Sci. 55 (2020) 2291–2302.</jats:p>\n                  <jats:p>[6] Tieu A. J. K., Mahayoni E., Li Y., Deng Z., Fauth F., Chotard J.-N., Seznec V., Adams S., Masquelier C., Canepa P., J. Mater. Chem. A 11 (2023) 23233–23242.</jats:p>\n                  <jats:p>[7] Kumari P., Kumar A., Lohani H., Ahuja A., Sengupta A., Mitra S., Small Methods 9 (2025) 2401019.</jats:p>\n                  <jats:p>[8] Zhang L., Liu Y., You Y., Vinu A., Mai L., Interdiscip. Mater. 2 (2023) 91–110.</jats:p>\n                  <jats:p>[9] Li M., Dixit M., Shevchenko P., De Carlo F., Balasubramanian M., Belharouak I., Batteries Supercaps 8 (2025) e202400429.</jats:p>\n                  <jats:p>\n                    <jats:bold>\n                      <jats:italic>Keywords:</jats:italic>\n                    </jats:bold>\n                    all-solid-state batteries, sodium metal, NASICON electrolyte, synthesis method, ionic conductivity.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-0283431mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-0283431mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-0283431mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-08-31T02:18:02.722156+00:00",
+  "updated_at": "",
+  "extra": {}
+}
