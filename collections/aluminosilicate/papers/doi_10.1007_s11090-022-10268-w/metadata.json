@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1007_s11090-022-10268-w",
+  "collection": "aluminosilicate",
+  "title": "Dielectric Barrier Discharge Plasma Deoxidation of Copper Surfaces in an Ar/SiH4 Atmosphere",
+  "authors": [
+    {
+      "name": "Viktor Udachin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9282-5146",
+      "affiliation": ""
+    },
+    {
+      "name": "Lienhard Wegewitz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastian Dahle",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Wolfgang Maus-Friedrichs",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-022-10268-w",
+  "url": "https://doi.org/10.1007/s11090-022-10268-w",
+  "published": "2022-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Nowadays, cold plasma techniques like dielectric barrier discharge (DBD) plasmas have attracted considerable interest in view of high deoxidation efficiencies as well as relative simplicity of setups. Although DBD plasma deoxidation of copper has been mainly studied in Ar/H<jats:sub>2</jats:sub> mixtures, there is no information on reduction performance of such methods in other protective atmospheres. In this study, the reduction of natively oxidized copper surfaces using a DBD plasma in an Ar/SiH<jats:sub>4</jats:sub> atmosphere at 100 hPa and 20 °C was investigated. The influence of a silane gas on the deoxidation performance was studied by varying the SiH<jats:sub>4</jats:sub> concentration from 0.0 to 0.5 vol%. An addition of a SiH<jats:sub>4</jats:sub> gas to an Ar atmosphere results in the increase of the deoxidation effect of a DBD plasma, so almost all Cu<jats:sub>2</jats:sub>O was reduced after 10 s of treatment in 0.1 vol% silane. Surface morphology analysis showed formation of particles after Ar/SiH<jats:sub>4</jats:sub> plasma treatments that can be cleaned from the surfaces by wiping. Additionally, characterization of the plasma phase indicated the presence of SiH<jats:sup>*</jats:sup> radicals that likely play a role in the deoxidation effect. Moreover, an elimination of residual oxygen and nitrogen species in Ar by addition of SiH<jats:sub>4</jats:sub> was observed.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-022-10268-w",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-022-10268-w/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-022-10268-w.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-09-01T02:09:35.347957+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.15407_scine22.01.083",
+  "collection": "aluminosilicate",
+  "title": "Effectiveness of Low-Temperature Catalytic Degradation of Polystyrene with the Use of Aluminosilicate Catalysts",
+  "authors": [
+    {
+      "name": "D. PAVLOVSKYI",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0002-9043-965X",
+      "affiliation": ""
+    },
+    {
+      "name": "M. SAKARA",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0000-0108-1760",
+      "affiliation": ""
+    },
+    {
+      "name": "V. IVANENKO",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0007-3844-9611",
+      "affiliation": ""
+    },
+    {
+      "name": "O. YANUSHEVSKA",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3457-8965",
+      "affiliation": ""
+    },
+    {
+      "name": "V. KURYLENKO",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7569-767X",
+      "affiliation": ""
+    },
+    {
+      "name": "I. LEVANDOVSKY",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2237-0403",
+      "affiliation": ""
+    },
+    {
+      "name": "O. GAIDAI",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1325-1928",
+      "affiliation": ""
+    },
+    {
+      "name": "A. KUSHKO",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7946-3419",
+      "affiliation": ""
+    },
+    {
+      "name": "T. DONTSOVA",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8189-8665",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.15407/scine22.01.083",
+  "url": "https://doi.org/10.15407/scine22.01.083",
+  "published": null,
+  "abstract": "<jats:p>Introduction. The global plastic pollution crisis has necessitated the development of efficient recyclingstrategies to mitigate environmental harm. Polystyrene, due to its chemical inertness and resistance to natural degradation, has posed a particular challenge.Problem Statement. Although promising advances in catalytic depolymerization have been achieved, the high cost and limited availability of platinum group metals have hindered their large-scale application. Transition metals represent more affordable yet effective catalytic alternatives; however, a gap has remained in understanding how catalyst composition and process conditions influence the efficiency of polystyrene degradation.Purpose. This study has aimed to evaluate the performance of synthetic aluminosilicate catalysts and natural Ukrainian zeolite from the Sokyrnytsia deposit in the low-temperature catalytic degradation of polystyrene.Materials and Methods. Catalysts have been prepared via acid treatment (for natural zeolite) and impregnation with Ni and Co salts (for synthetic Y-type zeolite). X-ray diffraction and low-temperature nitrogen adsorption–desorption methods have been employed to characterize catalyst structure and porosity. Catalytic degradation of polystyrene (at 169—200 0C) has been carried out under reduced pressure or under a H2—N2 (1:1) flow.Results. Under reduced pressure, acid-activated natural zeolite (Zeo-1) has achieved the highest total yield of target compounds (up to 72%), with a particularly high yield of methylstyrene (32.5%). In a hydrogen atmosphere, the overall yield of valuable products has increased (to 78% for certain catalysts), although the total liquid yield has decreased. Cobalt-containing catalysts have been established to boost particularly the hydrogenation of styrene to ethylbenzene. Natural zeolites have demonstrated performance comparable to that of synthetic aluminosilicates in plastic degradation. Proposed reaction mechanisms have shown that transition metals (Ni, Co) enhance C—C bond cleavage, yielding valuable monomers and partially hydrogenated products.Conclusions. The findings obtained have paved the way for developing cost-effective, high-performance catalystsfor polystyrene utilization.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.15407/scine22.01.083",
+  "pdf_path": "aluminosilicate/papers/doi_10.15407_scine22.01.083/paper.pdf",
+  "pdf_url": "https://scinn-eng.org.ua/ojs/index.php/ni/article/download/972/309",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Science and Innovation",
+  "publisher": "",
+  "issn": "2413-4996",
+  "quartile": "",
+  "added_at": "2026-09-01T02:09:36.936881+00:00",
+  "updated_at": "",
+  "extra": {}
+}
