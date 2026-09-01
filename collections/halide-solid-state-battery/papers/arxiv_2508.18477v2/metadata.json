@@ -1,0 +1,48 @@
+{
+  "paper_id": "arxiv_2508.18477v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Electron-Phonon interaction and lattice thermal conductivity from metals to 2D Dirac crystals: a review",
+  "authors": [
+    {
+      "name": "Sina Kazemian",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Giovanni Fanchini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2508.18477v2",
+  "published": "2025-08-25T20:42:11+00:00",
+  "abstract": "Electron--phonon (e--ph) coupling governs electrical resistivity, hot-carrier cooling, and critically, thermal transport in solids. Recent first-principles advances now predict e--ph limited thermal conductivity from d-band metals and wide-band-gap semiconductors to 2D Dirac crystals without empirical parameters. In bulk metals, ab-initio lifetimes show that phonons, though secondary, still carry up to 40\\% of the heat once e--ph scattering is included. We next survey coupled Boltzmann frameworks, exemplified by \\textsc{elphbolt}, that capture mutual drag and ultrafast non-equilibrium in semiconductors. For 2D Dirac crystals, mirror symmetry, carrier density, strain, and finite size rearrange the scattering hierarchy: ZA modes dominate pristine graphene yet become the main resistive branch in nanoribbons once symmetry is broken. At low Fermi energies and high temperatures, the standard 3-particle decay is partially cancelled, elevating 4-particle processes and necessitating dynamically screened, higher-order theory. Throughout, we identify the microscopic levers such as the electronic density of states, phonon frequency, deformation potential, and show how doping, strain, or dielectric environment can tune e--ph damping. We conclude by outlining open challenges such as: developing coupled e--ph solvers, solving the full mode-to-mode Peierls--Boltzmann equation with 4-particle terms, embedding correlated electron methods in e--ph workflows, and leveraging higher-order e--ph coupling and symmetry breaking to realise phononic thermal diodes and rectifiers. Solving these challenges will elevate e--ph theory from a diagnostic tool to a predictive, parameter-free platform that links symmetry, screening, and many-body effects to heat and charge transport in next-generation electronic, photonic, and thermoelectric devices.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.other"
+  ],
+  "source": "arxiv",
+  "source_id": "2508.18477v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2508.18477v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2508.18477v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:13.966116+00:00",
+  "updated_at": "",
+  "extra": {}
+}

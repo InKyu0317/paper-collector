@@ -1,0 +1,168 @@
+{
+  "paper_id": "doi_10.1002_advs.77024",
+  "collection": "halide-solid-state-battery",
+  "title": "Optically Tunable Threshold Switching and Thermally Activated Transport in Planar Ag/MAPbI$_3$ Thin Single-Crystal Devices",
+  "authors": [
+    {
+      "name": "Ofelia Durante",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Valeria Demontis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastiano De Stefano",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Selene Matta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Adolfo Mazzotti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniela Marongiu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Emanuele Meloni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Elisa Pili",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Fang Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Nicola Sestu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Angelica Simbula",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Mauro Carta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michele Saba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrea Mura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Massimiliano Di Ventra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Giovanni Bongiovanni",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Antonio Di Bartolomeo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/advs.77024",
+  "url": "http://arxiv.org/abs/2608.11832v1",
+  "published": "2026-08-12T09:16:22+00:00",
+  "abstract": "Halide perovskites have enabled major advances in optoelectronics, extending well beyond photovoltaics. Their mixed ionic-electronic conduction, once regarded as detrimental to device stability, is increasingly viewed as a functional degree of freedom for memory and neuromorphic-inspired devices, especially when coupled to external stimuli such as light. Specifically, single crystals are attractive models because they suppress grain-boundary effects and microstructural disorder that can mask intrinsic transport and interfacial mechanisms in polycrystalline films. Here, we report the growth of thin methylammonium lead iodide (MAPbI$_3$) single crystals by a space-confined method and their integration into planar two-terminal devices with directly deposited Ag contacts. At room temperature, the devices exhibit ultra-low dark currents ($10^{-13}-10^{-12}$ A) and negligible hysteresis in the dark. Under illumination, the current increases due to photogeneration and the I-V characteristics develop a pronounced polarity-dependent hysteresis and a threshold-like transition between two conductance states. Temperature-dependent dark measurements (300-400 K) show thermionically activated, contact-influenced transport and a weakly varying normalized hysteresis metric. Together with the back-to-back Schottky-diode analysis and control devices using more inert contact materials, these results support a transport model in which Ag/perovskite interfaces play a central role and the hysteretic response is influenced by coupled interfacial and ionic processes.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2608.11832v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_advs.77024/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2608.11832v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:03.657784+00:00",
+  "updated_at": "",
+  "extra": {}
+}

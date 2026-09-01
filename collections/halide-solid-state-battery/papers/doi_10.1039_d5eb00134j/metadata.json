@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1039_d5eb00134j",
+  "collection": "halide-solid-state-battery",
+  "title": "Lithium-metal all-solid-state batteries enabled by polymer-coated halide solid electrolytes",
+  "authors": [
+    {
+      "name": "Pravin N. Didwal",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7620-4769",
+      "affiliation": "Energy Storage and Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA"
+    },
+    {
+      "name": "Guoying Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3218-2609",
+      "affiliation": "Energy Storage and Distributed Resources Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA"
+    }
+  ],
+  "doi": "10.1039/d5eb00134j",
+  "url": "https://doi.org/10.1039/d5eb00134j",
+  "published": null,
+  "abstract": "<jats:p>Polymer coating on a halide-solid-electrolyte markedly enhances air and chemical stabilities and suppresses interfacial decomposition at the lithium metal anode.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d5eb00134j",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d5eb00134j/paper.pdf",
+  "pdf_url": "http://pubs.rsc.org/en/content/articlepdf/2025/EB/D5EB00134J",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 5,
+  "journal": "EES Batteries",
+  "publisher": "",
+  "issn": "3033-4071",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:10.891172+00:00",
+  "updated_at": "",
+  "extra": {}
+}

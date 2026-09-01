@@ -1,0 +1,81 @@
+{
+  "paper_id": "arxiv_2602.19888v1",
+  "collection": "halide-solid-state-battery",
+  "title": "A Physics-Regularized Neural Network and Kirchhoff Markov Random Field Framework for Inferring Internal Electrochemical States from Operando Spectromicroscopy",
+  "authors": [
+    {
+      "name": "Naoki Wada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuta Kimura",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Masaichiro Mizumaki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Koji Amezawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ichiro Akai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Toru Aonishi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2602.19888v1",
+  "published": "2026-02-23T14:32:30+00:00",
+  "abstract": "Quantitative understanding of coupled reaction and transport processes in lithium-ion battery (LIB) composite electrodes remains challenging because key internal states cannot be measured directly. In this study, we develop a physics-integrated, data-driven analysis pipeline to estimate internal electrochemical states from operando microscopic X-ray absorption fine structure ($μ$-XAFS) hyperspectral data of LIB cathodes with LiPF$_6$ electrolyte. State-of-charge (SOC) maps are first constructed from Co K-edge spectra. To resolve ambiguities in the two-phase reaction region, a physics-regularized three-layer neural network is introduced, enforcing spatial continuity of SOC and current conservation. The inferred SOC dynamics are then incorporated into a Kirchhoff-based Markov random field framework that integrates Kirchhoff's current and voltage laws, Ohm's law, and a symmetric Butler-Volmer relation to estimate interfacial current, ionic current, electrolyte potential, and effective ionic conductivity. Application to composite electrodes with different initial electrolyte concentrations (0.3, 1, and 2M LiPF$_6$) reveals distinct reaction propagation behaviors governed by electrolyte concentration-dependent conductivity. The inferred electrolyte concentration distributions show qualitative agreement with independent operando X-ray transmission imaging performed on LIB composite cathodes employing a LiAsF$_6$ electrolyte. This framework enables quantitative visualization of otherwise inaccessible internal transport phenomena.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.dis-nn",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2602.19888v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2602.19888v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2602.19888v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:00.464303+00:00",
+  "updated_at": "",
+  "extra": {}
+}

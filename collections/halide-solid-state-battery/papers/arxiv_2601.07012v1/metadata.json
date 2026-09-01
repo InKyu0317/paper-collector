@@ -1,0 +1,57 @@
+{
+  "paper_id": "arxiv_2601.07012v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Case study of an exploratory high voltage NASICON-based Na$_4$NiCr(PO$_4$)$_3$ cathode material for sodium-ion batteries",
+  "authors": [
+    {
+      "name": "Madhav Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Pooja Sindhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Rajendra S. Dhaka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2601.07012v1",
+  "published": "2026-01-11T18:01:17+00:00",
+  "abstract": "We examine a new NASICON-type Na$_4$NiCr(PO$_4$)$_3$ material designed for high-voltage and multi-electron reactions for the sodium-ion batteries (SIBs). The Rietveld refinement of the X-ray diffraction pattern, using the R$\\bar{3}$c space group, confirmed the stabilization of the rhombohedral NASICON framework. Furthermore, the Raman and Fourier transform infrared spectroscopy are employed to probe the structure and chemical bonding. The core-level photoemission analysis reveals the Cr$^{3+}$ and mixed Ni$^{2+}$/Ni$^{3+}$ oxidation states in the sample. Moreover, the bond valence energy landscape (BVEL) analysis, based on the refined structure, revealed a three-dimensional network of well-connected sodium sites with a migration energy barrier of 0.468 eV. The material delivered a good charge capacity at around 4.5 V, but showed no sodium-ion intercalation during discharge, resulting in negligible discharge capacity. The post-mortem analysis confirmed that the crystal structure remained intact. The calculated energy barrier values indicated a reversal in sodium site stability after cycling, though the barriers can still permit feasible ion migration. This suggests that ion transport alone cannot explain the lack of reversibility, which likely arises from intrinsically poor electronic conductivity. These findings highlight key challenges in achieving stable, reversible capacity in this system and underscore the need for doping, structural modification, and electrolyte optimization to realize its full potential as a high-voltage SIB cathode.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2601.07012v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2601.07012v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2601.07012v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:21.300177+00:00",
+  "updated_at": "",
+  "extra": {}
+}

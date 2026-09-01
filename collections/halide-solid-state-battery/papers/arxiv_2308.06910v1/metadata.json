@@ -1,0 +1,175 @@
+{
+  "paper_id": "arxiv_2308.06910v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Localized High-Concentration Electrolytes Get More Localized Through Micelle-Like Structures",
+  "authors": [
+    {
+      "name": "Corey M. Efaw",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qisheng Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ningshengjie Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yugang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Haoyu Zhou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kevin Gering",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Michael F. Hurley",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hui Xiong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Enyuan Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xia Cao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wu Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji-Guang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eric J. Dufek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jie Xiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiao-Qing Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jun Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yue Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bin Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2308.06910v1",
+  "published": "2023-08-14T03:12:13+00:00",
+  "abstract": "Liquid electrolytes in batteries are typically treated as macroscopically homogeneous ionic transport media despite having complex chemical composition and atomistic solvation structures, leaving a knowledge gap of microstructural characteristics. Here, we reveal a unique micelle-like structure in a localized high-concentration electrolyte (LHCE), in which the solvent acts as a surfactant between an insoluble salt in diluent. The miscibility of the solvent with the diluent and simultaneous solubility of the salt results in a micelle-like structure with a smeared interface and an increased salt concentration at the centre of the salt-solvent clusters that extends the salt solubility. These intermingling miscibility effects have temperature dependencies, wherein an exemplified LHCE peaks in localized cluster salt concentration near room temperature and is utilized to form a stable solid-electrolyte interphase (SEI) on Li-metal anode. These findings serve as a guide to predicting a stable ternary phase diagram and connecting the electrolyte microstructure with electrolyte formulation and formation protocols to form stable SEI for enhanced battery cyclability.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2308.06910v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2308.06910v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2308.06910v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:10.554977+00:00",
+  "updated_at": "",
+  "extra": {}
+}

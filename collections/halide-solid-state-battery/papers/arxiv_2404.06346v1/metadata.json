@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2404.06346v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Hierarchy of Exchange-Correlation Functionals in Computing Lattice Thermal Conductivities of Rocksalt and Zincblende Semiconductors",
+  "authors": [
+    {
+      "name": "Jiacheng Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhonghao Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jiangang He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2404.06346v1",
+  "published": "2024-04-09T14:34:46+00:00",
+  "abstract": "Lattice thermal conductivity ($κ_{\\rm L}$) is a crucial characteristic of crystalline solids with significant implications for practical applications. While the higher order of anharmonicity of phonon gas model is commonly used for explaining extraordinary heat transfer behaviors in crystals, the impact of exchange-correlation (XC) functionals in DFT on describing anharmonicity has been largely overlooked. Most XC functionals in solids focus on ground state properties that mainly involve the harmonic approximation, neglecting temperature effects, and their reliability in studying anharmonic properties remains insufficiently explored. In this study, we systematically investigate the room-temperature $κ_{\\rm L}$ of 16 binary compounds with rocksalt and zincblende structures using 8 XC functionals such as LDA, PBE, PBEsol, optB86b, revTPSS, SCAN, rSCAN, r$^2$SCAN in combination with three perturbation orders, including phonon within harmonic approximation (HA) plus three-phonon scattering (HA+3ph), phonon calculated using self-consistent phonon theory (SCPH) plus three-phonon scattering (SCPH+3ph), and SCPH phonon plus three- and four-phonon scattering (SCPH+3,4ph). Our results show that the XC functional exhibits strong entanglement with perturbation order and the mean relative absolute error (MRAE) of the computed $κ_{\\rm L}$ is strongly influenced by both the XC functional and perturbation order, leading to error cancellation or amplification. The minimal (maximal) MRAE is achieved with revTPSS (rSCAN) at the HA+3ph level, SCAN (r$^2$SCAN) at the SCPH+3ph level, and PBEsol (rSCAN) at the SCPH+3,4ph level. Among these functionals, PBEsol exhibits the highest accuracy at the highest perturbation order. The SCAN-related functionals demonstrate moderate accuracy but are suffer from numerical instability and high computational costs.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.06346v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2404.06346v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.06346v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-01T02:18:17.697343+00:00",
+  "updated_at": "",
+  "extra": {}
+}
