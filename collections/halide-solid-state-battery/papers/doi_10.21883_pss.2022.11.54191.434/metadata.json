@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.21883_pss.2022.11.54191.434",
+  "collection": "halide-solid-state-battery",
+  "title": "The study of phonon thermal conductivity of CoSi-CoGe solid solutions using ab initio lattice dynamics",
+  "authors": [
+    {
+      "name": "Pshenay-Severin D. A.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ioffe Institute, St. Petersburg, Russia"
+    },
+    {
+      "name": "Konstantinov P. P.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ioffe Institute, St. Petersburg, Russia"
+    },
+    {
+      "name": "Burkov A. T.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ioffe Institute, St. Petersburg, Russia"
+    }
+  ],
+  "doi": "10.21883/pss.2022.11.54191.434",
+  "url": "https://doi.org/10.21883/pss.2022.11.54191.434",
+  "published": "2022",
+  "abstract": "<jats:p>\n    Lattice thermal conductivity of solid solutions based on cobalt monosilicide and monogermanide was studied. Electrical and thermal conductivities of CoSi and solid solutions of CoGe<jats:sub>x</jats:sub>Si<jats:sub>1-x</jats:sub> (x=0.03 and 0.07) were experimentally measured in the temperature range of 80-350 K. Phonon spectra and thermal conductivity in CoGe<jats:sub>x</jats:sub>Si<jats:sub>1-x</jats:sub> solid solutions were calculated using ab initio lattice dynamics. The results of calculations are in good agreement with the results of measurements obtained in the present work and with the literature data. It was shown that already at a content of 10-15 at.% of Ge, the lattice thermal conductivity decreases by about a factor of 2 compared with pure cobalt monosilicide, and at a germanium content of about 70 at.%, the decrease can reach 3.5 times. Keywords: lattice thermal conductivity, thermoelectrics, first principle lattice dynamics. \n   </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.21883/pss.2022.11.54191.434",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.21883_pss.2022.11.54191.434/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Physics of the Solid State",
+  "publisher": "",
+  "issn": "1726-7498",
+  "quartile": "",
+  "added_at": "2026-09-03T02:21:23.687311+00:00",
+  "updated_at": "",
+  "extra": {}
+}
