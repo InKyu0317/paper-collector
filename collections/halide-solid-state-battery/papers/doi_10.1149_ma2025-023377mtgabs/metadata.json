@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-023377mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Multiscale Modeling Approach to Solid State Polymer Electrolyte for Li-Ion Battery",
+  "authors": [
+    {
+      "name": "Seung Soon Jang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1920-421X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-023377mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-023377mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>Solid-state polymer electrolytes (SPEs) are emerging as a promising alternative to liquid electrolytes, addressing key challenges such as safety concerns, thermal instability, and dendrite growth while enabling flexible integration into battery designs. However, their widespread adoption is hindered by critical limitations, including low ionic conductivity, narrow operational temperature ranges, and compatibility with electrode materials.</jats:p>\n                  <jats:p>To address these challenges, a systematic understanding of the molecular structures, thermal properties, and ion transport mechanisms of SPEs is essential. This study employs a multiscale modeling and simulation approach to investigate carbonate-based SPEs with varying side-chain lengths and small molecular lubricants, comparing them to traditional liquid carbonate electrolytes. Molecular dynamics (MD) simulations are utilized to explore how polymer chain design influences nano-segregation and thermal behavior. By contrasting the nanostructure, thermal dynamics, and lithium-ion transport properties of SPEs with those of liquid electrolytes, such as dimethyl carbonate and ethylene carbonate, this research provides a comprehensive analysis of the factors governing performance.</jats:p>\n                  <jats:p>The findings aim to guide the engineering of polymer materials with optimized nanostructures and enhanced lithium-ion transport properties, contributing to the advancement of safer, more efficient battery technologies.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-023377mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-023377mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-023377mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-04T02:12:55.297821+00:00",
+  "updated_at": "",
+  "extra": {}
+}

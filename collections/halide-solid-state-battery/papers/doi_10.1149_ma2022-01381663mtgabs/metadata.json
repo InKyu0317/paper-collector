@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2022-01381663mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Operando Measurement of Heterogeneities in All-Solid-State Li Battery Electrodes",
+  "authors": [
+    {
+      "name": "Joshua W Gallaway",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6798-7781",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-01381663mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-01381663mtgabs",
+  "published": "2022-7-7",
+  "abstract": "<jats:p>  \tAll-solid-state Li batteries are under intense research and development due to their potential to (a) replace flammable organic liquid electrolytes with solid materials, and (b) increase energy density by allowing Li metal anodes and resulting in a more compact battery.[1]Several types of Li<jats:sup>+</jats:sup>-conducting solid electrolytes are being studied, e.g. sulfides, oxides, phosphates, polymers, and various composites of these.[2] While polymers are very processable, they have low conductivities, generally &lt;10<jats:sup>-4</jats:sup> S/cm. Sulfides have high conductivities, &gt;10<jats:sup>-2</jats:sup> S/cm, but are unstable materials and require cells to be under high compression to get good cycling results.[3] Oxides and phosphates have good conductivity, but are hard and brittle, forming poor interfaces with electrode active materials. The ideal combination of solid electrolyte and active material remains elusive, but work continues.</jats:p>\n               <jats:p>An additional challenge looms for the design of all-solid-state electrodes, as reaction distributions in battery electrodes are often heterogeneous, resulting in uneven utilization of active materials.[4] Uneven reaction distributions are generally the result of an imbalance between electronic and ionic transport in the cell, but can also be caused by other resistances such as those introduced by insulating layers surrounding active materials. In this talk I will report our experimental results measuring heterogeneous phenomena in all-solid-state batteries. We have employed electrochemical impedance spectroscopy (EIS) as well as energy dispersive X-ray diffraction (EDXRD). EDXRD is a high-energy synchrotron technique that allows the interiors of batteries to be profiled in a tomographic way during battery operation. We use this to directly observe heterogeneous lithiation gradients across the thickness of cathodes in all-solid-state batteries. We will focus on cells with sulfide electrolytes, such as Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl and Li<jats:sub>6.6</jats:sub>Ge<jats:sub>0.6</jats:sub>Sb<jats:sub>0.4</jats:sub>S<jats:sub>5</jats:sub>I. Heterogeneous structural stability of the electrolyte itself will also be discussed.[5]</jats:p>\n               <jats:p>\n                  <jats:bold>Acknowledgments</jats:bold>\n               </jats:p>\n               <jats:p>We acknowledge financial support from the National Science Foundation under Award Number CBET-ES-1924534.</jats:p>\n               <jats:p/>\n               <jats:p>\n                  <jats:bold>References</jats:bold>\n               </jats:p>\n               <jats:p>[1] J. Janek and W. G. Zeier, \"A solid future for battery development,\" <jats:italic>Nat Energy, </jats:italic>vol. 1, no. 9, pp. 1-4, 2016.</jats:p>\n               <jats:p>[2] J. C. Bachman<jats:italic> et al.</jats:italic>, \"Inorganic solid-state electrolytes for lithium batteries: mechanisms and properties governing ion conduction,\" <jats:italic>Chem Rev, </jats:italic>vol. 116, no. 1, pp. 140-162, 2016.</jats:p>\n               <jats:p>[3] Y. Kato<jats:italic> et al.</jats:italic>, \"High-power all-solid-state batteries using sulfide superionic conductors,\" (in English), <jats:italic>Nat Energy, </jats:italic>vol. 1, Mar 21 2016.</jats:p>\n               <jats:p>[4] J. S. Newman and C. W. Tobias, \"Theoretical Analysis of Current Distribution in Porous Electrodes,\" <jats:italic>J Electrochem Soc, </jats:italic>vol. 109, no. 8, pp. C193-C193, 1962.</jats:p>\n               <jats:p>[5] X. Sun<jats:italic> et al.</jats:italic>, \"Operando EDXRD Study of All‐Solid‐State Lithium Batteries Coupling Thioantimonate Superionic Conductors with Metal Sulfide,\" <jats:italic>Advanced Energy Materials, </jats:italic>vol. 11, no. 3, p. 2002861, 2021.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-01381663mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-01381663mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-01381663mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-04T02:12:55.869235+00:00",
+  "updated_at": "",
+  "extra": {}
+}

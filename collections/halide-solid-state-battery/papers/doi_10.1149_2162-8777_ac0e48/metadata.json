@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac0e48",
+  "collection": "halide-solid-state-battery",
+  "title": "Heat Conductivity Based Inner Cavity Pressure Monitoring and Hermeticity Monitoring for Glass Frit Wafer Bonded MEMS Devices",
+  "authors": [
+    {
+      "name": "Roy Knechtel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2272-6924",
+      "affiliation": ""
+    },
+    {
+      "name": "Sophia Dempwolf",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Siegfried Hering",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac0e48",
+  "url": "https://doi.org/10.1149/2162-8777/ac0e48",
+  "published": "2021-8-1",
+  "abstract": "<jats:p>Hermetic sealing is important regarding functionality and reliability for MEMS components. Typically this sealing is done at the wafer level using wafer bonding, which simultaneously provides mechanical protective caps. Here, a universally usable MEMS Foundry technology for inertial sensors and the glass frit bonding to seal them are introduced. A test structure for inner cavity pressure measurement, utilizing the pressure dependence of heat transfer in gasses, which can be realized in this MEMS technology, is introduced and described for use in detailed investigations of factors, which influence the inner cavity pressure in the wafer pre-processing and wafer bonding step itself. These investigations ultimately allowed optimized wafer processing, improved process control, and reliability investigation. We show how, based on the inner cavity pressure measurements, the glass frit bond process can be set up, that side effects such as storing times of the glass frit can be understood, how fine tuning of the bond process can be done, and how both process stability and device reliability can be efficiently be proven.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac0e48",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac0e48/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac0e48/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-04T02:12:57.675710+00:00",
+  "updated_at": "",
+  "extra": {}
+}

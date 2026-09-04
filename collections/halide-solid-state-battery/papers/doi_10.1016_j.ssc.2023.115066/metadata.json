@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2023.115066",
+  "collection": "halide-solid-state-battery",
+  "title": "Intrinsic electron mobility and lattice thermal conductivity of β-Si3N4 from first-principles",
+  "authors": [
+    {
+      "name": "Yuan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xinlei Duan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiwei Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Huanhuan Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yun-Long He",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiao-Li Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Jia-Yue Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3678-827X",
+      "affiliation": ""
+    },
+    {
+      "name": "Xiao-Hua Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2023.115066",
+  "url": "https://doi.org/10.1016/j.ssc.2023.115066",
+  "published": "2023-2",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2023.115066",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2023.115066/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-09-04T02:12:55.869616+00:00",
+  "updated_at": "",
+  "extra": {}
+}

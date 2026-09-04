@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ad1198",
+  "collection": "halide-solid-state-battery",
+  "title": "AC Conductivity and Dielectric Constant of Fast Ion-Electronic Conductor AgI-C",
+  "authors": [
+    {
+      "name": "V. B. Jayakrishnan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0302-031X",
+      "affiliation": ""
+    },
+    {
+      "name": "S. K. Mishra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1146-5861",
+      "affiliation": ""
+    },
+    {
+      "name": "Rachna Selvamani",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5477-8393",
+      "affiliation": ""
+    },
+    {
+      "name": "D. Sen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9080-0866",
+      "affiliation": ""
+    },
+    {
+      "name": "P. U. Sastry",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9036-7636",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ad1198",
+  "url": "https://doi.org/10.1149/2162-8777/ad1198",
+  "published": "2023-12-1",
+  "abstract": "<jats:p>\n                    The conductivity, dielectric constant and crystal structure of the superionic-electronic conductor AgI-porous carbon composites have been investigated at various temperatures and carbon concentrations (\n                    <jats:italic>ϕ</jats:italic>\n                    ≤ 10%). At a fixed temperature, both conductivity and dielectric constant exhibit anomalous variation with\n                    <jats:italic>ϕ</jats:italic>\n                    showing maxima of the values. We observed significant differences in the behavior between the superionic (\n                    <jats:italic>α</jats:italic>\n                    ) phase and insulating (\n                    <jats:italic>β</jats:italic>\n                    ) phase. By incorporating carbon, the conductivity increases by four times in the\n                    <jats:italic>β</jats:italic>\n                    phase and six times in the\n                    <jats:italic>α</jats:italic>\n                    phase whereas the dielectric constant increases by five times and eight times respectively. Unlike in the\n                    <jats:italic>β</jats:italic>\n                    phase, the conductivity of the\n                    <jats:italic>α</jats:italic>\n                    phase exhibits two distinct maxima whereas the dielectric constant exhibits different features of the profiles in different frequency regions in the\n                    <jats:italic>α</jats:italic>\n                    phase. Also, the peak value of these properties exhibits power-law dependence on the frequency in both phases but with different values for the exponents.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ad1198",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ad1198/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ad1198/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-04T02:12:56.721070+00:00",
+  "updated_at": "",
+  "extra": {}
+}
