@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_polym17172340",
+  "collection": "halide-solid-state-battery",
+  "title": "Mechanochemical Synthesis of Advanced Materials for All-Solid-State Battery (ASSB) Applications: A Review",
+  "authors": [
+    {
+      "name": "Zhiming Qiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electrical and Computer Engineering, Kennesaw State University, 840 Polytechnic Lane, Marietta, GA 30060, USA"
+    },
+    {
+      "name": "Junjun Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electrical and Computer Engineering, Kennesaw State University, 840 Polytechnic Lane, Marietta, GA 30060, USA"
+    },
+    {
+      "name": "Beibei Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Electrical and Computer Engineering, Kennesaw State University, 840 Polytechnic Lane, Marietta, GA 30060, USA"
+    }
+  ],
+  "doi": "10.3390/polym17172340",
+  "url": "https://doi.org/10.3390/polym17172340",
+  "published": null,
+  "abstract": "<jats:p>Mechanochemical methods have received much attention in the synthesis and design of all-solid-state battery materials in recent years due to their advantages of being green, efficient, easy to operate, and solvent-free. In this review, common mechanochemical methods, including high-energy ball milling, twin-screw extrusion (TSE), and resonant acoustic mixing (RAM), are introduced with the aim of providing a fundamental understanding of the subsequent material design. Subsequently, the discussion focuses on the application of mechanochemical methods in the construction of solid-state electrolytes, anode materials, and cathode materials, especially the research progress of mechanical energy-induced polymerization strategies in building flexible composite electrolytes and enhancing interfacial stability. Through the analysis of representative work, it is demonstrated that mechanochemical methods are gradually evolving from traditional physical processing tools to functional synthesis platforms with chemical reaction capabilities. This review systematically organizes its development and research trends in the field of all-solid-state battery materials and explores potential future breakthrough directions.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/polym17172340",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_polym17172340/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 12,
+  "journal": "Polymers",
+  "publisher": "",
+  "issn": "2073-4360",
+  "quartile": "",
+  "added_at": "2026-09-05T02:17:14.454158+00:00",
+  "updated_at": "",
+  "extra": {}
+}

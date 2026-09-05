@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1029_2025jb032641",
+  "collection": "halide-solid-state-battery",
+  "title": "Electrical Conductivity of Hydrous SiO\n                    <sub>2</sub>\n                    : Implications for the Superionic State and High Conductivity Anomalies Beneath Subduction Zones",
+  "authors": [
+    {
+      "name": "Mako Inada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0000-5932-5393",
+      "affiliation": "Department of Earth and Planetary Science The University of Tokyo  Tokyo Japan"
+    },
+    {
+      "name": "Yoshiyuki Okuda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2210-2326",
+      "affiliation": "Department of Earth and Planetary Science The University of Tokyo  Tokyo Japan"
+    },
+    {
+      "name": "Kenta Oka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7184-2828",
+      "affiliation": "Department of Earth and Planetary Science The University of Tokyo  Tokyo Japan"
+    },
+    {
+      "name": "Hideharu Kuwahara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-9379-3529",
+      "affiliation": "Geodynamics Research Center Ehime University  Matsuyama Japan"
+    },
+    {
+      "name": "Steeve Gréaux",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4897-3317",
+      "affiliation": "Geodynamics Research Center Ehime University  Matsuyama Japan"
+    },
+    {
+      "name": "Kei Hirose",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Earth and Planetary Science The University of Tokyo  Tokyo Japan"
+    }
+  ],
+  "doi": "10.1029/2025jb032641",
+  "url": "https://doi.org/10.1029/2025jb032641",
+  "published": "2025-10",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Electrical conductivity (EC) is a key physical property of minerals and rocks that constrains the composition and structure of Earth's deep interior. Theoretical studies predict that the CaCl\n                    <jats:sub>2</jats:sub>\n                    ‐type hydrous Al‐bearing SiO\n                    <jats:sub>2</jats:sub>\n                    phase, present in subducted crustal materials, becomes superionic—where protons are no longer bonded to specific oxygen atoms but instead become mobile within the SiO\n                    <jats:sub>2</jats:sub>\n                    lattice—under high‐pressure and high‐temperature conditions of the lower mantle. The enhancement of the EC upon such superionic transition has not been experimentally verified yet. Here, we measured the EC of Al‐bearing SiO\n                    <jats:sub>2</jats:sub>\n                    containing 1,750 ppm H\n                    <jats:sub>2</jats:sub>\n                    O at pressures up to 82 GPa and temperatures up to 2610 K by employing a recently developed technique designed for measuring transparent materials. Results demonstrate a sudden increase in EC to approximately 10 S/m at temperatures of 1,100–2,200 K, depending on pressure. This is several to 10 times higher than the conductivity of the surrounding shallow to mid‐lower mantle and is consistent with a transition to the superionic state. If hydrous SiO\n                    <jats:sub>2</jats:sub>\n                    is substantially weaker than other coexisting phases and thus forms an interconnected film in subducted mid‐oceanic ridge basalt (MORB) crust, the EC of the bulk MORB materials is significantly enhanced by superionic SiO\n                    <jats:sub>2</jats:sub>\n                    to ∼1,800 km depth, which may explain the high EC anomalies observed at subduction zones underneath northeastern China. The observed EC anomalies can be matched by the EC of subducted MORB materials containing Al‐bearing SiO\n                    <jats:sub>2</jats:sub>\n                    with a water content of approximately 0.2 wt%, providing insights into deep H\n                    <jats:sub>2</jats:sub>\n                    O circulation and mantle distribution.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1029/2025jb032641",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1029_2025jb032641/paper.pdf",
+  "pdf_url": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025JB032641",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Journal of Geophysical Research: Solid Earth",
+  "publisher": "",
+  "issn": "2169-9313",
+  "quartile": "",
+  "added_at": "2026-09-05T02:17:14.648234+00:00",
+  "updated_at": "",
+  "extra": {}
+}
