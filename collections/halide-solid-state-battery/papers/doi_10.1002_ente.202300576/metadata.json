@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1002_ente.202300576",
+  "collection": "halide-solid-state-battery",
+  "title": "High‐Entropy Cubic Perovskite Oxide‐Based Solid Electrolyte in Quasi‐Solid‐State Li–S Battery",
+  "authors": [
+    {
+      "name": "Arindam Chatterjee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Metallurgical and Materials Engineering Nano Functional Materials Technology Centre (NFMTC) Indian Institute of Technology Madras  Chennai Tamil Nadu 600036 India"
+    },
+    {
+      "name": "Dipsikha Ganguly",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Physics Alternative Energy and Nanotechnology Laboratory (AENL) Nano Functional Materials Technology Centre (NFMTC) Indian Institute of Technology Madras  Chennai Tamil Nadu 600036 India"
+    },
+    {
+      "name": "Ramaprabhu Sundara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Physics Alternative Energy and Nanotechnology Laboratory (AENL) Nano Functional Materials Technology Centre (NFMTC) Indian Institute of Technology Madras  Chennai Tamil Nadu 600036 India"
+    },
+    {
+      "name": "Subramshu S. Bhattacharya",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6865-0822",
+      "affiliation": "Department of Metallurgical and Materials Engineering Nano Functional Materials Technology Centre (NFMTC) Indian Institute of Technology Madras  Chennai Tamil Nadu 600036 India"
+    }
+  ],
+  "doi": "10.1002/ente.202300576",
+  "url": "https://doi.org/10.1002/ente.202300576",
+  "published": "2024-1",
+  "abstract": "<jats:p>The shuttle effect of polysulfides with its corresponding capacity fading and safety issues is the major barrier in the realization of lithium–sulfur battery (LSB) technology despite having high energy density and high specific capacity. Solid ceramic electrolytes using poly(ethylene oxide) (PEO) matrix has attracted much interest due to their superior safety compared to their liquid electrolyte counterparts. However, cubic perovskite electrolytes suffer from considerable interfacial challenges with lithium metal anodes. Besides, ceramic electrolytes are difficult to process further due to their inherent brittleness. Herein, a novel high‐entropy cubic perovskite (HE‐LLZO) prepared by the ball‐milling method is designed to which PEO matrix is added along with lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) for use as a solid‐state electrolyte (PEO–HE–LLZO–LiTFSI) in LSB. This electrolyte gives good ionic conductivity and blocks lithium dendrite formation as well. A novel transition metal rare‐earth‐based high‐entropy oxide is incorporated into the sulfur cathode for use as a host material to ameliorate the redox kinetics. A quasi‐solid‐state LSB is designed with transition metal rare‐earth oxide carbon nanotubes incorporated into sulfur as composite cathode and PEO–HE–LLZO–LiTFSI electrolyte. This study highlights the viability of designing high‐entropy materials as a solid‐state electrolyte for next‐generation all‐solid‐state LSBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/ente.202300576",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_ente.202300576/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 20,
+  "journal": "Energy Technology",
+  "publisher": "",
+  "issn": "2194-4288",
+  "quartile": "",
+  "added_at": "2026-09-06T02:47:35.850660+00:00",
+  "updated_at": "",
+  "extra": {}
+}

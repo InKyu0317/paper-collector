@@ -1,0 +1,109 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ada99a",
+  "collection": "halide-solid-state-battery",
+  "title": "Perspective—Metal Halide Perovskites-based Sensing Technologies: Recent Updates and Future Directions",
+  "authors": [
+    {
+      "name": "Khushboo Gupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Manish Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1213-4025",
+      "affiliation": ""
+    },
+    {
+      "name": "Dharm Veer Singh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Vishal Chaudhary",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1558-4937",
+      "affiliation": ""
+    },
+    {
+      "name": "Arvind Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "D. K. Dwivedi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8334-5535",
+      "affiliation": ""
+    },
+    {
+      "name": "Santosh Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rajesh Kumar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "O. P. Thakur",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Subhash Sharma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6234-4752",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ada99a",
+  "url": "https://doi.org/10.1149/2162-8777/ada99a",
+  "published": "2025-1-1",
+  "abstract": "<jats:p>Recently, metal-halide perovskites (MHPs) have become an epicenter of research because of their outstanding optoelectronic properties. MHPs have not only proved to be the best materials for sensing applications due to their unique optical and electronic properties along with easy fabrication, they also display good sensing ability, including ultrahigh sensitivities, rapid response rate, and outstanding selectivity. To keep the research community informed, we critically focused on the recent updates in the MHPs-based sensor, followed by highlighting the synthesis route and their potential while addressing important challenges and future outlooks and unlocking their capabilities in sensing technologies.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ada99a",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ada99a/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ada99a/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-06T02:47:37.730980+00:00",
+  "updated_at": "",
+  "extra": {}
+}

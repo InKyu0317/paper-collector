@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1126_sciadv.abl7002",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic heat dissipation in solid-state pores",
+  "authors": [
+    {
+      "name": "Makusu Tsutsui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4552-1163",
+      "affiliation": "The Institute of Scientific and Industrial Research, Osaka University, Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan."
+    },
+    {
+      "name": "Akihide Arima",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Nano-Life-Systems, Institutes of Innovation for Future Society, Nagoya University, Nagoya 464-8603, Japan."
+    },
+    {
+      "name": "Kazumichi Yokota",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8590-2737",
+      "affiliation": "National Institute of Advanced Industrial Science and Technology, Takamatsu, Kagawa 761-0395, Japan."
+    },
+    {
+      "name": "Yoshinobu Baba",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3025-2255",
+      "affiliation": "Institute of Nano-Life-Systems, Institutes of Innovation for Future Society, Nagoya University, Nagoya 464-8603, Japan."
+    },
+    {
+      "name": "Tomoji Kawai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0584-2648",
+      "affiliation": "The Institute of Scientific and Industrial Research, Osaka University, Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan."
+    }
+  ],
+  "doi": "10.1126/sciadv.abl7002",
+  "url": "https://doi.org/10.1126/sciadv.abl7002",
+  "published": "2022-2-11",
+  "abstract": "<jats:p>\n                    Energy dissipation in solid-state nanopores is an important issue for their use as a sensor for detecting and analyzing individual objects in electrolyte solution by ionic current measurements. Here, we report on evaluations of heating via diffusive ion transport in the nanoscale conduits using thermocouple-embedded SiN\n                    <jats:italic>\n                      <jats:sub>x</jats:sub>\n                    </jats:italic>\n                    pores. We found a linear rise in the nanopore temperature with the input electrical power suggestive of steady-state ionic heat dissipation in the confined nanospace. Meanwhile, the heating efficiency was elucidated to become higher in a smaller pore due to a rapid decrease in the through-water thermal conduction for cooling the fluidic channel. The scaling law suggested nonnegligible influence of the heating to raise the temperature of single-nanometer two-dimensional nanopores by a few kelvins under the standard cross-membrane voltage and ionic strength conditions. The present findings may be useful in advancing our understanding of ion and mass transport phenomena in nanopores.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1126/sciadv.abl7002",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1126_sciadv.abl7002/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 33,
+  "journal": "Science Advances",
+  "publisher": "",
+  "issn": "2375-2548",
+  "quartile": "",
+  "added_at": "2026-09-06T02:47:35.850409+00:00",
+  "updated_at": "",
+  "extra": {}
+}

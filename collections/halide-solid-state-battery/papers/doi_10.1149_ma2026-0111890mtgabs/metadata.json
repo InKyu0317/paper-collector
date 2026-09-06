@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2026-0111890mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Nanoscale Strain-Associated Lithium Transport within Battery Particles in Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Jongwoo Lim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Seoul National University"
+    }
+  ],
+  "doi": "10.1149/ma2026-0111890mtgabs",
+  "url": "https://doi.org/10.1149/ma2026-0111890mtgabs",
+  "published": "2026-7-7",
+  "abstract": "<jats:p>Lithium insertion and diffusion within battery particles critically determine cycle life and rate capability. The active material–electrolyte interface is highly dynamic: particles continuously contract and expand during cycling, altering interfacial chemistry, mechanical stress, and contact quality. However, how these evolving chemo-mechanical interactions influence intraparticle lithium transport remains poorly understood due to experimental limitations. Our group employs operando nanoscale imaging to directly visualize lithium dynamics in individual particles under both liquid and solid-state electrolyte conditions. For sub-micrometer particles, we use soft X-ray STXM and BCDI to map lithium distribution and strain evolution, while hard X-ray TXM resolves lithium transport in larger particles. These multimodal techniques reveal how interfacial stability, mechanical stress, and particle–electrolyte contact collectively govern lithium diffusion pathways. Our findings highlight the strong coupling between lithium transport and internal stress evolution in solid-state electrochemical systems</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2026-0111890mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2026-0111890mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2026-0111890mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-06T02:47:36.789803+00:00",
+  "updated_at": "",
+  "extra": {}
+}
