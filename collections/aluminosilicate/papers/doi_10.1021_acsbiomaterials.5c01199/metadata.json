@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1021_acsbiomaterials.5c01199",
+  "collection": "aluminosilicate",
+  "title": "Enhanced\nIntracellular Delivery via Photochemical\nInternalization of Ultrasmall Fluorescent Core–Shell Aluminosilicate\nNanoparticles",
+  "authors": [
+    {
+      "name": "Nada Naguib",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7750-1298",
+      "affiliation": "Cornell University , , , ,"
+    },
+    {
+      "name": "Jacob A. Erstling",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8713-0980",
+      "affiliation": "Cornell University , , , ,"
+    },
+    {
+      "name": "James F. Tallman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0001-0355-3693",
+      "affiliation": "Cornell University , , , ,"
+    },
+    {
+      "name": "Ulrich B. Wiesner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6934-3755",
+      "affiliation": "Cornell University , , , ,"
+    }
+  ],
+  "doi": "10.1021/acsbiomaterials.5c01199",
+  "url": "https://doi.org/10.1021/acsbiomaterials.5c01199",
+  "published": "2025-10-13",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Current nanoparticle-based therapeutic systems for intracellular delivery face significant challenges due to endosomal entrapment, which prevents efficient cytosolic release of cargo and limits intracellular targeting. In this study, we develop methylene blue-functionalized ultrasmall fluorescent core–shell aluminosilicate nanoparticles (MB-Cy3-aC’dots) that overcome this limitation through controlled photochemical internalization (PCI). The nanoparticles synthesized in water with a hydrodynamic diameter of around 4–5 nm encapsulate cyanine 3 (Cy3) fluorophore in an aluminosilicate core, are coated with an oligomeric poly­(ethylene glycol) (PEG) shell, and are surface-modified with methylene blue photosensitizer using two distinct PEG linker lengths. Photophysical characterization reveals that short-linker particles (MB-PEG4-Cy3-aC’dots) exhibit superior singlet oxygen quantum yields compared to long-linker variants (MB-PEG14-Cy3-aC’dots). However, cellular studies in HeLa cells demonstrate that the long-linker design achieved more effective cytosolic delivery despite lower quantum yields, indicating that using this configuration, membrane accessibility outweighs photophysical efficiency for PCI applications. Optimized treatment protocols using MB-PEG14-Cy3-aC’dots with 15 min red light illumination successfully convert punctate endosomal localization to diffuse cytoplasmic distribution while maintaining ∼80% cell viability. Live-cell imaging confirms efficient nuclear translocation and accumulation in nuclear structures, demonstrating the unique advantage of ultrasmall platforms for accessing restricted intracellular compartments. Mechanistic investigations reveal that the PCI treatment creates a permissive cellular environment, enabling sequential delivery of secondary nanoparticle populations potentially through endosomal fusion and membrane permeabilization pathways. The particle architecture (Cy3 core/MB surface) enables independent particle tracking and photosensitizer activation. These findings establish design principles for optimizing photosensitizer-nanoparticle conjugates and demonstrate the potential for multicargo delivery strategies with enhanced therapeutic versatility. The developed platform addresses critical limitations in intracellular targeting and provides a foundation for advancing precision nanomedicine applications requiring controlled subcellular localization.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1021/acsbiomaterials.5c01199",
+  "pdf_path": "aluminosilicate/papers/doi_10.1021_acsbiomaterials.5c01199/paper.pdf",
+  "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acsbiomaterials.5c01199",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ACS Biomaterials Science\n&amp; Engineering",
+  "publisher": "",
+  "issn": "2373-9878",
+  "quartile": "",
+  "added_at": "2026-09-06T02:15:39.980715+00:00",
+  "updated_at": "",
+  "extra": {}
+}
