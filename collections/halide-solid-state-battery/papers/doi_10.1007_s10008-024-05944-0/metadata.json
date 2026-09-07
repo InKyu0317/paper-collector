@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1007_s10008-024-05944-0",
+  "collection": "halide-solid-state-battery",
+  "title": "State of health as a function of voltage hysteresis in Li-ion battery half-cells",
+  "authors": [
+    {
+      "name": "Julija Hodakovska",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Liga Britala",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ansis Mezulis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Liga Grinberga",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1960-2370",
+      "affiliation": ""
+    },
+    {
+      "name": "Gunars Bajars",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Gints Kucinskis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-024-05944-0",
+  "url": "https://doi.org/10.1007/s10008-024-05944-0",
+  "published": "2025-10",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-024-05944-0",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-024-05944-0/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-024-05944-0.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 4,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-09-07T02:20:11.885379+00:00",
+  "updated_at": "",
+  "extra": {}
+}

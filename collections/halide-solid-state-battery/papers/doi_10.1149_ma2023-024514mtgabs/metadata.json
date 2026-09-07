@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2023-024514mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Chemical and Electrochemical Interaction of Halide and Sulfide-Based Electrolytes in Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Artur Tron",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6565-8247",
+      "affiliation": ""
+    },
+    {
+      "name": "Palanivel Molaiyan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrea Paolella",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Marcus Jahn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3849-4256",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-024514mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-024514mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>\n                  <jats:bold> Introduction</jats:bold>\n               </jats:p>\n               <jats:p>Conventional lithium-ion batteries (LIBs) have found widespread small and large applications. However, safety issues and capacity degradation of the cells, in general, can occur due to the use of toxic and flammable liquid electrolytes [1]. As one of the next-generation LIBs, solid-state lithium batteries (SSBs) have the potential to replace liquid electrolyte LIBs due to their safety and potentially high energy density [2]. The key component of SSBs is the solid-state electrolyte (SSE). Sulfide and halide-based solid electrolytes are among the hot topics in solid electrolyte research for SSBs. Despite the advantages of solid electrolytes, such as good compatibility with high-voltage cathode materials and soft fabrication. However, the poor chemical and electrochemical stability of sulfide and halide-based solid electrolytes towards Li metal has a critical problem that causes the degradation of the lithium/solid electrolyte interface due to the formation of side reaction components that leads to inhibiting lithium kinetics [3].</jats:p>\n               <jats:p>\n                  <jats:bold> Results and Discussion</jats:bold>\n               </jats:p>\n               <jats:p>Here, we have shown that a combination of halide and argyrodite (Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl) solid electrolytes can lead to the prevention of the formation of unfavorable interactions between solid electrolytes and lithium metal anode. The combination of halide and argyrodite (Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl) in the Li/Li symmetric cell can stabilize cycle life and increase the high critical current density (CCD) from C/20 to C/2 in comparison with the pure halide and argyrodite electrolytes. Furthermore, compared to the original halide and argyrodite electrolytes, a high initial coulombic efficiency and cycle life can be maintained when combined with a full Li/NCM cell. This approach to improving halide-based SSBs can provide a fairly simple and efficient strategy.</jats:p>\n               <jats:p>\n                  <jats:bold>Acknowledgements</jats:bold>\n               </jats:p>\n               <jats:p>This project has received funding from the European Union's Horizon Europe programme for research and innovation under grant agreement No. 101069681 (HELENA project).</jats:p>\n               <jats:p>\n                  <jats:bold>References</jats:bold>\n               </jats:p>\n               <jats:p>[1] Y. Meesala, A. Jena, H. Chang, R.-S. Liu, Recent Advancements in Li-Ion Conductors for All-Solid-State Li-Ion Batteries, ACS Energy Letters 2 (12) (2017) 2734-2751.</jats:p>\n               <jats:p>[2] Z. Zhang, Y. Shao, B. Lotsch, Y.-S. Hu, H. Li, J. Janek, L. F. Nazar, C.-W. Nan, J. Maier, M. Armand, L. Chen, New horizons for inorganic solid state ion conductors. Energy &amp; Environmental Science 2018, 11, 1945-1976.</jats:p>\n               <jats:p>[3] C. Wang, J. Liang, J. Luo, J. Liu, X. Li, F. Zhao, R. Li, H. Huang, S. Zhao, L. Zhang, J. Wang, X. Sun, A universal wet-chemistry synthesis of solid-state halide electrolytes for all-solid-state lithium-metal batteries, Sci. Adv. 7 (2021) eabh189 1-9.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-024514mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-024514mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-024514mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-07T02:20:06.735044+00:00",
+  "updated_at": "",
+  "extra": {}
+}

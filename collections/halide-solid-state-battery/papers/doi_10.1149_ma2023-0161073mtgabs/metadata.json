@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2023-0161073mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Multi-Scale Implications of Material Heterogeneity on Solid State Battery Performance",
+  "authors": [
+    {
+      "name": "Kelsey Hatzell",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-0161073mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-0161073mtgabs",
+  "published": "2023-8-28",
+  "abstract": "<jats:p>  \tSolid state batteries are comprised of an ensemble of materials with varying structural, mechanical, chemical, and transport properties<jats:sup>1,2</jats:sup>. Orchestrating these materials to act synergistically and enable high power and high energy densities requires understanding how solid state electrodes and electrolytes can be engineered to enable: (1) efficient ion and electron transport and (2) maintain uniform contact between components during electrochemical cycling. Bulk processing approaching (e.g. coating, sintering, densification, etc.) do not lead to much control over material properties across various length scales (nano-to-meso). Material heterogenities exist within the cathode, solid electrolyte, and anode. In the cathode, the solid electrolyte and active material can be non-uniformly distributed leading to bottlenecks for transport and non-uniform active material utilization. In the solid electrolyte, active and passive heterogenities can influence how the ion moves between the anode and cathode and cause deleterious current focusing dynamics<jats:sup>3,4</jats:sup>. Finally, at the anode voiding and contact loss can occur in alkali metal anodes. This talk discusses our recent work combining operando synchrotron studies, electrochemical characterization, and advanced material characterization to unravel the implications of heterogenity on performance and degradation mechanism in solid state batteries.</jats:p>\n               <jats:p>[1] Zaman, Wahid, and Kelsey B. Hatzell. \"Processing and manufacturing of next generation lithium-based all solid-state batteries.\" <jats:italic>Current Opinion in Solid State and Materials Science</jats:italic> 26.4 (2022): 101003.</jats:p>\n               <jats:p>[2] Ren, Yuxun, and Kelsey B. Hatzell. \"Elasticity-oriented design of solid-state batteries: challenges and perspectives.\" <jats:italic>Journal of Materials Chemistry A</jats:italic> 9.24 (2021): 13804-13821.</jats:p>\n               <jats:p>[3]Dixit, Marm B., et al. \"Polymorphism of garnet solid electrolytes and its implications for grain-level chemo-mechanics.\" <jats:italic>Nature Materials</jats:italic> 21.11 (2022): 1298-1305.</jats:p>\n               <jats:p>[4]Ren, Yuxun, Nicholas Hortance, and Kelsey B. Hatzell. \"Mitigating Chemo-Mechanical Failure in Li-S Solid State Batteries with Compliant Cathodes.\" <jats:italic>Journal of The Electrochemical Society</jats:italic> 169.6 (2022): 060503.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-0161073mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-0161073mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-0161073mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-07T02:20:12.443618+00:00",
+  "updated_at": "",
+  "extra": {}
+}
