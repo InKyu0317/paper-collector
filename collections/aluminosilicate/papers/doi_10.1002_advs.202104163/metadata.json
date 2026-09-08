@@ -1,0 +1,146 @@
+{
+  "paper_id": "doi_10.1002_advs.202104163",
+  "collection": "aluminosilicate",
+  "title": "A Robust Hierarchical MXene/Ni/Aluminosilicate Glass Composite for High‐Performance Microwave Absorption",
+  "authors": [
+    {
+      "name": "Wei Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6126-899X",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Mengya Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4779-6002",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Kangjing Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Yan Peng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8852-2211",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Jilong Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Jie Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7583-4937",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Tao Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6066-4912",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Qi Ding",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-1467-1046",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Pengpeng Qiu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Haifeng Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6138-5800",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Ping Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7262-6174",
+      "affiliation": "Chinese Academy of Sciences"
+    },
+    {
+      "name": "Yuchi Fan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7713-6748",
+      "affiliation": "Donghua University"
+    },
+    {
+      "name": "Wan Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1015-0371",
+      "affiliation": "Donghua University"
+    }
+  ],
+  "doi": "10.1002/advs.202104163",
+  "url": "https://doi.org/10.1002/advs.202104163",
+  "published": "2021-12-13",
+  "abstract": "The 2D titanium carbide MXene with both extraordinary electromagnetic attenuation and elastic properties has shown great potential as the building block for constructing mechanically robust microwave absorbing composites (MACs). However, the weak thermal stability has inhibited the successful incorporation of MXene into the inorganic MACs matrix so far. Herein, an ultralow temperature sintering strategy to fabricate a hierarchical aluminosilicate glass composite is demonstrated by using EMT zeolite as starting powder, which can not only endow the composites with high sinterability, but also facilitate the alignment of MXene in the glass matrix. Accordingly, the highly oriented MXene and mesoporous structure can effectively reduce the conduction loss in the out-of-plane direction while maintaining its large polarization loss. Meanwhile, the in situ formed Ni nanoparticles via ion exchange serve as a synergistic modulator to further improve the attenuation capability and impedance matching of composite, resulting in a low reflection loss of -59.5 dB in X band and general values below -20 dB with a low fitting thickness from 4 to 18 GHz. More attractively, such a delicate structure also gives the composite a remarkable fracture strength and contact-damage-resistance, which qualifies the mesoporous glass composite as a structural MACs with a superior comprehensive performance.",
+  "keywords": [
+    "Aluminosilicate",
+    "Composite number",
+    "Materials science",
+    "Microwave",
+    "Absorption (acoustics)",
+    "Composite material",
+    "Chemistry",
+    "Computer science",
+    "Catalysis",
+    "Telecommunications"
+  ],
+  "source": "openalex",
+  "source_id": "W4200225070",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_advs.202104163/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202104163",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 62,
+  "journal": "Advanced Science",
+  "publisher": "",
+  "issn": "2198-3844",
+  "quartile": "",
+  "added_at": "2026-09-08T02:16:42.209493+00:00",
+  "updated_at": "",
+  "extra": {
+    "journal_cites_per_year": 0.0
+  }
+}
