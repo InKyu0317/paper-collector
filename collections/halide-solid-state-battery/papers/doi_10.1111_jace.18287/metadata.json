@@ -1,0 +1,109 @@
+{
+  "paper_id": "doi_10.1111_jace.18287",
+  "collection": "halide-solid-state-battery",
+  "title": "Controllable Li\n                    <sub>3</sub>\n                    PS\n                    <sub>4</sub>\n                    –Li\n                    <sub>4</sub>\n                    SnS\n                    <sub>4</sub>\n                    solid electrolytes with affordable conductor and high conductivity for solid‐state battery",
+  "authors": [
+    {
+      "name": "Pingping Dong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Qing Jiao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1482-6981",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Zengcheng Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Miao Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences  Ningbo Zhejiang China"
+    },
+    {
+      "name": "Changgui Lin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Xianghua Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Glasses and Ceramics Institute of Chemical Science University of Rennes 1  UMR CNRS 6226 Rennes France"
+    },
+    {
+      "name": "Hongli Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Glasses and Ceramics Institute of Chemical Science University of Rennes 1  UMR CNRS 6226 Rennes France"
+    },
+    {
+      "name": "Baochen Ma",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Shixun Dai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5085-0933",
+      "affiliation": "Laboratory of Infrared Material and Devices Advanced Technology Research Institute Ningbo University  Ningbo China"
+    },
+    {
+      "name": "Tiefeng Xu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Ningbo Institute of Oceanography  Ningbo China"
+    }
+  ],
+  "doi": "10.1111/jace.18287",
+  "url": "https://doi.org/10.1111/jace.18287",
+  "published": "2022-5",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    High ionic conductivity, low grain boundary impedance, and stable electrochemical property have become the focus for all‐solid‐state lithium–sulfur batteries (ASSLSB). One of the approaches is to promote the rapid diffusion of lithium ions by regulating the chemical bond interactions within the framework. The structure control of P\n                    <jats:sup>5+</jats:sup>\n                    substitution for Sn\n                    <jats:sup>4+</jats:sup>\n                    on lithium‐ion transport was explored for a series of Li\n                    <jats:sub>3</jats:sub>\n                    PS\n                    <jats:sub>4</jats:sub>\n                    –Li\n                    <jats:sub>4</jats:sub>\n                    SnS\n                    <jats:sub>4</jats:sub>\n                    glass–ceramic electrolytes. Results showed that the grain boundary impedance of the glass electrolyte was reduced after heat treatments. The formation of LiSnPS microcrystals, a good superionic conductor, was detected by X‐ray diffraction tests. Electrochemical experiments obtained the highest conductivity of 29.5 S cm\n                    <jats:sup>−1</jats:sup>\n                    at 100°C and stable electrochemical window from –0.1 to 5 V at 25°C. In addition, the cell battery was assembled with prepared electrolyte, which is promoted as a candidate solid electrolyte material with improved performance for ASSLSB.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.18287",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1111_jace.18287/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jace.18287",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-09-08T02:19:22.545473+00:00",
+  "updated_at": "",
+  "extra": {}
+}

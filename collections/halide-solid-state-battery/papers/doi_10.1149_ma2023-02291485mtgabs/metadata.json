@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2023-02291485mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Nanostructured Solid State Battery Architectures Enabled by Atomic Layer Deposition",
+  "authors": [
+    {
+      "name": "Alexander C Kozen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-02291485mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-02291485mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tSolid state batteries (SSBs) are considered the most promising next-generation energy storage technology both due to their increased safety over conventional wet Li-ion cells and their ability to fabricate novel architectures with simultaneous high energy and power density. However, the ionic conductivities of many solid electrolyte materials are orders of magnitude lower than liquid carbonate-based electrolytes. In order to offer SSBs with competitive charge/discharge rates, SSB active layers need to be thin (for fast ion diffusion) but have a large surface area (to enable large ion flux from anode to cathode). These geometric constraints establish the need for 3D electrode (and solid electrolyte) structures for a high performance battery architecture. Atomic layer deposition (ALD) is ideally suited to fabricate such devices due to its highly conformal nature and Angstrom-scale thickness control, however many challenges remain with materials fabrication and process integration.</jats:p>\n               <jats:p>I will discuss development of both plasma-enhanced ALD (PEALD) and thermal ALD processes for the Li, Na, and K alkali polyphosphazene (A*PON) electrolytes<jats:sup>1,2,3,4</jats:sup>. The PEALD A*PON processes, by virtue of their 4-precursor synthesis route, allow some degree of chemical composition tuning. The thermal A*PON processes, unlike their PEALD counterparts, have a predetermined P-N ratio fixed by use of the precursors, however there is a tradeoff between the low temperature deposition enabled using plasma-based A*PON processes, and the conformality offered using the thermal A*PON processes. I will discuss and compare the reaction mechanisms and growth behavior among the entire family of A*PON solid electrolyte thin films, as well as discuss the integration challenges on the path to developing all-ALD planar and 3D SSBs.  <jats:list list-type=\"roman-lower\">\n                     <jats:list-item>\n                        <jats:p> Pearse, A.; Schmitt, T.; Sahadeo, E.; Stewart, D. M.; Kozen, A.; Gerasopoulos, K.; Talin, A. A.; Lee, S. B.; Rubloff, G. W.; Gregorczyk, K. E., Three-Dimensional Solid-State Lithium-Ion Batteries Fabricated by Conformal Vapor-Phase Chemistry. <jats:italic>ACS Nano </jats:italic>\n                           <jats:bold>2018,</jats:bold>\n                           <jats:italic>12</jats:italic> (5), 4286-4294.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p> Pearse, A. J.; Schmitt, T. E.; Fuller, E. J.; El-Gabaly, F.; Lin, C.-F.; Gerasopoulos, K.; Kozen, A. C.; Talin, A. A.; Rubloff, G.; Gregorczyk, K. E., Nanoscale Solid State Batteries Enabled by Thermal Atomic Layer Deposition of a Lithium Polyphosphazene Solid State Electrolyte. <jats:italic>Chemistry of Materials </jats:italic>\n                           <jats:bold>2017,</jats:bold>\n                           <jats:italic>29</jats:italic> (8), 3740-3753.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p> Nuwayhid, R. B.; Jarry, A.; Rubloff, G. W.; Gregorczyk, K. E., Atomic Layer Deposition of Sodium Phosphorus Oxynitride: A Conformal Solid-State Sodium-Ion Conductor. <jats:italic>ACS Applied Materials &amp; Interfaces </jats:italic>\n                           <jats:bold>2020,</jats:bold>\n                           <jats:italic>12</jats:italic> (19), 21641-21650.</jats:p>\n                     </jats:list-item>\n                     <jats:list-item>\n                        <jats:p> Kozen, A. C.; Pearse, A. J.; Lin, C-F.; Noked, M.; Rubloff, G. W.; Atomic Layer Deposition of the Solid Electrolyte LiPON. <jats:italic>Chemistry of Materials </jats:italic>\n                           <jats:bold>2015,</jats:bold>\n                           <jats:italic>27</jats:italic> (15), 5324-5331. </jats:p>\n                     </jats:list-item>\n                  </jats:list>\n               </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-02291485mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-02291485mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-02291485mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-08T02:19:22.282086+00:00",
+  "updated_at": "",
+  "extra": {}
+}
