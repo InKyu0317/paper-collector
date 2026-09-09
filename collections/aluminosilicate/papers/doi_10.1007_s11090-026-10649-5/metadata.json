@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1007_s11090-026-10649-5",
+  "collection": "aluminosilicate",
+  "title": "Understanding an “In Principle Rather Old Gas Discharge”: Plasma Diagnostics on Dielectric Barrier Discharges",
+  "authors": [
+    {
+      "name": "Ronny Brandenburg",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3153-8439",
+      "affiliation": ""
+    },
+    {
+      "name": "Hans Höft",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9224-4103",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-026-10649-5",
+  "url": "https://doi.org/10.1007/s11090-026-10649-5",
+  "published": "2026-7",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Dielectric barrier discharges are one of the most applied and investigated atmospheric pressure plasma source, but also a challenge for plasma diagnostics. Here, a brief historical overview of diagnostics of the physical behavior and basis plasma parameters for barrier discharges is provided by mentioning selected highlights over the last about ninety years and the discussion of some developments after the first application of the diagnostic methods. Furthermore, current issues in research are addressed. Rather than focusing on the methodology of the respective diagnostics, it aims to summarize the progress made in the field on barrier discharges in particular, and to highlight the challenges posed by this type of gas discharge.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-026-10649-5",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-026-10649-5/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-026-10649-5.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-09-09T02:16:06.085795+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s11090-023-10351-w",
+  "collection": "aluminosilicate",
+  "title": "Node-of-Influence Network Analysis for Targeted Condition Sequencing in Plasma Chemical Reaction Networks",
+  "authors": [
+    {
+      "name": "Thomas D. Holmes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Bryony C. Moody",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "William B. J. Zimmerman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-023-10351-w",
+  "url": "https://doi.org/10.1007/s11090-023-10351-w",
+  "published": "2023-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>It was demonstrated that a plasma chemical reaction system can be represented as a directed bipartite variable-relationship (VR) graph to accurately represent node influence, and that targeted node-influence analysis of this graph can determine improved condition sequencing for a target outcome. A novel graph algorithm (OCARINA) was adapted for VR-graphs to give a measure of the net-influence of incremental increase (NIII) of one variable on another at any depth in the graph. Additionally, two conventional node-influence measures, the Eigenvector Centrality Index (ECI) and Katz Centrality Index (KCI), were also trialled on the VR-graph. The electron energy (ε) node influence was evaluated on a “baseline” continuous sequence of 10 ns 1 eV pulses in a 0D chemical-kinetic simulation using ECI, KCI and OCARINA NIII at three depths. KCI appeared to give meaningful values for ε influence in the whole graph but not on specific nodes, ECI gave no meaningful results. OCARINA (O<jats:sub>3</jats:sub>targeted) suggested each successive ε pulse had diminishing influence on O<jats:sub>3</jats:sub>formation, though analysis differed for each NIII depth. O<jats:sub>3</jats:sub>concentrations in simulations with different numbers of ε pulses decreased with each additional pulse, correlating with the OCARINA analysis. O<jats:sub>3</jats:sub>, NO and O Species production in simulations of two ε pulses with one or both pulses incrementally changed by 10% from the baseline also largely agreed with the OCARINA results for each species on a baseline simulation of two consecutive 1 eV electron energy pulses. Additionally, it was found the NIII at antecedent depths corresponded to effects in subsequent phases in simulations.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-023-10351-w",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-023-10351-w/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-023-10351-w.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-09-09T02:16:00.754191+00:00",
+  "updated_at": "",
+  "extra": {}
+}

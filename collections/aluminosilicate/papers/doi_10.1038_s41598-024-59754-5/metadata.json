@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1038_s41598-024-59754-5",
+  "collection": "aluminosilicate",
+  "title": "Water adsorption on surfaces of calcium aluminosilicate crystal phase of stone wool: a DFT study",
+  "authors": [
+    {
+      "name": "Thi H. Ho",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nguyen-Hieu Hoang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Øivind Wilhelmsen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Thuat T. Trinh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41598-024-59754-5",
+  "url": "https://doi.org/10.1038/s41598-024-59754-5",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Stone wool is widely used as an efficient thermal insulator within the construction industry; however, its performance can be significantly impacted by the presence of water vapor. By altering the material’s characteristics and effective thermo-physical properties, water vapor can reduce overall efficacy in various environmental conditions. Therefore, understanding water adsorption on stone wool surfaces is crucial for optimizing insulation properties. Through the investigation of interaction between water molecules and calcium aluminosilicate (CAS) phase surfaces within stone wool using density functional theory (DFT), we can gain insight into underlying mechanisms governing water adsorption in these materials. This research aims to elucidate the molecular-level interaction between water molecules and CAS surfaces, which is essential for understanding fundamental properties that govern their adsorption process. Both dissociative and molecular adsorptions were investigated in this study. For molecular adsorption, the adsorption energy ranged from <jats:inline-formula><jats:alternatives><jats:tex-math>$$-$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mo>-</mml:mo>\n                </mml:math></jats:alternatives></jats:inline-formula> 84 to <jats:inline-formula><jats:alternatives><jats:tex-math>$$-$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mo>-</mml:mo>\n                </mml:math></jats:alternatives></jats:inline-formula> 113 kJ mol<jats:inline-formula><jats:alternatives><jats:tex-math>$$^{-1}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msup>\n                    <mml:mrow/>\n                    <mml:mrow>\n                      <mml:mo>-</mml:mo>\n                      <mml:mn>1</mml:mn>\n                    </mml:mrow>\n                  </mml:msup>\n                </mml:math></jats:alternatives></jats:inline-formula> depending on surface orientation. A wider range of adsorption energy (<jats:inline-formula><jats:alternatives><jats:tex-math>$$-$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mo>-</mml:mo>\n                </mml:math></jats:alternatives></jats:inline-formula> 132 to <jats:inline-formula><jats:alternatives><jats:tex-math>$$-$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:mo>-</mml:mo>\n                </mml:math></jats:alternatives></jats:inline-formula> 236 kJ mol<jats:inline-formula><jats:alternatives><jats:tex-math>$$^{-1}$$</jats:tex-math><mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                  <mml:msup>\n                    <mml:mrow/>\n                    <mml:mrow>\n                      <mml:mo>-</mml:mo>\n                      <mml:mn>1</mml:mn>\n                    </mml:mrow>\n                  </mml:msup>\n                </mml:math></jats:alternatives></jats:inline-formula>) was observed for dissociative adsorption. Molecular adsorption was energetically favored on (010) surfaces while dissociative adsorption was most favorable on (111) surfaces. This DFT study provides valuable insights into the water adsorption behavior on low index surfaces of CAS phase in stone wool, which can be useful for designing effective strategies to manage moisture-related issues in construction materials. Based on these findings, additional research on the dynamics and kinetics of water adsorption and desorption processes of this thermal isolation material is suggested.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1038/s41598-024-59754-5",
+  "pdf_path": "aluminosilicate/papers/doi_10.1038_s41598-024-59754-5/paper.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-59754-5.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 16,
+  "journal": "Scientific Reports",
+  "publisher": "",
+  "issn": "2045-2322",
+  "quartile": "",
+  "added_at": "2026-09-09T02:16:33.239376+00:00",
+  "updated_at": "",
+  "extra": {}
+}
