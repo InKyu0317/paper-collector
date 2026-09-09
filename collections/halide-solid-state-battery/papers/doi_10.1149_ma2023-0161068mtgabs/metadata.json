@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2023-0161068mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Addressing Energy/Power Tradeoffs in Composite Solid-State Battery Electrodes",
+  "authors": [
+    {
+      "name": "Neil P. Dasgupta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-0161068mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-0161068mtgabs",
+  "published": "2023-8-28",
+  "abstract": "<jats:p>  \tSolid-state batteries (SSBs) have seen a dramatic increase in research in recent years because of their ability to address safety challenges associated with flammable liquid electrolytes, and the potential to enable Li metal anodes. However, SSBs present unique challenges, including high interfacial impedances, accommodation of mechanical stresses due to solid-solid interfacial contact, and (electro)chemical instabilities that can evolve during dynamic cycling conditions. Furthermore, a significant challenge facing the scale-up of SSBs is to improve our understanding of processing science needed to enable manufacturing.</jats:p>\n               <jats:p>While a significant amount of attention has been paid recently to the Li metal anode/electrolyte interface, there has been significantly less work on the cathode side of the SSB. In SSBs, the cathodes are typically composites of the active material and solid electrolyte (SE) phases, which experience rate limitations. Analogous to porous electrodes with liquid electrolytes, the rate capability of these composite solid-state electrodes is strongly dependent on electrode thickness (electrode capacity) and electrode composition/microstructure. These results in tradeoffs between energy and power density, which are exacerbated at high charging rates.</jats:p>\n               <jats:p>To address these challenges, we have recently applied <jats:italic>operando </jats:italic>optical microscopy to directly observe state-of-charge (SoC) gradients in composite solid-state electrodes, using graphite as a model active material [1]. To describe mass transport in these composite electrodes, continuum-scale modeling was performed, which illustrates the critical role of the electrode microstructure and tortuosity on rate capability. These <jats:italic>in situ</jats:italic> observations are consistent with <jats:italic>ex situ</jats:italic> measurements of Li-graphite half-cells, where we quantify the rate capability as a function of areal capacity.</jats:p>\n               <jats:p>To overcome these limitations, we engineered composite SSB electrodes with controlled microstructure and 3-D architectures. These electrodes showed improved homogeneity in the local SOCs throughout the electrode thickness, enabling high-rate cycling capabilities. Overall, the insights presented here will enable new strategies to overcome power/energy tradeoffs in SSBs with composite electrodes.</jats:p>\n               <jats:p>[1] A. L. Davis, V. Goel, D. W. Liao, M. N. Main, E. Kazyak, J. Lee, K. Thornton, N. P. Dasgupta, ACS Energy Lett. 6, 2993 (2021)    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-0161068mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-0161068mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-0161068mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-09T02:18:04.638914+00:00",
+  "updated_at": "",
+  "extra": {}
+}

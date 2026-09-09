@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.1109_jssc.2024.3494536",
+  "collection": "halide-solid-state-battery",
+  "title": "An Amplitude-Programmable Energy-Recycling High-Voltage Resonant Pulser for Battery- Powered Ultrasound Devices",
+  "authors": [
+    {
+      "name": "Imad Bellouki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0009-2190-9663",
+      "affiliation": "Electronic Instrumentation Laboratory, Delft University of Technology, Delft, The Netherlands"
+    },
+    {
+      "name": "Nuriel N. M. Rozsa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1946-8917",
+      "affiliation": "Electronic Instrumentation Laboratory, Delft University of Technology, Delft, The Netherlands"
+    },
+    {
+      "name": "Zu-Yao Chang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Electronic Instrumentation Laboratory, Delft University of Technology, Delft, The Netherlands"
+    },
+    {
+      "name": "Zhao Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Electronic Instrumentation Laboratory, Delft University of Technology, Delft, The Netherlands"
+    },
+    {
+      "name": "Mingliang Tan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Sonosilicon, Hangzhou, China"
+    },
+    {
+      "name": "Michiel A. P. Pertijs",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9891-4374",
+      "affiliation": "Electronic Instrumentation Laboratory, Delft University of Technology, Delft, The Netherlands"
+    }
+  ],
+  "doi": "10.1109/jssc.2024.3494536",
+  "url": "https://doi.org/10.1109/jssc.2024.3494536",
+  "published": "2025-6",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1109/jssc.2024.3494536",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1109_jssc.2024.3494536/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "IEEE Journal of Solid-State Circuits",
+  "publisher": "",
+  "issn": "0018-9200",
+  "quartile": "",
+  "added_at": "2026-09-09T02:18:03.935158+00:00",
+  "updated_at": "",
+  "extra": {}
+}
