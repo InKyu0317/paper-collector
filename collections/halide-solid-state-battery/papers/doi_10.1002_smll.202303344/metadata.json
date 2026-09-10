@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1002_smll.202303344",
+  "collection": "halide-solid-state-battery",
+  "title": "Simultaneous High Ionic Conductivity and Lithium‐Ion Transference Number in Single‐Ion Conductor Network Polymer Enabling Fast‐Charging Solid‐State Lithium Battery",
+  "authors": [
+    {
+      "name": "Yongyin Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Qiyue Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Junlong Zou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Yansen Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Jiashen Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Mingtao Zheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Yingliang Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    },
+    {
+      "name": "Yeru Liang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6169-9981",
+      "affiliation": "Key Laboratory for Biobased Materials and Energy of Ministry of Education Guangdong Provincial Engineering Technology Research Center for Optical Agriculture College of Materials and Energy South China Agricultural University  Guangzhou 510642 P. R. China"
+    }
+  ],
+  "doi": "10.1002/smll.202303344",
+  "url": "https://doi.org/10.1002/smll.202303344",
+  "published": "2023-10",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Developing solid‐state electrolyte with sufficient ionic conduction and flexible‐intimate interface is vital to advance fast‐charging solid‐state lithium batteries. Solid polymer electrolyte yields the promise of interfacial compatibility, yet its critical bottleneck is how to simultaneously achieve high ionic conductivity and lithium‐ion transference number. Herein, single‐ion conducting network polymer electrolyte (SICNP) enabling fast charging is proposed to positively realize fast lithium‐ion locomotion with both high ionic conductivity of 1.1 × 10<jats:sup>−3</jats:sup> S cm<jats:sup>−1</jats:sup> and lithium‐ion transference number of 0.92 at room temperature. Experimental characterization and theoretical simulations demonstrate that the construction of polymer network structure for single‐ion conductor not only facilitates fast hopping of lithium ions for boosting ionic kinetics, but also enables a high dissociation level of the negative charge for lithium‐ion transference number close to unity. As a result, the solid‐state lithium batteries constructed by coupling SICNP with lithium anodes and various cathodes (e.g., LiFePO<jats:sub>4</jats:sub>, sulfur, and LiCoO<jats:sub>2</jats:sub>) display impressive high‐rate cycling performance (e.g., 95% capacity retention at 5 C for 1000 cycles in LiFePO<jats:sub>4</jats:sub>|SICNP|lithium cell) and fast‐charging capability (e.g., being charged within 6 min and discharged over than 180 min in LiCoO<jats:sub>2</jats:sub>|SICNP|lithium cell). Our study provides a prospective direction for solid‐state electrolyte that meets the lithium‐ion dynamics for practical fast‐charging solid‐state lithium batteries.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/smll.202303344",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.202303344/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 43,
+  "journal": "Small",
+  "publisher": "",
+  "issn": "1613-6810",
+  "quartile": "",
+  "added_at": "2026-09-10T02:13:44.907212+00:00",
+  "updated_at": "",
+  "extra": {}
+}

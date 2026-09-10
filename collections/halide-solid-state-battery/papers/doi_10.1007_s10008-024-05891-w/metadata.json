@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1007_s10008-024-05891-w",
+  "collection": "halide-solid-state-battery",
+  "title": "Template-assisted electrodeposition of freestanding antimony, tin, and antimony-tin nanowire arrays from an ionic liquid",
+  "authors": [
+    {
+      "name": "Sherief A. Al Kiey",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "H. K. Farag",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "S. Zein El Abedin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s10008-024-05891-w",
+  "url": "https://doi.org/10.1007/s10008-024-05891-w",
+  "published": "2024-9",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>In the present study, we show the electrochemical synthesis of Sb, Sn, and Sb-Sn nanowire arrays from the ionic liquid 1-butyl-1-methylpyrrolidinium bis(trifluoromethylsulfonate ([Py<jats:sub>1,4</jats:sub>]TfO) via templated-assisted approaches. Commercially available track etched polycarbonate template with a nominal pore diameter of 400 nm was utilized as a template. The nanowires were electrochemically deposited inside the pores of the template; then, a supporting copper layer was electrodeposited on the back side of the template. Subsequently, the template was dissolved with dichloromethane, and the structural morphology of the nanowire structures was explored by high-resolution scanning electron microscopy (SEM) and energy dispersive x-ray (EDX). Freestanding, mechanically stable nanowire arrays of Sb, Sn, and Sb-Sn with an average pore diameter of 400 nm were obtained. The charge/discharge characteristics of the electrodeposited nanowire films were investigated to explore the Li storage capacity of the fabricated electrodes. The results revealed that the electrodeposited nanowire films are promising anode candidates for the future generation of Li-ion batteries.</jats:p>\n                <jats:p><jats:bold>Graphical abstract</jats:bold></jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s10008-024-05891-w",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1007_s10008-024-05891-w/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10008-024-05891-w.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "",
+  "issn": "1432-8488",
+  "quartile": "",
+  "added_at": "2026-09-10T02:13:44.906908+00:00",
+  "updated_at": "",
+  "extra": {}
+}

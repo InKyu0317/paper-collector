@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2024-012461mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Synthesis and Characterizations of Novel Copolymers with Zwitterionic Moiety-Based Solid Polymer Electrolytes for Solid-State Lithium Metal Battery",
+  "authors": [
+    {
+      "name": "Quoc-Thai Pham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Badril Azhar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-012461mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-012461mtgabs",
+  "published": "2024-8-9",
+  "abstract": "<jats:p>  \tElectric vehicles (EVs) have become the dominant choice in the automotive industry, displacing internal combustion engine vehicles (ICEVs) to some extent. The development of high-efficiency batteries is essential to meet these market demands. Conventional lithium-ion batteries (LIBs), which consist of a cathode, anode, separator, and liquid electrolyte (such as 1M LiPF<jats:sub>6</jats:sub> in carbonate solvents), have been widely utilized in portable electronic devices, hybrid electric vehicles (HEVs), and EVs. This popularity is attributed to their relatively high energy density and extended cycle life [1]. However, LIBs with energy density exceeding 240 Wh kg<jats:sup>-1</jats:sup> face challenges in terms of thermal stability, potentially leading to fire and explosions by overcharging or accidental cell penetration. This drawback significantly hinders their application in automotive settings [2, 3]. In response to these safety concerns, there is a shift towards incorporating solid-state electrolytes (SSEs) as a replacement for liquid electrolytes. SSEs include solid polymer electrolyte (SPE), inorganic solid electrolyte (ISE), and composite polymer electrolyte (CPE).</jats:p>\n               <jats:p>Solid-state lithium metal batteries (SSLMBs) incorporating SPE hold significant promise for advancing energy storage technologies due to their high energy density and improved safety features. However, the low ionic conductivity and ionic transference number of SPEs present challenges in their application for solid-state batteries. This work focuses on designing novel copolymers with polar soft unit and zwitterionic unit to address these challenges.</jats:p>\n               <jats:p>In this study, poly(ethylene glycol) methyl ether acrylate (PEGMEA) and sulfobetaine methacrylate (SBMA) were selected as the polar soft segment and zwitterionic unit, respectively. Various ratios of PEGMEA/SBMA in copolymers were synthesized and characterized, and the resultant SPEs consisting of resultant copolymers and lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) were prepared. Subsequently, their electrochemical, thermal, mechanical, and morphological properties were systematically investigated. The copolymers-based SPEs exhibited improved electrochemical properties. The optimized SPE comprising the copolymer with the molar ratio of PEGMEA/SBMA = 1/3 and 50 wt% LiTFSI exhibited the ionic conductivity of approx. 2×10<jats:sup>–4</jats:sup> S cm<jats:sup>–1</jats:sup>, lithium-ion transference number of approx. 0.3, Li<jats:sup>+</jats:sup> diffusion coefficient of 15×10<jats:sup>-12</jats:sup> cm² s<jats:sup>-1</jats:sup>, and oxidation stability of 5.2 V (vs. Li/Li<jats:sup>+</jats:sup>) at 25 <jats:sup>o</jats:sup>C. Additionally, the mechanical properties of such SPEs were assessed, showing improved tensile strength (up to approx. 6 MPa) and Young’s modulus (up to approx. 83 MPa) with increasing SBMA content. The selected SPE with the best electrochemical properties was sandwiched between a Li metal electrode and a LiFePO<jats:sub>4</jats:sub> electrode to assemble a SSLMB. As a result, the discharge capacity (DC) at 0.1 C-rate and room temperature was approx. 170 mA h g<jats:sup>–1</jats:sup>. Furthermore, the DC at a 0.5 C-rate was approx. 146 mA h g<jats:sup>–1</jats:sup>, and the capacity retention of 70% obtained after 470 cycles. In summary, this work demonstrates the potential of tailored copolymers with zwitterionic moiety-based SPEs for SSLMB. The comprehensive characterization and performance assessments provide valuable insights into the design and optimization of polymer electrolytes for next-generation energy storage systems.</jats:p>\n               <jats:p>The copolymers and corresponding SPEs underwent characterization through various techniques such as DSC, SEM, XRD, and FTIR. The Ionic conductivity of the SPEs was determined by analyzing the results obtained from EIS measurement. The lithium-ion diffusion coefficient (D<jats:sub>Li+</jats:sub>) for SPE in a symmetric SSLMB cell, Li/SPE/Li, was also calculated based on the EIS results [4]. The oxidation stability window of the SPE was measured using the linear sweep voltammetry technique, and the ion transfer number was determined using the Evans-Vincent-Bruce method [5].</jats:p>\n               <jats:p>\n                  <jats:bold>References</jats:bold>\n               </jats:p>\n               <jats:p>1. Wu, F., et al., Chemical Society Reviews, 2020. 49(5): 1569-1614.</jats:p>\n               <jats:p>2. Wang, Q., et al., Journal of Power Sources, 2012. 208: p. 210-224.</jats:p>\n               <jats:p>3. Wu, Y.S., et al., ACS Sustainable Chemistry &amp; Engineering, 2022. 10(22):7394-7408.</jats:p>\n               <jats:p>4. Pham, Q.T., et al., ACS Applied Energy Materials, 2023. 6 (6):3525-3537.</jats:p>\n               <jats:p>5. Evans, J., et al., Polymer, 1987. 28: 2324-2328. </jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n               </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-012461mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-012461mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-012461mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-10T02:13:46.772816+00:00",
+  "updated_at": "",
+  "extra": {}
+}

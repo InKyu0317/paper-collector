@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1002_est2.603",
+  "collection": "halide-solid-state-battery",
+  "title": "Preliminary study of novel all‐solid‐state tin‐graphite battery based on composite solid electrolyte",
+  "authors": [
+    {
+      "name": "Po‐Yuan Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering National Cheng Kung University  Tainan Taiwan"
+    },
+    {
+      "name": "Fei‐Yi Hung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5432-0980",
+      "affiliation": "Department of Materials Science and Engineering National Cheng Kung University  Tainan Taiwan"
+    },
+    {
+      "name": "Bo‐Chin Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering National Cheng Kung University  Tainan Taiwan"
+    }
+  ],
+  "doi": "10.1002/est2.603",
+  "url": "https://doi.org/10.1002/est2.603",
+  "published": "2024-3",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>This study primarily focuses on utilizing tin as the primary electrode material. Tin is chosen for its exceptional theoretical capacitance and cost‐effectiveness, attributed to its tetravalent ions carrying a high charge. Tin also exhibits desirable soft material characteristics, ensuring superior stability and adhesion. The experimental methodology involves thermal evaporation and vacuum heat treatment to create Sn, Sn‐9 wt.%Zn, Sn‐40wt.%Zn alloy negative electrodes. For the solid electrolyte, we opt for magnesium silicate processed battery cloth deposition combined with a polymer, offering flexibility. The positive electrode incorporates a graphite film modified with a stable and conductive phosphate, referred to as GFN. This approach enables the development of an all‐solid‐state Sn‐C ion secondary battery while prioritizing safety and environmental friendliness. The experimental findings encompass microscopic structural insights into various electrode materials, elucidation of the metallurgical mechanism of alloy films, exploration of ion transport pathways, and confirmation of the charge and discharge mechanism.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/est2.603",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_est2.603/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 3,
+  "journal": "Energy Storage",
+  "publisher": "",
+  "issn": "2578-4862",
+  "quartile": "",
+  "added_at": "2026-09-10T02:13:44.907440+00:00",
+  "updated_at": "",
+  "extra": {}
+}
