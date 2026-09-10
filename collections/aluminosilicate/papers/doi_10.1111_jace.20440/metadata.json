@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1111_jace.20440",
+  "collection": "aluminosilicate",
+  "title": "Experimental and computational methods for studying relaxation of aluminosilicate glasses: A review",
+  "authors": [
+    {
+      "name": "Brittney M. Hauke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4175-8569",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "Aaron M. Bossen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7975-9113",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "John C. Mauro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4319-3530",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    }
+  ],
+  "doi": "10.1111/jace.20440",
+  "url": "https://doi.org/10.1111/jace.20440",
+  "published": "2025-6",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Relaxation plays a critical role in all glasses, especially those that undergo heat treatments for industrial applications. However, the fundamental mechanisms of relaxation are still poorly understood, especially in industrially relevant glasses such as aluminosilicate systems. Additionally, there exists a gap between glass chemistry and theories of relaxation in glass physics, where the underlying descriptions of relaxation are not always tied to specific features of glass structure. Here, we present a comprehensive review of experimental and computational models used to study the relaxation behavior of high‐temperature oxide glasses, with an emphasis on aluminosilicate glass compositions relevant to the high‐tech glass industry. At the end of this review, we provide a perspective on bridging the gap between glass physics and chemistry through joint experimental and modeling approaches, as well as potential future experiments for measuring relaxation behavior below the glass transition temperature.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.20440",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.20440/paper.pdf",
+  "pdf_url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/jace.20440",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 10,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-09-10T02:12:57.281955+00:00",
+  "updated_at": "",
+  "extra": {}
+}
