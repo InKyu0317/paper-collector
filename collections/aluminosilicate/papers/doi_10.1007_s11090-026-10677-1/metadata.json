@@ -1,0 +1,101 @@
+{
+  "paper_id": "doi_10.1007_s11090-026-10677-1",
+  "collection": "aluminosilicate",
+  "title": "Experimental Verification of Laminar Gas Flows and Localized Plasma-Induced Perturbations in a Microcavity Plasma Array",
+  "authors": [
+    {
+      "name": "David Steuer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3005-0829",
+      "affiliation": ""
+    },
+    {
+      "name": "Alexander Böddecker",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2216-9515",
+      "affiliation": ""
+    },
+    {
+      "name": "Felix Awakowicz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0000-2265-1144",
+      "affiliation": ""
+    },
+    {
+      "name": "Henrik van Impel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8283-0873",
+      "affiliation": ""
+    },
+    {
+      "name": "Ihor Korolov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2384-1243",
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas Mussenbrock",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6445-4990",
+      "affiliation": ""
+    },
+    {
+      "name": "Volker Schulz-von der Gathen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7182-3253",
+      "affiliation": ""
+    },
+    {
+      "name": "Marc Böke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1062-5808",
+      "affiliation": ""
+    },
+    {
+      "name": "Judith Golda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2344-2146",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1007/s11090-026-10677-1",
+  "url": "https://doi.org/10.1007/s11090-026-10677-1",
+  "published": "2026-7",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Dielectric barrier discharges (DBDs), and in particular microcavity plasma arrays (MCPAs), represent a promising reactor platform for plasma-catalytic studies, as they allow plasma generation directly at catalytic surfaces, thereby providing direct access to the investigation of plasma–surface interactions. In addition to fundamental plasma parameters such as electric fields and species densities, the gas flow through the reactor plays a crucial role in the process. It directly determines the effective treatment time and volume, while the underlying flow dynamics govern the transport of plasma-generated species such as reactive molecules and atoms. Besides the reactor geometry, the discharge itself may influence the flow through induced forces, potentially generating vortices and enhancing mixing, which could improve conversion efficiency. While complex flow fields may be desirable for maximizing process efficiency, research reactors such as the MCPA benefit from predictable transport conditions when the primary objective is the study of plasma–surface interactions. In this study, the flow dynamics within an MCPA reactor are investigated using particle image velocimetry (PIV) in helium. Spatially and temporally resolved measurements are used to analyze the influence of the plasma discharge on the gas flow. The results show that the discharge can exert a measurable influence on the flow field; however, this effect is spatially confined to a region within approximately 0.5 mm distance from the electrode and is most pronounced during the ignition phase of the discharge. During steady-state operation, the plasma has no significant impact on the overall flow behavior. Under these conditions, the velocity field can be described by a classical laminar Poiseuille profile.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1007/s11090-026-10677-1",
+  "pdf_path": "aluminosilicate/papers/doi_10.1007_s11090-026-10677-1/paper.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11090-026-10677-1.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Plasma Chemistry and Plasma Processing",
+  "publisher": "",
+  "issn": "0272-4324",
+  "quartile": "",
+  "added_at": "2026-09-12T02:19:26.381000+00:00",
+  "updated_at": "",
+  "extra": {}
+}
