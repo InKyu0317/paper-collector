@@ -1,0 +1,109 @@
+{
+  "paper_id": "doi_10.1002_aenm.202300156",
+  "collection": "halide-solid-state-battery",
+  "title": "Lamellar Ionic Liquid Composite Electrolyte for Wide‐Temperature Solid‐State Lithium‐Metal Battery",
+  "authors": [
+    {
+      "name": "Yafang Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Jiajia Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Huan Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Weijie Kou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Yan Dai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Wei Dang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Wenjia Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Jingtao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Yongzhu Fu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "College of Chemistry Zhengzhou University  Zhengzhou 450001 P. R. China"
+    },
+    {
+      "name": "Zhongyi Jiang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0048-8849",
+      "affiliation": "Key Laboratory for Green Chemical Technology of Ministry of Education School of Chemical Engineering and Technology Tianjin University  Tianjin 300072 P. R. China"
+    }
+  ],
+  "doi": "10.1002/aenm.202300156",
+  "url": "https://doi.org/10.1002/aenm.202300156",
+  "published": "2023-6",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Electrolytes that can work over a wide temperature range are crucial forsustainable advanced energy systems. Here, a kind of lamellar ionic liquid composite electrolyte (L‐ILCE) is explored through confining ionic liquids (ILs) in ordered interlayer nanochannels of 2D vermiculite framework. It is demonstrated that, within nanochannels, the finely tuned microstructure can induce the rearrangement and crystallinity of ILs, affording L‐ILCE the combined superiorities of liquid electrolyte and solid‐state electrolyte. L‐ILCE exhibits high ionic conductivities (0.09–1.35 × 10\n                    <jats:sup>−3</jats:sup>\n                     S cm\n                    <jats:sup>−1</jats:sup>\n                     at −40 to 100 °C), whereas polymer and inorganic electrolytes usually lose ionic conduction ability below 0 °C. Additionally, L‐ILCE exhibits high transference number (0.89, comparable with single‐ion conductors) and wide electrochemical window (0–5.3 V). LiFePO\n                    <jats:sub>4</jats:sub>\n                    ||Li and high‐voltage LiNi\n                    <jats:sub>0.8</jats:sub>\n                    Mn\n                    <jats:sub>0.1</jats:sub>\n                    Co\n                    <jats:sub>0.1</jats:sub>\n                    O\n                    <jats:sub>2</jats:sub>\n                    ||Li cells assembled from L‐ILCEs exhibit highly stable electrochemical performance in −20 to 60 °C. Furthermore, pouch cells (0.1 Ah) exhibit high capacity of 93.8 and 45.0 mAh after 50 cycles along with capacity retention of 97% and 98% at 60 and −20 °C, respectively, as well as excellent flexibility and safety. This study offers promise in the rational design of advanced ion conductors for lithium‐based batteries with wider operating temperatures.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/aenm.202300156",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_aenm.202300156/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 58,
+  "journal": "Advanced Energy Materials",
+  "publisher": "",
+  "issn": "1614-6832",
+  "quartile": "",
+  "added_at": "2026-09-12T02:17:02.741886+00:00",
+  "updated_at": "",
+  "extra": {}
+}

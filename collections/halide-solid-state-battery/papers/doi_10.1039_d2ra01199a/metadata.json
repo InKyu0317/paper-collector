@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1039_d2ra01199a",
+  "collection": "halide-solid-state-battery",
+  "title": "High capacity all-solid-state lithium battery enabled by\n                    <i>in situ</i>\n                    formation of an ionic conduction path by lithiation of MgH\n                    <sub>2</sub>",
+  "authors": [
+    {
+      "name": "Atsushi Inoishi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7774-2502",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga 816-8580, Japan"
+    },
+    {
+      "name": "Hiroki Sato",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Interdisciplinary Graduate School of Engineering Sciences, Kyushu University, Kasuga-Koen 6-1, Kasuga-shi, Fukuoka 816-8580, Japan"
+    },
+    {
+      "name": "Yixin Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Interdisciplinary Graduate School of Engineering Sciences, Kyushu University, Kasuga-Koen 6-1, Kasuga-shi, Fukuoka 816-8580, Japan"
+    },
+    {
+      "name": "Hikaru Saito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga 816-8580, Japan"
+    },
+    {
+      "name": "Ryo Sakamoto",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-1382-8803",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga 816-8580, Japan"
+    },
+    {
+      "name": "Hikari Sakaebe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2520-1621",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga 816-8580, Japan"
+    },
+    {
+      "name": "Shigeto Okada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-8944-1990",
+      "affiliation": "Institute for Materials Chemistry and Engineering, Kyushu University, Kasuga-koen 6-1, Kasuga 816-8580, Japan"
+    }
+  ],
+  "doi": "10.1039/d2ra01199a",
+  "url": "https://doi.org/10.1039/d2ra01199a",
+  "published": null,
+  "abstract": "<jats:p>\n                    MgH\n                    <jats:sub>2</jats:sub>\n                    electrode in an all-solid-state battery reversibly operated without solid electrolyte in the electrode mixture.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1039/d2ra01199a",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d2ra01199a/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 15,
+  "journal": "RSC Advances",
+  "publisher": "",
+  "issn": "2046-2069",
+  "quartile": "",
+  "added_at": "2026-09-12T02:17:02.741555+00:00",
+  "updated_at": "",
+  "extra": {}
+}

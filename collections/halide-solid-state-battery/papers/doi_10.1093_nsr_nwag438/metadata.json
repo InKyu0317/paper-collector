@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1093_nsr_nwag438",
+  "collection": "halide-solid-state-battery",
+  "title": "A paradigm shift in all-solid-state lithium batteries: halide cathode materials streamlined for multi-electron reactions",
+  "authors": [
+    {
+      "name": "Yang Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Energy and Environmental Engineering, Hebei University of Technology , Tianjin 300401 ,"
+    },
+    {
+      "name": "Yuhao Duan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dalian Institute of Chemical Physics, Chinese Academy of Sciences , Dalian 116023 ,"
+    },
+    {
+      "name": "Xiaofei Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2713-9681",
+      "affiliation": "Dalian Institute of Chemical Physics, Chinese Academy of Sciences , Dalian 116023 ,"
+    },
+    {
+      "name": "Xueliang Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Eastern Institute for Advanced Study, Eastern Institute of Technology , Ningbo 315200 ,"
+    },
+    {
+      "name": "Xianfeng Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Dalian Institute of Chemical Physics, Chinese Academy of Sciences , Dalian 116023 ,"
+    }
+  ],
+  "doi": "10.1093/nsr/nwag438",
+  "url": "https://doi.org/10.1093/nsr/nwag438",
+  "published": null,
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Halide cathode active materials (CAMs) are emerging as a transformative platform for all-solid-state lithium batteries (ASSLBs), offering intrinsic high ionic/electronic conductivities, multi-electron transfer capability, and the unique potential for single-phase electrode architectures that eliminate inactive components. Despite these advantages, critical challenges regarding their reaction mechanisms, interfacial stability, and structural evolution during cycling remain inadequately addressed. In this review, we systematically trace the evolution of halide CAMs from liquid-electrolyte systems to ASSLBs, focusing on recent breakthroughs in single-phase interface engineering and multi-electron reaction mechanisms. We highlight how elemental and structural units govern ionic/electronic transport pathways and reversibility, while critically evaluating the dilemma between energy density and efficiency in multi-electron reaction. Looking forward, a roadmap for next-generation halide CAM development is outlined, encompassing high-throughput material screening, controllable design of integrated all-in-one architectures, and strategies to overcome voltage hysteresis and conversion kinetics limitations. By bridging fundamental insights with practical engineering, this review aims to provide actionable guidance for realizing high-energy, cost-effective ASSLBs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1093/nsr/nwag438",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1093_nsr_nwag438/paper.pdf",
+  "pdf_url": "https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwag438/69027142/nwag438.pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "National Science Review",
+  "publisher": "",
+  "issn": "2095-5138",
+  "quartile": "",
+  "added_at": "2026-09-12T02:17:02.787878+00:00",
+  "updated_at": "",
+  "extra": {}
+}
