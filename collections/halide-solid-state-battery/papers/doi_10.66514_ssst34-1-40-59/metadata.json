@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.66514_ssst34-1-40-59",
+  "collection": "halide-solid-state-battery",
+  "title": "Ionic Conduction and Electrochemical Performance of Propylene Carbonate-Plasticized PLA–LiClO₄ Polymer Electrolytes for EDLC Applications",
+  "authors": [
+    {
+      "name": "Fairuzdzah Ahmad Lothfy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Applied Sciences, Universiti Teknologi MARA Pahang, Bandar Tun Abdul Razak Jengka, Pahang, Malaysia"
+    },
+    {
+      "name": "Nur Ainul Mardhiyah Shahri Zaili",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Applied Sciences, Universiti Teknologi MARA Pahang, Bandar Tun Abdul Razak Jengka, Pahang, Malaysia"
+    },
+    {
+      "name": "Nurul Infaza Talalah Ramli",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Applied Sciences, Universiti Teknologi MARA Pahang, Bandar Tun Abdul Razak Jengka, Pahang, Malaysia"
+    },
+    {
+      "name": "Siti Zafirah Zainal Abidin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Applied Sciences, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia"
+    }
+  ],
+  "doi": "10.66514/ssst34-1-40-59",
+  "url": "https://doi.org/10.66514/ssst34-1-40-59",
+  "published": "2026-6-1",
+  "abstract": "<jats:p>The transition to green energy technologies requires environmentally friendly electrolytes that can replace hazardous liquid systems while enabling rapid charge storage. This study investigates biodegradable solid polymer electrolytes based on a poly (lactic acid)–LiClO₄ matrix plasticized with 10–70 wt.% propylene carbonate for electric double-layer capacitor (EDLC) applications. Electrochemical and structural analyses showed that the electrolyte containing 30 wt.% propylene carbonates exhibited the best performance, achieving a room-temperature ionic conductivity of 1.69×10⁻³ S cm⁻¹ due to a maximized free-ion fraction (65.71%) and enhanced polymer chain flexibility, along with a broad electrochemical stability window of 5.6 V. The fabricated EDLC demonstrated a maximum specific capacitance of 47.43 F g⁻¹ at 1 mV s⁻¹, delivering an energy density of 3.12 Wh kg⁻¹ and a power density of 173.61 W kg⁻¹ at 5 mA g⁻¹. These results confirmed the potential of the developed electrolyte for sustainable, high-performance green energy storage applications in next-generation EDLCs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.66514/ssst34-1-40-59",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.66514_ssst34-1-40-59/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Solid State Science and Technology",
+  "publisher": "",
+  "issn": "0128-7389",
+  "quartile": "",
+  "added_at": "2026-09-13T02:12:43.080863+00:00",
+  "updated_at": "",
+  "extra": {}
+}
