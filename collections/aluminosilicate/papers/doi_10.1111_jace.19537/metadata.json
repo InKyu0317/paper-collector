@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1111_jace.19537",
+  "collection": "aluminosilicate",
+  "title": "Evolution of electrical, structural, and chemical properties of Li‐aluminosilicate glass during crystallization",
+  "authors": [
+    {
+      "name": "Monika Backhaus‐Ricoult",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0940-6168",
+      "affiliation": "CETC, Groupe de Materiaux Corning SAS  Avon France"
+    },
+    {
+      "name": "Monique Comte",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "CETC, Groupe de Materiaux Corning SAS  Avon France"
+    },
+    {
+      "name": "Eric Francois",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "CETC, Groupe de Materiaux Corning SAS  Avon France"
+    },
+    {
+      "name": "Aram Rezikyan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Crystalline Materials Research/ Characterization Science Corning Research and Development Corporation  Corning New York USA"
+    },
+    {
+      "name": "Bryan Wheaton",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Crystalline Materials Research/ Characterization Science Corning Research and Development Corporation  Corning New York USA"
+    }
+  ],
+  "doi": "10.1111/jace.19537",
+  "url": "https://doi.org/10.1111/jace.19537",
+  "published": "2024-2",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Structural, chemical, and microstructural changes in lithium aluminum silicate glass during ceramming are tracked by in‐situ impedance spectroscopy, X‐ray diffraction and transmission electron microscopy. The glass’ electric and dielectric properties are found to evolve during the ceram cycle. Scaling of frequency‐dependent electrical conductivity and dielectric properties provides temperature‐independent information of bulk phases and interfaces in presence.</jats:p>\n                  <jats:p>The initial glass is an ion conductor with Li‐ion mobility following simple Arrhenius‐type behavior. At the nucleation onset, a badly defined, broad feature appears in the impedance spectra, that represents early‐stage nuclei with their interfaces and evolves over time into separate contributions from internal interfaces and ion mobility in crystalline phase. Impedance tracking suggests that nuclei form by de‐mixing and phase separation of the glass, first producing interfaces in a very defective structure before the well‐defined structure and chemistry of crystalline β‐quartz crystal develop in a second time. Findings are supported by XRD and TEM.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.19537",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.19537/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 1,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-09-13T02:13:18.049368+00:00",
+  "updated_at": "",
+  "extra": {}
+}
