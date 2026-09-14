@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.62239_jca.2024.062",
+  "collection": "aluminosilicate",
+  "title": "Synthesis of aluminosilicate mesoporous material MSU-S from natural resources: Investigating the effects on the structure formation",
+  "authors": [
+    {
+      "name": "Thi Linh Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ngo Ha Son",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Le Van Duong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ta Ngoc Don",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Nguyen Van Khang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.62239/jca.2024.062",
+  "url": "https://doi.org/10.62239/jca.2024.062",
+  "published": null,
+  "abstract": "<jats:p>Zeolite seed-based mesoporous aluminosilicate material MSU-S is normally synthesized from pure chemicals. In the study, MSU-S material was synthesized using natural resources such as rice husk, and kaolin in Vietnam. Here, a systematic investigation is conducted to find the relationship between the synthesis conditions (aging time, hydrothermal time, hydrothermal temperature, pH environment) and the formation of mesoporous structure, as well as the material properties. The sample was characterized by XRD, TEM, N2 adsorption-desorption isotherms, and TGA-DSC. The MSU-S material has been synthesized successfully from rice husk and kaolin. The best conditions are aging time of 24 hours, and hydrothermal conditions at 95 oC during 96 hours with pH=9. The MSU-S has an ordered hexagonal mesoporous structure containing zeolite BEA seed. The pore diameter is concentrated at 2.9 nm. The BET surface area is calculated to be 770 m²/g. Thermal stability is determined to be up to 900 oC.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.62239/jca.2024.062",
+  "pdf_path": "aluminosilicate/papers/doi_10.62239_jca.2024.062/paper.pdf",
+  "pdf_url": "https://jca.edu.vn/index.php/jca/article/download/2024.062/433",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Vietnam Journal of Catalysis and Adsorption",
+  "publisher": "",
+  "issn": "0866-7411",
+  "quartile": "",
+  "added_at": "2026-09-14T02:15:52.290244+00:00",
+  "updated_at": "",
+  "extra": {}
+}

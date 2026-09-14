@@ -1,0 +1,117 @@
+{
+  "paper_id": "doi_10.1002_ange.202424442",
+  "collection": "aluminosilicate",
+  "title": "Zeolite Blending: A New Approach to Direct Crystallization of Aluminosilicate Zeolite",
+  "authors": [
+    {
+      "name": "Masato Sawada",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Kensuke Okubo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Yao Lu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Samya Bekhti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Hiroto Toyoda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Liang Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Hiroaki Onozuka",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Science &amp; Innovation Center Mitsubishi Chemical Corporation  1000 Kamoshida-cho Aoba-ku Yokohama Japan"
+    },
+    {
+      "name": "Susumu Tsutsuminai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Science &amp; Innovation Center Mitsubishi Chemical Corporation  1000 Kamoshida-cho Aoba-ku Yokohama Japan"
+    },
+    {
+      "name": "Junko N. Kondo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Office of Communication and DEI Section Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    },
+    {
+      "name": "Hermann Gies",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Institute of Geology, Mineralogy und Geophysics Ruhr-University Bochum  44780 Bochum Germany"
+    },
+    {
+      "name": "Toshiyuki Yokoi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3315-3172",
+      "affiliation": "Institute of Integrated Research Institute of Science Tokyo  4259 Nagatsuta Midori-ku Yokohama Japan"
+    }
+  ],
+  "doi": "10.1002/ange.202424442",
+  "url": "https://doi.org/10.1002/ange.202424442",
+  "published": "2025-3-10",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Various synthesis methods for zeolites have been developed to date; however, precise control over aluminum (Al) content remains a significant challenge. For instance, in the case of CON‐type zeolites, it is especially difficult to obtain a Si/Al ratio below a value of approximately 100 by direct synthesis, and below approximately 30 by post‐treatment. In this study, we have developed a novel direct synthesis method of the CON‐type zeolite having desired Al content by applying the interzeolite conversion/interzeolite transformation, wherein precursor zeolites that possess common composite building units (CBUs) with the target zeolite are employed as the Al and Si source. Initially, a single zeolite was utilized as a precursor, resulting in the successful synthesis of a high Al CON‐type zeolite (Si/Al=40). Finally, we developed a novel synthesis method of the CON‐type zeolite; blending of two types of zeolites, MFI and Beta, as starting material in the IZC method led to the direct crystallization of the CON‐type aluminosilicate with high Al content (Si/Al=20).</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/ange.202424442",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_ange.202424442/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ange.202424442",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Angewandte Chemie",
+  "publisher": "",
+  "issn": "0044-8249",
+  "quartile": "",
+  "added_at": "2026-09-14T02:15:48.057832+00:00",
+  "updated_at": "",
+  "extra": {}
+}
