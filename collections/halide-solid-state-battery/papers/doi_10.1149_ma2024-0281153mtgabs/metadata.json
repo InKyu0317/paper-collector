@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1149_ma2024-0281153mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Interface Properties of Artificial Solid Electrolyte Layer on Li-Metal Anode for Quasi-Solid-State Battery",
+  "authors": [
+    {
+      "name": "Daeil Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2708-6049",
+      "affiliation": ""
+    },
+    {
+      "name": "Boyun Jang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Byeol Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Junwoo Joo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Joon-soo Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-0281153mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-0281153mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tLithium (Li)-metal anodes have received much attention because of their high theoretical specific capacity of 3,800 mAh/g and low density of 0.53 g/cm<jats:sup>3</jats:sup>. However, the high reactivity, which is a disadvantage of Li-metal anodes, causes unwanted Li-dendrites to grow and an unstable SEI layer to form on the Li-metal surface. Due to this phenomenon, it is difficult to develop Li-ion batteries using Li-metal anodes. To solve this problem, an artificial SEI (Solid Electrolyte Interface) layer mainly containing LiF was formed on the Li-metal foil using an existing electrochemical process before applying it to cell assembly. The properties of this artificial SEI were strongly dependent on electrochemical process conditions such as voltage ranges and time. Additionally, the interface properties between a quasi-solid electrolyte, one of the promising next-generation electrolytes, and a Li -metal anode were also investigated. To artificially form LiF, a gel-type electrolyte was prepared with various amount of FEC (Fluoroethylene carbonate) additive, and a LiF film was formed on the surface of Li-metal through the CV (Cyclic Voltammetry) process with various voltage ranges and scan rates. To study microstructure of artificial SEI layers, XRD, EDX, and XPS analysis were performed, and it was confirmed that LiF was uniformly distributed on the lithium metal surface after the process. To investigate the interface properties, EIS (Electrochemical Impedance Spectroscopy) before and after the CV process was obtained, and their interfacial resistance were precisely analyzed with various process conditions. Finally, with gel polymer, a polarization test under symmetrical cell conditions and cell performance with Ni-rich cathodes were measured to evaluate the performance of the artificial SEI layer on Li-metal anode. Li-metal with artificial SEI shows stable polarization behaviors for longer than 200 hrs at a current density of 0.2 mAh/cm<jats:sup>2</jats:sup>. All the results show that the semi-solid-state Li-metal battery with the artificial SEI layer has excellent cycle performances for the next generation Li-ion battery to guarantee the safety.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-0281153mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-0281153mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-0281153mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-14T02:12:19.886794+00:00",
+  "updated_at": "",
+  "extra": {}
+}

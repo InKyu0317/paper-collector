@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1002_smll.202202963",
+  "collection": "halide-solid-state-battery",
+  "title": "High Performance Solid‐State Lithium‐Sulfur Battery Enabled by Multi‐Functional Cathode and Flexible Hybrid Solid Electrolyte",
+  "authors": [
+    {
+      "name": "Hai Anh Hoang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Sungkyunkwan University  Suwon, Gyeonggi 16419 Republic of Korea"
+    },
+    {
+      "name": "Dukjoon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6187-0737",
+      "affiliation": "School of Chemical Engineering Sungkyunkwan University  Suwon, Gyeonggi 16419 Republic of Korea"
+    }
+  ],
+  "doi": "10.1002/smll.202202963",
+  "url": "https://doi.org/10.1002/smll.202202963",
+  "published": "2022-8",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    With its superior theoretical energy density as well as abundance and environment‐friendliness, the lithium–sulfur battery (LiSB) is a potential candidate to replace the traditional energy storage and generation systems. An innovative design is proposed for the high‐performance solid‐state LiSB system by combining the multi‐functional cathode comprising the sulfur‐loaded Al\n                    <jats:sub>2</jats:sub>\n                    O\n                    <jats:sub>3</jats:sub>\n                    ‐modified carbon nanotubes (S@ACNTs) and the flexible hybrid solid electrolyte (HSE). Assembled with S@ACNTs active material, the polycation poly(diallyldimethylammonium bis(trifluoromethylsulfonyl)imide) (PDATFSI) binder exhibits high Li\n                    <jats:sup>+</jats:sup>\n                    conductivity of 0.45 mS cm\n                    <jats:sup>−1</jats:sup>\n                    at room temperature, good thermal stability up to 450 °C, high adhesive strength with aluminum current collector up to 24 MPa, sustainable non‐flammability, and desirable flexibility. When assembled with HSE membrane, the S@ACNTs/PDATFSI–60IL cathode layer demonstrates effective polysulfide trapping behavior and superior compatibility (65 Ω), resulting in high discharge capacity of 1203 mAh g\n                    <jats:sup>−1</jats:sup>\n                    at 0.2 C in the 1st cycle, and long‐term stability up to 91.69% of the discharge capacity after 200 cycles of charge/discharge process.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/smll.202202963",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_smll.202202963/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202202963",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 23,
+  "journal": "Small",
+  "publisher": "",
+  "issn": "1613-6810",
+  "quartile": "",
+  "added_at": "2026-09-14T02:12:20.867173+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-022346mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(\n                    <i>Invited</i>\n                    ) Control of Two Solid Electrolyte Interphases at the Negative Electrode of an Anode-Free All Solid-State Battery Based on Argyrodite Electrolyte",
+  "authors": [
+    {
+      "name": "David Mitlin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-022346mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-022346mtgabs",
+  "published": "2025-11-24",
+  "abstract": "<jats:p>\n                    Electrochemical stability of anode-free all solid-state battery (AF-ASSB) based on argyrodite Li\n                    <jats:sub>6</jats:sub>\n                    PS\n                    <jats:sub>5</jats:sub>\n                    Cl (LPSCl) requires control of two distinct solid electrolyte interphases, SEI-1 and SEI-2. With an \"empty\" current collector used in AF-ASSB there are three active interfaces; lithium metal - SE interphase (SEI-1), lithium - current collector interface, and collector - SE interphase (SEI-2) where copper sulfides are formed even without external current. Bilayer of 140nm magnesium / 30nm tungsten (Mg/W-Cu) controls these and allows for state-of-the-art electrochemical performance in half-cells and full cells. AF-ASSB with NMC811 cathode achieves 150 cycles with Coulombic efficiency (CE) above 99.8%. With high mass-loading cathode (8.6 mAh cm\n                    <jats:sup>-2</jats:sup>\n                    ), AF-ASSB retains 86.5% capacity after 45 cycles at 0.2C. During electrodeposition of Li, gradient Li-Mg solid solution is formed, which reverses upon electrodissolution. This promotes conformal wetting/dewetting by Li and stabilizes SEI-1 by lowering thermodynamic driving force for SE reduction. Inert refractory W underlayer is required to prevent ongoing formation of SEI-2, which also drives electrochemical degradation. Inert Mo and Nb layers likewise protect Cu, while Li-active layers (Mg, Sn) do not due to pulverization. Mechanistic explanation for observed Li segregation within alloying Li\n                    <jats:sub>x</jats:sub>\n                    Mg layer is provided through mesoscale modelling, considering diffusivity and stress.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Front Cover: Control of Two Solid Electrolyte Interphases at the Negative Electrode of an Anode</jats:bold>\n                    <jats:bold>‐</jats:bold>\n                    <jats:bold>Free All Solid</jats:bold>\n                    <jats:bold>‐</jats:bold>\n                    <jats:bold>State Battery based on Argyrodite Electrolyte. Advanced Materials. 2025 Jan 6:2410948.</jats:bold>\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-022346mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-022346mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-022346mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-14T02:12:19.111071+00:00",
+  "updated_at": "",
+  "extra": {}
+}

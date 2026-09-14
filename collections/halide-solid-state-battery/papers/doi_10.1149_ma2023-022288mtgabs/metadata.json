@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1149_ma2023-022288mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Liquid-Phase Synthesis of the Li–Si–P–S–Cl Solid Electrolyte for All-Solid-State Li-Ion Battery",
+  "authors": [
+    {
+      "name": "Tomohiro Ito",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Satoshi Hori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Masaaki Hirayama",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Ryoji Kanno",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0593-2515",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2023-022288mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-022288mtgabs",
+  "published": "2023-12-22",
+  "abstract": "<jats:p>  \tSulfide solid Li-ion conductors can be applied as electrolytes for high-performance all-solid-state batteries. For establishing mass production of such sulfides, liquid-phase synthesis is an attractive alternative to conventional solid-state method. Nevertheless, the new method has only been adapted to limited compositions (i.e., the Li–P–S system) with resulting in low ionic conductivity values of &lt; 1.5 mS cm<jats:sup>−1</jats:sup> at room temperature<jats:sup>1</jats:sup>. This study reports the liquid-phase synthesis of solid electrolytes in the Li–Si–P–S–Cl system (Li<jats:sub>9.54</jats:sub>Si<jats:sub>1.74</jats:sub>P<jats:sub>1.44</jats:sub>S<jats:sub>11.7</jats:sub>Cl<jats:sub>0.3</jats:sub>: LSiPSCl)<jats:sup>2</jats:sup> with the high ionic conductivity of 6.6 mS cm<jats:sup>-1</jats:sup> at 298 K<jats:sup>3</jats:sup>.</jats:p>\n               <jats:p>In liquid-phase method, it is essential to find appropriate dissolution conditions without decomposition reactions of the raw materials, but such conditions have not been found for Si. We investigated the dissolution conditions of Si in anhydrous acetonitrile (ACN), which typically promotes severe decomposition reactions of dissolved raw materials. However, it was found that SiS<jats:sub>2</jats:sub> is highly soluble in ACN when mixed with Li<jats:sub>2</jats:sub>S in specific molar ratio. This composition was confirmed by ICP-AES, wherein the molar ratio of Si : Li in the homogeneous solution was determined to be 1:1. Based on this finding, LSiPSCl was synthesized by the liquid-phase approach (Fig. 1a). Two homogeneous solutions containing either (Li, Si, and S) or (Li, P, and S)<jats:sup>4</jats:sup> were prepared separately and then combined. Subsequently, LiCl and Li<jats:sub>2</jats:sub>S were added to obtain the precursor slurry solution. The precursor slurry solution was dried at 453 K under vacuum to remove all the solvent and sintered by heating at 748 K to obtain the liquid-phase synthesized sample (L-LSiPSCl).</jats:p>\n               <jats:p>The L-LSiPSCl exhibited high ionic conductivity of 6.6 mS cm<jats:sup>-1</jats:sup> at 298 K, which was comparable to the value for the reference sample (S-LSiPSCl) synthesized by the solid-state method. All-solid-state battery cells were prepared to examine the applicability of L-LSiPSCl as a solid electrolyte (Fig. 1b), with In–Li alloy anode and the composite cathode consisting of L-LSiPSCl (or S-LSiPSCl) and LiNbO<jats:sub>3</jats:sub>-coated LiCoO<jats:sub>2</jats:sub>. The charge–discharge cycle was conducted at the current density of 0.096 mA cm<jats:sup>-2</jats:sup>, which corresponds to 0.2 C rate. After 100 cycles, the discharge capacity for the cell with L-LSiPSCl was 88% of its theoretical value (i.e., 137 mA h g<jats:sup>-1</jats:sup> for 1.9–3.6 V vs. Li<jats:sup>+</jats:sup> /In–Li), and its capacity retention was &gt; 97%. The charge–discharge performance was slightly better than that of the cell with S-LSiPSCl. The possible slight improvement might be attributed to the characteristic particle properties of L-LSiPSCl; scanning electron microscopy and micro-Raman spectroscopy indicated L-LSiPSCl is composed of aggregated particles with pores and carbides on particle surface. Overall, this study expanded the applicability of liquid-phase synthesis and implied its potential merits for sulfide Li-ion conductors for all-solid-state batteries.</jats:p>\n               <jats:p>Reference</jats:p>\n               <jats:p>1) A. Miura <jats:italic>et al., Nat. Rev. Chem.,</jats:italic>\n                  <jats:bold>3</jats:bold>, 189 (2019)</jats:p>\n               <jats:p>2) Y. Kato <jats:italic>et al., Nat. Energy,</jats:italic>\n                  <jats:bold>1</jats:bold>, 16030 (2016)</jats:p>\n               <jats:p>3) T. Ito <jats:italic>et al., J. Mater. Chem. A,</jats:italic>\n                  <jats:bold>10</jats:bold>, 14392 (2022)</jats:p>\n               <jats:p>4) M. Calpa <jats:italic>et al., Chem. Mater.,</jats:italic>\n                  <jats:bold>32</jats:bold>, 9627 (2020)</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n                     <jats:inline-graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"288fig1.jpg\" xlink:type=\"simple\"/>\n                  </jats:inline-formula>\n               </jats:p>\n               <jats:p>Figure 1</jats:p>\n               <jats:p/>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2023-022288mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2023-022288mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2023-022288mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-14T02:12:18.544248+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1149_ma2024-0281161mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Highly Ionic Conductive Polymer Interlayer for Garnet-Type Solid Electrolyte to Improve Energy Storage Performance of All-Solid-State-Batteries",
+  "authors": [
+    {
+      "name": "Young-Geun Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4229-5084",
+      "affiliation": ""
+    },
+    {
+      "name": "Jay F Whitacre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-3439-4111",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2024-0281161mtgabs",
+  "url": "https://doi.org/10.1149/ma2024-0281161mtgabs",
+  "published": "2024-11-22",
+  "abstract": "<jats:p>  \tGarnet-type Li<jats:sub>6.4</jats:sub>La<jats:sub>3</jats:sub>Zr<jats:sub>1.4</jats:sub>Ta<jats:sub>0.6</jats:sub>O<jats:sub>12</jats:sub> (LLZTO) has been spotlighted as a promising solid-state-electrolyte for all-solid-state lithium metal batteries (ASSBs) due to high ionic conductivity, superior chemical stability against Li metal, and broad window potential (0~5 V versus Li/Li<jats:sup>+</jats:sup>). However, an insufficient solid-solid contact between the electrode and electrolyte brings about high interface resistance, low Coulombic efficiency, and large voltage polarization during cycling. To overcome these challenges, it is a desirable tactic to introduce an ionic conductive polymer interlayer such as novel modified polyethylene oxide (PEO). Herein, we fabricated ASSB structures that employed polyoxanorbornene-based bottlebrush polymers with PEO side chains as interlayers between the cathode and the electrolyte layer. This polymer exhibits semi-crystallinity and showcases high ionic conductivity (~0.63 mS cm<jats:sup>-1</jats:sup>) at room temperature due to the presence of the polyoxanorbornene backbone, which acts as an additional ion conductive agent alongside the PEO side chain, thus overcoming typical conductivity issues associated with using PEO-based materials. The resultant ASSB composed of the highly conductive polymer (HCP) interlayer demonstrates outstanding electrochemical performance including an improved specific capacity, rate performance, and cycling stability at room temperature, compared to the PEO interlayer. We will disclose data both describing the functional materials used as well as the performance of the test cells that were assembled.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2024-0281161mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2024-0281161mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2024-0281161mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-14T02:12:21.893578+00:00",
+  "updated_at": "",
+  "extra": {}
+}
