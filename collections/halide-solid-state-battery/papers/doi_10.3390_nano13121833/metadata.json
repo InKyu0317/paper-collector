@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.3390_nano13121833",
+  "collection": "halide-solid-state-battery",
+  "title": "Anti-Stokes Photoluminescence in Halide Perovskite Nanocrystals: From Understanding the Mechanism towards Application in Fully Solid-State Optical Cooling",
+  "authors": [
+    {
+      "name": "Nikolay S. Pokryshkin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Physics, Lomonosov Moscow State University, 119991 Moscow, Russia"
+    },
+    {
+      "name": "Vladimir N. Mantsevich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2879-153X",
+      "affiliation": "Faculty of Physics, Lomonosov Moscow State University, 119991 Moscow, Russia"
+    },
+    {
+      "name": "Victor Y. Timoshenko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3234-1427",
+      "affiliation": "Faculty of Physics, Lomonosov Moscow State University, 119991 Moscow, Russia"
+    }
+  ],
+  "doi": "10.3390/nano13121833",
+  "url": "https://doi.org/10.3390/nano13121833",
+  "published": null,
+  "abstract": "<jats:p>Anti-Stokes photoluminescence (ASPL) is an up-conversion phonon-assisted process of radiative recombination of photoexcited charge carriers when the ASPL photon energy is above the excitation one. This process can be very efficient in nanocrystals (NCs) of metalorganic and inorganic semiconductors with perovskite (Pe) crystal structure. In this review, we present an analysis of the basic mechanisms of ASPL and discuss its efficiency depending on the size distribution and surface passivation of Pe-NCs as well as the optical excitation energy and temperature. When the ASPL process is sufficiently efficient, it can result in an escape of most of the optical excitation together with the phonon energy from the Pe-NCs. It can be used in optical fully solid-state cooling or optical refrigeration.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/nano13121833",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_nano13121833/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 13,
+  "journal": "Nanomaterials",
+  "publisher": "",
+  "issn": "2079-4991",
+  "quartile": "",
+  "added_at": "2026-09-15T02:15:39.893172+00:00",
+  "updated_at": "",
+  "extra": {}
+}

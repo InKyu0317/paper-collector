@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1149_ma2022-012327mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Hybrid Halide Solid Electrolytes and Bottom-up Cell Assembly Enable High Voltage Solid-State Lithium Batteries",
+  "authors": [
+    {
+      "name": "Beniamin Zahiri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0508-6416",
+      "affiliation": ""
+    },
+    {
+      "name": "Chadd Kiggins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Dijo Damien",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Michael Caple",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Arghya Patra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3888-1686",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Juarez Yescaz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "John B. Cook",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Paul V. Braun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-012327mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-012327mtgabs",
+  "published": "2022-7-7",
+  "abstract": "<jats:p>  \tInterface between halide based solid electrolytes and layered transition metal oxide cathodes has been found to be electro-chemically stable due to stability of chloride compounds, in particular, at &gt;4V range. The extent of interfacial stability is correlated with the type of cationic and anionic species in the solid electrolyte compound, a fact supported by theoretical prediction and yet, not accurately measured in composite cathode mixtures. By altering the architecture of cathode into a dense additive-free structure, we have identified differences in interfacial stability of chloride compounds which are hidden in composite cathode formats. In this work, we report the use of dense cathode to track the electrochemical evolution of interface between a hybrid halide solid electrolyte composed of chloride and fluoride species. Introducing fluoride compounds is known to be a promising method to expand the oxidation stability while the nature of such expansion is found to be related to kinetics rather than thermodynamics, we report. Furthermore, fluorination of solid electrolyte is generally accompanied with loss of ionic conductivity due to strong electronegative fluoride ions. We demonstrate a fundamental change of solid-state battery assembly from conventional electrolyte pelletizing followed by electrode placement, to a bottom-up assembly route starting with dense cathode, thin (&lt;20µm) layer of SE and anode addition, which compensates for the suppressed conductivity of fluorinated halide solid electrolytes. Through extensive characterization, compositional optimization, and electrochemical interfacial analysis, we demonstrate stable cycling of LiCoO<jats:sub>2</jats:sub>/hybrid halide solid electrolyte up to 4.4V vs. Li. Our findings pave the way for expanding the voltage stability of solid electrolytes without compromising the cell performance due to ionic conductivity overpotential issues.     </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-012327mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-012327mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-012327mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-15T02:15:39.892841+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,133 @@
+{
+  "paper_id": "doi_10.1002_cey2.70051",
+  "collection": "halide-solid-state-battery",
+  "title": "Stabilized Conductive Agent/Sulfide Solid Electrolyte Interface via a Halide Solid Electrolyte Coating for All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Seungwoo Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0004-1506-3247",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Hyungjun Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Seungmin Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Yeseung Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Battery Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Seho Sun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "School of Chemical Engineering Yeungnam University Gyeongsan Republic of Korea"
+    },
+    {
+      "name": "Jaeik Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Joonhyeok Park",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Seunggun Choi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Jiwoon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Jinhee Jung",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Battery Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Jinwoo Jeong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Battery Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Taeseup Song",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    },
+    {
+      "name": "Ungyu Paik",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Energy Engineering Hanyang University Seoul Republic of Korea"
+    }
+  ],
+  "doi": "10.1002/cey2.70051",
+  "url": "https://doi.org/10.1002/cey2.70051",
+  "published": "2025-8",
+  "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>All‐solid‐state batteries (ASSBs) have garnered significant interest as the next‐generation in battery technology, praised for their superior safety and high energy density. However, a conductive agent accelerates the undesirable side reactions of sulfide‐based solid electrolytes, resulting in poor electrochemical properties with increased interfacial resistance. Here, we propose a wet chemical method rationally designed to achieve a conformal coating of lithium–indium chloride (Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub>) onto vapor‐grown carbon fibers (VGCFs) as conductive agents. First, with the advantage of the Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> protective layer, use of VGCF@Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> leads to enhanced interfacial stability and improved electrochemical properties, including stable cycle performance. These results indicate that the Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> protective layer suppresses the unwanted reaction between Li<jats:sub>6</jats:sub>PS<jats:sub>5</jats:sub>Cl and VGCF. Second, VGCF@Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> effectively promotes polytetrafluoroethylene fibrillization, leading to a homogeneous electrode microstructure. The uniform distribution of the cathode active material in the electrode results in reduced charge‐transfer resistance and enhanced Li‐ion kinetics. As a result, a full cell with the LiNi<jats:sub>x</jats:sub>Mn<jats:sub>y</jats:sub>Co<jats:sub>z</jats:sub>O<jats:sub>2</jats:sub>/VGCF@Li<jats:sub>3</jats:sub>InCl<jats:sub>6</jats:sub> electrode shows an areal capacity of 7.7 mAh cm<jats:sup>−2</jats:sup> at 0.05 C and long‐term cycle stability of 77.9% over 400 cycles at 0.2 C. This study offers a strategy for utilizing stable carbon‐based conductive agents in sulfide‐based ASSBs to enhance their electrochemical performance.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/cey2.70051",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_cey2.70051/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Carbon Energy",
+  "publisher": "",
+  "issn": "2637-9368",
+  "quartile": "",
+  "added_at": "2026-09-15T02:15:38.906438+00:00",
+  "updated_at": "",
+  "extra": {}
+}
