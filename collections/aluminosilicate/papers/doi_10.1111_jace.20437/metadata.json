@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1111_jace.20437",
+  "collection": "aluminosilicate",
+  "title": "Structural origins of the mixed modifier effect on hardness in aluminosilicate glass",
+  "authors": [
+    {
+      "name": "Hongyeun Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    },
+    {
+      "name": "John C. Mauro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4319-3530",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University  University Park Pennsylvania USA"
+    }
+  ],
+  "doi": "10.1111/jace.20437",
+  "url": "https://doi.org/10.1111/jace.20437",
+  "published": "2025-6",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Understanding the correlations among glass structure, composition, and mechanical properties, particularly hardness, is crucial for both academic research and practical applications. However, comprehending the underlying structural mechanisms dictating the hardness and plastic deformation of glasses remains a challenge. In this study, we divide hardness into two components: Young's modulus and the plastic‐to‐total indentation work ratio. Given the intriguing nonlinear convex trend in hardness while Young's modulus remains constant, a phenomenon known as the mixed modifier effect, our primary focus is the plastic‐to‐total indentation work ratio. By applying pure shear deformation within molecular dynamics simulations, the flow stress demonstrates a linear correlation with\n                    <jats:italic>\n                      H\n                      <jats:sub>v</jats:sub>\n                      /\n                    </jats:italic>\n                    and with the plastic‐to‐total indentation work ratio. Additionally, in our structural analysis, we identify that the average coordination numbers of network modifiers are key factors driving the nonlinear trend observed in both hardness and simulated flow stress.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.20437",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.20437/paper.pdf",
+  "pdf_url": "https://ceramics.onlinelibrary.wiley.com/doi/pdf/10.1111/jace.20437",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-09-16T02:07:33.701795+00:00",
+  "updated_at": "",
+  "extra": {}
+}

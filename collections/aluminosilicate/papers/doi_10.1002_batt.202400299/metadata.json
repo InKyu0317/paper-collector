@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1002_batt.202400299",
+  "collection": "aluminosilicate",
+  "title": "Electrospun Quasi‐Composite Polymer Electrolyte with Hydoxyl‐Anchored Aluminosilicate Zeolitic Network for Dendrite Free Lithium Metal Batteries",
+  "authors": [
+    {
+      "name": "Jenny Johnson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Futuristic Energy Storage Technology Lab (FESTL) Department of Chemistry, faculty of Engineering and Technology SRM Institute of Science and Technology  Kattankulathur 603203 India"
+    },
+    {
+      "name": "Sajan Raj Sasirajan Littleflower",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Electrochemical Energy Storage and Conversion Laboratory (EESCL) Department of Chemistry, faculty of Engineering and Technology SRM Institute of Science and Technology  Kattankulathur 603203 India"
+    },
+    {
+      "name": "Kumaran Vediappan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Electrochemical Energy Storage and Conversion Laboratory (EESCL) Department of Chemistry, faculty of Engineering and Technology SRM Institute of Science and Technology  Kattankulathur 603203 India"
+    },
+    {
+      "name": "Helen Annal Therese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Futuristic Energy Storage Technology Lab (FESTL) Department of Chemistry, faculty of Engineering and Technology SRM Institute of Science and Technology  Kattankulathur 603203 India"
+    }
+  ],
+  "doi": "10.1002/batt.202400299",
+  "url": "https://doi.org/10.1002/batt.202400299",
+  "published": "2024-11",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>All‐solid‐state lithium metal batteries have reshaped emerging safe battery technologies. However, their low metal ion transport and unstable electrode electrolyte interface make their mass production a huge question. To bridge the emerging solid state and traditional liquid electrolytes, we focus on Quasi‐Composite Polymer electrolytes (QCPE). Herein, we develop QCPE with active 3D alumino‐silicate zeolitic ion conduction pathways embedded in a polymer matrix using two techniques‐ solution casting and electrospinning. Electrospun QCPE outperforms Solution cast QCPE by achieving high amorphous behavior. Prompt elimination of solvent during electrospinning decreases bulk resistance and increases its ionic conductivity. The Zeolitic pathway anchored by hydroxyl groups of PVA polymer acts as a highway for Li<jats:sup>+</jats:sup> ions. It exhibits highly stable platting stripping vs Li<jats:sup>+</jats:sup>/Li for 450 hours with low overpotential, confirming the interfacial compatibility and dendrite‐free cycling at lithium metal anode. Controlled lithium‐ion nucleation regulated by evenly distributed zeolitic pathway is an interesting front of this work. To test QCPE's performance in Lithium metal battery (LMB), the electrospun QCPE is used to fabricate LMB with LiFePO<jats:sub>4</jats:sub> cathode. This battery system delivered a high capacity of 155 mAh g<jats:sup>−1</jats:sup> at 0.1 C. In addition to the high performance, electrospun QCPE production is scalable at an industrial scale.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/batt.202400299",
+  "pdf_path": "aluminosilicate/papers/doi_10.1002_batt.202400299/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "Batteries &amp; Supercaps",
+  "publisher": "",
+  "issn": "2566-6223",
+  "quartile": "",
+  "added_at": "2026-09-16T02:07:33.702305+00:00",
+  "updated_at": "",
+  "extra": {}
+}
