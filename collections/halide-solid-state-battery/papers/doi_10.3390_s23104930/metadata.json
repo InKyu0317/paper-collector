@@ -1,0 +1,77 @@
+{
+  "paper_id": "doi_10.3390_s23104930",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide Perovskites Films for Ionizing Radiation Detection: An Overview of Novel Solid-State Devices",
+  "authors": [
+    {
+      "name": "Naomi Falsini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5095-131X",
+      "affiliation": "Nuclear Safety, Security and Sustainability Division, Fusion and Technology for Nuclear Safety and Security Department, Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA), Via Martiri di Monte Sole 4, 40129 Bologna, Italy"
+    },
+    {
+      "name": "Alberto Ubaldini",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Nuclear Safety, Security and Sustainability Division, Fusion and Technology for Nuclear Safety and Security Department, Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA), Via Martiri di Monte Sole 4, 40129 Bologna, Italy"
+    },
+    {
+      "name": "Flavio Cicconi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-5895-4964",
+      "affiliation": "Nuclear Safety, Security and Sustainability Division, Fusion and Technology for Nuclear Safety and Security Department, Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA), Via Martiri di Monte Sole 4, 40129 Bologna, Italy"
+    },
+    {
+      "name": "Antonietta Rizzo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Nuclear Safety, Security and Sustainability Division, Fusion and Technology for Nuclear Safety and Security Department, Italian National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA), Via Martiri di Monte Sole 4, 40129 Bologna, Italy"
+    },
+    {
+      "name": "Anna Vinattieri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0781-4002",
+      "affiliation": "Dipartimento di Fisica e Astronomia, Università degli Studi di Firenze, Via G. Sansone 1, 50019 Sesto Fiorentino, Italy"
+    },
+    {
+      "name": "Mara Bruzzi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-7344-8365",
+      "affiliation": "Dipartimento di Fisica e Astronomia, Università degli Studi di Firenze, Via G. Sansone 1, 50019 Sesto Fiorentino, Italy"
+    }
+  ],
+  "doi": "10.3390/s23104930",
+  "url": "https://doi.org/10.3390/s23104930",
+  "published": null,
+  "abstract": "<jats:p>Halide perovskites are a novel class of semiconductors that have attracted great interest in recent decades due to their peculiar properties of interest for optoelectronics. In fact, their use ranges from the field of sensors and light emitters to ionizing radiation detectors. Since 2015, ionizing radiation detectors exploiting perovskite films as active media have been developed. Recently, it has also been demonstrated that such devices can be suitable for medical and diagnostic applications. This review collects most of the recent and innovative publications regarding solid-state devices for the detection of X-rays, neutrons, and protons based on perovskite thin and thick films in order to show that this type of material can be used to design a new generation of devices and sensors. Thin and thick films of halide perovskites are indeed excellent candidates for low-cost and large-area device applications, where the film morphology allows the implementation on flexible devices, which is a cutting-edge topic in the sensor sector.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/s23104930",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_s23104930/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 11,
+  "journal": "Sensors",
+  "publisher": "",
+  "issn": "1424-8220",
+  "quartile": "",
+  "added_at": "2026-09-16T02:11:42.499200+00:00",
+  "updated_at": "",
+  "extra": {}
+}

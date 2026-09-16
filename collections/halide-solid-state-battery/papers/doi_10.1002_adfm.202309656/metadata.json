@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1002_adfm.202309656",
+  "collection": "halide-solid-state-battery",
+  "title": "Transforming Li<sub>3</sub>PS<sub>4</sub> Via Halide Incorporation: a Path to Improved Ionic Conductivity and Stability in All‐Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Tej P. Poudel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4787-5739",
+      "affiliation": "Department of Chemistry and Biochemistry Florida State University  95 Chieftan Way Tallahassee FL 32306 USA"
+    },
+    {
+      "name": "Michael J. Deck",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-6439-8634",
+      "affiliation": "Department of Chemistry and Biochemistry Florida State University  95 Chieftan Way Tallahassee FL 32306 USA"
+    },
+    {
+      "name": "Pengbo Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5740-6912",
+      "affiliation": "Department of Chemistry and Biochemistry Florida State University  95 Chieftan Way Tallahassee FL 32306 USA"
+    },
+    {
+      "name": "Yan‐Yan Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-7282-4100",
+      "affiliation": "Department of Chemistry and Biochemistry Florida State University  95 Chieftan Way Tallahassee FL 32306 USA"
+    }
+  ],
+  "doi": "10.1002/adfm.202309656",
+  "url": "https://doi.org/10.1002/adfm.202309656",
+  "published": "2024-1",
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>To enhance Li<jats:sup>+</jats:sup> transport in all‐solid‐state batteries (ASSBs), harnessing localized nanoscale disorder can be instrumental, especially in sulfide‐based solid electrolytes (SEs). In this investigation, the transformation of the model SE, Li<jats:sub>3</jats:sub>PS<jats:sub>4</jats:sub>, is delved into via the introduction of LiBr. <jats:sup>31</jats:sup>P nuclear magnetic resonance (NMR)unveils the emergence of a glassy PS<jats:sub>4</jats:sub><jats:sup>3−</jats:sup> network interspersed with Br<jats:sup>−</jats:sup>. <jats:sup>6</jats:sup>Li NMR corroborates swift Li<jats:sup>+</jats:sup> migration between PS<jats:sub>4</jats:sub><jats:sup>3−</jats:sup> and Br<jats:sup>−</jats:sup>, with increased Li<jats:sup>+</jats:sup> mobility indicated by NMR relaxation measurements. A more than fourfold enhancement in ionic conductivity is observed upon LiBr incorporation into Li<jats:sub>3</jats:sub>PS<jats:sub>4</jats:sub>. Moreover, a notable decrease in activation energy underscores the pivotal role of Br<jats:sup>−</jats:sup> incorporation within the anionic lattice, effectively reducing the energy barrier for ion conduction and transitioning Li<jats:sup>+</jats:sup> transport dimensionality from 2D to 3D. The compatibility of Li<jats:sub>3</jats:sub>PS<jats:sub>4</jats:sub> with Li metal is improved through LiBr incorporation, alongside an increase in critical current density from 0.34 to 0.50 mA cm<jats:sup>−2</jats:sup>, while preserving the electrochemical stability window. ASSBs with 3Li<jats:sub>3</jats:sub>PS<jats:sub>4</jats:sub>:LiBr as the SE  showcase robust high‐rate and long‐term cycling performance. These findings collectively indicate the potential of lithium halide incorporation as a promising avenue to enhance the ionic conductivity and stability of SEs.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/adfm.202309656",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adfm.202309656/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/am-pdf/10.1002/adfm.202309656",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 27,
+  "journal": "Advanced Functional Materials",
+  "publisher": "",
+  "issn": "1616-301X",
+  "quartile": "",
+  "added_at": "2026-09-16T02:11:42.498584+00:00",
+  "updated_at": "",
+  "extra": {}
+}

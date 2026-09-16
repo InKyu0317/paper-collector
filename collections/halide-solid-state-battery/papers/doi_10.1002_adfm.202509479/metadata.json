@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.1002_adfm.202509479",
+  "collection": "halide-solid-state-battery",
+  "title": "Toward Robust Ionic Conductivity Determination of Sulfide‐Based Solid Electrolytes for Solid‐State Batteries",
+  "authors": [
+    {
+      "name": "Fariza Kalyk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-0926-3259",
+      "affiliation": "Institute of Energy Materials and Devices (IMD) IMD‐4: Helmholtz‐Institute Münster Forschungszentrum Jülich  48149 Münster Germany"
+    },
+    {
+      "name": "Lars Pescara",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "rhd instruments GmbH &amp; Co. KG  Otto‐Hesse‐Strasse 19 T3 64293 Darmstadt Germany"
+    },
+    {
+      "name": "Marcel Drüschler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "rhd instruments GmbH &amp; Co. KG  Otto‐Hesse‐Strasse 19 T3 64293 Darmstadt Germany"
+    },
+    {
+      "name": "Nella M. Vargas‐Barbosa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6357-017X",
+      "affiliation": "Chair of Electrochemistry and Bavarian Center for Battery Technology (BayBatt) University of Bayreuth  Universitätstrasse 30 95448 Bayreuth Germany"
+    }
+  ],
+  "doi": "10.1002/adfm.202509479",
+  "url": "https://doi.org/10.1002/adfm.202509479",
+  "published": "2026-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    All‐solid‐state batteries (ASSBs) are taking the lead as the next‐generation energy storage systems, mainly to the development of new solid electrolytes with high ionic conductivities (&gt;1 mS·cm\n                    <jats:sup>−1</jats:sup>\n                    ) at room temperature. However, the robust quantification of the ionic transport of these materials is strongly influenced by sample processing, contacting and cell setups. The aim of this study is to evaluate the robustness of the extracted ionic conductivity of sulfide‐based solid electrolytes using lithium argyrodite (Li\n                    <jats:sub>6</jats:sub>\n                    PS\n                    <jats:sub>5</jats:sub>\n                    Br) as a model system, with particular attention to the influence of sample processing parameters and measurement conditions. The impact of isostatic and uniaxial processing pressures, contact material, measurement and analyses conditions of electrochemical impedance spectroscopy (EIS) is systematically evaluated employing three different measurement cell setups. The findings underscore the necessity for standardized protocols in characterizing solid electrolytes. By establishing a comprehensive methodology for the evaluation of ionic conductivities, this work aims to facilitate the reliable application of solid electrolytes in ASSBs.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/adfm.202509479",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adfm.202509479/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202509479",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Advanced Functional Materials",
+  "publisher": "",
+  "issn": "1616-301X",
+  "quartile": "",
+  "added_at": "2026-09-16T02:11:41.871208+00:00",
+  "updated_at": "",
+  "extra": {}
+}

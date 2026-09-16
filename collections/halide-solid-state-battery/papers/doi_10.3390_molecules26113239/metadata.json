@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.3390_molecules26113239",
+  "collection": "halide-solid-state-battery",
+  "title": "Overview of the Structure–Dynamics–Function Relationships in Borohydrides for Use as Solid-State Electrolytes in Battery Applications",
+  "authors": [
+    {
+      "name": "Tabbetha A. Dobbins",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2427-3746",
+      "affiliation": "Department of Physics and Astronomy, Rowan University, Glassboro, NJ 08028, USA"
+    }
+  ],
+  "doi": "10.3390/molecules26113239",
+  "url": "https://doi.org/10.3390/molecules26113239",
+  "published": null,
+  "abstract": "<jats:p>The goal of this article is to highlight crucial breakthroughs in solid-state ionic conduction in borohydrides for battery applications. Borohydrides, Mz+BxHy, form in various molecular structures, for example, nido-M+BH4; closo-M2+B10H10; closo-M2+B12H12; and planar-M6+B6H6 with M = cations such as Li+, K+, Na+, Ca2+, and Mg2+, which can participate in ionic conduction. This overview article will fully explore the phase space of boron–hydrogen chemistry in order to discuss parameters that optimize these materials as solid electrolytes for battery applications. Key properties for effective solid-state electrolytes, including ionic conduction, electrochemical window, high energy density, and resistance to dendrite formation, are also discussed. Because of their open structures (for closo-boranes) leading to rapid ionic conduction, and their ability to undergo phase transition between low conductivity and high conductivity phases, borohydrides deserve a focused discussion and further experimental efforts. One challenge that remains is the low electrochemical stability of borohydrides. This overview article highlights current knowledge and additionally recommends a path towards further computational and experimental research efforts.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/molecules26113239",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_molecules26113239/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Molecules",
+  "publisher": "",
+  "issn": "1420-3049",
+  "quartile": "",
+  "added_at": "2026-09-16T02:11:42.498933+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,61 @@
+{
+  "paper_id": "doi_10.3390_batteries9060290",
+  "collection": "halide-solid-state-battery",
+  "title": "Preparation of Li2S-AlI3-LiI Composite Solid Electrolyte and Its Application in All-Solid-State Li-S Battery",
+  "authors": [
+    {
+      "name": "Tran Anh Tu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-2770-7327",
+      "affiliation": "Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City 70000, Vietnam"
+    },
+    {
+      "name": "Nguyen Huu Huy Phuc",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0001-8793-6132",
+      "affiliation": "Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City 70000, Vietnam"
+    },
+    {
+      "name": "Luong Thi Quynh Anh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City 70000, Vietnam"
+    },
+    {
+      "name": "Tran Viet Toan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Faculty of Materials Technology, Ho Chi Minh City University of Technology (HCMUT), 268 Ly Thuong Kiet Str., Dist. 10, Ho Chi Minh City 70000, Vietnam"
+    }
+  ],
+  "doi": "10.3390/batteries9060290",
+  "url": "https://doi.org/10.3390/batteries9060290",
+  "published": null,
+  "abstract": "<jats:p>Novel (80Li2S − 20AlI3)·yLiI composite solid electrolytes (y = 5, 10, 15) were prepared by mechannochemical synthesis. XRD results showed that the pattern of 80Li2S − 20AlI3 was similar to that of AlI3, which means that Li2S was dissolved in AlI3 matrix during preparation. This structure was still maintained after LiI addition. The current measured at constant applied DC voltage indicated that (80Li2S − 20AlI3)·yLiI composites are intrinsically pure Li-ion conductors. The ionic conductivity at 25 °C of y = 10 was about 2.3 × 10−4 Scm−1, which was about three times higher than that of y = 0. The conductivity of y = 10 increased 20 times to 2.2 × 10−3 Scm−1 at 70 °C. These values were highest among those observed from Li2S-based materials. It was revealed that Li-ion moves in 80Li2S − 20AlI3 by a hoping mechanism, while the lattice dipoles are the origin of Li-ion movement in (80Li2S − 20AlI3)·yLiI. The polarization measurements using Liǀ90 (80Li2S − 20AlI3)·10LiI ǀLi and LiǀLi6PS5Clǀ90 (80Li2S − 20AlI3)·10LiIǀLi6PS5ClǀLi cells proved that 90 (80Li2S − 20AlI3)·10LiI reacts with Li metal, but it is relatively stable at a low voltage. Sample y = 10 was also employed as a solid electrolyte in the positive electrode of a solid-state Li-S battery to study its stability in the voltage range of the positive electrode. CuS and Li4.4Si were the electrode-active materials. The cell was cycled in CC-CV mode at 1.0 mA cm−2 (CC) with a cut-off voltage of 1.0–2.3 V. The cell delivered a stable capacity of about 400 mAh g−1CuS after 40 cycles.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.3390/batteries9060290",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.3390_batteries9060290/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 6,
+  "journal": "Batteries",
+  "publisher": "",
+  "issn": "2313-0105",
+  "quartile": "",
+  "added_at": "2026-09-16T02:11:41.871586+00:00",
+  "updated_at": "",
+  "extra": {}
+}
