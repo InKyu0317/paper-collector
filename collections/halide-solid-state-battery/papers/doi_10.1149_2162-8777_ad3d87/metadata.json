@@ -1,0 +1,69 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ad3d87",
+  "collection": "halide-solid-state-battery",
+  "title": "Antibacterial, Optical, Structural, and AC Conductivity Characteristics of Lithium-Doped Barium Zinc Borate Glasses for Multiple Applications",
+  "authors": [
+    {
+      "name": "Jagram Anterbedy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Naresh Pallati",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3663-5940",
+      "affiliation": ""
+    },
+    {
+      "name": "Aravind Seema",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rajesh A.",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Gangadhar Thalari",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5037-2609",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ad3d87",
+  "url": "https://doi.org/10.1149/2162-8777/ad3d87",
+  "published": "2024-4-1",
+  "abstract": "<jats:p>An Li<jats:sub>2</jats:sub>O-incorporated bioactive glass system of chemical composition xLi<jats:sub>2</jats:sub>O-10BaO-10ZnO-(80-x)B<jats:sub>2</jats:sub>O<jats:sub>3</jats:sub> with x = 0–20 mol% was synthesized by melt-quench route. Non-crystalline behaviour was confirmed with X-ray diffraction spectra. The antibacterial zone of inhibitions increased with Li<jats:sub>2</jats:sub>O incorporation. Experimental densities increased with Li<jats:sub>2</jats:sub>O molar content and molar volume decreased. UV-Optical absorption spectra confirmed a cut-off wave length (<jats:italic>λ</jats:italic>\n                  <jats:sub>c</jats:sub>) increasing trend by NBOs. Indirect band gap decreased, direct band gap decreased, and Urbach energy increased with Li<jats:sub>2</jats:sub>O addition. The refractive index of the glass system also increased. Fourier transform infrared and Raman spectroscopy studies confirmed the structural variations and existence of metal-oxides in the glass matrix. The AC conductivity increased with frequency, temperature, and also Li<jats:sub>2</jats:sub>O content by almost three orders of magnitude. The findings of higher order conductivity (10<jats:sup>−3</jats:sup>Ω<jats:sup>−1</jats:sup>cm<jats:sup>−1</jats:sup>), improvement in the zone of inhibitions upto 15 mm against <jats:italic>E. coli</jats:italic>., and 14 mm against Salmonella; higher value of refractive index (n &gt; 2) confirms the multiple applications of these glasses.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ad3d87",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ad3d87/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ad3d87/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-17T02:16:12.816926+00:00",
+  "updated_at": "",
+  "extra": {}
+}

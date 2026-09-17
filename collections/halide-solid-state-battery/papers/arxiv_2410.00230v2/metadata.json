@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2410.00230v2",
+  "collection": "halide-solid-state-battery",
+  "title": "An Embedding Cluster Approach for Accurate Electronic Structure Calculations of (229)Th:CaF2",
+  "authors": [
+    {
+      "name": "Kamil Nalikowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Valera Veryazov",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kjeld Beeks",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thorsten Schumm",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marek Krosnicki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2410.00230v2",
+  "published": "2024-09-30T20:58:00+00:00",
+  "abstract": "Building on recent advances of the embedded cluster approach combined with multiconfigurational theory, this work investigates the electronic states in thorium-doped CaF2 crystals. Th:CaF2 is currently establishing as a promising material for solid-state nuclear clocks, which utilize the laser-accessible isomeric state in thorium-229. By comparing simulated absorption spectra of a library of defect configurations with experimental data, we demonstrate the impact of fluorine vacancies and calcium vacancies on the Th:CaF2 electronic structure. Our results indicate that fluorine-deficient sites can introduce local electronic states within the band gap, resonant with the isomer energy, potentially contributing to non-radiative decay or quenching of the Th-229 isomer. We also explore the potential of electron-nuclear bridge mechanisms to enhance nuclear excitation or de-excitation, offering a pathway for more efficient control over the nuclear clock. This study provides key insights for optimizing the crystal environment for nuclear metrology applications and opens new avenues for further experimental and theoretical exploration of thorium-doped ionic crystals.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.00230v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2410.00230v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.00230v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-17T02:15:57.029306+00:00",
+  "updated_at": "",
+  "extra": {}
+}

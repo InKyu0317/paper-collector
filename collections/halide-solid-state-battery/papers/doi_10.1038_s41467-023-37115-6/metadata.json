@@ -1,0 +1,143 @@
+{
+  "paper_id": "doi_10.1038_s41467-023-37115-6",
+  "collection": "halide-solid-state-battery",
+  "title": "Atomic-scale origin of the low grain-boundary resistance in perovskite solid electrolytes",
+  "authors": [
+    {
+      "name": "Tom Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaitanya A. Gadre",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Huaixun Huyan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shu-Ting Ko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yunxing Zuo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaojie Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jie Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Toshihiro Aoki",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Caden John Stippich",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruqian Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jian Luo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shyue Ping Ong",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaoqing Pan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41467-023-37115-6",
+  "url": "http://arxiv.org/abs/2204.00091v1",
+  "published": "2022-03-31T21:05:39+00:00",
+  "abstract": "Oxide solid electrolytes (OSEs) have the potential to achieve improved safety and energy density for lithium-ion batteries, but their high grain-boundary (GB) resistance is a general bottleneck. In the most well studied perovskite OSE, Li3xLa2/3-xTiO3 (LLTO), the ionic conductivity of GBs is about three orders of magnitude lower than that of the bulk. In contrast, the related Li0.375Sr0.4375Ta0.75Zr0.25O3 (LSTZ0.75) perovskite exhibits low GB resistance for reasons yet unknown. Here, we used aberration-corrected scanning transmission electron microscopy and spectroscopy, along with an active learning moment tensor potential, to reveal the atomic scale structure and composition of LSTZ0.75 GBs. Vibrational electron energy loss spectroscopy is applied for the first time to characterize the otherwise unmeasurable Li distribution in GBs of LSTZ0.75. We found that Li depletion, which is a major reason for the low GB ionic conductivity of LLTO, is absent for the GBs of LSTZ0.75. Instead, the low GB resistivity of LSTZ0.75 is attributed to the formation of a unique defective cubic perovskite interfacial structure that contained abundant vacancies. Our study provides insights into the atomic scale mechanisms of low GB resistivity and sheds light on possible paths for designing OSEs with high total ionic conductivity.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2204.00091v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41467-023-37115-6/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2204.00091v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-17T02:15:53.104031+00:00",
+  "updated_at": "",
+  "extra": {}
+}

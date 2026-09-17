@@ -1,0 +1,45 @@
+{
+  "paper_id": "doi_10.1002_adma.202501844",
+  "collection": "halide-solid-state-battery",
+  "title": "Halide Chemistry Boosts All‐Solid‐State Li‐S Batteries",
+  "authors": [
+    {
+      "name": "Feipeng Zhao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-2686-6956",
+      "affiliation": "Institute of Functional Nano &amp; Soft Materials (FUNSOM) Soochow University  Suzhou 215123 China"
+    },
+    {
+      "name": "Yanguang Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-0506-0451",
+      "affiliation": "Institute of Functional Nano &amp; Soft Materials (FUNSOM) Soochow University  Suzhou 215123 China"
+    }
+  ],
+  "doi": "10.1002/adma.202501844",
+  "url": "https://doi.org/10.1002/adma.202501844",
+  "published": "2025-7",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    All‐solid‐state Li‐S batteries (ASSLSBs) are emerging as a promising energy storage solution due to their low cost and high energy density. Their solid‐state configuration effectively eliminates the notorious shuttle effect caused by soluble polysulfides in conventional liquid electrolytes. However, the heterogeneous solid‐to‐solid interfaces introduce significant challenges, including sluggish ion/electron transport and interfacial instability among electrode materials, conductive additives, and solid electrolytes (SEs). Recently, halide‐based strategies have gained attention for enabling high‐performance ASSLSBs. This perspective highlights these strategies, emphasizing the role of halide chemistry in enhancing ASSLSB kinetics. It is contended that halides (e.g., iodides) in sulfur‐based cathode composites—such as Li\n                    <jats:sub>2</jats:sub>\n                    S and transition metal sulfides—can activate S/Li\n                    <jats:sub>2</jats:sub>\n                    S redox reactions, improving both ionic and electronic conductivities. This “catalytic effect” of halides accelerates the reversible transition, even in the absence of conductive additives like SEs or conductive carbons. Moreover, halides at the anode interface play a crucial role in preventing Li dendrite formation and SE degradation, owing to their large polarizability and high interfacial energy. This perspective provides a timely and insightful summary of halide chemistry's impact on ASSLSB kinetics, offering inspiration for further research and broader adoption of halide‐based strategies in next‐generation solid‐state Li‐S batteries.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1002/adma.202501844",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_adma.202501844/paper.pdf",
+  "pdf_url": "https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202501844",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 8,
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "issn": "0935-9648",
+  "quartile": "",
+  "added_at": "2026-09-17T02:16:10.217531+00:00",
+  "updated_at": "",
+  "extra": {}
+}

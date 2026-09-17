@@ -1,0 +1,65 @@
+{
+  "paper_id": "arxiv_2506.03499v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Pressure-Enhanced Amplified Spontaneous Emission in Solvent-Engineered MAPbBr$_3$ Films",
+  "authors": [
+    {
+      "name": "Xin Tang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Linrui Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuaiqi Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dingke Zhang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2506.03499v2",
+  "published": "2025-06-04T02:26:45+00:00",
+  "abstract": "The high-pressure behavior of 3D metal halide chalcogenides (MHPs) has been widely studied. In the field of high-pressure technology, the studies on 3D MHPs have focused on the structural and optical properties, where the optical properties are mainly investigated on the photoluminescence behavior, while the laser properties of the materials have not been studied yet. In this paper, MAPbBr$_3$-MAAc films with ionic liquid methylammonium acetate (MAAc) as solvent and conventional MAPbBr$_3$-DMF:DMSO films with N,N-dimethylformamide (DMF) and dimethyl sulfoxide (DMSO) as solvents were prepared using solvent engineering method. In-situ pressurization testing of both materials using a small-cavity hydrostatic high-pressure device (DAC) was used to investigate the high-pressure optical behavior of the MAPbBr$_3$ films, especially the amplified spontaneous emission (ASE) properties, which, combined with high-pressure in-situ Raman, revealed that the changes in the optical properties of the films under pressure are due to the changes in the crystal structure of the materials. This paper also emphasizes that the optical properties and phase structure stability of MAPbBr$_3$-MAAc films are superior to those of MAPbBr$_3$-DMF:DMSO films under high pressure.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.app-ph",
+    "physics.optics"
+  ],
+  "source": "arxiv",
+  "source_id": "2506.03499v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2506.03499v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2506.03499v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-17T02:15:50.047451+00:00",
+  "updated_at": "",
+  "extra": {}
+}

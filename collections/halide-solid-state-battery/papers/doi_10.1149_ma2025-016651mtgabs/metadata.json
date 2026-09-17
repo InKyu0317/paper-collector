@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2025-016651mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "Organo-Ionic (ORION) Conductors and Their Application to Solid-State Batteries with Metal Anodes",
+  "authors": [
+    {
+      "name": "Brett Helms",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-3925-4174",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2025-016651mtgabs",
+  "url": "https://doi.org/10.1149/ma2025-016651mtgabs",
+  "published": "2025-7-11",
+  "abstract": "<jats:p>  \tSolid-Ion conductors comprising hard inorganic materials are challenging to integrate in solid-state batteries due to their poor interfaces with metal anodes and both inorganic and organic cathodes. Soft solid-ion conductors are better poised to create conformal interfaces to minimize interfacial charge transfer resistance and accommodate volume changes with changes in state-of-charge. However, we do not yet understand how to architect them to control their interfacial charge transfer and bulk ion transport properties in solid-state cells. Here, I will describe a family of organo ionic (ORION) conductors that feature broad tunability in solid-solvation environments experienced by the working ions in Li and Na-metal cells featuring either inorganic or organic intercalation hosts. I will showcase how pore rigidity/flexibility and dimensions through which ions diffuse can be systematically modulated alongside alkali cation coordination to achieve superionic transport outcomes. I will also discuss how these materials behave at interfaces and by comparison to inorganic solids in cells with similar architectures. Based on these findings, I will discuss prospects for TWh-scale energy storage options using supply chains that obviate the need for extensive mining operations to serve the broader interest in electrification.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2025-016651mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2025-016651mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2025-016651mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-17T02:16:11.864471+00:00",
+  "updated_at": "",
+  "extra": {}
+}
