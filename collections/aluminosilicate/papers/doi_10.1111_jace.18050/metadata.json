@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1111_jace.18050",
+  "collection": "aluminosilicate",
+  "title": "Microstructural evolution of droplet phase separation in calcium aluminosilicate glasses",
+  "authors": [
+    {
+      "name": "Nicholas L. Clark",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University University Park PA USA"
+    },
+    {
+      "name": "Shih‐Yi Chuang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University University Park PA USA"
+    },
+    {
+      "name": "John C. Mauro",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-4319-3530",
+      "affiliation": "Department of Materials Science and Engineering The Pennsylvania State University University Park PA USA"
+    }
+  ],
+  "doi": "10.1111/jace.18050",
+  "url": "https://doi.org/10.1111/jace.18050",
+  "published": "2022-1",
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Glasses with nanoscale phase separation have the potential to possess improved hardness and fracture toughness while maintaining their optical transparency. Here we present the results of isothermal heat treatments of phase‐separated calcium aluminosilicate glasses. Our results indicate that a transition from Lifshitz–Slozof–Wagner (LSW)‐type kinetics to a diffusion‐controlled pseudo‐coalescence mechanism occurs at ~17% droplet volume fraction, which results in the droplets becoming increasingly elongated and interconnected. The activation barrier for both mechanisms suggests that calcium diffusion is the underlying means for the coarsening of the silica‐rich domains. Simple approximations show the transition cannot be explained by Brownian motion or Van der Waals attraction between domains, and instead suggest various osmotic forces may be responsible.</jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1111/jace.18050",
+  "pdf_path": "aluminosilicate/papers/doi_10.1111_jace.18050/paper.pdf",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jace.18050",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 7,
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "",
+  "issn": "0002-7820",
+  "quartile": "",
+  "added_at": "2026-09-17T02:07:47.205400+00:00",
+  "updated_at": "",
+  "extra": {}
+}
