@@ -1,0 +1,87 @@
+{
+  "paper_id": "arxiv_2507.13750v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Phase Transition Under Control: Toward Application-Oriented Luminescence Thermometry and Thermally Activated Emission",
+  "authors": [
+    {
+      "name": "M. T. Abbas",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Szymczak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Szymanski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "J. Zeler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Drozd",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "L. T. K Giang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "L. Marciniak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2507.13750v1",
+  "published": "2025-07-18T08:55:02+00:00",
+  "abstract": "Phase-transition-based luminescent thermometers are characterized by two inherent limitations: a narrow thermal operating range and the presence of a hysteresis loop in the thermometric parameter. In this work, we demonstrate that controlling the particle size of LaGaO3:Eu3+ phosphors enables significant enhancement of thermometric performance. Specifically, a reduction in grain size dispersion leads to an increase in relative thermal sensitivity and significantly narrows the hysteresis loop. As a result of this approach, the relative sensitivity was increased to 18.2% K-1 for LaGaO3:Eu3+ synthesized via the solid-state method, compared to 3.0% K-1 for the counterpart prepared using the Pechini method. Furthermore, we show that the intentional incorporation of Al3+ and Sc3+ co-dopant ions allows for continuous tuning of the structural phase transition temperature from 165 K for 15% Al3+ to 491 K for 2% Sc3+, without significantly affecting the low-temperature spectroscopic properties of Eu3+ ions. This ability to shift the phase transition temperature in LaGaO3 offers a practical route to modulate the thermal response range of the luminescent thermometer, enabling its adaptation to specific application requirements. The empirical relationship established in this study between the phase transition temperature and the ionic radius mismatch parameter provides a predictive tool for the rational design of phase-transition-based phosphors with tailored thermometric performance. The ability to systematically tune the phase transition temperature via ionic radius mismatch, together with enhanced thermometric performance resulting from reduced grain size dispersion, establishes a coherent strategy for the rational design of high-sensitivity, low-hysteresis thermal sensors.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2507.13750v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2507.13750v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2507.13750v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-18T02:15:54.792450+00:00",
+  "updated_at": "",
+  "extra": {}
+}

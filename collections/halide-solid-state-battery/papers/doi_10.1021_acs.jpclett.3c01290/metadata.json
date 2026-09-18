@@ -1,0 +1,55 @@
+{
+  "paper_id": "doi_10.1021_acs.jpclett.3c01290",
+  "collection": "halide-solid-state-battery",
+  "title": "Oxidation State Dynamics and Emerging Patterns in Magnetite",
+  "authors": [
+    {
+      "name": "Emre Gürsoy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Gregor B. Vonbun-Feldbauer",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Robert H. Meißner",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.jpclett.3c01290",
+  "url": "http://arxiv.org/abs/2510.18061v1",
+  "published": "2025-10-20T19:55:07+00:00",
+  "abstract": "Magnetite is an important mineral with many interesting applications related to its magnetic, electrical and thermal properties. Typically studied by electronic structure calculations, these methods are unable to capture the complex ion dynamics at relevant temperatures, time and length scales. We present a hybrid Monte Carlo/Molecular Dynamics (MC/MD) method based on iron oxidation state exchange for accurate atomistic modelling of bulk magnetite, magnetite surfaces and nanoparticles that captures the complex ionic dynamics. By comparing oxidation state patterns with those obtained from density functional theory, we confirmed the accuracy of our approach. Lattice distortions leading to the stabilisation of excess charges and a critical surface thickness at which the oxidation states transition from ordered to disordered were observed. This simple yet efficient approach paves the way for elucidating aspects of oxidation state ordering of inverse spinel structures in general and battery materials in particular.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2510.18061v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.jpclett.3c01290/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2510.18061v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-18T02:15:08.037062+00:00",
+  "updated_at": "",
+  "extra": {}
+}

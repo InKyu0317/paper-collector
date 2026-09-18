@@ -1,0 +1,55 @@
+{
+  "paper_id": "arxiv_2503.13159v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Unprecedented superionicity of ultra-low barrier in A0.5CoO2 (A=Li, Zn)",
+  "authors": [
+    {
+      "name": "Xuechen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yaxin Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Menghao Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2503.13159v1",
+  "published": "2025-03-17T13:31:18+00:00",
+  "abstract": "The ion conductivity of a solid-state ion conductor generally increases exponentially upon reduction in ion migration barrier. For prevalent cathode material LiCoO2, the room-temperature ion conductivity and migration barrier are respectively around 10-4 S/cm and 0.3 eV. In this paper, through first-principles calculations we predict the existence of 1D superionicity as the Li ions in O2 LiCoO2 are transformed to Zn0.5CoO2 or Li0.5CoO2 via cation-exchange reaction or deintercalation. The ion migration barriers (0.01-0.02 eV) even lower than room-temperature ~kBT are reduced by more than an order of magnitude compared with LiCoO2, which are facilitated by facile transition of mobile ions between two coordination configurations. The room-temperature ion conductivity is estimated to be over 50 S/cm, enhanced by 2-3 orders of magnitude compared with current highest reported value. Such unprecedented superionicity may also exist in other similar layered ion conductors, which may render technical advances and exotic effects such as ultrafast ion batteries and quantized ferroelectricity.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2503.13159v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2503.13159v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2503.13159v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-18T02:16:11.698934+00:00",
+  "updated_at": "",
+  "extra": {}
+}

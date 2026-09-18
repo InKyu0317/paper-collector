@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2504.01129v4",
+  "collection": "halide-solid-state-battery",
+  "title": "Silk-Nano-Fibroin Aerogels: A Bio-Derived, Amine-Rich Platform for Rapid and Reversible CO2 Capture",
+  "authors": [
+    {
+      "name": "Md Sariful Sheikh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lijie Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Qiyuan Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bu Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2504.01129v4",
+  "published": "2025-04-01T18:58:57+00:00",
+  "abstract": "Despite growing interest in bio-based materials, rapid, low-temperature CO2 capture using amine-rich natural sorbents has received limited attention. In recent years, various porous solid sorbents have drawn significant research interest as promising carbon capture materials. However, high synthesis cost, limited CO2 adsorption capacity, sluggish adsorption-desorption kinetics, high sorbent regeneration temperature, and poor operational stability remain major challenges for their practical implementation. Here, we present silk-nano-fibroin aerogels derived from natural mulberry silk as a sustainable, amine-rich, and support-free sorbent platform for energy-efficient CO2 capture. The aerogels exhibit a CO2 adsorption capacity competitive with state-of-the-art amino acid and amino acid ionic liquid-based solid sorbents. Thermogravimetric analysis confirms high thermal stability up to 250C, substantially higher than that of conventional amine sorbents, while complete sorbent regeneration occurs at only 60 C. Furthermore, the silk-nano-fibroin aerogels demonstrate rapid adsorption-desorption kinetics, excellent multicycle stability, and full retention of CO2 adsorption capacity under humid conditions. Spectroscopic analyses (XPS, FTIR, Raman, and solid-state 13C NMR) confirm reversible CO2 chemisorption through intrinsic amine sites within the silk-fibroin backbone. Overall, this work establishes silk-nano-fibroin aerogels as a sustainable and low-cost route toward energy-efficient CO2 capture.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2504.01129v4",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2504.01129v4/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2504.01129v4",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-18T02:16:02.692840+00:00",
+  "updated_at": "",
+  "extra": {}
+}

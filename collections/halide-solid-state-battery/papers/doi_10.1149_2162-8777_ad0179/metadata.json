@@ -1,0 +1,53 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ad0179",
+  "collection": "halide-solid-state-battery",
+  "title": "HPMC-Mediated ZnCl<sub>2</sub> Doping Possible Substitution of Pb<sup>2+</sup> for Environment-Friendly Halide Perovskite Solar Cell Fabrication",
+  "authors": [
+    {
+      "name": "Shyamal Datta",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Mouli Mitra",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Subhasis Roy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0003-4197-535X",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ad0179",
+  "url": "https://doi.org/10.1149/2162-8777/ad0179",
+  "published": "2023-10-1",
+  "abstract": "<jats:p>Research on halide perovskite solar cells is a rapidly evolving and active area of study within the field of photovoltaics. Replacement of lead from halide perovskite solar cells is a prerequisite due to its toxicity. In this research, an efficient and low surface defect of Zn<jats:sup>2+</jats:sup> incorporated hybrid perovskite material was demonstrated, where Pb<jats:sup>2+</jats:sup> is partially substituted with transitional metal Zinc. Herein, we report the incorporation of dopant material ZnCl<jats:sub>2</jats:sub> with synthetic cellulose HPMC (Hydroxy propyl methyl cellulose) as a dopant to improve the surface morphology, crystallinity, and partial substitution of Pb<jats:sup>2+</jats:sup> with Zn<jats:sup>2+</jats:sup>. Samples were prepared with different composition of ZnCl<jats:sub>2</jats:sub> doping assisted with HPMC in MAPbI<jats:sub>3</jats:sub> (methylammonium lead triiodide) for perovskite layer preparation. A device assembly of layer-by-layer architecture constituting FTO/TiO<jats:sub>2</jats:sub>(ETL)/MAPbI<jats:sub>3</jats:sub>/CuSCN(HTL) was fabricated for the experimental analysis. The as-prepared perovskite samples were characterized using different analytical tools to investigate optical absorption property, crystalline structure, functional group interaction, and surface morphology, respectively. Finally, the electrical performance of the perovskite solar cells was tested under AM 1.5 G solar illumination, and the data affirms that 10 wt% ZnCl<jats:sub>2</jats:sub> doping assisted with HPMC media exhibits optimum performance with improved film quality.</jats:p>\n               <jats:p>\n                  <jats:inline-formula>\n                  \n               </jats:inline-formula>\n               </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ad0179",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ad0179/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ad0179/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 2,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-18T02:16:03.522824+00:00",
+  "updated_at": "",
+  "extra": {}
+}

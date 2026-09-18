@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2022-01231191mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(Invited) Electrodeposition of Dense Lithium and Sodium Battery Cathodes for Solid-State Batteries",
+  "authors": [
+    {
+      "name": "Paul V. Braun",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/ma2022-01231191mtgabs",
+  "url": "https://doi.org/10.1149/ma2022-01231191mtgabs",
+  "published": "2022-7-7",
+  "abstract": "<jats:p>  \tConventional Li-ion batteries are formed using slurry-cast electrodes whose random nature and porosity limits both energy density and rate performance. Slurry-cast electrodes also are generally incompatible with solid-state batteries unless the slurry contains solid electrolyte particles in addition to active material. While such composite electrodes, consisting of a mixture of active material, solid electrolyte, and potentially conductive additives are under active investigation, such designs exhibit power and energy limitations due to the tortuosity of the ion and electron conduction pathways. I will present our work on the molten salt electrodeposition of thick and nearly dense Na and Li-based cathodes on metallic current collectors, including cathodes based on LiCoO<jats:sub>2</jats:sub>, NaCoO<jats:sub>2</jats:sub>, LiMn<jats:sub>2</jats:sub>O<jats:sub>4</jats:sub>, and Al-doped LiCoO<jats:sub>2</jats:sub> which overcomes some of these challenges. The capacities are near-theoretical, and the crystallinities and electrochemical performance are comparable, or in some cases, even better than powders synthesized at much higher temperatures. A very attractive element of the electrodeposition process is control of the crystallographic orientation of the deposited film. For example, the crystallography can be oriented such that the fast electron and ion conduction directions are perpendicular to the substrate. Finally, I will discuss solid-state batteries built these electrodes and how the crystallography of the electrode | solid-electrolyte interface impacts interfacial reactions, rate performance, and cycle life.    </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2022-01231191mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2022-01231191mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2022-01231191mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-18T02:16:04.132349+00:00",
+  "updated_at": "",
+  "extra": {}
+}

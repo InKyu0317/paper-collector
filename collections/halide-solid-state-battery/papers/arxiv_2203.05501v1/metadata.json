@@ -1,0 +1,64 @@
+{
+  "paper_id": "arxiv_2203.05501v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Modeling of porous lithium metal electrodes: turning the Li-dendrite problem around",
+  "authors": [
+    {
+      "name": "Giovanna Bucci",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tushar Swamy",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "W. Craig Carter",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Morad Behandish",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2203.05501v1",
+  "published": "2022-03-10T17:45:01+00:00",
+  "abstract": "The properties of rechargeable lithium-ion batteries are determined by the electrochemical and kinetic properties of their constituent materials as well as by their underlying microstructure. Microstructural design can be leveraged to achieve a leap in performance and durability. Here we investigate a porous electrode structure, as a strategy to increase the surface area, and provide structural stability for Li-metal anodes. The porous architecture consists of a mixed electron/ion conductor that function as a scaffold for lithium metal deposition. A new finite element model was developed to simulate the large topological changes associated with Li plating/stripping. This model is used to predict the current density distribution as a function of material and structural properties. A dimensionless quantity that combines Li-ion conductivity, surface impedance and average pore size is shown to be a good indicator to predict the peak current density. Preventing current localization at the separator reduces the risk of cell shorting. The analyses show that the peak current scales as $(hG)^{1/2}$, where $h$ is the ratio between surface and bulk conductivity and $G$ is the average pore size. Stability analyses suggest that the growth is morphologically stable, and that confining Li-plating into pores can enable high-energy density solid-state batteries. In addition to optimizing porous electrodes design, this finite element method can be extended to studying other Li-battery structures.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2203.05501v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2203.05501v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2203.05501v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-18T02:16:07.810363+00:00",
+  "updated_at": "",
+  "extra": {}
+}
