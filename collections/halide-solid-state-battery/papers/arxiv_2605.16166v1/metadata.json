@@ -1,0 +1,167 @@
+{
+  "paper_id": "arxiv_2605.16166v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Rapid Atmospheric Vapor Deposition of H:In2O3 Transparent Conducting Oxide Thin Films",
+  "authors": [
+    {
+      "name": "Xiaoyu Guo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hae-Jun Seok",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Eilidh L. Quinn",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Matthew K Sharpe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Callum. D. McAleese",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi-Teng Huang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xinjuan Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kexue Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chia-Yu Chang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yongjie Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John O'Sullivan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Katie L. Moore",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Caterina Ducati",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruy Sebastian Bonilla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Han-Ki Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Abderrahime Sekkat",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Robert L. Z. Hoye",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2605.16166v1",
+  "published": "2026-05-15T16:46:00+00:00",
+  "abstract": "Transparent conducting oxides (TCOs) are essential for the optoelectronics industry, but there is a critical gap in cost-effective methods to rapidly deposit low sheet resistance, high transmittance films without damaging delicate materials, including emerging soft semiconductors like metal-halide perovskites. In this work, atmospheric pressure chemical vapor deposition (AP-CVD) is used to synthesise H:In2O3 films with 7.20+/-0.01 Ohm/sq sheet resistance (0.50+/-0.06 mOhm.cm resistivity) and transmittance up to 89% in the near-infrared (NIR), surpassing commercial sputter-deposited indium tin oxide. The growth rate is 40x higher than atomic layer deposition (ALD), and the AP-CVD films are fully processed under atmospheric conditions at only 140 C. Comparison of secondary ion mass spectrometry and time-of-flight elastic recoil detection analysis with changes in carrier concentration indicate that H dopants are introduced from the water oxidant. There is an increase in mobility form 40+/-10 cm2/Vs to 160+/-30 cm2/Vs when changing from O2 to H2O as the oxidant, which is attributed to H dopants passivating oxygen vacancies that act as carrier scattering centers. This work establishes AP-CVD as a promising method for manufacturing high figure-of-merit TCOs in a rapid, scalable and cost-effective manner, using mild growth conditions compatible with thermally-sensitive materials.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2605.16166v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2605.16166v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2605.16166v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:43.098774+00:00",
+  "updated_at": "",
+  "extra": {}
+}

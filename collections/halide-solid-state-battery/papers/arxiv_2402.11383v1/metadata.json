@@ -1,0 +1,47 @@
+{
+  "paper_id": "arxiv_2402.11383v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Machine Learning a Universal Harmonic Interatomic Potential for Predicting Phonons in Crystalline Solids",
+  "authors": [
+    {
+      "name": "Huiju Lee",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yi Xia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.11383v1",
+  "published": "2024-02-17T21:21:21+00:00",
+  "abstract": "Phonons, as quantized vibrational modes in crystalline materials, play a crucial role in determining a wide range of physical properties, such as thermal and electrical conductivity, making their study a cornerstone in materials science. In this study, we present a simple yet effective strategy for deep learning harmonic phonons in crystalline solids by leveraging existing phonon databases and state-of-the-art machine learning techniques. The key of our method lies in transforming existing phonon datasets, primarily represented in interatomic force constants, into a force-displacement representation suitable for training machine learning universal interatomic potentials. By applying our approach to one of the largest phonon databases publicly available, we demonstrate that the resultant machine learning universal harmonic interatomic potential not only accurately predicts full harmonic phonon spectra but also calculates key thermodynamic properties with remarkable precision. Furthermore, the restriction to a harmonic potential energy surface in our model provides a way of assessing uncertainty in machine learning predictions of vibrational properties, essential for guiding further improvements and applications in materials science.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.11383v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.11383v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.11383v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:39.406070+00:00",
+  "updated_at": "",
+  "extra": {}
+}

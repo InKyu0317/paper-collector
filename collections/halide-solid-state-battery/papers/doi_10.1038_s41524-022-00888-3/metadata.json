@@ -1,0 +1,81 @@
+{
+  "paper_id": "doi_10.1038_s41524-022-00888-3",
+  "collection": "halide-solid-state-battery",
+  "title": "Predicting Solid State Material Platforms for Quantum Technologies",
+  "authors": [
+    {
+      "name": "Oliver Lerstøl Hebnes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Marianne Etzelmüller Bathen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Øyvind Sigmundson Schøyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastian G. Winther Larsen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Lasse Vines",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Morten Hjorth-Jensen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1038/s41524-022-00888-3",
+  "url": "http://arxiv.org/abs/2203.16203v1",
+  "published": "2022-03-30T10:52:41+00:00",
+  "abstract": "Semiconductor materials provide a compelling platform for quantum technologies (QT), and the properties of a vast amount of materials can be found in databases containing information from both experimental and theoretical explorations. However, searching these databases to find promising candidate materials for quantum technology applications is a major challenge. Therefore, we have developed a framework for the automated discovery of semiconductor host platforms for QT using material informatics and machine learning methods, resulting in a dataset consisting of over $25.000$ materials and nearly $5000$ physics-informed features. Three approaches were devised, named the Ferrenti, extended Ferrenti and the empirical approach, to label data for the supervised machine learning (ML) methods logistic regression, decision trees, random forests and gradient boosting. We find that of the three, the empirical approach relying exclusively on findings from the literature predicted substantially fewer candidates than the other two approaches with a clear distinction between suitable and unsuitable candidates when comparing the two largest eigenvalues in the covariance matrix. In contrast to expectations from the literature and that found for the Ferrenti and extended Ferrenti approaches focusing on band gap and ionic character, the ML methods from the empirical approach highlighted features related to symmetry and crystal structure, including bond length, orientation and radial distribution, as influential when predicting a material as suitable for QT. All three approaches and all four ML methods agreed on a subset of $47$ eligible candidates %(to a probability of $>50 \\ \\%$) of $8$ elemental, $29$ binary, and $10$ tertiary compounds, and provide a basis for further material explorations towards quantum technology.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "physics.comp-ph",
+    "physics.data-an"
+  ],
+  "source": "arxiv",
+  "source_id": "2203.16203v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1038_s41524-022-00888-3/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2203.16203v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:26.085125+00:00",
+  "updated_at": "",
+  "extra": {}
+}

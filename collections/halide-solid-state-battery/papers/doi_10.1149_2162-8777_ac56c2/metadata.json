@@ -1,0 +1,85 @@
+{
+  "paper_id": "doi_10.1149_2162-8777_ac56c2",
+  "collection": "halide-solid-state-battery",
+  "title": "Strain-Driven Optical, Electronic, and Mechanical Properties of Inorganic Halide Perovskite CsGeBr\n                    <sub>3</sub>",
+  "authors": [
+    {
+      "name": "Md. Rasidul Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-9916-793X",
+      "affiliation": ""
+    },
+    {
+      "name": "Md. Rayid Hasan Mojumder",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Raza Moshwan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "A. S. M. Jannatul Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "M. A. Islam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-6857-4727",
+      "affiliation": ""
+    },
+    {
+      "name": "Md. Shizer Rahman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Md. Humaun Kabir",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1149/2162-8777/ac56c2",
+  "url": "https://doi.org/10.1149/2162-8777/ac56c2",
+  "published": "2022-3-1",
+  "abstract": "<jats:p>\n                    Of late, inorganic perovskite material, especially the lead-free CsGeBr\n                    <jats:sub>3,</jats:sub>\n                    has gained considerable interest in the green photovoltaic industry due to its outstanding optoelectronic, thermal, and elastic properties. This work systematically investigated the strain-driven optical, electronic, and mechanical properties of CsGeBr\n                    <jats:sub>3</jats:sub>\n                    through the first-principles density functional theory. The unstrained planar CsGeBr\n                    <jats:sub>3</jats:sub>\n                    compound demonstrates a direct bandgap of 0.686 at its R-point. However, incorporating external biaxial tensile (compressive) strain can be tuned the bandgap lowering (increasing) to this perovskite. Moreover, due to the increase of tensile (compressive) strain, a red-shift (blue-shift) behavior of the absorption-coefficient and dielectric function is found in the photon energy spectrum. Strain-induced mechanical properties also reveal that CsGeBr\n                    <jats:sub>3</jats:sub>\n                    perovskites are mechanically stable and highly malleable material and can be made suitable for photovoltaic applications. The strain-dependent optoelectronic and mechanical behaviors of CsGeBr\n                    <jats:sub>3</jats:sub>\n                    explored here would benefit its future applications in optoelectronics and photovoltaic cells design.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/2162-8777/ac56c2",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_2162-8777_ac56c2/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/2162-8777/ac56c2/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 91,
+  "journal": "ECS Journal of Solid State Science and Technology",
+  "publisher": "",
+  "issn": "2162-8769",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:34.262171+00:00",
+  "updated_at": "",
+  "extra": {}
+}

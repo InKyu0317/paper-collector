@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2308.06437v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Modulating the electrochemical intercalation of graphene interfaces with $α$-RuCl$_3$ as a solid-state electron acceptor",
+  "authors": [
+    {
+      "name": "Jonathon Nessralla",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel T. Larson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Takashi Taniguchi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Kenji Watanabe",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Efthimios Kaxiras",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "D. Kwabena Bediako",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2308.06437v1",
+  "published": "2023-08-12T02:16:58+00:00",
+  "abstract": "Intercalation reactions modify the charge density in van der Waals (vdW) materials through coupled electronic-ionic charge accumulation, and are susceptible to modulation by interlayer hybridization in vdW heterostructures. Here, we demonstrate that charge transfer between graphene and $α$-RuCl$_3$, which dopes the graphene positively, greatly favors the intercalation of lithium ions into graphene-based vdW heterostructures. We systematically tune this effect on Li$^+$ ion intercalation, modulating the intercalation potential, by using varying thicknesses of hexagonal boron nitride (hBN) as spacer layers between graphene and $α$-RuCl$_3$. Confocal Raman spectroscopy and electronic transport measurements are used to monitor electrochemical intercalation and density functional theory computations help quantify charge transfer to both $α$-RuCl$_3$ and graphene upon Li intercalation. This work demonstrates a versatile approach for systematically modulating the electrochemical intercalation behavior of two-dimensional layers akin to electron donating/withdrawing substituent effects used to tune molecular redox potentials.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2308.06437v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2308.06437v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2308.06437v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:33.052658+00:00",
+  "updated_at": "",
+  "extra": {}
+}

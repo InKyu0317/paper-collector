@@ -1,0 +1,63 @@
+{
+  "paper_id": "arxiv_2402.12671v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Phonon-lithium ion interactions: A case study of LiM(SeO3)2",
+  "authors": [
+    {
+      "name": "Runxin Ouyang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yu Yang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chaohong Guan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hong Zhu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2402.12671v1",
+  "published": "2024-02-20T02:41:23+00:00",
+  "abstract": "Li ion diffusion is fundamentally a thermally activated ion hopping process. Recently, soft lattice, anharmonic phonon and paddlewheel mechanism have been proposed to potentially benefit the ion transport, while the understanding of vibrational couplings of mobile ion and anions is still limited but essential. Herein, we access the ionic conductivity, the stability and the lattice dynamics in LiM(SeO3)2 (M =Al, Ga, In, Sc, Y, and La) with two types of oxygen anions within LiO4 polyhedron, namely edge-shared and corner-shared, the prototype of which, LiGa(SeO3)2, has been experimentally synthesized. We studied in detail the anharmonic and harmonic phonon interactions, as well as couplings between vibrations of edge-bonded or corner-bonded anions in Li polyanions and Li ion diffusion. As M changing from Sc to La, anharmonic phonons increase alongside reduced activation energy for Li diffusion. Phonon modes involving edge-bonded oxygen anions contribute more to Li migration than corner-bonded oxygen anions, owing to greater atomic interactions between Li ions and edge-bonded anions. Thus, rather than the overall lattice softness, attentions shall be paid to reduce the frequency of the critical phonons contributing to Li ion diffusions as well as to increase the anharmonicity, for the design of Li ion superionic conductors for all-solid-state-batteries.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2402.12671v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2402.12671v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2402.12671v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:15.880194+00:00",
+  "updated_at": "",
+  "extra": {}
+}

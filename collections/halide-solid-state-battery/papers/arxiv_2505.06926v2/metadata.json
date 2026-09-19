@@ -1,0 +1,71 @@
+{
+  "paper_id": "arxiv_2505.06926v2",
+  "collection": "halide-solid-state-battery",
+  "title": "Strong Crystalline Thermal Insulation Induced by Extended Antibonding States",
+  "authors": [
+    {
+      "name": "Ruihuan Cheng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Chen Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Niuchang Ouyang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xingchen Shen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yue Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2505.06926v2",
+  "published": "2025-05-11T10:02:25+00:00",
+  "abstract": "Crystalline solids with extreme insulation often exhibit a plateau or even an upward-sloping tail in thermal conductivity above room temperature. Herein, we synthesized a crystalline material AgTl$_2$I$_3$ with an exceptionally low thermal conductivity of 0.21 $\\rm W m^{-1} K^{-1}$ at 300 K, which continues to decrease to 0.17 $\\rm W m^{-1} K^{-1}$ at 523 K. We adopted an integrated experimental and theoretical approach to reveal the lattice dynamics and thermal transport properties of AgTl$_2$I$_3$. Our results suggest that the Ag-I polyhedron enables extended antibonding states to weaken the chemical bonding, fostering strong lattice anharmonicity driven by the rattling vibrations of Ag atoms and causing lattice softening. Experimental measurements further corroborate the large atomic thermal motions and low sound velocity. These features impede particle-like phonon propagation, and significantly diminish the contribution of wave-like phonon tunneling. This work highlights a strategy for designing thermal insulating materials by leveraging crystal structure and chemical bonding, providing a pathway for advancing the development of thermal insulators.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2505.06926v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2505.06926v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2505.06926v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:48.232744+00:00",
+  "updated_at": "",
+  "extra": {}
+}

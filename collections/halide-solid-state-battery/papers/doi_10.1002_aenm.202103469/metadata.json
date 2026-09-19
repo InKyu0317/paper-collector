@@ -1,0 +1,71 @@
+{
+  "paper_id": "doi_10.1002_aenm.202103469",
+  "collection": "halide-solid-state-battery",
+  "title": "Eliminating solvents and polymers in high-performance Si anodes by gas-phase assembly of nanowire fabrics",
+  "authors": [
+    {
+      "name": "Moumita Rana",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Afshin Pendashteh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Richard Schäufele",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Joaquim Gispert",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juan J. Vilatela",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1002/aenm.202103469",
+  "url": "http://arxiv.org/abs/2206.14577v1",
+  "published": "2022-06-23T06:56:08+00:00",
+  "abstract": "Developing sustainable battery electrode manufacturing methods is particularly pressing for alloying-type active materials, such as silicon, which often require additional energy-intensive and solvent-based processing to reinforce them with a buffer matrix. This work introduces a new method to fabricate Si anodes as continuous, tough fabrics of arbitrary thickness, without processing solvents, polymeric binders, carbon additive, or any reinforcing matrix. The anodes consist of percolated networks of long Si nanowires directly assembled from suspension in the gas phase, where they are grown via floating catalyst chemical vapour deposition. A high Si content above 75 wt.% in a textile-like network structure leads to high-performance electrode properties. Their gravimetric capacity is 2330 mAh g-1 at C/20 for all thicknesses produced, reaching areal capacities above 9.3 mAh cm-2 at C/20 and 3.4 mAh cm-2 at 1C (with 3.4 mg cm-2). Analysis of rating data gives a high transport coefficient (6.6x10-12 m2 s-1) due to a high out-of-plane electrical conductivity (0.6 S m-1) and short solid-state diffusion length. Si remains a percolated network of elongated elements after extended cycling, preserving electrical conductivity and leading to a capacity retention of 80% after 100 cycles at C/5 and ~60% after 500 cycles at C/2. When integrated with NMC111 cathode, a full cell gravimetric energy density of 480 Wh kg-1 is demonstrated.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2206.14577v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1002_aenm.202103469/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2206.14577v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:51.345799+00:00",
+  "updated_at": "",
+  "extra": {}
+}

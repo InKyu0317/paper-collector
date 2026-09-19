@@ -1,0 +1,97 @@
+{
+  "paper_id": "arxiv_2409.06756v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Beyond designer's knowledge: Generating materials design hypotheses via large language models",
+  "authors": [
+    {
+      "name": "Quanliang Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Maciej P. Polak",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "So Yeon Kim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "MD Al Amin Shuvo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hrishikesh Shridhar Deodhar",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jeongsoo Han",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Dane Morgan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Hyunseok Oh",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2409.06756v1",
+  "published": "2024-09-10T16:28:50+00:00",
+  "abstract": "Materials design often relies on human-generated hypotheses, a process inherently limited by cognitive constraints such as knowledge gaps and limited ability to integrate and extract knowledge implications, particularly when multidisciplinary expertise is required. This work demonstrates that large language models (LLMs), coupled with prompt engineering, can effectively generate non-trivial materials hypotheses by integrating scientific principles from diverse sources without explicit design guidance by human experts. These include design ideas for high-entropy alloys with superior cryogenic properties and halide solid electrolytes with enhanced ionic conductivity and formability. These design ideas have been experimentally validated in high-impact publications in 2023 not available in the LLM training data, demonstrating the LLM's ability to generate highly valuable and realizable innovative ideas not established in the literature. Our approach primarily leverages materials system charts encoding processing-structure-property relationships, enabling more effective data integration by condensing key information from numerous papers, and evaluation and categorization of numerous hypotheses for human cognition, both through the LLM. This LLM-driven approach opens the door to new avenues of artificial intelligence-driven materials discovery by accelerating design, democratizing innovation, and expanding capabilities beyond the designer's direct knowledge.",
+  "keywords": [
+    "cs.LG",
+    "cond-mat.mtrl-sci",
+    "cs.AI"
+  ],
+  "source": "arxiv",
+  "source_id": "2409.06756v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2409.06756v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2409.06756v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:29.227763+00:00",
+  "updated_at": "",
+  "extra": {}
+}

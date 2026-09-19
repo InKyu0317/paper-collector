@@ -1,0 +1,87 @@
+{
+  "paper_id": "doi_10.1039_d4ta05713a",
+  "collection": "halide-solid-state-battery",
+  "title": "Formation of Lattice Vacancies and their Effects on Lithium-ion Transport in LiBO2 Crystals: Comparative Ab Initio Studies",
+  "authors": [
+    {
+      "name": "Carson Ziemke",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ha M. Nguyen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Sebastian Amaya-Roncancio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "John Gahl",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yangchuan Xing",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Thomas W. Heitmann",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Wexler",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1039/d4ta05713a",
+  "url": "http://arxiv.org/abs/2410.06284v1",
+  "published": "2024-10-08T18:31:34+00:00",
+  "abstract": "The monoclinic (m-LBO) and tetragonal (t-LBO) polymorphs of LiBO2 have significant potential for applications such as solid electrolytes and electrode coatings of lithium-ion batteries. While comparative experimental studies of electron and lithium transport in these polymorphs exist, the role of lattice vacancies on lithium transport remains unclear. In this study, we employed density functional theory (DFT) to investigate the impact of boron and oxygen vacancies on the lattice structure, electronic properties, and lithium migration energy barrier (Em) in m-LBO and t-LBO. Our DFT results reveal that boron and oxygen vacancies affect lithium transport in both the polymorphs, but in different ways. While oxygen vacancies lower Em in m-LBO, they increases Em in t-LBO. In contrast, boron vacancies significantly reduce Em in both m-LBO and t-LBO, leading to enhanced diffusivity and ionic conductivity in both polymorphs. This improvement suggests a potential strategy for improving ionic conductivity in LiBO2 through boron vacancy generation.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.06284v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1039_d4ta05713a/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.06284v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-19T02:17:22.872378+00:00",
+  "updated_at": "",
+  "extra": {}
+}
