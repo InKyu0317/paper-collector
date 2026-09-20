@@ -1,0 +1,151 @@
+{
+  "paper_id": "arxiv_2210.12724v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Atomically localized ingredient-dependent interface phonon in heterogeneous solids",
+  "authors": [
+    {
+      "name": "Mei Wu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruochen Shi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ruishi Qi",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuehui Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Feng",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bingyao Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jingyuan Yan",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Xiaomei Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhetong Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tao Wang",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Tongbo Wei",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Zhiqiang Liu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jinlong Du",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ji Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Peng Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2210.12724v1",
+  "published": "2022-10-23T13:27:30+00:00",
+  "abstract": "Phonons are the primary heat carriers in non-metallic solids. In compositionally heterogeneous materials, the thermal properties are believed to be mainly governed by the disrupted phonon transport due to mass disorder and strain fluctuations, while the effects of compositional fluctuation induced local phonon states are usually ignored. Here, by scanning transmission electron microscopy electron energy loss spectroscopy and sophisticated calculations, we identify the vibrational properties of ingredient-dependent interface phonon modes in AlxGa1-xN and quantify their various contributions to the local interface thermal conductance. We demonstrate that atomic-scale compositional fluctuation has significant influence on the vibrational thermodynamic properties, highly affecting the mode ratio and vibrational amplitude of interface phonon modes and subsequently redistributing their modal contribution to the ITC. Our work provides fundamental insights into understanding of local phonon-boundary interactions in nanoscale inhomogeneities, which reveal new opportunities for optimization of thermal properties via engineering ingredient distribution.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2210.12724v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2210.12724v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2210.12724v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:29.189334+00:00",
+  "updated_at": "",
+  "extra": {}
+}

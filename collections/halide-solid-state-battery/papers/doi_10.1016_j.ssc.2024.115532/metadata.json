@@ -1,0 +1,93 @@
+{
+  "paper_id": "doi_10.1016_j.ssc.2024.115532",
+  "collection": "halide-solid-state-battery",
+  "title": "Ab initio predictions of pressure-dependent structural, elastic, and thermodynamic properties of GaMF3 (M = Ca, and Sr) halide perovskites",
+  "authors": [
+    {
+      "name": "Abdelhak Bedjaoui",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0009-0003-1094-8735",
+      "affiliation": ""
+    },
+    {
+      "name": "Djamel Allali",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Missoum Radjai",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Abdelmadjid Bouhemadou",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Saber Saad Essaoud",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Saad Bin-Omran",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Rabah Khenata",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": ""
+    },
+    {
+      "name": "Yarub Al-Douri",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "https://orcid.org/0000-0002-5175-6372",
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1016/j.ssc.2024.115532",
+  "url": "https://doi.org/10.1016/j.ssc.2024.115532",
+  "published": "2024-9",
+  "abstract": "",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1016/j.ssc.2024.115532",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.ssc.2024.115532/paper.pdf",
+  "pdf_url": null,
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 23,
+  "journal": "Solid State Communications",
+  "publisher": "",
+  "issn": "0038-1098",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:26.134694+00:00",
+  "updated_at": "",
+  "extra": {}
+}

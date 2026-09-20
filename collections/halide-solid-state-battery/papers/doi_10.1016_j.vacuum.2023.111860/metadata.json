@@ -1,0 +1,137 @@
+{
+  "paper_id": "doi_10.1016_j.vacuum.2023.111860",
+  "collection": "halide-solid-state-battery",
+  "title": "Energy deposition and formation of nanostructures in the interaction of highly charged xenon ions with gold nanolayers",
+  "authors": [
+    {
+      "name": "I. Stabrawa",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "D. Banaś",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "A. Kubala-Kukuś",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "Ł. Jabłoński",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": " Jagodziński",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "D. Sobota",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "K. Szary",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "M. Pajek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Physics, Jan Kochanowski University, Uniwersytecka 7, 25-406 Kielce, Poland"
+    },
+    {
+      "name": "K. Skrzypiec",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Departament of Chemistry, Maria Curie-Skłodowska University, Plac M. Curie-Skłodowskiej 3, 20-031 Lublin, Poland"
+    },
+    {
+      "name": "E. Mendyk",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Departament of Chemistry, Maria Curie-Skłodowska University, Plac M. Curie-Skłodowskiej 3, 20-031 Lublin, Poland"
+    },
+    {
+      "name": "M. Borysiewicz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Electron Technology, aleja Lotników 32/46, 02-668 Warszawa, Poland"
+    },
+    {
+      "name": "M. D. Majkić",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Faculty of Technical Sciences, University of Priština in Kosovska Mitrovica, Knjaza Miloša 7, 38220 Kosovska Mitrovica, Serbia"
+    },
+    {
+      "name": "N. N. Nedeljković",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Faculty of Physics, University of Belgrade, P.O. Box 368, 11001 Belgrade, Serbia"
+    }
+  ],
+  "doi": "10.1016/j.vacuum.2023.111860",
+  "url": "http://arxiv.org/abs/2301.04010v1",
+  "published": "2023-01-10T14:55:02+00:00",
+  "abstract": "The effect of the deposition of kinetic energy and neutralization energy of slow highly charged xenon ions on the process of the nanostructures creation at the surface of gold nanolayers is investigated. The nanolayers of thickness of 100 nm were prepared by e-beam evaporation of gold on crystalline silicon Si(100) substrate. The samples were irradiated at the Kielce EBIS facility of the Jan Kochanowski University (Kielce, Poland), under high vacuum conditions. The irradiations were performed for constant kinetic energy 280 keV and different ions charge states (Xe$^{q+}$, q = 25, 30, 35, 36 and 40) and for constant charge state Xe$^{35+}$ and different kinetic energies: 280 keV, 360 keV, 420 keV and 480 keV. The fluence of the ions was on the level of 10$^{10}$ ions/cm$^2$. Before and after irradiation the nanolayer surfaces were investigated using the atomic force microscope. As the result, well pronounced modifications of the nanolayer surfaces in the form of craters have been observed. A systematic analysis of the crater sizes (diameter on the surface and depth) allowed us to determine the influence of the deposited kinetic and the neutralization energy on the size of the obtained nanostructures. The results are theoretically interpreted within the micro-staircase model based on the quantum two-state vector model of the ionic Rydberg states population. The charge dependent ion-atom interaction potential inside the solid is used for the calculation of the nuclear stopping power. According to the model the formation of the nanostructures is governed by the processes of the ionic neutralization in front of the surface and the kinetic energy loss inside the solid.",
+  "keywords": [
+    "physics.atom-ph",
+    "cond-mat.mtrl-sci",
+    "physics.app-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2301.04010v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1016_j.vacuum.2023.111860/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2301.04010v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:19.930524+00:00",
+  "updated_at": "",
+  "extra": {}
+}

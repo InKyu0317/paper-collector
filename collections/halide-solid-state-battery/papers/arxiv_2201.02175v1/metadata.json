@@ -1,0 +1,113 @@
+{
+  "paper_id": "arxiv_2201.02175v1",
+  "collection": "halide-solid-state-battery",
+  "title": "The dynamics of internal electric field screening in hybrid perovskite solar cells probed using electroabsorption",
+  "authors": [
+    {
+      "name": "Davide Moia",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Physics, Imperial College London, London, UK, Max Planck Institute for Solid State Research, Stuttgart, Germany"
+    },
+    {
+      "name": "Ilario Gelmetti",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Institute of Chemical Research of Catalonia"
+    },
+    {
+      "name": "Philip Calado",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Physics, Imperial College London, London, UK"
+    },
+    {
+      "name": "Yinghong Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Chemistry and Center for NanoScience"
+    },
+    {
+      "name": "Xiaoe Li",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Chemistry, Imperial College London, London, UK"
+    },
+    {
+      "name": "Pablo Docampo",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Chemistry and Center for NanoScience, Department of Chemistry, University of Glasgow, Glasgow, UK"
+    },
+    {
+      "name": "John de Mello",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Chemistry, Imperial College London, London, UK"
+    },
+    {
+      "name": "Joachim Maier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Max Planck Institute for Solid State Research, Stuttgart, Germany"
+    },
+    {
+      "name": "Jenny Nelson",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Physics, Imperial College London, London, UK"
+    },
+    {
+      "name": "Piers R. F. Barnes",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": "Department of Physics, Imperial College London, London, UK"
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2201.02175v1",
+  "published": "2022-01-06T18:41:30+00:00",
+  "abstract": "Electric fields arising from the distribution of charge in metal halide perovskite solar cells are critical for understanding the many weird and wonderful optoelectronic properties displayed by these devices. Mobile ionic defects are thought to accumulate at interfaces to screen electric fields within the bulk of the perovskite semiconductor on application of external bias, but tools are needed to directly probe the dynamics of the electric field in this process. Here we show that electroabsorption measurements allow the electric field within the active layer to be tracked as a function of frequency or time. The magnitude of the electroabsorption signal, corresponding to the strength of the electric field in the perovskite layer, falls off for externally applied low frequency voltages or at long times following voltage steps. Our observations are consistent with drift-diffusion simulations, impedance spectroscopy, and transient photocurrent measurements. They indicate charge screening/redistribution on time-scales ranging from 10 ms to 100 s depending on the device interlayer material, perovskite composition, dominant charged defect, and illumination conditions. The method can be performed on typical solar cell structures and has potential to become a routine characterization tool for optimizing hybrid perovskite devices.",
+  "keywords": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci",
+    "physics.chem-ph"
+  ],
+  "source": "arxiv",
+  "source_id": "2201.02175v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2201.02175v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2201.02175v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:16.877188+00:00",
+  "updated_at": "",
+  "extra": {}
+}

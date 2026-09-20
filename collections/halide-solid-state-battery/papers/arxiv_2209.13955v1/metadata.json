@@ -1,0 +1,127 @@
+{
+  "paper_id": "arxiv_2209.13955v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Dissolution and Recrystallization Behavior of Li3PS4 in Different Organic Solvents",
+  "authors": [
+    {
+      "name": "Kerstin Wissel",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Luise M. Riegger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Schneider",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Aamir I. Waidha",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Theodosios Famprikis",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Yuji Ikeda",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Blazej Grabowski",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Robert E. Dinnebier",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Bettina V. Lotsch",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Juergen Janek",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Wolfgang Ensinger",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Oliver Clemens",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2209.13955v1",
+  "published": "2022-09-28T09:38:12+00:00",
+  "abstract": "Solid state batteries can be built based on thiophosphate electrolytes such as beta-Li3PS4. For the preparation of these electrolytes, various solvent-based routes have been reported. For recycling of end-of-life solid state batteries based on such thiophosphates, we consider the development of dissolution and recrystallization strategies for the recovery of the model compound beta-Li3PS4. We show that recrystallization can only be performed in polar, slightly protic solvents such as N-methylformamide (NMF). The recrystallization is comprehensively studied, showing that it proceeds via an intermediate phase with composition Li3PS4*2NMF, which is structurally characterized. This phase has a high resistivity for the transport of lithium ions and must be removed in order to obtain a recrystallized product with a conductivity similar to the pristine material. Moreover, the recrystallization from solution results in an increase of the amorphous phase fraction next to crystalline beta-Li3PS4, which results in a decrease of the activation energy to 0.2 eV compared to 0.38 eV for the pristine phase.",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2209.13955v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2209.13955v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2209.13955v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:32.285194+00:00",
+  "updated_at": "",
+  "extra": {}
+}

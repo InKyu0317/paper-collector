@@ -1,0 +1,80 @@
+{
+  "paper_id": "arxiv_2410.13820v2",
+  "collection": "halide-solid-state-battery",
+  "title": "A foundation machine learning potential with polarizable long-range interactions for materials modelling",
+  "authors": [
+    {
+      "name": "Rongzhi Gao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "ChiYung Yam",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Jianjun Mao",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Shuguang Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "GuanHua Chen",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Ziyang Hu",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2410.13820v2",
+  "published": "2024-10-17T17:47:39+00:00",
+  "abstract": "Long-range interactions are essential determinants of chemical system behaviour across diverse environments. We present a foundation framework that integrates explicit polarizable long-range physics with an equivariant graph neural network potential. It employs a physically motivated polarizable charge equilibration scheme that directly optimizes electrostatic interaction energies rather than partial charges. The foundation model, trained across the periodic table up to Pu, demonstrates strong performance across key materials modelling challenges. It effectively captures long-range interactions that are challenging for traditional message-passing mechanisms and accurately reproduces polarization effects under external electric fields. We have applied the model to mechanical properties, ionic diffusivity in solid-state electrolytes, ferroelectric phase transitions, and reactive dynamics at electrode-electrolyte interfaces, highlighting the model's capacity to balance accuracy and computational efficiency. Furthermore, we show that as a foundation model, it can be efficiently finetuned to achieve high-level accuracy for specific challenging systems.",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "source": "arxiv",
+  "source_id": "2410.13820v2",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2410.13820v2/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2410.13820v2",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:26.134348+00:00",
+  "updated_at": "",
+  "extra": {}
+}

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi_10.1149_ma2026-015617mtgabs",
+  "collection": "halide-solid-state-battery",
+  "title": "(\n                    <i>Invited</i>\n                    ) Transformative Solid-State Battery Technology, from Concept to Commercialization",
+  "authors": [
+    {
+      "name": "Eric D Wachsman",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": "",
+      "affiliation": "University of Maryland"
+    }
+  ],
+  "doi": "10.1149/ma2026-015617mtgabs",
+  "url": "https://doi.org/10.1149/ma2026-015617mtgabs",
+  "published": "2026-7-7",
+  "abstract": "<jats:p>\n                    Solid-state batteries are a transformational and intrinsically safe energy storage solution. However, progress has been limited by high solid-solid interfacial impedance and numerous reports of Li-dendrites. By modifying the electrolyte composition and interface in a rationally designed 3D architecture we have been able to overcome these limitations achieving both high energy density and cycling rates of 100 mA/cm\n                    <jats:sup>2</jats:sup>\n                    at room temperature with no applied pressure. The science and engineering of this technology will be described as well as the path to commercialization and lessons learned in that endeavor.\n                  </jats:p>",
+  "keywords": [],
+  "source": "crossref",
+  "source_id": "10.1149/ma2026-015617mtgabs",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1149_ma2026-015617mtgabs/paper.pdf",
+  "pdf_url": "https://iopscience.iop.org/article/10.1149/MA2026-015617mtgabs/pdf",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "",
+  "issn": "2151-2043",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:33.968849+00:00",
+  "updated_at": "",
+  "extra": {}
+}

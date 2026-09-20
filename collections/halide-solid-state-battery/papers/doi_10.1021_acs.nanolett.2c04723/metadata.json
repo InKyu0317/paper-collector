@@ -1,0 +1,64 @@
+{
+  "paper_id": "doi_10.1021_acs.nanolett.2c04723",
+  "collection": "halide-solid-state-battery",
+  "title": "Mixed-Stacking Few-Layer Graphene as an Elemental Weak Ferroelectric Material",
+  "authors": [
+    {
+      "name": "Aitor Garcia-Ruiz",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladimir Enaldiev",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Andrew McEllistrim",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Vladimir I. Fal'ko",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": "10.1021/acs.nanolett.2c04723",
+  "url": "http://arxiv.org/abs/2305.10896v1",
+  "published": "2023-05-18T11:49:17+00:00",
+  "abstract": "Ferroelectricity (Valasek, J. Phys. Rev. 1921, 17, 475) - a spontaneous formation of electric polarisation - is a solid state phenomenon, usually, associated with ionic compounds or complex materials. Here we show that, atypically for elemental solids, few-layer graphenes can host an equilibrium out-of-plane electric polarisation, switchable by sliding the constituent graphene sheets. The systems hosting such effect include mixed-stacking tetralayers and thicker (5-9 layers) rhombohedral graphitic films with a twin boundary in the middle of a flake. The predicted electric polarisation would also appear in marginally (small-angle) twisted few-layer flakes, where lattice reconstruction would give rise to networks of mesoscale domains with alternating value and sign of out-of-plane polarisation.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.mes-hall"
+  ],
+  "source": "arxiv",
+  "source_id": "2305.10896v1",
+  "pdf_path": "halide-solid-state-battery/papers/doi_10.1021_acs.nanolett.2c04723/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2305.10896v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:13.781142+00:00",
+  "updated_at": "",
+  "extra": {}
+}

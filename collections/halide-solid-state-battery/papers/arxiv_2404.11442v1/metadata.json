@@ -1,0 +1,104 @@
+{
+  "paper_id": "arxiv_2404.11442v1",
+  "collection": "halide-solid-state-battery",
+  "title": "Structural properties of amorphous Na$_3$OCl electrolyte by first-principles and machine learning molecular dynamics",
+  "authors": [
+    {
+      "name": "T. -L. Pham",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Guerboub",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "S. D. Wansi Wendj",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "A. Bouzid",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "C. Tugène",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "M. Boero",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "C. Massobrio",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "Y. -H. Shin",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    },
+    {
+      "name": "G. Ori",
+      "given_name": "",
+      "family_name": "",
+      "full_name": "",
+      "orcid": null,
+      "affiliation": ""
+    }
+  ],
+  "doi": null,
+  "url": "http://arxiv.org/abs/2404.11442v1",
+  "published": "2024-04-17T14:51:46+00:00",
+  "abstract": "Solid-state electrolytes mark a significant leap forward in the field of electrochemical energy storage, offering improved safety and efficiency compared to conventional liquid electrolytes. Among these, antiperovskite electrolytes, particularly those based on Li and Na, have emerged as promising candidates due to their superior ionic conductivity and straightforward synthesis processes. This study focuses on the amorphous phase of antiperovskite Na$_3$OCl, assessing its structural properties through a combination of first-principles molecular dynamics (FPMD) and machine learning interatomic potential (MLIP) simulations. Our comprehensive analysis spans models ranging from 135 to 3645 atoms, allowing for a detailed examination of X-ray and neutron structure factors, total and partial pair correlation functions, coordination numbers, and structural unit distributions. We demonstrate the minimal, albeit partially present, size effects on these structural features and validate the accuracy of the MLIP model in reproducing the intricate details of the amorphous Na$_3$OCl structure described at the FPMD level.",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "source": "arxiv",
+  "source_id": "2404.11442v1",
+  "pdf_path": "halide-solid-state-battery/papers/arxiv_2404.11442v1/paper.pdf",
+  "pdf_url": "https://arxiv.org/pdf/2404.11442v1",
+  "pdf_accessible": false,
+  "links": [],
+  "license_info": "",
+  "is_open_access": false,
+  "oa_status": "",
+  "citation_count": 0,
+  "journal": "",
+  "publisher": "",
+  "issn": "",
+  "quartile": "",
+  "added_at": "2026-09-20T02:18:22.996296+00:00",
+  "updated_at": "",
+  "extra": {}
+}
